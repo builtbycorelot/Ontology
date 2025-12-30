@@ -1,0 +1,21 @@
+[submodule "sources/naics"]
+	path = sources/naics
+	url = https://github.com/leereilly/csi.git
+[submodule "sources/uniclass"]
+	path = sources/uniclass
+	url = https://github.com/buildig/uniclass-2015.git
+[submodule "sources/schemaorg"]
+	path = sources/schemaorg
+	url = https://github.com/schemaorg/schemaorg.git
+[submodule "sources/peppol"]
+	path = sources/peppol
+	url = https://github.com/OpenPEPPOL/peppol-bis-invoice-3.git
+[submodule "sources/buildingsmart"]
+	path = sources/buildingsmart
+	url = https://github.com/buildingSMART/IFC4.3.x-development.git
+[submodule "sources/ubl"]
+	path = sources/ubl
+	url = https://github.com/oasis-tcs/ubl.git
+[submodule "sources/dcmi"]
+	path = sources/dcmi
+	url = https://github.com/dcmi/usage.git
