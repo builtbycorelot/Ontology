@@ -1,0 +1,66 @@
+ubl_document,ubl_uri,corelot_type,relationship,target_type,cardinality,confidence,notes
+# UBL Document Types → CORELOT Ontology Mappings
+# Enables accounting/contract document integration
+# Sources: OASIS UBL 2.3 (Royalty-free), CORELOT Ontology
+# Methodology: docs/CROSSWALK_METHODOLOGY.md
+#
+# UBL Namespace: urn:oasis:names:specification:ubl:schema:xsd:
+# Reference: http://docs.oasis-open.org/ubl/os-UBL-2.3/
+#
+# Relationship types: contains (→), references (↔), classifiedBy (←)
+# Confidence: A=Definitive, B=Strong, C=Moderate, D=Weak
+#
+# ===== PROCUREMENT DOCUMENTS =====
+#
+Order,urn:oasis:names:specification:ubl:schema:xsd:Order-2,corelot:Contract,references,corelot:Contract,N:1,A,Order references contract
+Order,urn:oasis:names:specification:ubl:schema:xsd:Order-2,corelot:Project,references,corelot:Project,N:1,A,Order references project
+OrderLine,urn:oasis:names:specification:ubl:schema:xsd:OrderLine-2,uc:WorkResult,classifiedBy,uc:Ss,N:1,B,Line items classified by work type
+#
+# ===== INVOICE DOCUMENTS =====
+#
+Invoice,urn:oasis:names:specification:ubl:schema:xsd:Invoice-2,corelot:Contract,references,corelot:Contract,N:1,A,Invoice references contract
+Invoice,urn:oasis:names:specification:ubl:schema:xsd:Invoice-2,corelot:Project,references,corelot:Project,N:1,A,Invoice references project
+Invoice,urn:oasis:names:specification:ubl:schema:xsd:Invoice-2,schema:Organization,issuedBy,schema:Organization,N:1,A,Invoice issued by party
+InvoiceLine,urn:oasis:names:specification:ubl:schema:xsd:InvoiceLine-2,uc:WorkResult,classifiedBy,uc:Ss,N:1,A,Line classified by work result
+InvoiceLine,urn:oasis:names:specification:ubl:schema:xsd:InvoiceLine-2,naics:Trade,classifiedBy,naics:Trade,N:1,B,Line classified by trade
+CreditNote,urn:oasis:names:specification:ubl:schema:xsd:CreditNote-2,ubl:Invoice,adjusts,ubl:Invoice,N:1,A,Credit note adjusts invoice
+DebitNote,urn:oasis:names:specification:ubl:schema:xsd:DebitNote-2,ubl:Invoice,adjusts,ubl:Invoice,N:1,A,Debit note adjusts invoice
+#
+# ===== PAYMENT DOCUMENTS =====
+#
+PaymentRequest,urn:oasis:names:specification:ubl:schema:xsd:PaymentRequest-2,ubl:Invoice,requestsPaymentFor,ubl:Invoice,N:N,A,Payment request for invoice
+Reminder,urn:oasis:names:specification:ubl:schema:xsd:Reminder-2,ubl:Invoice,remindsOf,ubl:Invoice,N:1,B,Payment reminder for invoice
+#
+# ===== DELIVERY/LOGISTICS DOCUMENTS =====
+#
+DespatchAdvice,urn:oasis:names:specification:ubl:schema:xsd:DespatchAdvice-2,ubl:Order,fulfills,ubl:Order,N:1,A,Despatch fulfills order
+ReceiptAdvice,urn:oasis:names:specification:ubl:schema:xsd:ReceiptAdvice-2,ubl:DespatchAdvice,acknowledges,ubl:DespatchAdvice,N:1,A,Receipt acknowledges despatch
+Waybill,urn:oasis:names:specification:ubl:schema:xsd:Waybill-2,uc:Product,transports,uc:Pr,N:N,B,Waybill for product transport
+#
+# ===== CONTRACT DOCUMENTS =====
+#
+Contract,urn:oasis:names:specification:ubl:schema:xsd:Contract-2,corelot:Contract,instanceOf,corelot:Contract,1:1,A,UBL contract is CORELOT contract
+ContractNotice,urn:oasis:names:specification:ubl:schema:xsd:ContractNotice-2,corelot:Contract,announcementOf,corelot:Contract,N:1,A,Notice announces contract
+#
+# ===== QUOTATION DOCUMENTS =====
+#
+RequestForQuotation,urn:oasis:names:specification:ubl:schema:xsd:RequestForQuotation-2,corelot:Project,requestsQuoteFor,corelot:Project,N:1,A,RFQ for project
+Quotation,urn:oasis:names:specification:ubl:schema:xsd:Quotation-2,ubl:RequestForQuotation,respondsTo,ubl:RequestForQuotation,N:1,A,Quote responds to RFQ
+#
+# ===== CONSTRUCTION-SPECIFIC MAPPINGS =====
+# These extend UBL for construction industry use
+#
+# PaymentApplication (CORELOT extension) aligns with Invoice
+# ScheduleOfValues (CORELOT extension) aligns with InvoiceLine structure
+# ChangeOrder (CORELOT extension) aligns with ContractModification
+#
+# ===== PARTY MAPPINGS =====
+#
+Party,urn:oasis:names:specification:ubl:schema:xsd:Party-2,schema:Organization,equivalentTo,schema:Organization,1:1,A,UBL Party = Schema.org Organization
+Party,urn:oasis:names:specification:ubl:schema:xsd:Party-2,naics:Trade,employs,naics:Trade,1:N,B,Party employs trade capability
+SupplierParty,urn:oasis:names:specification:ubl:schema:xsd:SupplierParty-2,naics:Trade,classifiedAs,naics:Trade,1:N,A,Supplier classified by trade
+#
+# ===== ITEM CLASSIFICATION =====
+#
+CommodityClassification,urn:oasis:names:specification:ubl:schema:xsd:CommodityClassification-2,uc:Product,equivalentTo,uc:Pr,1:1,B,Commodity = Uniclass Product
+ItemClassificationCode,urn:oasis:names:specification:ubl:schema:xsd:ItemClassificationCode-2,uc:WorkResult,mapsTo,uc:Ss,1:N,C,Item classification to work result
