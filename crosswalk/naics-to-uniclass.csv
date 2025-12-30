@@ -1,0 +1,57 @@
+naics_code,naics_name,relationship,uniclass_code,uniclass_table,uniclass_title,cardinality,confidence,notes
+# NAICS Sector 238 - Specialty Trade Contractors
+# Derived from linguistic analysis of trade names → work results
+# Sources: census.gov/naics (Public Domain), uniclass.thenbs.com (CC BY-ND 4.0)
+# Methodology: docs/CROSSWALK_METHODOLOGY.md
+#
+# Relationship types: produces (→), uses (⊃), performs (⊢), manages (⊨)
+# Confidence: A=Definitive, B=Strong, C=Moderate, D=Weak
+#
+238110,Poured Concrete Foundation and Structure Contractors,produces,Ss_20_05,Ss,Structural in situ systems,1:N,A,Primary work output
+238110,Poured Concrete Foundation and Structure Contractors,produces,Ss_20_05_20,Ss,In situ concrete structural systems,1:N,A,Specific system
+238110,Poured Concrete Foundation and Structure Contractors,uses,Pr_20_31,Pr,Concrete,1:N,A,Primary material
+238120,Structural Steel and Precast Concrete Contractors,produces,Ss_20_10,Ss,Structural framed systems,1:N,A,Primary work output
+238120,Structural Steel and Precast Concrete Contractors,produces,Ss_20_10_72,Ss,Steel frame structural systems,1:N,A,Steel framing
+238120,Structural Steel and Precast Concrete Contractors,produces,Ss_20_10_60,Ss,Precast concrete frame structural systems,1:N,B,Precast option
+238130,Framing Contractors,produces,Ss_25_10_30,Ss,Timber frame wall structure systems,1:N,A,Primary work output
+238130,Framing Contractors,produces,Ss_25_13_30,Ss,Timber floor structure systems,1:N,A,Floor framing
+238130,Framing Contractors,produces,Ss_25_16_30,Ss,Timber roof structure systems,1:N,A,Roof framing
+238130,Framing Contractors,uses,Pr_20_93_52,Pr,Timber structural sections,1:N,A,Primary material
+238140,Masonry Contractors,produces,Ss_25_10_50,Ss,Masonry wall systems,1:N,A,Primary work output
+238140,Masonry Contractors,produces,Ss_25_10_10,Ss,Block wall systems,1:N,A,CMU walls
+238140,Masonry Contractors,produces,Ss_25_10_12,Ss,Brick wall systems,1:N,A,Brick walls
+238140,Masonry Contractors,uses,Pr_20_76,Pr,Masonry,1:N,A,Primary material
+238150,Glass and Glazing Contractors,produces,Ss_25_30_33,Ss,Glazed curtain wall systems,1:N,A,Curtain walls
+238150,Glass and Glazing Contractors,produces,Ss_30_10,Ss,Doors and windows,1:N,B,Window installation
+238150,Glass and Glazing Contractors,uses,Pr_20_43,Pr,Glass,1:N,A,Primary material
+238160,Roofing Contractors,produces,Ss_25_16,Ss,Roof structure systems,1:N,A,Structure work
+238160,Roofing Contractors,produces,Ss_25_38,Ss,Roof covering and cladding systems,1:N,A,Covering work
+238160,Roofing Contractors,uses,Pr_25_93,Pr,Roof finishing products,1:N,A,Primary material
+238170,Siding Contractors,produces,Ss_25_30,Ss,Wall covering and cladding systems,1:N,A,Primary work output
+238170,Siding Contractors,uses,Pr_25_71,Pr,Wall and ceiling finishing products,1:N,A,Primary material
+238210,Electrical Contractors and Other Wiring Installation,produces,Ss_55,Ss,Electrical power generation distribution consumption,1:N,A,Power systems
+238210,Electrical Contractors and Other Wiring Installation,produces,Ss_60,Ss,Communications transport security control systems,1:N,B,Low voltage
+238210,Electrical Contractors and Other Wiring Installation,produces,Ss_65,Ss,Lighting systems,1:N,A,Lighting
+238220,Plumbing Heating and Air-Conditioning Contractors,produces,Ss_55_70,Ss,Water supply systems,1:N,A,Plumbing supply
+238220,Plumbing Heating and Air-Conditioning Contractors,produces,Ss_55_80,Ss,Drainage and waste systems,1:N,A,Plumbing waste
+238220,Plumbing Heating and Air-Conditioning Contractors,produces,Ss_60_40,Ss,Heating systems,1:N,A,HVAC heating
+238220,Plumbing Heating and Air-Conditioning Contractors,produces,Ss_60_30,Ss,Cooling systems,1:N,A,HVAC cooling
+238220,Plumbing Heating and Air-Conditioning Contractors,produces,Ss_65_40,Ss,Ventilation systems,1:N,A,HVAC ventilation
+238290,Other Building Equipment Contractors,produces,Ss_45,Ss,Escalators and moving walkways,1:N,C,Specialty equipment
+238290,Other Building Equipment Contractors,produces,Ss_50,Ss,Lifts and cranes,1:N,B,Elevator installation
+238310,Drywall and Insulation Contractors,produces,Ss_25_11,Ss,Internal wall systems,1:N,A,Interior walls
+238310,Drywall and Insulation Contractors,produces,Ss_25_40,Ss,Wall insulation systems,1:N,A,Insulation
+238310,Drywall and Insulation Contractors,uses,Pr_25_71_52,Pr,Plasterboard,1:N,A,Primary material
+238320,Painting and Wall Covering Contractors,produces,Ss_45_30,Ss,Finish and decoration systems,1:N,A,Finish work
+238320,Painting and Wall Covering Contractors,performs,Ac_40_20,Ac,Finishing and applying protective coatings,1:N,A,Activity
+238330,Flooring Contractors,produces,Ss_25_70,Ss,Floor covering systems,1:N,A,Primary work output
+238330,Flooring Contractors,uses,Pr_35_31,Pr,Floor finishing products,1:N,A,Primary material
+238340,Tile and Terrazzo Contractors,produces,Ss_25_70_80,Ss,Tile floor finishes,1:N,A,Tile floors
+238340,Tile and Terrazzo Contractors,produces,Ss_25_30_80,Ss,Tile wall finishes,1:N,A,Tile walls
+238340,Tile and Terrazzo Contractors,uses,Pr_25_93_80,Pr,Tiles,1:N,A,Primary material
+238350,Finish Carpentry Contractors,produces,Ss_25_11,Ss,Internal wall systems,1:N,B,Trim and millwork
+238350,Finish Carpentry Contractors,produces,Ss_30,Ss,Openings,1:N,B,Door/window trim
+238350,Finish Carpentry Contractors,uses,Pr_20_93,Pr,Timber products,1:N,A,Primary material
+238910,Site Preparation Contractors,produces,Ss_15_10,Ss,Groundworks and earthworks systems,1:N,A,Primary work output
+238910,Site Preparation Contractors,performs,Ac_10,Ac,Preparing,1:N,A,Site prep activity
+238990,All Other Specialty Trade Contractors,produces,Ss_35,Ss,Fittings and furnishings,1:N,C,Miscellaneous
