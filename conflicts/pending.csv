@@ -1,0 +1,3 @@
+conflict_id,source_id,target_id,existing_rel,existing_conf,proposed_rel,proposed_conf,detection_method,resolution,resolved_by,resolved_date
+# Pending conflicts to be reviewed
+# Resolution options: keep_existing, use_proposed, keep_both, expert_review, delete_both

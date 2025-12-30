@@ -1,0 +1,26 @@
+{
+  "session_id": "YYYY-MM-DD-NNN",
+  "branch": "crosswalk/branch-name",
+  "started": "ISO8601 timestamp",
+  "last_updated": "ISO8601 timestamp",
+  "source_standard": "naics|uniclass|schemaorg|ubl",
+  "target_standard": "naics|uniclass|schemaorg|ubl|corelot",
+  "method_used": ["linguistic", "hierarchy", "embedding", "expert", "propagation"],
+  "last_processed": {
+    "source_id": "naics:238350",
+    "target_id": "uc:Ss_25_11",
+    "line_number": 127
+  },
+  "stats": {
+    "mappings_created": 0,
+    "mappings_updated": 0,
+    "conflicts_detected": 0,
+    "conflicts_resolved": 0
+  },
+  "next_chunk": {
+    "source_start": "naics:238390",
+    "source_end": "naics:238990",
+    "estimated_count": 50
+  },
+  "notes": "Free-form session notes"
+}
