@@ -1,0 +1,251 @@
+source_id,source_name,target_id,target_name,relationship,best_confidence,method_count,avg_score
+naics:23,Construction,uc:Ac_10_40,Construction,semantically_similar,A,2,1.0
+naics:23814,Masonry Contractors,uc:Ac_15_50_50,Masonry surveying,semantically_similar,A,2,0.716
+naics:238140,Masonry Contractors,uc:Ac_15_50_50,Masonry surveying,semantically_similar,A,2,0.716
+naics:23,Construction,uc:En_90_30,Construction entities,semantically_similar,A,2,0.71
+naics:23813,Framing Contractors,uc:Pr_20_29_03_31,Framing anchors,semantically_similar,A,2,0.702
+naics:238130,Framing Contractors,uc:Pr_20_29_03_31,Framing anchors,semantically_similar,A,2,0.702
+naics:23813,Framing Contractors,uc:Pr_20_29_03_32,Framing fasteners,semantically_similar,A,2,0.699
+naics:238130,Framing Contractors,uc:Pr_20_29_03_32,Framing fasteners,semantically_similar,A,2,0.699
+naics:23834,Tile and Terrazzo Contractors,uc:Pr_35_93_96_89,Terrazzo tile skirtings,semantically_similar,A,2,0.685
+naics:238340,Tile and Terrazzo Contractors,uc:Pr_35_93_96_89,Terrazzo tile skirtings,semantically_similar,A,2,0.685
+naics:23813,Framing Contractors,uc:Ss_20_10_75,Structural framing systems,semantically_similar,A,2,0.665
+naics:238130,Framing Contractors,uc:Ss_20_10_75,Structural framing systems,semantically_similar,A,2,0.665
+naics:236118,Residential Remodelers,uc:Co_45,Residential complexes,semantically_similar,A,2,0.633
+naics:236118,Residential Remodelers,uc:Ac_45,Residential activities,semantically_similar,A,2,0.627
+naics:23814,Masonry Contractors,uc:Pr_20_29_56_50,Masonry nails,semantically_similar,A,2,0.619
+naics:238140,Masonry Contractors,uc:Pr_20_29_56_50,Masonry nails,semantically_similar,A,2,0.619
+naics:23815,Glass and Glazing Contractors,uc:Ss_25_60_35,Glazing systems,semantically_similar,A,2,0.615
+naics:238150,Glass and Glazing Contractors,uc:Ss_25_60_35,Glazing systems,semantically_similar,A,2,0.615
+naics:23814,Masonry Contractors,uc:Pr_20_29_63_50,Masonry plugs,semantically_similar,A,2,0.609
+naics:238140,Masonry Contractors,uc:Pr_20_29_63_50,Masonry plugs,semantically_similar,A,2,0.609
+naics:236118,Residential Remodelers,uc:En_45_10,Residential buildings,semantically_similar,A,2,0.604
+naics:236118,Residential Remodelers,uc:En_45,Residential entities,semantically_similar,A,2,0.603
+naics:23814,Masonry Contractors,uc:Pr_20_31_12_50,Masonry cements,semantically_similar,A,2,0.602
+naics:238140,Masonry Contractors,uc:Pr_20_31_12_50,Masonry cements,semantically_similar,A,2,0.602
+naics:23814,Masonry Contractors,uc:Pr_20_29_23_50,Masonry dowels,semantically_similar,A,2,0.6
+naics:238140,Masonry Contractors,uc:Pr_20_29_23_50,Masonry dowels,semantically_similar,A,2,0.6
+naics:236,Construction of Buildings,uc:Ac_10_40,Construction,semantically_similar,A,2,0.595
+naics:23,Construction,uc:En_90_30_15,Construction sites,semantically_similar,A,2,0.587
+naics:23832,Painting and Wall Covering Contractors,uc:Ss_25_45,Wall covering and finish systems,semantically_similar,A,2,0.585
+naics:238320,Painting and Wall Covering Contractors,uc:Ss_25_45,Wall covering and finish systems,semantically_similar,A,2,0.585
+naics:23833,Flooring Contractors,uc:Pr_35_31_06_77,Screed flooring,semantically_similar,A,2,0.584
+naics:238330,Flooring Contractors,uc:Pr_35_31_06_77,Screed flooring,semantically_similar,A,2,0.584
+naics:23816,Roofing Contractors,uc:Pr_20_29_88_74,Roofing straps,semantically_similar,A,2,0.569
+naics:238160,Roofing Contractors,uc:Pr_20_29_88_74,Roofing straps,semantically_similar,A,2,0.569
+naics:23816,Roofing Contractors,uc:Pr_20_29_88_71,Roofing clamps,semantically_similar,A,2,0.564
+naics:238160,Roofing Contractors,uc:Pr_20_29_88_71,Roofing clamps,semantically_similar,A,2,0.564
+naics:23833,Flooring Contractors,uc:Pr_35_31_06_55,Multilayer flooring,semantically_similar,A,2,0.563
+naics:238330,Flooring Contractors,uc:Pr_35_31_06_55,Multilayer flooring,semantically_similar,A,2,0.563
+naics:23814,Masonry Contractors,uc:Ss_15_30_50_50,Masonry repair systems,semantically_similar,A,2,0.557
+naics:238140,Masonry Contractors,uc:Ss_15_30_50_50,Masonry repair systems,semantically_similar,A,2,0.557
+naics:23816,Roofing Contractors,uc:Pr_20_29_88_70,Roofing belts,semantically_similar,A,2,0.555
+naics:238160,Roofing Contractors,uc:Pr_20_29_88_70,Roofing belts,semantically_similar,A,2,0.555
+naics:23814,Masonry Contractors,uc:Ss_20_30_75_50,Masonry column systems,semantically_similar,A,2,0.547
+naics:238140,Masonry Contractors,uc:Ss_20_30_75_50,Masonry column systems,semantically_similar,A,2,0.547
+naics:23621,Industrial Building Construction,uc:Co_30,Industrial complexes,semantically_similar,A,2,0.544
+naics:236210,Industrial Building Construction,uc:Co_30,Industrial complexes,semantically_similar,A,2,0.544
+naics:23815,Glass and Glazing Contractors,uc:Pr_20_29_14_34,Glass-to-glass clips,semantically_similar,A,2,0.54
+naics:238150,Glass and Glazing Contractors,uc:Pr_20_29_14_34,Glass-to-glass clips,semantically_similar,A,2,0.54
+naics:23621,Industrial Building Construction,uc:En_30,Industrial entities,semantically_similar,A,2,0.538
+naics:236210,Industrial Building Construction,uc:En_30,Industrial entities,semantically_similar,A,2,0.538
+naics:23822,"Plumbing, Heating, and Air-Conditioning Contractors",uc:Ac_10_40_67,Plumbing,semantically_similar,A,2,0.535
+naics:238220,"Plumbing, Heating, and Air-Conditioning Contractors",uc:Ac_10_40_67,Plumbing,semantically_similar,A,2,0.535
+naics:2361,Residential Building Construction,uc:Co_45,Residential complexes,semantically_similar,A,2,0.531
+naics:23611,Residential Building Construction,uc:Co_45,Residential complexes,semantically_similar,A,2,0.531
+naics:236118,Residential Remodelers,uc:Co_45_10_74,Residential properties,semantically_similar,A,2,0.53
+naics:23816,Roofing Contractors,uc:Ss_30_40_95,Unit roofing systems,semantically_similar,A,2,0.53
+naics:238160,Roofing Contractors,uc:Ss_30_40_95,Unit roofing systems,semantically_similar,A,2,0.53
+naics:23,Construction,uc:Pr_30_31_76_16,Construction joint sealants,semantically_similar,A,2,0.527
+naics:2361,Residential Building Construction,uc:Ac_45,Residential activities,semantically_similar,A,2,0.526
+naics:23611,Residential Building Construction,uc:Ac_45,Residential activities,semantically_similar,A,2,0.526
+naics:23621,Industrial Building Construction,uc:Ac_30,Industrial activities,semantically_similar,A,2,0.526
+naics:236210,Industrial Building Construction,uc:Ac_30,Industrial activities,semantically_similar,A,2,0.526
+naics:23811,Poured Concrete Foundation and Structure Contractors,uc:Ss_20_05_15,Concrete foundation systems,semantically_similar,A,2,0.526
+naics:238110,Poured Concrete Foundation and Structure Contractors,uc:Ss_20_05_15,Concrete foundation systems,semantically_similar,A,2,0.526
+naics:23833,Flooring Contractors,uc:Ss_30_42_54_75,Resin flooring systems,semantically_similar,A,2,0.522
+naics:238330,Flooring Contractors,uc:Ss_30_42_54_75,Resin flooring systems,semantically_similar,A,2,0.522
+naics:23833,Flooring Contractors,uc:Ss_30_42_54,Monolithic flooring systems,semantically_similar,A,2,0.518
+naics:238330,Flooring Contractors,uc:Ss_30_42_54,Monolithic flooring systems,semantically_similar,A,2,0.518
+naics:23822,"Plumbing, Heating, and Air-Conditioning Contractors",uc:En_65_80,Air conditioning entities,semantically_similar,A,2,0.511
+naics:238220,"Plumbing, Heating, and Air-Conditioning Contractors",uc:En_65_80,Air conditioning entities,semantically_similar,A,2,0.511
+naics:23833,Flooring Contractors,uc:Ss_30_20,Flooring and decking systems,semantically_similar,A,2,0.504
+naics:238330,Flooring Contractors,uc:Ss_30_20,Flooring and decking systems,semantically_similar,A,2,0.504
+naics:2361,Residential Building Construction,uc:En_45_10,Residential buildings,semantically_similar,A,2,0.503
+naics:23611,Residential Building Construction,uc:En_45_10,Residential buildings,semantically_similar,A,2,0.503
+naics:2361,Residential Building Construction,uc:En_45,Residential entities,semantically_similar,A,2,0.502
+naics:23611,Residential Building Construction,uc:En_45,Residential entities,semantically_similar,A,2,0.502
+naics:23821,Electrical Contractors and Other Wiring Installation Contractors,uc:Ss_70,Electrical systems,semantically_similar,A,2,0.498
+naics:238210,Electrical Contractors and Other Wiring Installation Contractors,uc:Ss_70,Electrical systems,semantically_similar,A,2,0.498
+naics:236118,Residential Remodelers,uc:Ac_45_70,Residential support activities,semantically_similar,A,2,0.496
+naics:23621,Industrial Building Construction,uc:Co_30_50_41,Industrial parks,semantically_similar,A,2,0.492
+naics:236210,Industrial Building Construction,uc:Co_30_50_41,Industrial parks,semantically_similar,A,2,0.492
+naics:23835,Finish Carpentry Contractors,uc:Pr_35_31_64_32,Finish plasters,semantically_similar,A,2,0.491
+naics:238350,Finish Carpentry Contractors,uc:Pr_35_31_64_32,Finish plasters,semantically_similar,A,2,0.491
+naics:23,Construction,uc:Ac_10,"Preparation, construction and repair",semantically_similar,A,2,0.49
+naics:23821,Electrical Contractors and Other Wiring Installation Contractors,uc:Ac_70,Electrical activities,semantically_similar,A,2,0.49
+naics:238210,Electrical Contractors and Other Wiring Installation Contractors,uc:Ac_70,Electrical activities,semantically_similar,A,2,0.49
+naics:23822,"Plumbing, Heating, and Air-Conditioning Contractors",uc:Ss_65_80,Air conditioning systems,semantically_similar,A,2,0.489
+naics:238220,"Plumbing, Heating, and Air-Conditioning Contractors",uc:Ss_65_80,Air conditioning systems,semantically_similar,A,2,0.489
+naics:23812,Structural Steel and Precast Concrete Contractors,uc:Ss_30_10_30_60,Precast concrete roof structure systems,semantically_similar,A,2,0.488
+naics:238120,Structural Steel and Precast Concrete Contractors,uc:Ss_30_10_30_60,Precast concrete roof structure systems,semantically_similar,A,2,0.488
+naics:23832,Painting and Wall Covering Contractors,uc:Ac_25_20_60,Painting,semantically_similar,A,2,0.486
+naics:238320,Painting and Wall Covering Contractors,uc:Ac_25_20_60,Painting,semantically_similar,A,2,0.486
+naics:23816,Roofing Contractors,uc:Ss_30_40_92_85,Thatch roofing systems,semantically_similar,A,2,0.483
+naics:238160,Roofing Contractors,uc:Ss_30_40_92_85,Thatch roofing systems,semantically_similar,A,2,0.483
+naics:236118,Residential Remodelers,uc:En_35_50_70,Residential welfare buildings,semantically_similar,A,2,0.481
+naics:23811,Poured Concrete Foundation and Structure Contractors,uc:Pr_20_85_13_32,Concrete foundation pads,semantically_similar,A,2,0.474
+naics:238110,Poured Concrete Foundation and Structure Contractors,uc:Pr_20_85_13_32,Concrete foundation pads,semantically_similar,A,2,0.474
+naics:2373,"Highway, Street, and Bridge Construction",uc:Ac_80_35,Highway activities,semantically_similar,A,2,0.47
+naics:23731,"Highway, Street, and Bridge Construction",uc:Ac_80_35,Highway activities,semantically_similar,A,2,0.47
+naics:237310,"Highway, Street, and Bridge Construction",uc:Ac_80_35,Highway activities,semantically_similar,A,2,0.47
+naics:23622,Commercial and Institutional Building Construction,uc:Co_20_50,Commercial complexes,semantically_similar,A,2,0.467
+naics:236220,Commercial and Institutional Building Construction,uc:Co_20_50,Commercial complexes,semantically_similar,A,2,0.467
+naics:23622,Commercial and Institutional Building Construction,uc:En_20_50,Commercial entities,semantically_similar,A,2,0.461
+naics:236220,Commercial and Institutional Building Construction,uc:En_20_50,Commercial entities,semantically_similar,A,2,0.461
+naics:236118,Residential Remodelers,uc:En_45_10_90,Temporary residential buildings,semantically_similar,A,2,0.46
+naics:23822,"Plumbing, Heating, and Air-Conditioning Contractors",uc:En_65,Ventilation and air conditioning entities,semantically_similar,A,2,0.458
+naics:238220,"Plumbing, Heating, and Air-Conditioning Contractors",uc:En_65,Ventilation and air conditioning entities,semantically_similar,A,2,0.458
+naics:23622,Commercial and Institutional Building Construction,uc:Ac_20_50,Commercial activities,semantically_similar,A,2,0.457
+naics:236220,Commercial and Institutional Building Construction,uc:Ac_20_50,Commercial activities,semantically_similar,A,2,0.457
+naics:23821,Electrical Contractors and Other Wiring Installation Contractors,uc:Ac_70_60_49,Low-voltage electrical installation testing and inspecting,semantically_similar,A,2,0.454
+naics:238210,Electrical Contractors and Other Wiring Installation Contractors,uc:Ac_70_60_49,Low-voltage electrical installation testing and inspecting,semantically_similar,A,2,0.454
+naics:23822,"Plumbing, Heating, and Air-Conditioning Contractors",uc:Co_65,Ventilation and air conditioning complexes,semantically_similar,A,2,0.451
+naics:238220,"Plumbing, Heating, and Air-Conditioning Contractors",uc:Co_65,Ventilation and air conditioning complexes,semantically_similar,A,2,0.451
+naics:2362,Nonresidential Building Construction,uc:Ac_10_40,Construction,semantically_similar,A,2,0.449
+naics:23822,"Plumbing, Heating, and Air-Conditioning Contractors",uc:Ac_65,Ventilation and air conditioning activities,semantically_similar,A,2,0.449
+naics:238220,"Plumbing, Heating, and Air-Conditioning Contractors",uc:Ac_65,Ventilation and air conditioning activities,semantically_similar,A,2,0.449
+naics:23834,Tile and Terrazzo Contractors,uc:Ss_25_45_88_88,Terrazzo wall tiling systems,semantically_similar,A,2,0.449
+naics:238340,Tile and Terrazzo Contractors,uc:Ss_25_45_88_88,Terrazzo wall tiling systems,semantically_similar,A,2,0.449
+naics:2361,Residential Building Construction,uc:Co_45_10_74,Residential properties,semantically_similar,A,2,0.447
+naics:23611,Residential Building Construction,uc:Co_45_10_74,Residential properties,semantically_similar,A,2,0.447
+naics:23822,"Plumbing, Heating, and Air-Conditioning Contractors",uc:Ss_65,Ventilation and air conditioning systems,semantically_similar,A,2,0.444
+naics:238220,"Plumbing, Heating, and Air-Conditioning Contractors",uc:Ss_65,Ventilation and air conditioning systems,semantically_similar,A,2,0.444
+naics:2371,Utility System Construction,uc:Ac_10_40,Construction,semantically_similar,A,2,0.443
+naics:23821,Electrical Contractors and Other Wiring Installation Contractors,uc:Co_70_10,Electrical power generation complexes,semantically_similar,A,2,0.441
+naics:238210,Electrical Contractors and Other Wiring Installation Contractors,uc:Co_70_10,Electrical power generation complexes,semantically_similar,A,2,0.441
+naics:23811,Poured Concrete Foundation and Structure Contractors,uc:Pr_20_85_13,Concrete base and foundation products,semantically_similar,A,2,0.44
+naics:238110,Poured Concrete Foundation and Structure Contractors,uc:Pr_20_85_13,Concrete base and foundation products,semantically_similar,A,2,0.44
+naics:23821,Electrical Contractors and Other Wiring Installation Contractors,uc:Ss_70_95,Temporary electrical systems,semantically_similar,A,2,0.439
+naics:238210,Electrical Contractors and Other Wiring Installation Contractors,uc:Ss_70_95,Temporary electrical systems,semantically_similar,A,2,0.439
+naics:2373,"Highway, Street, and Bridge Construction",uc:Pr_40_10_77_85,Street signs,semantically_similar,A,2,0.435
+naics:23731,"Highway, Street, and Bridge Construction",uc:Pr_40_10_77_85,Street signs,semantically_similar,A,2,0.435
+naics:237310,"Highway, Street, and Bridge Construction",uc:Pr_40_10_77_85,Street signs,semantically_similar,A,2,0.435
+naics:23821,Electrical Contractors and Other Wiring Installation Contractors,uc:Ss_75_50_45,Electrical protection systems,semantically_similar,A,2,0.433
+naics:238210,Electrical Contractors and Other Wiring Installation Contractors,uc:Ss_75_50_45,Electrical protection systems,semantically_similar,A,2,0.433
+naics:236117,New Housing For-Sale Builders,uc:Pr_40_30_04,Animal housing,semantically_similar,A,2,0.429
+naics:23834,Tile and Terrazzo Contractors,uc:Pr_20_31_02_89,Tile adhesives,semantically_similar,A,2,0.425
+naics:238340,Tile and Terrazzo Contractors,uc:Pr_20_31_02_89,Tile adhesives,semantically_similar,A,2,0.425
+naics:236118,Residential Remodelers,uc:Ss_55_20_14_70,Residential central vacuum systems,semantically_similar,A,2,0.425
+naics:23832,Painting and Wall Covering Contractors,uc:Ss_20_70_65,Protective painting systems,semantically_similar,A,2,0.425
+naics:238320,Painting and Wall Covering Contractors,uc:Ss_20_70_65,Protective painting systems,semantically_similar,A,2,0.425
+naics:23821,Electrical Contractors and Other Wiring Installation Contractors,uc:Pr_40_10_57_23,Electrical diagrams,semantically_similar,A,2,0.424
+naics:238210,Electrical Contractors and Other Wiring Installation Contractors,uc:Pr_40_10_57_23,Electrical diagrams,semantically_similar,A,2,0.424
+naics:236118,Residential Remodelers,uc:Ss_90_45,Specific demand of residential organizations,semantically_similar,A,2,0.424
+naics:236118,Residential Remodelers,uc:Ss_55_30_98_23,Domestic and residential sprinkler systems,semantically_similar,A,2,0.422
+naics:23811,Poured Concrete Foundation and Structure Contractors,uc:Ss_30_10_30_60,Precast concrete roof structure systems,semantically_similar,B,2,0.418
+naics:238110,Poured Concrete Foundation and Structure Contractors,uc:Ss_30_10_30_60,Precast concrete roof structure systems,semantically_similar,B,2,0.418
+naics:23822,"Plumbing, Heating, and Air-Conditioning Contractors",uc:Ss_65_80_45_72,Room air conditioning systems,semantically_similar,A,2,0.416
+naics:238220,"Plumbing, Heating, and Air-Conditioning Contractors",uc:Ss_65_80_45_72,Room air conditioning systems,semantically_similar,A,2,0.416
+naics:23621,Industrial Building Construction,uc:Ss_40_30_42,Industrial FF&E systems,semantically_similar,B,2,0.415
+naics:236210,Industrial Building Construction,uc:Ss_40_30_42,Industrial FF&E systems,semantically_similar,B,2,0.415
+naics:23815,Glass and Glazing Contractors,uc:Ac_15_50_25,"Doors, windows and glazing surveying",semantically_similar,A,2,0.414
+naics:238150,Glass and Glazing Contractors,uc:Ac_15_50_25,"Doors, windows and glazing surveying",semantically_similar,A,2,0.414
+naics:23821,Electrical Contractors and Other Wiring Installation Contractors,uc:Ac_70_60,Electrical installations testing,semantically_similar,B,2,0.412
+naics:238210,Electrical Contractors and Other Wiring Installation Contractors,uc:Ac_70_60,Electrical installations testing,semantically_similar,B,2,0.412
+naics:236118,Residential Remodelers,uc:Co_45_10_36,High-rise residential complexes,semantically_similar,A,2,0.411
+naics:23834,Tile and Terrazzo Contractors,uc:Pr_35_93_96_87,Tile matting,semantically_similar,A,2,0.411
+naics:238340,Tile and Terrazzo Contractors,uc:Pr_35_93_96_87,Tile matting,semantically_similar,A,2,0.411
+naics:23811,Poured Concrete Foundation and Structure Contractors,uc:Ss_25_11_16_70,Reinforced concrete wall structure systems,semantically_similar,A,2,0.411
+naics:238110,Poured Concrete Foundation and Structure Contractors,uc:Ss_25_11_16_70,Reinforced concrete wall structure systems,semantically_similar,A,2,0.411
+naics:23822,"Plumbing, Heating, and Air-Conditioning Contractors",uc:Ss_65_80_05,Central air conditioning systems,semantically_similar,B,2,0.409
+naics:23822,"Plumbing, Heating, and Air-Conditioning Contractors",uc:Ss_65_80_45,Local air conditioning systems,semantically_similar,B,2,0.409
+naics:238220,"Plumbing, Heating, and Air-Conditioning Contractors",uc:Ss_65_80_05,Central air conditioning systems,semantically_similar,B,2,0.409
+naics:238220,"Plumbing, Heating, and Air-Conditioning Contractors",uc:Ss_65_80_45,Local air conditioning systems,semantically_similar,B,2,0.409
+naics:23834,Tile and Terrazzo Contractors,uc:Ss_30_42_90,Terrazzo floor tiling and screed systems,semantically_similar,B,2,0.409
+naics:238340,Tile and Terrazzo Contractors,uc:Ss_30_42_90,Terrazzo floor tiling and screed systems,semantically_similar,B,2,0.409
+naics:23821,Electrical Contractors and Other Wiring Installation Contractors,uc:Ac_70_65,Electrical systems commissioning,semantically_similar,B,2,0.408
+naics:238210,Electrical Contractors and Other Wiring Installation Contractors,uc:Ac_70_65,Electrical systems commissioning,semantically_similar,B,2,0.408
+naics:23821,Electrical Contractors and Other Wiring Installation Contractors,uc:En_70_10,Electrical power generation entities,semantically_similar,B,2,0.408
+naics:23821,Electrical Contractors and Other Wiring Installation Contractors,uc:En_70_10_10,Electrical power generation buildings,semantically_similar,B,2,0.408
+naics:238210,Electrical Contractors and Other Wiring Installation Contractors,uc:En_70_10,Electrical power generation entities,semantically_similar,B,2,0.408
+naics:238210,Electrical Contractors and Other Wiring Installation Contractors,uc:En_70_10_10,Electrical power generation buildings,semantically_similar,B,2,0.408
+naics:2361,Residential Building Construction,uc:En_35_50_70,Residential welfare buildings,semantically_similar,A,2,0.407
+naics:23611,Residential Building Construction,uc:En_35_50_70,Residential welfare buildings,semantically_similar,A,2,0.407
+naics:23822,"Plumbing, Heating, and Air-Conditioning Contractors",uc:Ac_15_15_95,Ventilation and air conditioning systems surveying,semantically_similar,B,2,0.406
+naics:238220,"Plumbing, Heating, and Air-Conditioning Contractors",uc:Ac_15_15_95,Ventilation and air conditioning systems surveying,semantically_similar,B,2,0.406
+naics:23834,Tile and Terrazzo Contractors,uc:Ss_30_42_72_10,Carpet tile systems,semantically_similar,B,2,0.404
+naics:238340,Tile and Terrazzo Contractors,uc:Ss_30_42_72_10,Carpet tile systems,semantically_similar,B,2,0.404
+naics:236117,New Housing For-Sale Builders,uc:Co_45_10_41,Housing estates,semantically_similar,A,2,0.401
+naics:236117,New Housing For-Sale Builders,uc:Co_45_10_78,Sheltered housing,semantically_similar,A,2,0.401
+naics:23835,Finish Carpentry Contractors,uc:Pr_35_31_66_55,Multicoloured finish basecoats,semantically_similar,A,2,0.4
+naics:238350,Finish Carpentry Contractors,uc:Pr_35_31_66_55,Multicoloured finish basecoats,semantically_similar,A,2,0.4
+naics:23822,"Plumbing, Heating, and Air-Conditioning Contractors",uc:Ac_65_65,Ventilation and air conditioning systems commissioning,semantically_similar,B,2,0.399
+naics:238220,"Plumbing, Heating, and Air-Conditioning Contractors",uc:Ac_65_65,Ventilation and air conditioning systems commissioning,semantically_similar,B,2,0.399
+naics:23821,Electrical Contractors and Other Wiring Installation Contractors,uc:Co_70,Electrical power generation and distribution complexes,semantically_similar,B,2,0.398
+naics:238210,Electrical Contractors and Other Wiring Installation Contractors,uc:Co_70,Electrical power generation and distribution complexes,semantically_similar,B,2,0.398
+naics:23821,Electrical Contractors and Other Wiring Installation Contractors,uc:Ac_70_60_35,Hazardous areas electrical wiring inspection and testing,semantically_similar,A,2,0.394
+naics:238210,Electrical Contractors and Other Wiring Installation Contractors,uc:Ac_70_60_35,Hazardous areas electrical wiring inspection and testing,semantically_similar,A,2,0.394
+naics:23622,Commercial and Institutional Building Construction,uc:Co_30_60_15,Commercial laundries,semantically_similar,A,2,0.394
+naics:236220,Commercial and Institutional Building Construction,uc:Co_30_60_15,Commercial laundries,semantically_similar,A,2,0.394
+naics:236118,Residential Remodelers,uc:En_45_10_47,Long-term residential buildings,semantically_similar,A,2,0.392
+naics:23822,"Plumbing, Heating, and Air-Conditioning Contractors",uc:Ac_65_60_01,Air conditioning plant and equipment testing,semantically_similar,B,2,0.391
+naics:238220,"Plumbing, Heating, and Air-Conditioning Contractors",uc:Ac_65_60_01,Air conditioning plant and equipment testing,semantically_similar,B,2,0.391
+naics:23711,Water and Sewer Line and Related Structures Construction,uc:Pr_40_30_61_97,Water play structures,semantically_similar,B,2,0.391
+naics:237110,Water and Sewer Line and Related Structures Construction,uc:Pr_40_30_61_97,Water play structures,semantically_similar,B,2,0.391
+naics:23822,"Plumbing, Heating, and Air-Conditioning Contractors",uc:Co_60_10,Heating complexes,semantically_similar,B,2,0.39
+naics:238220,"Plumbing, Heating, and Air-Conditioning Contractors",uc:Co_60_10,Heating complexes,semantically_similar,B,2,0.39
+naics:23711,Water and Sewer Line and Related Structures Construction,uc:Pr_65_57_95_42,In-line water filters,semantically_similar,B,2,0.388
+naics:237110,Water and Sewer Line and Related Structures Construction,uc:Pr_65_57_95_42,In-line water filters,semantically_similar,B,2,0.388
+naics:23832,Painting and Wall Covering Contractors,uc:Pr_35_93,Unit covering and finish products,semantically_similar,B,2,0.381
+naics:238320,Painting and Wall Covering Contractors,uc:Pr_35_93,Unit covering and finish products,semantically_similar,B,2,0.381
+naics:2372,Land Subdivision,uc:En_32_10_40,Horticultural land,semantically_similar,A,2,0.38
+naics:23721,Land Subdivision,uc:En_32_10_40,Horticultural land,semantically_similar,A,2,0.38
+naics:237210,Land Subdivision,uc:En_32_10_40,Horticultural land,semantically_similar,A,2,0.38
+naics:23832,Painting and Wall Covering Contractors,uc:Pr_35_31,Formless covering and finish products,semantically_similar,B,2,0.378
+naics:238320,Painting and Wall Covering Contractors,uc:Pr_35_31,Formless covering and finish products,semantically_similar,B,2,0.378
+naics:23622,Commercial and Institutional Building Construction,uc:Ss_40_20_15,Commercial FF&E systems,semantically_similar,B,2,0.377
+naics:236220,Commercial and Institutional Building Construction,uc:Ss_40_20_15,Commercial FF&E systems,semantically_similar,B,2,0.377
+naics:23832,Painting and Wall Covering Contractors,uc:Ac_10_40_60,Painting and decorating,semantically_similar,B,2,0.373
+naics:238320,Painting and Wall Covering Contractors,uc:Ac_10_40_60,Painting and decorating,semantically_similar,B,2,0.373
+naics:2373,"Highway, Street, and Bridge Construction",uc:En_80_35_35,Highway maintenance depots,semantically_similar,B,2,0.373
+naics:23731,"Highway, Street, and Bridge Construction",uc:En_80_35_35,Highway maintenance depots,semantically_similar,B,2,0.373
+naics:237310,"Highway, Street, and Bridge Construction",uc:En_80_35_35,Highway maintenance depots,semantically_similar,B,2,0.373
+naics:23821,Electrical Contractors and Other Wiring Installation Contractors,uc:En_70,Electrical power generation and distribution entities,semantically_similar,B,2,0.372
+naics:238210,Electrical Contractors and Other Wiring Installation Contractors,uc:En_70,Electrical power generation and distribution entities,semantically_similar,B,2,0.372
+naics:2372,Land Subdivision,uc:En_32_10_04,Arable land,semantically_similar,A,2,0.37
+naics:23721,Land Subdivision,uc:En_32_10_04,Arable land,semantically_similar,A,2,0.37
+naics:237210,Land Subdivision,uc:En_32_10_04,Arable land,semantically_similar,A,2,0.37
+naics:236118,Residential Remodelers,uc:Ss_40_45_70,Residential living space FF&E systems,semantically_similar,B,2,0.37
+naics:2373,"Highway, Street, and Bridge Construction",uc:En_80_35_38,Highway service stations,semantically_similar,B,2,0.369
+naics:23731,"Highway, Street, and Bridge Construction",uc:En_80_35_38,Highway service stations,semantically_similar,B,2,0.369
+naics:237310,"Highway, Street, and Bridge Construction",uc:En_80_35_38,Highway service stations,semantically_similar,B,2,0.369
+naics:23835,Finish Carpentry Contractors,uc:Pr_35_31,Formless covering and finish products,semantically_similar,B,2,0.368
+naics:238350,Finish Carpentry Contractors,uc:Pr_35_31,Formless covering and finish products,semantically_similar,B,2,0.368
+naics:2382,Building Equipment Contractors,uc:Pr_40_70,Equipment,semantically_similar,B,2,0.366
+naics:2372,Land Subdivision,uc:En_32_20_65,Plots of land,semantically_similar,B,2,0.362
+naics:23721,Land Subdivision,uc:En_32_20_65,Plots of land,semantically_similar,B,2,0.362
+naics:237210,Land Subdivision,uc:En_32_20_65,Plots of land,semantically_similar,B,2,0.362
+naics:2373,"Highway, Street, and Bridge Construction",uc:Ac_80_45,Highway storage and maintenance activities,semantically_similar,B,2,0.356
+naics:23731,"Highway, Street, and Bridge Construction",uc:Ac_80_45,Highway storage and maintenance activities,semantically_similar,B,2,0.356
+naics:237310,"Highway, Street, and Bridge Construction",uc:Ac_80_45,Highway storage and maintenance activities,semantically_similar,B,2,0.356
+naics:2361,Residential Building Construction,uc:Co_45_10_36,High-rise residential complexes,semantically_similar,B,2,0.355
+naics:23611,Residential Building Construction,uc:Co_45_10_36,High-rise residential complexes,semantically_similar,B,2,0.355
+naics:236118,Residential Remodelers,uc:Ss_55_30_98_70,Residential water mist systems,semantically_similar,B,2,0.355
+naics:23713,Power and Communication Line and Related Structures Construction,uc:Ss_70_30_60,Overhead line traction power distribution systems,semantically_similar,B,2,0.351
+naics:237130,Power and Communication Line and Related Structures Construction,uc:Ss_70_30_60,Overhead line traction power distribution systems,semantically_similar,B,2,0.351
+naics:23812,Structural Steel and Precast Concrete Contractors,uc:Ac_15_50_85,Structural surveying,semantically_similar,B,2,0.337
+naics:238120,Structural Steel and Precast Concrete Contractors,uc:Ac_15_50_85,Structural surveying,semantically_similar,B,2,0.337
+naics:23711,Water and Sewer Line and Related Structures Construction,uc:Ac_42_90,Water activities,semantically_similar,B,2,0.318
+naics:237110,Water and Sewer Line and Related Structures Construction,uc:Ac_42_90,Water activities,semantically_similar,B,2,0.318
+naics:236116,New Multifamily Housing Construction (except For-Sale Builders),uc:Pr_40_30_04,Animal housing,semantically_similar,B,2,0.312
+naics:23713,Power and Communication Line and Related Structures Construction,uc:Ss_85_50_65,Power supply systems,semantically_similar,B,2,0.312
+naics:237130,Power and Communication Line and Related Structures Construction,uc:Ss_85_50_65,Power supply systems,semantically_similar,B,2,0.312
+naics:23711,Water and Sewer Line and Related Structures Construction,uc:Ac_90_50_96,Water storing,semantically_similar,B,2,0.304
+naics:237110,Water and Sewer Line and Related Structures Construction,uc:Ac_90_50_96,Water storing,semantically_similar,B,2,0.304
+naics:2381,"Foundation, Structure, and Building Exterior Contractors",uc:Pr_20,Structure and general products,semantically_similar,B,2,0.298
+naics:23811,Poured Concrete Foundation and Structure Contractors,uc:Ac_10_80,Structure moving,semantically_similar,B,2,0.296
+naics:238110,Poured Concrete Foundation and Structure Contractors,uc:Ac_10_80,Structure moving,semantically_similar,B,2,0.296
+naics:236115,New Single-Family Housing Construction (except For-Sale Builders),uc:Pr_40_30_04,Animal housing,semantically_similar,B,2,0.292
+naics:23819,"Other Foundation, Structure, and Building Exterior Contractors",uc:Pr_20,Structure and general products,semantically_similar,B,2,0.285
+naics:238190,"Other Foundation, Structure, and Building Exterior Contractors",uc:Pr_20,Structure and general products,semantically_similar,B,2,0.285
