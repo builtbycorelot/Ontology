@@ -1,0 +1,7155 @@
+[
+  {
+    "source_id": "naics:2361",
+    "source_name": "Residential Building Construction",
+    "source_tokens": [
+      "dwelling",
+      "construction",
+      "building",
+      "housing",
+      "home",
+      "residential"
+    ],
+    "matches": [
+      {
+        "target_id": "uc:Ss_55_20_14_70",
+        "target_name": "Residential central vacuum systems",
+        "score": 0.444,
+        "shared_tokens": [
+          "residential",
+          "dwelling",
+          "home",
+          "housing"
+        ],
+        "relationship": "coordinates",
+        "confidence": "B"
+      },
+      {
+        "target_id": "uc:Ss_55_30_98_23",
+        "target_name": "Domestic and residential sprinkler systems",
+        "score": 0.444,
+        "shared_tokens": [
+          "residential",
+          "dwelling",
+          "home",
+          "housing"
+        ],
+        "relationship": "coordinates",
+        "confidence": "B"
+      },
+      {
+        "target_id": "uc:Ss_90_45",
+        "target_name": "Specific demand of residential organizations",
+        "score": 0.444,
+        "shared_tokens": [
+          "residential",
+          "dwelling",
+          "home",
+          "housing"
+        ],
+        "relationship": "coordinates",
+        "confidence": "B"
+      },
+      {
+        "target_id": "uc:Ss_40_45_70",
+        "target_name": "Residential living space FF&E systems",
+        "score": 0.364,
+        "shared_tokens": [
+          "residential",
+          "dwelling",
+          "home",
+          "housing"
+        ],
+        "relationship": "coordinates",
+        "confidence": "B"
+      },
+      {
+        "target_id": "uc:Ss_55_30_98_70",
+        "target_name": "Residential water mist systems",
+        "score": 0.308,
+        "shared_tokens": [
+          "residential",
+          "dwelling",
+          "home",
+          "housing"
+        ],
+        "relationship": "coordinates",
+        "confidence": "B"
+      }
+    ]
+  },
+  {
+    "source_id": "naics:23611",
+    "source_name": "Residential Building Construction",
+    "source_tokens": [
+      "dwelling",
+      "construction",
+      "building",
+      "housing",
+      "home",
+      "residential"
+    ],
+    "matches": [
+      {
+        "target_id": "uc:Ss_55_20_14_70",
+        "target_name": "Residential central vacuum systems",
+        "score": 0.444,
+        "shared_tokens": [
+          "residential",
+          "dwelling",
+          "home",
+          "housing"
+        ],
+        "relationship": "coordinates",
+        "confidence": "B"
+      },
+      {
+        "target_id": "uc:Ss_55_30_98_23",
+        "target_name": "Domestic and residential sprinkler systems",
+        "score": 0.444,
+        "shared_tokens": [
+          "residential",
+          "dwelling",
+          "home",
+          "housing"
+        ],
+        "relationship": "coordinates",
+        "confidence": "B"
+      },
+      {
+        "target_id": "uc:Ss_90_45",
+        "target_name": "Specific demand of residential organizations",
+        "score": 0.444,
+        "shared_tokens": [
+          "residential",
+          "dwelling",
+          "home",
+          "housing"
+        ],
+        "relationship": "coordinates",
+        "confidence": "B"
+      },
+      {
+        "target_id": "uc:Ss_40_45_70",
+        "target_name": "Residential living space FF&E systems",
+        "score": 0.364,
+        "shared_tokens": [
+          "residential",
+          "dwelling",
+          "home",
+          "housing"
+        ],
+        "relationship": "coordinates",
+        "confidence": "B"
+      },
+      {
+        "target_id": "uc:Ss_55_30_98_70",
+        "target_name": "Residential water mist systems",
+        "score": 0.308,
+        "shared_tokens": [
+          "residential",
+          "dwelling",
+          "home",
+          "housing"
+        ],
+        "relationship": "coordinates",
+        "confidence": "B"
+      }
+    ]
+  },
+  {
+    "source_id": "naics:236115",
+    "source_name": "New Single-Family Housing Construction (except For-Sale Builders)",
+    "source_tokens": [
+      "residential",
+      "single",
+      "new",
+      "family",
+      "except",
+      "dwelling",
+      "construction",
+      "housing",
+      "builders",
+      "home",
+      "sale"
+    ],
+    "matches": [
+      {
+        "target_id": "uc:Ss_55_20_14_70",
+        "target_name": "Residential central vacuum systems",
+        "score": 0.286,
+        "shared_tokens": [
+          "residential",
+          "dwelling",
+          "home",
+          "housing"
+        ],
+        "relationship": "coordinates",
+        "confidence": "C"
+      },
+      {
+        "target_id": "uc:Ss_55_30_98_23",
+        "target_name": "Domestic and residential sprinkler systems",
+        "score": 0.286,
+        "shared_tokens": [
+          "residential",
+          "dwelling",
+          "home",
+          "housing"
+        ],
+        "relationship": "coordinates",
+        "confidence": "C"
+      },
+      {
+        "target_id": "uc:Ss_90_45",
+        "target_name": "Specific demand of residential organizations",
+        "score": 0.286,
+        "shared_tokens": [
+          "residential",
+          "dwelling",
+          "home",
+          "housing"
+        ],
+        "relationship": "coordinates",
+        "confidence": "C"
+      },
+      {
+        "target_id": "uc:Ss_40_45_70",
+        "target_name": "Residential living space FF&E systems",
+        "score": 0.25,
+        "shared_tokens": [
+          "residential",
+          "dwelling",
+          "home",
+          "housing"
+        ],
+        "relationship": "coordinates",
+        "confidence": "C"
+      },
+      {
+        "target_id": "uc:Ss_55_30_98_70",
+        "target_name": "Residential water mist systems",
+        "score": 0.222,
+        "shared_tokens": [
+          "residential",
+          "dwelling",
+          "home",
+          "housing"
+        ],
+        "relationship": "coordinates",
+        "confidence": "C"
+      }
+    ]
+  },
+  {
+    "source_id": "naics:236116",
+    "source_name": "New Multifamily Housing Construction (except For-Sale Builders)",
+    "source_tokens": [
+      "except",
+      "dwelling",
+      "multifamily",
+      "sale",
+      "new",
+      "construction",
+      "housing",
+      "builders",
+      "home",
+      "residential"
+    ],
+    "matches": [
+      {
+        "target_id": "uc:Ss_55_20_14_70",
+        "target_name": "Residential central vacuum systems",
+        "score": 0.308,
+        "shared_tokens": [
+          "residential",
+          "dwelling",
+          "home",
+          "housing"
+        ],
+        "relationship": "coordinates",
+        "confidence": "B"
+      },
+      {
+        "target_id": "uc:Ss_55_30_98_23",
+        "target_name": "Domestic and residential sprinkler systems",
+        "score": 0.308,
+        "shared_tokens": [
+          "residential",
+          "dwelling",
+          "home",
+          "housing"
+        ],
+        "relationship": "coordinates",
+        "confidence": "B"
+      },
+      {
+        "target_id": "uc:Ss_90_45",
+        "target_name": "Specific demand of residential organizations",
+        "score": 0.308,
+        "shared_tokens": [
+          "residential",
+          "dwelling",
+          "home",
+          "housing"
+        ],
+        "relationship": "coordinates",
+        "confidence": "B"
+      },
+      {
+        "target_id": "uc:Ss_40_45_70",
+        "target_name": "Residential living space FF&E systems",
+        "score": 0.267,
+        "shared_tokens": [
+          "residential",
+          "dwelling",
+          "home",
+          "housing"
+        ],
+        "relationship": "coordinates",
+        "confidence": "C"
+      },
+      {
+        "target_id": "uc:Ss_55_30_98_70",
+        "target_name": "Residential water mist systems",
+        "score": 0.235,
+        "shared_tokens": [
+          "residential",
+          "dwelling",
+          "home",
+          "housing"
+        ],
+        "relationship": "coordinates",
+        "confidence": "C"
+      }
+    ]
+  },
+  {
+    "source_id": "naics:236117",
+    "source_name": "New Housing For-Sale Builders",
+    "source_tokens": [
+      "new",
+      "dwelling",
+      "sale",
+      "housing",
+      "builders",
+      "home",
+      "residential"
+    ],
+    "matches": [
+      {
+        "target_id": "uc:Ss_55_20_14_70",
+        "target_name": "Residential central vacuum systems",
+        "score": 0.4,
+        "shared_tokens": [
+          "residential",
+          "dwelling",
+          "home",
+          "housing"
+        ],
+        "relationship": "coordinates",
+        "confidence": "B"
+      },
+      {
+        "target_id": "uc:Ss_55_30_98_23",
+        "target_name": "Domestic and residential sprinkler systems",
+        "score": 0.4,
+        "shared_tokens": [
+          "residential",
+          "dwelling",
+          "home",
+          "housing"
+        ],
+        "relationship": "coordinates",
+        "confidence": "B"
+      },
+      {
+        "target_id": "uc:Ss_90_45",
+        "target_name": "Specific demand of residential organizations",
+        "score": 0.4,
+        "shared_tokens": [
+          "residential",
+          "dwelling",
+          "home",
+          "housing"
+        ],
+        "relationship": "coordinates",
+        "confidence": "B"
+      },
+      {
+        "target_id": "uc:Ss_40_45_70",
+        "target_name": "Residential living space FF&E systems",
+        "score": 0.333,
+        "shared_tokens": [
+          "residential",
+          "dwelling",
+          "home",
+          "housing"
+        ],
+        "relationship": "coordinates",
+        "confidence": "B"
+      },
+      {
+        "target_id": "uc:Ss_55_30_98_70",
+        "target_name": "Residential water mist systems",
+        "score": 0.286,
+        "shared_tokens": [
+          "residential",
+          "dwelling",
+          "home",
+          "housing"
+        ],
+        "relationship": "coordinates",
+        "confidence": "C"
+      }
+    ]
+  },
+  {
+    "source_id": "naics:236118",
+    "source_name": "Residential Remodelers",
+    "source_tokens": [
+      "dwelling",
+      "housing",
+      "home",
+      "residential",
+      "remodelers"
+    ],
+    "matches": [
+      {
+        "target_id": "uc:Ss_55_20_14_70",
+        "target_name": "Residential central vacuum systems",
+        "score": 0.5,
+        "shared_tokens": [
+          "residential",
+          "dwelling",
+          "home",
+          "housing"
+        ],
+        "relationship": "coordinates",
+        "confidence": "A"
+      },
+      {
+        "target_id": "uc:Ss_55_30_98_23",
+        "target_name": "Domestic and residential sprinkler systems",
+        "score": 0.5,
+        "shared_tokens": [
+          "residential",
+          "dwelling",
+          "home",
+          "housing"
+        ],
+        "relationship": "coordinates",
+        "confidence": "A"
+      },
+      {
+        "target_id": "uc:Ss_90_45",
+        "target_name": "Specific demand of residential organizations",
+        "score": 0.5,
+        "shared_tokens": [
+          "residential",
+          "dwelling",
+          "home",
+          "housing"
+        ],
+        "relationship": "coordinates",
+        "confidence": "A"
+      },
+      {
+        "target_id": "uc:Ss_40_45_70",
+        "target_name": "Residential living space FF&E systems",
+        "score": 0.4,
+        "shared_tokens": [
+          "residential",
+          "dwelling",
+          "home",
+          "housing"
+        ],
+        "relationship": "coordinates",
+        "confidence": "B"
+      },
+      {
+        "target_id": "uc:Ss_55_30_98_70",
+        "target_name": "Residential water mist systems",
+        "score": 0.333,
+        "shared_tokens": [
+          "residential",
+          "dwelling",
+          "home",
+          "housing"
+        ],
+        "relationship": "coordinates",
+        "confidence": "B"
+      }
+    ]
+  },
+  {
+    "source_id": "naics:2362",
+    "source_name": "Nonresidential Building Construction",
+    "source_tokens": [
+      "construction",
+      "building",
+      "nonresidential"
+    ],
+    "matches": [
+      {
+        "target_id": "uc:Ss_20_40_10",
+        "target_name": "Building cable systems",
+        "score": 0.2,
+        "shared_tokens": [
+          "building"
+        ],
+        "relationship": "coordinates",
+        "confidence": "C"
+      },
+      {
+        "target_id": "uc:Ss_40_10_35_10",
+        "target_name": "Building signage systems",
+        "score": 0.2,
+        "shared_tokens": [
+          "building"
+        ],
+        "relationship": "coordinates",
+        "confidence": "C"
+      },
+      {
+        "target_id": "uc:Ss_15_30_10",
+        "target_name": "Building services remediation systems",
+        "score": 0.167,
+        "shared_tokens": [
+          "building"
+        ],
+        "relationship": "coordinates",
+        "confidence": "D"
+      },
+      {
+        "target_id": "uc:Ss_75_70_54_10",
+        "target_name": "Building monitoring and management systems",
+        "score": 0.167,
+        "shared_tokens": [
+          "building"
+        ],
+        "relationship": "coordinates",
+        "confidence": "D"
+      }
+    ]
+  },
+  {
+    "source_id": "naics:23621",
+    "source_name": "Industrial Building Construction",
+    "source_tokens": [
+      "manufacturing",
+      "factory",
+      "construction",
+      "building",
+      "industrial",
+      "warehouse"
+    ],
+    "matches": [
+      {
+        "target_id": "uc:Ss_25_30_20_40",
+        "target_name": "Industrial doorset systems",
+        "score": 0.5,
+        "shared_tokens": [
+          "warehouse",
+          "manufacturing",
+          "factory",
+          "industrial"
+        ],
+        "relationship": "coordinates",
+        "confidence": "A"
+      },
+      {
+        "target_id": "uc:Ss_35_10_30_40",
+        "target_name": "Industrial stair systems",
+        "score": 0.5,
+        "shared_tokens": [
+          "warehouse",
+          "manufacturing",
+          "factory",
+          "industrial"
+        ],
+        "relationship": "coordinates",
+        "confidence": "A"
+      },
+      {
+        "target_id": "uc:Ss_80_50_96",
+        "target_name": "Warehouse stacking systems",
+        "score": 0.5,
+        "shared_tokens": [
+          "warehouse",
+          "manufacturing",
+          "factory",
+          "industrial"
+        ],
+        "relationship": "coordinates",
+        "confidence": "A"
+      },
+      {
+        "target_id": "uc:Ss_80_80_40",
+        "target_name": "Industrial turntable systems",
+        "score": 0.5,
+        "shared_tokens": [
+          "warehouse",
+          "manufacturing",
+          "factory",
+          "industrial"
+        ],
+        "relationship": "coordinates",
+        "confidence": "A"
+      },
+      {
+        "target_id": "uc:Ss_40_30_42",
+        "target_name": "Industrial FF&E systems",
+        "score": 0.444,
+        "shared_tokens": [
+          "warehouse",
+          "manufacturing",
+          "factory",
+          "industrial"
+        ],
+        "relationship": "coordinates",
+        "confidence": "B"
+      },
+      {
+        "target_id": "uc:Ss_40_30_42_29",
+        "target_name": "Factory FF&E systems",
+        "score": 0.444,
+        "shared_tokens": [
+          "warehouse",
+          "manufacturing",
+          "factory",
+          "industrial"
+        ],
+        "relationship": "coordinates",
+        "confidence": "B"
+      },
+      {
+        "target_id": "uc:Ss_40_30_42_96",
+        "target_name": "Warehouse FF&E systems",
+        "score": 0.444,
+        "shared_tokens": [
+          "warehouse",
+          "manufacturing",
+          "factory",
+          "industrial"
+        ],
+        "relationship": "coordinates",
+        "confidence": "B"
+      },
+      {
+        "target_id": "uc:Ss_55_20_14_40",
+        "target_name": "Industrial central vacuum systems",
+        "score": 0.444,
+        "shared_tokens": [
+          "warehouse",
+          "manufacturing",
+          "factory",
+          "industrial"
+        ],
+        "relationship": "coordinates",
+        "confidence": "B"
+      },
+      {
+        "target_id": "uc:Ss_65_40_42",
+        "target_name": "Industrial fume extract systems",
+        "score": 0.444,
+        "shared_tokens": [
+          "warehouse",
+          "manufacturing",
+          "factory",
+          "industrial"
+        ],
+        "relationship": "coordinates",
+        "confidence": "B"
+      },
+      {
+        "target_id": "uc:Ss_90_30",
+        "target_name": "Specific demand of industrial organizations",
+        "score": 0.444,
+        "shared_tokens": [
+          "warehouse",
+          "manufacturing",
+          "factory",
+          "industrial"
+        ],
+        "relationship": "coordinates",
+        "confidence": "B"
+      }
+    ]
+  },
+  {
+    "source_id": "naics:236210",
+    "source_name": "Industrial Building Construction",
+    "source_tokens": [
+      "manufacturing",
+      "factory",
+      "construction",
+      "building",
+      "industrial",
+      "warehouse"
+    ],
+    "matches": [
+      {
+        "target_id": "uc:Ss_25_30_20_40",
+        "target_name": "Industrial doorset systems",
+        "score": 0.5,
+        "shared_tokens": [
+          "warehouse",
+          "manufacturing",
+          "factory",
+          "industrial"
+        ],
+        "relationship": "coordinates",
+        "confidence": "A"
+      },
+      {
+        "target_id": "uc:Ss_35_10_30_40",
+        "target_name": "Industrial stair systems",
+        "score": 0.5,
+        "shared_tokens": [
+          "warehouse",
+          "manufacturing",
+          "factory",
+          "industrial"
+        ],
+        "relationship": "coordinates",
+        "confidence": "A"
+      },
+      {
+        "target_id": "uc:Ss_80_50_96",
+        "target_name": "Warehouse stacking systems",
+        "score": 0.5,
+        "shared_tokens": [
+          "warehouse",
+          "manufacturing",
+          "factory",
+          "industrial"
+        ],
+        "relationship": "coordinates",
+        "confidence": "A"
+      },
+      {
+        "target_id": "uc:Ss_80_80_40",
+        "target_name": "Industrial turntable systems",
+        "score": 0.5,
+        "shared_tokens": [
+          "warehouse",
+          "manufacturing",
+          "factory",
+          "industrial"
+        ],
+        "relationship": "coordinates",
+        "confidence": "A"
+      },
+      {
+        "target_id": "uc:Ss_40_30_42",
+        "target_name": "Industrial FF&E systems",
+        "score": 0.444,
+        "shared_tokens": [
+          "warehouse",
+          "manufacturing",
+          "factory",
+          "industrial"
+        ],
+        "relationship": "coordinates",
+        "confidence": "B"
+      },
+      {
+        "target_id": "uc:Ss_40_30_42_29",
+        "target_name": "Factory FF&E systems",
+        "score": 0.444,
+        "shared_tokens": [
+          "warehouse",
+          "manufacturing",
+          "factory",
+          "industrial"
+        ],
+        "relationship": "coordinates",
+        "confidence": "B"
+      },
+      {
+        "target_id": "uc:Ss_40_30_42_96",
+        "target_name": "Warehouse FF&E systems",
+        "score": 0.444,
+        "shared_tokens": [
+          "warehouse",
+          "manufacturing",
+          "factory",
+          "industrial"
+        ],
+        "relationship": "coordinates",
+        "confidence": "B"
+      },
+      {
+        "target_id": "uc:Ss_55_20_14_40",
+        "target_name": "Industrial central vacuum systems",
+        "score": 0.444,
+        "shared_tokens": [
+          "warehouse",
+          "manufacturing",
+          "factory",
+          "industrial"
+        ],
+        "relationship": "coordinates",
+        "confidence": "B"
+      },
+      {
+        "target_id": "uc:Ss_65_40_42",
+        "target_name": "Industrial fume extract systems",
+        "score": 0.444,
+        "shared_tokens": [
+          "warehouse",
+          "manufacturing",
+          "factory",
+          "industrial"
+        ],
+        "relationship": "coordinates",
+        "confidence": "B"
+      },
+      {
+        "target_id": "uc:Ss_90_30",
+        "target_name": "Specific demand of industrial organizations",
+        "score": 0.444,
+        "shared_tokens": [
+          "warehouse",
+          "manufacturing",
+          "factory",
+          "industrial"
+        ],
+        "relationship": "coordinates",
+        "confidence": "B"
+      }
+    ]
+  },
+  {
+    "source_id": "naics:23622",
+    "source_name": "Commercial and Institutional Building Construction",
+    "source_tokens": [
+      "office",
+      "institutional",
+      "business",
+      "construction",
+      "building",
+      "retail",
+      "commercial"
+    ],
+    "matches": [
+      {
+        "target_id": "uc:Ss_40_15_58",
+        "target_name": "Office equipment systems",
+        "score": 0.444,
+        "shared_tokens": [
+          "retail",
+          "office",
+          "commercial",
+          "business"
+        ],
+        "relationship": "coordinates",
+        "confidence": "B"
+      },
+      {
+        "target_id": "uc:Ss_40_20_01_60",
+        "target_name": "Office FF&E systems",
+        "score": 0.4,
+        "shared_tokens": [
+          "retail",
+          "office",
+          "commercial",
+          "business"
+        ],
+        "relationship": "coordinates",
+        "confidence": "B"
+      },
+      {
+        "target_id": "uc:Ss_40_20_15",
+        "target_name": "Commercial FF&E systems",
+        "score": 0.4,
+        "shared_tokens": [
+          "retail",
+          "office",
+          "commercial",
+          "business"
+        ],
+        "relationship": "coordinates",
+        "confidence": "B"
+      },
+      {
+        "target_id": "uc:Ss_40_20_15_71",
+        "target_name": "Retail FF&E systems",
+        "score": 0.4,
+        "shared_tokens": [
+          "retail",
+          "office",
+          "commercial",
+          "business"
+        ],
+        "relationship": "coordinates",
+        "confidence": "B"
+      },
+      {
+        "target_id": "uc:Ss_40_15_25_15",
+        "target_name": "Commercial catering FF&E systems",
+        "score": 0.364,
+        "shared_tokens": [
+          "retail",
+          "office",
+          "commercial",
+          "business"
+        ],
+        "relationship": "coordinates",
+        "confidence": "B"
+      },
+      {
+        "target_id": "uc:Ss_40_15_46_15",
+        "target_name": "Commercial laundry FF&E systems",
+        "score": 0.364,
+        "shared_tokens": [
+          "retail",
+          "office",
+          "commercial",
+          "business"
+        ],
+        "relationship": "coordinates",
+        "confidence": "B"
+      },
+      {
+        "target_id": "uc:Ss_90_20",
+        "target_name": "Specific demand of administrative, commercial and protective services",
+        "score": 0.333,
+        "shared_tokens": [
+          "retail",
+          "office",
+          "commercial",
+          "business"
+        ],
+        "relationship": "coordinates",
+        "confidence": "B"
+      },
+      {
+        "target_id": "uc:Ss_40_20",
+        "target_name": "Administrative, commercial and protective service FF&E systems",
+        "score": 0.308,
+        "shared_tokens": [
+          "retail",
+          "office",
+          "commercial",
+          "business"
+        ],
+        "relationship": "coordinates",
+        "confidence": "B"
+      },
+      {
+        "target_id": "uc:Ss_50_30_04_15",
+        "target_name": "Commercial catering wastewater drainage systems",
+        "score": 0.308,
+        "shared_tokens": [
+          "retail",
+          "office",
+          "commercial",
+          "business"
+        ],
+        "relationship": "coordinates",
+        "confidence": "B"
+      }
+    ]
+  },
+  {
+    "source_id": "naics:236220",
+    "source_name": "Commercial and Institutional Building Construction",
+    "source_tokens": [
+      "office",
+      "institutional",
+      "business",
+      "construction",
+      "building",
+      "retail",
+      "commercial"
+    ],
+    "matches": [
+      {
+        "target_id": "uc:Ss_40_15_58",
+        "target_name": "Office equipment systems",
+        "score": 0.444,
+        "shared_tokens": [
+          "retail",
+          "office",
+          "commercial",
+          "business"
+        ],
+        "relationship": "coordinates",
+        "confidence": "B"
+      },
+      {
+        "target_id": "uc:Ss_40_20_01_60",
+        "target_name": "Office FF&E systems",
+        "score": 0.4,
+        "shared_tokens": [
+          "retail",
+          "office",
+          "commercial",
+          "business"
+        ],
+        "relationship": "coordinates",
+        "confidence": "B"
+      },
+      {
+        "target_id": "uc:Ss_40_20_15",
+        "target_name": "Commercial FF&E systems",
+        "score": 0.4,
+        "shared_tokens": [
+          "retail",
+          "office",
+          "commercial",
+          "business"
+        ],
+        "relationship": "coordinates",
+        "confidence": "B"
+      },
+      {
+        "target_id": "uc:Ss_40_20_15_71",
+        "target_name": "Retail FF&E systems",
+        "score": 0.4,
+        "shared_tokens": [
+          "retail",
+          "office",
+          "commercial",
+          "business"
+        ],
+        "relationship": "coordinates",
+        "confidence": "B"
+      },
+      {
+        "target_id": "uc:Ss_40_15_25_15",
+        "target_name": "Commercial catering FF&E systems",
+        "score": 0.364,
+        "shared_tokens": [
+          "retail",
+          "office",
+          "commercial",
+          "business"
+        ],
+        "relationship": "coordinates",
+        "confidence": "B"
+      },
+      {
+        "target_id": "uc:Ss_40_15_46_15",
+        "target_name": "Commercial laundry FF&E systems",
+        "score": 0.364,
+        "shared_tokens": [
+          "retail",
+          "office",
+          "commercial",
+          "business"
+        ],
+        "relationship": "coordinates",
+        "confidence": "B"
+      },
+      {
+        "target_id": "uc:Ss_90_20",
+        "target_name": "Specific demand of administrative, commercial and protective services",
+        "score": 0.333,
+        "shared_tokens": [
+          "retail",
+          "office",
+          "commercial",
+          "business"
+        ],
+        "relationship": "coordinates",
+        "confidence": "B"
+      },
+      {
+        "target_id": "uc:Ss_40_20",
+        "target_name": "Administrative, commercial and protective service FF&E systems",
+        "score": 0.308,
+        "shared_tokens": [
+          "retail",
+          "office",
+          "commercial",
+          "business"
+        ],
+        "relationship": "coordinates",
+        "confidence": "B"
+      },
+      {
+        "target_id": "uc:Ss_50_30_04_15",
+        "target_name": "Commercial catering wastewater drainage systems",
+        "score": 0.308,
+        "shared_tokens": [
+          "retail",
+          "office",
+          "commercial",
+          "business"
+        ],
+        "relationship": "coordinates",
+        "confidence": "B"
+      }
+    ]
+  },
+  {
+    "source_id": "naics:237",
+    "source_name": "Heavy and Civil Engineering Construction",
+    "source_tokens": [
+      "construction",
+      "engineering",
+      "civil",
+      "heavy"
+    ],
+    "matches": [
+      {
+        "target_id": "uc:Ss_85",
+        "target_name": "Process engineering systems",
+        "score": 0.167,
+        "shared_tokens": [
+          "engineering"
+        ],
+        "relationship": "produces",
+        "confidence": "D"
+      }
+    ]
+  },
+  {
+    "source_id": "naics:23711",
+    "source_name": "Water and Sewer Line and Related Structures Construction",
+    "source_tokens": [
+      "sewer",
+      "related",
+      "pipe",
+      "plumb",
+      "drainage",
+      "structures",
+      "piping",
+      "line",
+      "water",
+      "wastewater",
+      "construction",
+      "sanitary",
+      "plumbing"
+    ],
+    "matches": [
+      {
+        "target_id": "uc:Ss_50_35_45_85",
+        "target_name": "Subsoil drainage pipe drain systems",
+        "score": 0.562,
+        "shared_tokens": [
+          "sewer",
+          "sanitary",
+          "water",
+          "wastewater",
+          "pipe",
+          "piping",
+          "plumb",
+          "drainage",
+          "plumbing"
+        ],
+        "relationship": "produces",
+        "confidence": "A"
+      },
+      {
+        "target_id": "uc:Ss_50_35_80",
+        "target_name": "Storm water gravity drainage systems",
+        "score": 0.562,
+        "shared_tokens": [
+          "sewer",
+          "sanitary",
+          "water",
+          "wastewater",
+          "pipe",
+          "piping",
+          "plumb",
+          "drainage",
+          "plumbing"
+        ],
+        "relationship": "produces",
+        "confidence": "A"
+      },
+      {
+        "target_id": "uc:Ss_75_70_96",
+        "target_name": "Water supply and wastewater control systems",
+        "score": 0.562,
+        "shared_tokens": [
+          "sewer",
+          "sanitary",
+          "water",
+          "wastewater",
+          "pipe",
+          "piping",
+          "plumb",
+          "drainage",
+          "plumbing"
+        ],
+        "relationship": "produces",
+        "confidence": "A"
+      },
+      {
+        "target_id": "uc:Ss_50_35_08_85",
+        "target_name": "Surface water below-ground drainage pipeline systems",
+        "score": 0.5,
+        "shared_tokens": [
+          "sewer",
+          "sanitary",
+          "water",
+          "wastewater",
+          "drainage",
+          "pipe",
+          "plumb",
+          "piping",
+          "plumbing"
+        ],
+        "relationship": "produces",
+        "confidence": "A"
+      },
+      {
+        "target_id": "uc:Ss_50_70_05_85",
+        "target_name": "Below-ground drainage surface water storage tank systems",
+        "score": 0.474,
+        "shared_tokens": [
+          "sewer",
+          "sanitary",
+          "water",
+          "wastewater",
+          "drainage",
+          "pipe",
+          "plumb",
+          "piping",
+          "plumbing"
+        ],
+        "relationship": "produces",
+        "confidence": "B"
+      },
+      {
+        "target_id": "uc:Ss_30_30_72_21",
+        "target_name": "Daylight pipe systems",
+        "score": 0.333,
+        "shared_tokens": [
+          "water",
+          "pipe",
+          "plumb",
+          "piping",
+          "plumbing"
+        ],
+        "relationship": "produces",
+        "confidence": "B"
+      },
+      {
+        "target_id": "uc:Ss_50_70_85_96",
+        "target_name": "Water butt systems",
+        "score": 0.333,
+        "shared_tokens": [
+          "water",
+          "pipe",
+          "plumb",
+          "piping",
+          "plumbing"
+        ],
+        "relationship": "produces",
+        "confidence": "B"
+      },
+      {
+        "target_id": "uc:Ss_55_30_96",
+        "target_name": "Water firefighting systems",
+        "score": 0.333,
+        "shared_tokens": [
+          "water",
+          "pipe",
+          "plumb",
+          "piping",
+          "plumbing"
+        ],
+        "relationship": "produces",
+        "confidence": "B"
+      },
+      {
+        "target_id": "uc:Ss_55_30_98_96",
+        "target_name": "Water mist systems",
+        "score": 0.333,
+        "shared_tokens": [
+          "water",
+          "pipe",
+          "plumb",
+          "piping",
+          "plumbing"
+        ],
+        "relationship": "produces",
+        "confidence": "B"
+      },
+      {
+        "target_id": "uc:Ss_55_70_96",
+        "target_name": "Water feature systems",
+        "score": 0.333,
+        "shared_tokens": [
+          "water",
+          "pipe",
+          "plumb",
+          "piping",
+          "plumbing"
+        ],
+        "relationship": "produces",
+        "confidence": "B"
+      }
+    ]
+  },
+  {
+    "source_id": "naics:237110",
+    "source_name": "Water and Sewer Line and Related Structures Construction",
+    "source_tokens": [
+      "sewer",
+      "related",
+      "pipe",
+      "plumb",
+      "drainage",
+      "structures",
+      "piping",
+      "line",
+      "water",
+      "wastewater",
+      "construction",
+      "sanitary",
+      "plumbing"
+    ],
+    "matches": [
+      {
+        "target_id": "uc:Ss_50_35_45_85",
+        "target_name": "Subsoil drainage pipe drain systems",
+        "score": 0.562,
+        "shared_tokens": [
+          "sewer",
+          "sanitary",
+          "water",
+          "wastewater",
+          "pipe",
+          "piping",
+          "plumb",
+          "drainage",
+          "plumbing"
+        ],
+        "relationship": "produces",
+        "confidence": "A"
+      },
+      {
+        "target_id": "uc:Ss_50_35_80",
+        "target_name": "Storm water gravity drainage systems",
+        "score": 0.562,
+        "shared_tokens": [
+          "sewer",
+          "sanitary",
+          "water",
+          "wastewater",
+          "pipe",
+          "piping",
+          "plumb",
+          "drainage",
+          "plumbing"
+        ],
+        "relationship": "produces",
+        "confidence": "A"
+      },
+      {
+        "target_id": "uc:Ss_75_70_96",
+        "target_name": "Water supply and wastewater control systems",
+        "score": 0.562,
+        "shared_tokens": [
+          "sewer",
+          "sanitary",
+          "water",
+          "wastewater",
+          "pipe",
+          "piping",
+          "plumb",
+          "drainage",
+          "plumbing"
+        ],
+        "relationship": "produces",
+        "confidence": "A"
+      },
+      {
+        "target_id": "uc:Ss_50_35_08_85",
+        "target_name": "Surface water below-ground drainage pipeline systems",
+        "score": 0.5,
+        "shared_tokens": [
+          "sewer",
+          "sanitary",
+          "water",
+          "wastewater",
+          "drainage",
+          "pipe",
+          "plumb",
+          "piping",
+          "plumbing"
+        ],
+        "relationship": "produces",
+        "confidence": "A"
+      },
+      {
+        "target_id": "uc:Ss_50_70_05_85",
+        "target_name": "Below-ground drainage surface water storage tank systems",
+        "score": 0.474,
+        "shared_tokens": [
+          "sewer",
+          "sanitary",
+          "water",
+          "wastewater",
+          "drainage",
+          "pipe",
+          "plumb",
+          "piping",
+          "plumbing"
+        ],
+        "relationship": "produces",
+        "confidence": "B"
+      },
+      {
+        "target_id": "uc:Ss_30_30_72_21",
+        "target_name": "Daylight pipe systems",
+        "score": 0.333,
+        "shared_tokens": [
+          "water",
+          "pipe",
+          "plumb",
+          "piping",
+          "plumbing"
+        ],
+        "relationship": "produces",
+        "confidence": "B"
+      },
+      {
+        "target_id": "uc:Ss_50_70_85_96",
+        "target_name": "Water butt systems",
+        "score": 0.333,
+        "shared_tokens": [
+          "water",
+          "pipe",
+          "plumb",
+          "piping",
+          "plumbing"
+        ],
+        "relationship": "produces",
+        "confidence": "B"
+      },
+      {
+        "target_id": "uc:Ss_55_30_96",
+        "target_name": "Water firefighting systems",
+        "score": 0.333,
+        "shared_tokens": [
+          "water",
+          "pipe",
+          "plumb",
+          "piping",
+          "plumbing"
+        ],
+        "relationship": "produces",
+        "confidence": "B"
+      },
+      {
+        "target_id": "uc:Ss_55_30_98_96",
+        "target_name": "Water mist systems",
+        "score": 0.333,
+        "shared_tokens": [
+          "water",
+          "pipe",
+          "plumb",
+          "piping",
+          "plumbing"
+        ],
+        "relationship": "produces",
+        "confidence": "B"
+      },
+      {
+        "target_id": "uc:Ss_55_70_96",
+        "target_name": "Water feature systems",
+        "score": 0.333,
+        "shared_tokens": [
+          "water",
+          "pipe",
+          "plumb",
+          "piping",
+          "plumbing"
+        ],
+        "relationship": "produces",
+        "confidence": "B"
+      }
+    ]
+  },
+  {
+    "source_id": "naics:23713",
+    "source_name": "Power and Communication Line and Related Structures Construction",
+    "source_tokens": [
+      "power",
+      "related",
+      "communication",
+      "electric",
+      "structures",
+      "line",
+      "wiring",
+      "construction",
+      "electrical"
+    ],
+    "matches": [
+      {
+        "target_id": "uc:Ss_70",
+        "target_name": "Electrical systems",
+        "score": 0.4,
+        "shared_tokens": [
+          "electric",
+          "electrical",
+          "power",
+          "wiring"
+        ],
+        "relationship": "produces",
+        "confidence": "B"
+      },
+      {
+        "target_id": "uc:Ss_70_30_60",
+        "target_name": "Overhead line traction power distribution systems",
+        "score": 0.385,
+        "shared_tokens": [
+          "line",
+          "power",
+          "wiring",
+          "electrical",
+          "electric"
+        ],
+        "relationship": "produces",
+        "confidence": "B"
+      },
+      {
+        "target_id": "uc:Ss_25_14_67_27",
+        "target_name": "Electric fencing systems",
+        "score": 0.364,
+        "shared_tokens": [
+          "electric",
+          "electrical",
+          "power",
+          "wiring"
+        ],
+        "relationship": "produces",
+        "confidence": "B"
+      },
+      {
+        "target_id": "uc:Ss_70_30_80",
+        "target_name": "Small power systems",
+        "score": 0.364,
+        "shared_tokens": [
+          "electric",
+          "electrical",
+          "power",
+          "wiring"
+        ],
+        "relationship": "produces",
+        "confidence": "B"
+      },
+      {
+        "target_id": "uc:Ss_70_95",
+        "target_name": "Temporary electrical systems",
+        "score": 0.364,
+        "shared_tokens": [
+          "electric",
+          "electrical",
+          "power",
+          "wiring"
+        ],
+        "relationship": "produces",
+        "confidence": "B"
+      },
+      {
+        "target_id": "uc:Ss_75_50_45",
+        "target_name": "Electrical protection systems",
+        "score": 0.364,
+        "shared_tokens": [
+          "electric",
+          "electrical",
+          "power",
+          "wiring"
+        ],
+        "relationship": "produces",
+        "confidence": "B"
+      },
+      {
+        "target_id": "uc:Ss_85_50",
+        "target_name": "Mechanical power systems",
+        "score": 0.364,
+        "shared_tokens": [
+          "electric",
+          "electrical",
+          "power",
+          "wiring"
+        ],
+        "relationship": "produces",
+        "confidence": "B"
+      },
+      {
+        "target_id": "uc:Ss_85_50_65",
+        "target_name": "Power supply systems",
+        "score": 0.364,
+        "shared_tokens": [
+          "electric",
+          "electrical",
+          "power",
+          "wiring"
+        ],
+        "relationship": "produces",
+        "confidence": "B"
+      },
+      {
+        "target_id": "uc:Ss_85_50_65_38",
+        "target_name": "Hydraulic power systems",
+        "score": 0.364,
+        "shared_tokens": [
+          "electric",
+          "electrical",
+          "power",
+          "wiring"
+        ],
+        "relationship": "produces",
+        "confidence": "B"
+      },
+      {
+        "target_id": "uc:Ss_15_95_70",
+        "target_name": "Temporary electrical works systems",
+        "score": 0.333,
+        "shared_tokens": [
+          "electric",
+          "electrical",
+          "power",
+          "wiring"
+        ],
+        "relationship": "produces",
+        "confidence": "B"
+      }
+    ]
+  },
+  {
+    "source_id": "naics:237130",
+    "source_name": "Power and Communication Line and Related Structures Construction",
+    "source_tokens": [
+      "power",
+      "related",
+      "communication",
+      "electric",
+      "structures",
+      "line",
+      "wiring",
+      "construction",
+      "electrical"
+    ],
+    "matches": [
+      {
+        "target_id": "uc:Ss_70",
+        "target_name": "Electrical systems",
+        "score": 0.4,
+        "shared_tokens": [
+          "electric",
+          "electrical",
+          "power",
+          "wiring"
+        ],
+        "relationship": "produces",
+        "confidence": "B"
+      },
+      {
+        "target_id": "uc:Ss_70_30_60",
+        "target_name": "Overhead line traction power distribution systems",
+        "score": 0.385,
+        "shared_tokens": [
+          "line",
+          "power",
+          "wiring",
+          "electrical",
+          "electric"
+        ],
+        "relationship": "produces",
+        "confidence": "B"
+      },
+      {
+        "target_id": "uc:Ss_25_14_67_27",
+        "target_name": "Electric fencing systems",
+        "score": 0.364,
+        "shared_tokens": [
+          "electric",
+          "electrical",
+          "power",
+          "wiring"
+        ],
+        "relationship": "produces",
+        "confidence": "B"
+      },
+      {
+        "target_id": "uc:Ss_70_30_80",
+        "target_name": "Small power systems",
+        "score": 0.364,
+        "shared_tokens": [
+          "electric",
+          "electrical",
+          "power",
+          "wiring"
+        ],
+        "relationship": "produces",
+        "confidence": "B"
+      },
+      {
+        "target_id": "uc:Ss_70_95",
+        "target_name": "Temporary electrical systems",
+        "score": 0.364,
+        "shared_tokens": [
+          "electric",
+          "electrical",
+          "power",
+          "wiring"
+        ],
+        "relationship": "produces",
+        "confidence": "B"
+      },
+      {
+        "target_id": "uc:Ss_75_50_45",
+        "target_name": "Electrical protection systems",
+        "score": 0.364,
+        "shared_tokens": [
+          "electric",
+          "electrical",
+          "power",
+          "wiring"
+        ],
+        "relationship": "produces",
+        "confidence": "B"
+      },
+      {
+        "target_id": "uc:Ss_85_50",
+        "target_name": "Mechanical power systems",
+        "score": 0.364,
+        "shared_tokens": [
+          "electric",
+          "electrical",
+          "power",
+          "wiring"
+        ],
+        "relationship": "produces",
+        "confidence": "B"
+      },
+      {
+        "target_id": "uc:Ss_85_50_65",
+        "target_name": "Power supply systems",
+        "score": 0.364,
+        "shared_tokens": [
+          "electric",
+          "electrical",
+          "power",
+          "wiring"
+        ],
+        "relationship": "produces",
+        "confidence": "B"
+      },
+      {
+        "target_id": "uc:Ss_85_50_65_38",
+        "target_name": "Hydraulic power systems",
+        "score": 0.364,
+        "shared_tokens": [
+          "electric",
+          "electrical",
+          "power",
+          "wiring"
+        ],
+        "relationship": "produces",
+        "confidence": "B"
+      },
+      {
+        "target_id": "uc:Ss_15_95_70",
+        "target_name": "Temporary electrical works systems",
+        "score": 0.333,
+        "shared_tokens": [
+          "electric",
+          "electrical",
+          "power",
+          "wiring"
+        ],
+        "relationship": "produces",
+        "confidence": "B"
+      }
+    ]
+  },
+  {
+    "source_id": "naics:2372",
+    "source_name": "Land Subdivision",
+    "source_tokens": [
+      "land",
+      "subdivision"
+    ],
+    "matches": [
+      {
+        "target_id": "uc:Ss_45_55",
+        "target_name": "Land fauna systems",
+        "score": 0.25,
+        "shared_tokens": [
+          "land"
+        ],
+        "relationship": "produces",
+        "confidence": "C"
+      }
+    ]
+  },
+  {
+    "source_id": "naics:23721",
+    "source_name": "Land Subdivision",
+    "source_tokens": [
+      "land",
+      "subdivision"
+    ],
+    "matches": [
+      {
+        "target_id": "uc:Ss_45_55",
+        "target_name": "Land fauna systems",
+        "score": 0.25,
+        "shared_tokens": [
+          "land"
+        ],
+        "relationship": "produces",
+        "confidence": "C"
+      }
+    ]
+  },
+  {
+    "source_id": "naics:237210",
+    "source_name": "Land Subdivision",
+    "source_tokens": [
+      "land",
+      "subdivision"
+    ],
+    "matches": [
+      {
+        "target_id": "uc:Ss_45_55",
+        "target_name": "Land fauna systems",
+        "score": 0.25,
+        "shared_tokens": [
+          "land"
+        ],
+        "relationship": "produces",
+        "confidence": "C"
+      }
+    ]
+  },
+  {
+    "source_id": "naics:2373",
+    "source_name": "Highway, Street, and Bridge Construction",
+    "source_tokens": [
+      "road",
+      "paving",
+      "span",
+      "highway",
+      "pavement",
+      "construction",
+      "overpass",
+      "street",
+      "bridge"
+    ],
+    "matches": [
+      {
+        "target_id": "uc:Ss_30_14",
+        "target_name": "Paving systems",
+        "score": 0.5,
+        "shared_tokens": [
+          "road",
+          "paving",
+          "highway",
+          "pavement",
+          "street"
+        ],
+        "relationship": "produces",
+        "confidence": "A"
+      },
+      {
+        "target_id": "uc:Ss_30_14_05",
+        "target_name": "Asphalt road and paving systems",
+        "score": 0.455,
+        "shared_tokens": [
+          "road",
+          "paving",
+          "highway",
+          "pavement",
+          "street"
+        ],
+        "relationship": "produces",
+        "confidence": "B"
+      },
+      {
+        "target_id": "uc:Ss_30_14_80_37",
+        "target_name": "Hoggin paving systems",
+        "score": 0.455,
+        "shared_tokens": [
+          "road",
+          "paving",
+          "highway",
+          "pavement",
+          "street"
+        ],
+        "relationship": "produces",
+        "confidence": "B"
+      },
+      {
+        "target_id": "uc:Ss_30_14_90",
+        "target_name": "Unit paving systems",
+        "score": 0.455,
+        "shared_tokens": [
+          "road",
+          "paving",
+          "highway",
+          "pavement",
+          "street"
+        ],
+        "relationship": "produces",
+        "confidence": "B"
+      },
+      {
+        "target_id": "uc:Ss_30_14_90_50",
+        "target_name": "Mosaic paving systems",
+        "score": 0.455,
+        "shared_tokens": [
+          "road",
+          "paving",
+          "highway",
+          "pavement",
+          "street"
+        ],
+        "relationship": "produces",
+        "confidence": "B"
+      },
+      {
+        "target_id": "uc:Ss_30_34",
+        "target_name": "Pavement opening systems",
+        "score": 0.455,
+        "shared_tokens": [
+          "road",
+          "paving",
+          "highway",
+          "pavement",
+          "street"
+        ],
+        "relationship": "produces",
+        "confidence": "B"
+      },
+      {
+        "target_id": "uc:Ss_30_60_45_20",
+        "target_name": "Demarcation paving systems",
+        "score": 0.455,
+        "shared_tokens": [
+          "road",
+          "paving",
+          "highway",
+          "pavement",
+          "street"
+        ],
+        "relationship": "produces",
+        "confidence": "B"
+      },
+      {
+        "target_id": "uc:Ss_37_17_50_72",
+        "target_name": "Road mast systems",
+        "score": 0.455,
+        "shared_tokens": [
+          "road",
+          "paving",
+          "highway",
+          "pavement",
+          "street"
+        ],
+        "relationship": "produces",
+        "confidence": "B"
+      },
+      {
+        "target_id": "uc:Ss_50_70_85_61",
+        "target_name": "Pervious pavement systems",
+        "score": 0.455,
+        "shared_tokens": [
+          "road",
+          "paving",
+          "highway",
+          "pavement",
+          "street"
+        ],
+        "relationship": "produces",
+        "confidence": "B"
+      },
+      {
+        "target_id": "uc:Ss_15_95_80",
+        "target_name": "Temporary pavement works systems",
+        "score": 0.417,
+        "shared_tokens": [
+          "road",
+          "paving",
+          "highway",
+          "pavement",
+          "street"
+        ],
+        "relationship": "produces",
+        "confidence": "B"
+      }
+    ]
+  },
+  {
+    "source_id": "naics:23731",
+    "source_name": "Highway, Street, and Bridge Construction",
+    "source_tokens": [
+      "road",
+      "paving",
+      "span",
+      "highway",
+      "pavement",
+      "construction",
+      "overpass",
+      "street",
+      "bridge"
+    ],
+    "matches": [
+      {
+        "target_id": "uc:Ss_30_14",
+        "target_name": "Paving systems",
+        "score": 0.5,
+        "shared_tokens": [
+          "road",
+          "paving",
+          "highway",
+          "pavement",
+          "street"
+        ],
+        "relationship": "produces",
+        "confidence": "A"
+      },
+      {
+        "target_id": "uc:Ss_30_14_05",
+        "target_name": "Asphalt road and paving systems",
+        "score": 0.455,
+        "shared_tokens": [
+          "road",
+          "paving",
+          "highway",
+          "pavement",
+          "street"
+        ],
+        "relationship": "produces",
+        "confidence": "B"
+      },
+      {
+        "target_id": "uc:Ss_30_14_80_37",
+        "target_name": "Hoggin paving systems",
+        "score": 0.455,
+        "shared_tokens": [
+          "road",
+          "paving",
+          "highway",
+          "pavement",
+          "street"
+        ],
+        "relationship": "produces",
+        "confidence": "B"
+      },
+      {
+        "target_id": "uc:Ss_30_14_90",
+        "target_name": "Unit paving systems",
+        "score": 0.455,
+        "shared_tokens": [
+          "road",
+          "paving",
+          "highway",
+          "pavement",
+          "street"
+        ],
+        "relationship": "produces",
+        "confidence": "B"
+      },
+      {
+        "target_id": "uc:Ss_30_14_90_50",
+        "target_name": "Mosaic paving systems",
+        "score": 0.455,
+        "shared_tokens": [
+          "road",
+          "paving",
+          "highway",
+          "pavement",
+          "street"
+        ],
+        "relationship": "produces",
+        "confidence": "B"
+      },
+      {
+        "target_id": "uc:Ss_30_34",
+        "target_name": "Pavement opening systems",
+        "score": 0.455,
+        "shared_tokens": [
+          "road",
+          "paving",
+          "highway",
+          "pavement",
+          "street"
+        ],
+        "relationship": "produces",
+        "confidence": "B"
+      },
+      {
+        "target_id": "uc:Ss_30_60_45_20",
+        "target_name": "Demarcation paving systems",
+        "score": 0.455,
+        "shared_tokens": [
+          "road",
+          "paving",
+          "highway",
+          "pavement",
+          "street"
+        ],
+        "relationship": "produces",
+        "confidence": "B"
+      },
+      {
+        "target_id": "uc:Ss_37_17_50_72",
+        "target_name": "Road mast systems",
+        "score": 0.455,
+        "shared_tokens": [
+          "road",
+          "paving",
+          "highway",
+          "pavement",
+          "street"
+        ],
+        "relationship": "produces",
+        "confidence": "B"
+      },
+      {
+        "target_id": "uc:Ss_50_70_85_61",
+        "target_name": "Pervious pavement systems",
+        "score": 0.455,
+        "shared_tokens": [
+          "road",
+          "paving",
+          "highway",
+          "pavement",
+          "street"
+        ],
+        "relationship": "produces",
+        "confidence": "B"
+      },
+      {
+        "target_id": "uc:Ss_15_95_80",
+        "target_name": "Temporary pavement works systems",
+        "score": 0.417,
+        "shared_tokens": [
+          "road",
+          "paving",
+          "highway",
+          "pavement",
+          "street"
+        ],
+        "relationship": "produces",
+        "confidence": "B"
+      }
+    ]
+  },
+  {
+    "source_id": "naics:237310",
+    "source_name": "Highway, Street, and Bridge Construction",
+    "source_tokens": [
+      "road",
+      "paving",
+      "span",
+      "highway",
+      "pavement",
+      "construction",
+      "overpass",
+      "street",
+      "bridge"
+    ],
+    "matches": [
+      {
+        "target_id": "uc:Ss_30_14",
+        "target_name": "Paving systems",
+        "score": 0.5,
+        "shared_tokens": [
+          "road",
+          "paving",
+          "highway",
+          "pavement",
+          "street"
+        ],
+        "relationship": "produces",
+        "confidence": "A"
+      },
+      {
+        "target_id": "uc:Ss_30_14_05",
+        "target_name": "Asphalt road and paving systems",
+        "score": 0.455,
+        "shared_tokens": [
+          "road",
+          "paving",
+          "highway",
+          "pavement",
+          "street"
+        ],
+        "relationship": "produces",
+        "confidence": "B"
+      },
+      {
+        "target_id": "uc:Ss_30_14_80_37",
+        "target_name": "Hoggin paving systems",
+        "score": 0.455,
+        "shared_tokens": [
+          "road",
+          "paving",
+          "highway",
+          "pavement",
+          "street"
+        ],
+        "relationship": "produces",
+        "confidence": "B"
+      },
+      {
+        "target_id": "uc:Ss_30_14_90",
+        "target_name": "Unit paving systems",
+        "score": 0.455,
+        "shared_tokens": [
+          "road",
+          "paving",
+          "highway",
+          "pavement",
+          "street"
+        ],
+        "relationship": "produces",
+        "confidence": "B"
+      },
+      {
+        "target_id": "uc:Ss_30_14_90_50",
+        "target_name": "Mosaic paving systems",
+        "score": 0.455,
+        "shared_tokens": [
+          "road",
+          "paving",
+          "highway",
+          "pavement",
+          "street"
+        ],
+        "relationship": "produces",
+        "confidence": "B"
+      },
+      {
+        "target_id": "uc:Ss_30_34",
+        "target_name": "Pavement opening systems",
+        "score": 0.455,
+        "shared_tokens": [
+          "road",
+          "paving",
+          "highway",
+          "pavement",
+          "street"
+        ],
+        "relationship": "produces",
+        "confidence": "B"
+      },
+      {
+        "target_id": "uc:Ss_30_60_45_20",
+        "target_name": "Demarcation paving systems",
+        "score": 0.455,
+        "shared_tokens": [
+          "road",
+          "paving",
+          "highway",
+          "pavement",
+          "street"
+        ],
+        "relationship": "produces",
+        "confidence": "B"
+      },
+      {
+        "target_id": "uc:Ss_37_17_50_72",
+        "target_name": "Road mast systems",
+        "score": 0.455,
+        "shared_tokens": [
+          "road",
+          "paving",
+          "highway",
+          "pavement",
+          "street"
+        ],
+        "relationship": "produces",
+        "confidence": "B"
+      },
+      {
+        "target_id": "uc:Ss_50_70_85_61",
+        "target_name": "Pervious pavement systems",
+        "score": 0.455,
+        "shared_tokens": [
+          "road",
+          "paving",
+          "highway",
+          "pavement",
+          "street"
+        ],
+        "relationship": "produces",
+        "confidence": "B"
+      },
+      {
+        "target_id": "uc:Ss_15_95_80",
+        "target_name": "Temporary pavement works systems",
+        "score": 0.417,
+        "shared_tokens": [
+          "road",
+          "paving",
+          "highway",
+          "pavement",
+          "street"
+        ],
+        "relationship": "produces",
+        "confidence": "B"
+      }
+    ]
+  },
+  {
+    "source_id": "naics:2381",
+    "source_name": "Foundation, Structure, and Building Exterior Contractors",
+    "source_tokens": [
+      "foundation",
+      "contractors",
+      "frame",
+      "substructure",
+      "footing",
+      "framing",
+      "structural",
+      "exterior",
+      "structure",
+      "building"
+    ],
+    "matches": [
+      {
+        "target_id": "uc:Ss_20",
+        "target_name": "Structural systems",
+        "score": 0.364,
+        "shared_tokens": [
+          "frame",
+          "framing",
+          "structure",
+          "structural"
+        ],
+        "relationship": "produces",
+        "confidence": "B"
+      },
+      {
+        "target_id": "uc:Ss_20_10",
+        "target_name": "Structural frame systems",
+        "score": 0.364,
+        "shared_tokens": [
+          "frame",
+          "framing",
+          "structure",
+          "structural"
+        ],
+        "relationship": "produces",
+        "confidence": "B"
+      },
+      {
+        "target_id": "uc:Ss_20_10_75",
+        "target_name": "Structural framing systems",
+        "score": 0.364,
+        "shared_tokens": [
+          "frame",
+          "framing",
+          "structure",
+          "structural"
+        ],
+        "relationship": "produces",
+        "confidence": "B"
+      },
+      {
+        "target_id": "uc:Ss_20_20",
+        "target_name": "Structural beams",
+        "score": 0.364,
+        "shared_tokens": [
+          "frame",
+          "framing",
+          "structure",
+          "structural"
+        ],
+        "relationship": "produces",
+        "confidence": "B"
+      },
+      {
+        "target_id": "uc:Ss_20_30",
+        "target_name": "Structural columns",
+        "score": 0.364,
+        "shared_tokens": [
+          "frame",
+          "framing",
+          "structure",
+          "structural"
+        ],
+        "relationship": "produces",
+        "confidence": "B"
+      },
+      {
+        "target_id": "uc:Ss_15_95_20_72",
+        "target_name": "Retention structure systems",
+        "score": 0.333,
+        "shared_tokens": [
+          "frame",
+          "framing",
+          "structure",
+          "structural"
+        ],
+        "relationship": "produces",
+        "confidence": "B"
+      },
+      {
+        "target_id": "uc:Ss_20_05_80",
+        "target_name": "Structural grouting systems",
+        "score": 0.333,
+        "shared_tokens": [
+          "frame",
+          "framing",
+          "structure",
+          "structural"
+        ],
+        "relationship": "produces",
+        "confidence": "B"
+      },
+      {
+        "target_id": "uc:Ss_20_20_75",
+        "target_name": "Structural beam systems",
+        "score": 0.333,
+        "shared_tokens": [
+          "frame",
+          "framing",
+          "structure",
+          "structural"
+        ],
+        "relationship": "produces",
+        "confidence": "B"
+      },
+      {
+        "target_id": "uc:Ss_20_30_75",
+        "target_name": "Structural column systems",
+        "score": 0.333,
+        "shared_tokens": [
+          "frame",
+          "framing",
+          "structure",
+          "structural"
+        ],
+        "relationship": "produces",
+        "confidence": "B"
+      },
+      {
+        "target_id": "uc:Ss_20_80",
+        "target_name": "Structure accessory systems",
+        "score": 0.333,
+        "shared_tokens": [
+          "frame",
+          "framing",
+          "structure",
+          "structural"
+        ],
+        "relationship": "produces",
+        "confidence": "B"
+      }
+    ]
+  },
+  {
+    "source_id": "naics:23811",
+    "source_name": "Poured Concrete Foundation and Structure Contractors",
+    "source_tokens": [
+      "foundation",
+      "contractors",
+      "concrete",
+      "frame",
+      "substructure",
+      "footing",
+      "framing",
+      "masonry",
+      "structural",
+      "structure",
+      "cement",
+      "poured"
+    ],
+    "matches": [
+      {
+        "target_id": "uc:Ss_20_10_75_70",
+        "target_name": "Reinforced concrete framing systems",
+        "score": 0.5,
+        "shared_tokens": [
+          "framing",
+          "masonry",
+          "structural",
+          "concrete",
+          "frame",
+          "structure",
+          "cement"
+        ],
+        "relationship": "produces",
+        "confidence": "A"
+      },
+      {
+        "target_id": "uc:Ss_37_50_92_50",
+        "target_name": "Masonry tunnel structure systems",
+        "score": 0.5,
+        "shared_tokens": [
+          "framing",
+          "masonry",
+          "structural",
+          "concrete",
+          "frame",
+          "structure",
+          "cement"
+        ],
+        "relationship": "produces",
+        "confidence": "A"
+      },
+      {
+        "target_id": "uc:Ss_20_10_75_65",
+        "target_name": "Precast reinforced concrete framing systems",
+        "score": 0.467,
+        "shared_tokens": [
+          "framing",
+          "masonry",
+          "structural",
+          "concrete",
+          "frame",
+          "structure",
+          "cement"
+        ],
+        "relationship": "produces",
+        "confidence": "B"
+      },
+      {
+        "target_id": "uc:Ss_37_50_80_71",
+        "target_name": "Reinforced concrete shaft structure systems",
+        "score": 0.467,
+        "shared_tokens": [
+          "framing",
+          "masonry",
+          "structural",
+          "concrete",
+          "frame",
+          "structure",
+          "cement"
+        ],
+        "relationship": "produces",
+        "confidence": "B"
+      },
+      {
+        "target_id": "uc:Ss_37_50_92_71",
+        "target_name": "Reinforced concrete tunnel structure systems",
+        "score": 0.467,
+        "shared_tokens": [
+          "framing",
+          "masonry",
+          "structural",
+          "concrete",
+          "frame",
+          "structure",
+          "cement"
+        ],
+        "relationship": "produces",
+        "confidence": "B"
+      },
+      {
+        "target_id": "uc:Ss_20_05_15",
+        "target_name": "Concrete foundation systems",
+        "score": 0.462,
+        "shared_tokens": [
+          "foundation",
+          "masonry",
+          "concrete",
+          "substructure",
+          "footing",
+          "cement"
+        ],
+        "relationship": "produces",
+        "confidence": "B"
+      },
+      {
+        "target_id": "uc:Ss_30_10_30_60",
+        "target_name": "Precast concrete roof structure systems",
+        "score": 0.438,
+        "shared_tokens": [
+          "framing",
+          "masonry",
+          "structural",
+          "concrete",
+          "frame",
+          "structure",
+          "cement"
+        ],
+        "relationship": "produces",
+        "confidence": "B"
+      },
+      {
+        "target_id": "uc:Ss_30_10_30_70",
+        "target_name": "Reinforced concrete roof framing systems",
+        "score": 0.438,
+        "shared_tokens": [
+          "framing",
+          "masonry",
+          "structural",
+          "concrete",
+          "frame",
+          "structure",
+          "cement"
+        ],
+        "relationship": "produces",
+        "confidence": "B"
+      },
+      {
+        "target_id": "uc:Ss_20_05_50",
+        "target_name": "Minor concrete substructure systems",
+        "score": 0.429,
+        "shared_tokens": [
+          "foundation",
+          "masonry",
+          "concrete",
+          "substructure",
+          "footing",
+          "cement"
+        ],
+        "relationship": "produces",
+        "confidence": "B"
+      },
+      {
+        "target_id": "uc:Ss_25_11_16_70",
+        "target_name": "Reinforced concrete wall structure systems",
+        "score": 0.412,
+        "shared_tokens": [
+          "framing",
+          "masonry",
+          "structural",
+          "concrete",
+          "frame",
+          "structure",
+          "cement"
+        ],
+        "relationship": "produces",
+        "confidence": "B"
+      }
+    ]
+  },
+  {
+    "source_id": "naics:238110",
+    "source_name": "Poured Concrete Foundation and Structure Contractors",
+    "source_tokens": [
+      "foundation",
+      "contractors",
+      "concrete",
+      "frame",
+      "substructure",
+      "footing",
+      "framing",
+      "masonry",
+      "structural",
+      "structure",
+      "cement",
+      "poured"
+    ],
+    "matches": [
+      {
+        "target_id": "uc:Ss_20_10_75_70",
+        "target_name": "Reinforced concrete framing systems",
+        "score": 0.5,
+        "shared_tokens": [
+          "framing",
+          "masonry",
+          "structural",
+          "concrete",
+          "frame",
+          "structure",
+          "cement"
+        ],
+        "relationship": "produces",
+        "confidence": "A"
+      },
+      {
+        "target_id": "uc:Ss_37_50_92_50",
+        "target_name": "Masonry tunnel structure systems",
+        "score": 0.5,
+        "shared_tokens": [
+          "framing",
+          "masonry",
+          "structural",
+          "concrete",
+          "frame",
+          "structure",
+          "cement"
+        ],
+        "relationship": "produces",
+        "confidence": "A"
+      },
+      {
+        "target_id": "uc:Ss_20_10_75_65",
+        "target_name": "Precast reinforced concrete framing systems",
+        "score": 0.467,
+        "shared_tokens": [
+          "framing",
+          "masonry",
+          "structural",
+          "concrete",
+          "frame",
+          "structure",
+          "cement"
+        ],
+        "relationship": "produces",
+        "confidence": "B"
+      },
+      {
+        "target_id": "uc:Ss_37_50_80_71",
+        "target_name": "Reinforced concrete shaft structure systems",
+        "score": 0.467,
+        "shared_tokens": [
+          "framing",
+          "masonry",
+          "structural",
+          "concrete",
+          "frame",
+          "structure",
+          "cement"
+        ],
+        "relationship": "produces",
+        "confidence": "B"
+      },
+      {
+        "target_id": "uc:Ss_37_50_92_71",
+        "target_name": "Reinforced concrete tunnel structure systems",
+        "score": 0.467,
+        "shared_tokens": [
+          "framing",
+          "masonry",
+          "structural",
+          "concrete",
+          "frame",
+          "structure",
+          "cement"
+        ],
+        "relationship": "produces",
+        "confidence": "B"
+      },
+      {
+        "target_id": "uc:Ss_20_05_15",
+        "target_name": "Concrete foundation systems",
+        "score": 0.462,
+        "shared_tokens": [
+          "foundation",
+          "masonry",
+          "concrete",
+          "substructure",
+          "footing",
+          "cement"
+        ],
+        "relationship": "produces",
+        "confidence": "B"
+      },
+      {
+        "target_id": "uc:Ss_30_10_30_60",
+        "target_name": "Precast concrete roof structure systems",
+        "score": 0.438,
+        "shared_tokens": [
+          "framing",
+          "masonry",
+          "structural",
+          "concrete",
+          "frame",
+          "structure",
+          "cement"
+        ],
+        "relationship": "produces",
+        "confidence": "B"
+      },
+      {
+        "target_id": "uc:Ss_30_10_30_70",
+        "target_name": "Reinforced concrete roof framing systems",
+        "score": 0.438,
+        "shared_tokens": [
+          "framing",
+          "masonry",
+          "structural",
+          "concrete",
+          "frame",
+          "structure",
+          "cement"
+        ],
+        "relationship": "produces",
+        "confidence": "B"
+      },
+      {
+        "target_id": "uc:Ss_20_05_50",
+        "target_name": "Minor concrete substructure systems",
+        "score": 0.429,
+        "shared_tokens": [
+          "foundation",
+          "masonry",
+          "concrete",
+          "substructure",
+          "footing",
+          "cement"
+        ],
+        "relationship": "produces",
+        "confidence": "B"
+      },
+      {
+        "target_id": "uc:Ss_25_11_16_70",
+        "target_name": "Reinforced concrete wall structure systems",
+        "score": 0.412,
+        "shared_tokens": [
+          "framing",
+          "masonry",
+          "structural",
+          "concrete",
+          "frame",
+          "structure",
+          "cement"
+        ],
+        "relationship": "produces",
+        "confidence": "B"
+      }
+    ]
+  },
+  {
+    "source_id": "naics:23812",
+    "source_name": "Structural Steel and Precast Concrete Contractors",
+    "source_tokens": [
+      "contractors",
+      "concrete",
+      "frame",
+      "metal",
+      "precast",
+      "iron",
+      "framing",
+      "masonry",
+      "structural",
+      "steel",
+      "structure",
+      "cement"
+    ],
+    "matches": [
+      {
+        "target_id": "uc:Ss_20_10_75_65",
+        "target_name": "Precast reinforced concrete framing systems",
+        "score": 0.571,
+        "shared_tokens": [
+          "framing",
+          "masonry",
+          "structural",
+          "concrete",
+          "frame",
+          "structure",
+          "precast",
+          "cement"
+        ],
+        "relationship": "produces",
+        "confidence": "A"
+      },
+      {
+        "target_id": "uc:Ss_30_10_30_60",
+        "target_name": "Precast concrete roof structure systems",
+        "score": 0.533,
+        "shared_tokens": [
+          "framing",
+          "masonry",
+          "structural",
+          "concrete",
+          "frame",
+          "structure",
+          "precast",
+          "cement"
+        ],
+        "relationship": "produces",
+        "confidence": "A"
+      },
+      {
+        "target_id": "uc:Ss_20_10_75_35",
+        "target_name": "Heavy steel framing systems",
+        "score": 0.5,
+        "shared_tokens": [
+          "iron",
+          "framing",
+          "structural",
+          "steel",
+          "metal",
+          "frame",
+          "structure"
+        ],
+        "relationship": "produces",
+        "confidence": "A"
+      },
+      {
+        "target_id": "uc:Ss_20_10_75_45",
+        "target_name": "Light steel framing systems",
+        "score": 0.5,
+        "shared_tokens": [
+          "iron",
+          "framing",
+          "structural",
+          "steel",
+          "metal",
+          "frame",
+          "structure"
+        ],
+        "relationship": "produces",
+        "confidence": "A"
+      },
+      {
+        "target_id": "uc:Ss_20_10_75_70",
+        "target_name": "Reinforced concrete framing systems",
+        "score": 0.5,
+        "shared_tokens": [
+          "framing",
+          "masonry",
+          "structural",
+          "concrete",
+          "frame",
+          "structure",
+          "cement"
+        ],
+        "relationship": "produces",
+        "confidence": "A"
+      },
+      {
+        "target_id": "uc:Ss_32_46_50_51",
+        "target_name": "Metal lathing on framing systems",
+        "score": 0.5,
+        "shared_tokens": [
+          "iron",
+          "framing",
+          "structural",
+          "steel",
+          "metal",
+          "frame",
+          "structure"
+        ],
+        "relationship": "produces",
+        "confidence": "A"
+      },
+      {
+        "target_id": "uc:Ss_37_50_92_50",
+        "target_name": "Masonry tunnel structure systems",
+        "score": 0.5,
+        "shared_tokens": [
+          "framing",
+          "masonry",
+          "structural",
+          "concrete",
+          "frame",
+          "structure",
+          "cement"
+        ],
+        "relationship": "produces",
+        "confidence": "A"
+      },
+      {
+        "target_id": "uc:Ss_37_50_80_71",
+        "target_name": "Reinforced concrete shaft structure systems",
+        "score": 0.467,
+        "shared_tokens": [
+          "framing",
+          "masonry",
+          "structural",
+          "concrete",
+          "frame",
+          "structure",
+          "cement"
+        ],
+        "relationship": "produces",
+        "confidence": "B"
+      },
+      {
+        "target_id": "uc:Ss_37_50_92_71",
+        "target_name": "Reinforced concrete tunnel structure systems",
+        "score": 0.467,
+        "shared_tokens": [
+          "framing",
+          "masonry",
+          "structural",
+          "concrete",
+          "frame",
+          "structure",
+          "cement"
+        ],
+        "relationship": "produces",
+        "confidence": "B"
+      },
+      {
+        "target_id": "uc:Ss_30_10_30_25",
+        "target_name": "Heavy steel roof framing systems",
+        "score": 0.438,
+        "shared_tokens": [
+          "iron",
+          "framing",
+          "structural",
+          "steel",
+          "metal",
+          "frame",
+          "structure"
+        ],
+        "relationship": "produces",
+        "confidence": "B"
+      }
+    ]
+  },
+  {
+    "source_id": "naics:238120",
+    "source_name": "Structural Steel and Precast Concrete Contractors",
+    "source_tokens": [
+      "contractors",
+      "concrete",
+      "frame",
+      "metal",
+      "precast",
+      "iron",
+      "framing",
+      "masonry",
+      "structural",
+      "steel",
+      "structure",
+      "cement"
+    ],
+    "matches": [
+      {
+        "target_id": "uc:Ss_20_10_75_65",
+        "target_name": "Precast reinforced concrete framing systems",
+        "score": 0.571,
+        "shared_tokens": [
+          "framing",
+          "masonry",
+          "structural",
+          "concrete",
+          "frame",
+          "structure",
+          "precast",
+          "cement"
+        ],
+        "relationship": "produces",
+        "confidence": "A"
+      },
+      {
+        "target_id": "uc:Ss_30_10_30_60",
+        "target_name": "Precast concrete roof structure systems",
+        "score": 0.533,
+        "shared_tokens": [
+          "framing",
+          "masonry",
+          "structural",
+          "concrete",
+          "frame",
+          "structure",
+          "precast",
+          "cement"
+        ],
+        "relationship": "produces",
+        "confidence": "A"
+      },
+      {
+        "target_id": "uc:Ss_20_10_75_35",
+        "target_name": "Heavy steel framing systems",
+        "score": 0.5,
+        "shared_tokens": [
+          "iron",
+          "framing",
+          "structural",
+          "steel",
+          "metal",
+          "frame",
+          "structure"
+        ],
+        "relationship": "produces",
+        "confidence": "A"
+      },
+      {
+        "target_id": "uc:Ss_20_10_75_45",
+        "target_name": "Light steel framing systems",
+        "score": 0.5,
+        "shared_tokens": [
+          "iron",
+          "framing",
+          "structural",
+          "steel",
+          "metal",
+          "frame",
+          "structure"
+        ],
+        "relationship": "produces",
+        "confidence": "A"
+      },
+      {
+        "target_id": "uc:Ss_20_10_75_70",
+        "target_name": "Reinforced concrete framing systems",
+        "score": 0.5,
+        "shared_tokens": [
+          "framing",
+          "masonry",
+          "structural",
+          "concrete",
+          "frame",
+          "structure",
+          "cement"
+        ],
+        "relationship": "produces",
+        "confidence": "A"
+      },
+      {
+        "target_id": "uc:Ss_32_46_50_51",
+        "target_name": "Metal lathing on framing systems",
+        "score": 0.5,
+        "shared_tokens": [
+          "iron",
+          "framing",
+          "structural",
+          "steel",
+          "metal",
+          "frame",
+          "structure"
+        ],
+        "relationship": "produces",
+        "confidence": "A"
+      },
+      {
+        "target_id": "uc:Ss_37_50_92_50",
+        "target_name": "Masonry tunnel structure systems",
+        "score": 0.5,
+        "shared_tokens": [
+          "framing",
+          "masonry",
+          "structural",
+          "concrete",
+          "frame",
+          "structure",
+          "cement"
+        ],
+        "relationship": "produces",
+        "confidence": "A"
+      },
+      {
+        "target_id": "uc:Ss_37_50_80_71",
+        "target_name": "Reinforced concrete shaft structure systems",
+        "score": 0.467,
+        "shared_tokens": [
+          "framing",
+          "masonry",
+          "structural",
+          "concrete",
+          "frame",
+          "structure",
+          "cement"
+        ],
+        "relationship": "produces",
+        "confidence": "B"
+      },
+      {
+        "target_id": "uc:Ss_37_50_92_71",
+        "target_name": "Reinforced concrete tunnel structure systems",
+        "score": 0.467,
+        "shared_tokens": [
+          "framing",
+          "masonry",
+          "structural",
+          "concrete",
+          "frame",
+          "structure",
+          "cement"
+        ],
+        "relationship": "produces",
+        "confidence": "B"
+      },
+      {
+        "target_id": "uc:Ss_30_10_30_25",
+        "target_name": "Heavy steel roof framing systems",
+        "score": 0.438,
+        "shared_tokens": [
+          "iron",
+          "framing",
+          "structural",
+          "steel",
+          "metal",
+          "frame",
+          "structure"
+        ],
+        "relationship": "produces",
+        "confidence": "B"
+      }
+    ]
+  },
+  {
+    "source_id": "naics:23813",
+    "source_name": "Framing Contractors",
+    "source_tokens": [
+      "framing",
+      "structural",
+      "contractors",
+      "frame",
+      "structure"
+    ],
+    "matches": [
+      {
+        "target_id": "uc:Ss_20",
+        "target_name": "Structural systems",
+        "score": 0.667,
+        "shared_tokens": [
+          "frame",
+          "framing",
+          "structure",
+          "structural"
+        ],
+        "relationship": "produces",
+        "confidence": "A"
+      },
+      {
+        "target_id": "uc:Ss_20_10",
+        "target_name": "Structural frame systems",
+        "score": 0.667,
+        "shared_tokens": [
+          "frame",
+          "framing",
+          "structure",
+          "structural"
+        ],
+        "relationship": "produces",
+        "confidence": "A"
+      },
+      {
+        "target_id": "uc:Ss_20_10_75",
+        "target_name": "Structural framing systems",
+        "score": 0.667,
+        "shared_tokens": [
+          "frame",
+          "framing",
+          "structure",
+          "structural"
+        ],
+        "relationship": "produces",
+        "confidence": "A"
+      },
+      {
+        "target_id": "uc:Ss_20_20",
+        "target_name": "Structural beams",
+        "score": 0.667,
+        "shared_tokens": [
+          "frame",
+          "framing",
+          "structure",
+          "structural"
+        ],
+        "relationship": "produces",
+        "confidence": "A"
+      },
+      {
+        "target_id": "uc:Ss_20_30",
+        "target_name": "Structural columns",
+        "score": 0.667,
+        "shared_tokens": [
+          "frame",
+          "framing",
+          "structure",
+          "structural"
+        ],
+        "relationship": "produces",
+        "confidence": "A"
+      },
+      {
+        "target_id": "uc:Ss_15_95_20_72",
+        "target_name": "Retention structure systems",
+        "score": 0.571,
+        "shared_tokens": [
+          "frame",
+          "framing",
+          "structure",
+          "structural"
+        ],
+        "relationship": "produces",
+        "confidence": "A"
+      },
+      {
+        "target_id": "uc:Ss_20_05_80",
+        "target_name": "Structural grouting systems",
+        "score": 0.571,
+        "shared_tokens": [
+          "frame",
+          "framing",
+          "structure",
+          "structural"
+        ],
+        "relationship": "produces",
+        "confidence": "A"
+      },
+      {
+        "target_id": "uc:Ss_20_20_75",
+        "target_name": "Structural beam systems",
+        "score": 0.571,
+        "shared_tokens": [
+          "frame",
+          "framing",
+          "structure",
+          "structural"
+        ],
+        "relationship": "produces",
+        "confidence": "A"
+      },
+      {
+        "target_id": "uc:Ss_20_30_75",
+        "target_name": "Structural column systems",
+        "score": 0.571,
+        "shared_tokens": [
+          "frame",
+          "framing",
+          "structure",
+          "structural"
+        ],
+        "relationship": "produces",
+        "confidence": "A"
+      },
+      {
+        "target_id": "uc:Ss_20_80",
+        "target_name": "Structure accessory systems",
+        "score": 0.571,
+        "shared_tokens": [
+          "frame",
+          "framing",
+          "structure",
+          "structural"
+        ],
+        "relationship": "produces",
+        "confidence": "A"
+      }
+    ]
+  },
+  {
+    "source_id": "naics:238130",
+    "source_name": "Framing Contractors",
+    "source_tokens": [
+      "framing",
+      "structural",
+      "contractors",
+      "frame",
+      "structure"
+    ],
+    "matches": [
+      {
+        "target_id": "uc:Ss_20",
+        "target_name": "Structural systems",
+        "score": 0.667,
+        "shared_tokens": [
+          "frame",
+          "framing",
+          "structure",
+          "structural"
+        ],
+        "relationship": "produces",
+        "confidence": "A"
+      },
+      {
+        "target_id": "uc:Ss_20_10",
+        "target_name": "Structural frame systems",
+        "score": 0.667,
+        "shared_tokens": [
+          "frame",
+          "framing",
+          "structure",
+          "structural"
+        ],
+        "relationship": "produces",
+        "confidence": "A"
+      },
+      {
+        "target_id": "uc:Ss_20_10_75",
+        "target_name": "Structural framing systems",
+        "score": 0.667,
+        "shared_tokens": [
+          "frame",
+          "framing",
+          "structure",
+          "structural"
+        ],
+        "relationship": "produces",
+        "confidence": "A"
+      },
+      {
+        "target_id": "uc:Ss_20_20",
+        "target_name": "Structural beams",
+        "score": 0.667,
+        "shared_tokens": [
+          "frame",
+          "framing",
+          "structure",
+          "structural"
+        ],
+        "relationship": "produces",
+        "confidence": "A"
+      },
+      {
+        "target_id": "uc:Ss_20_30",
+        "target_name": "Structural columns",
+        "score": 0.667,
+        "shared_tokens": [
+          "frame",
+          "framing",
+          "structure",
+          "structural"
+        ],
+        "relationship": "produces",
+        "confidence": "A"
+      },
+      {
+        "target_id": "uc:Ss_15_95_20_72",
+        "target_name": "Retention structure systems",
+        "score": 0.571,
+        "shared_tokens": [
+          "frame",
+          "framing",
+          "structure",
+          "structural"
+        ],
+        "relationship": "produces",
+        "confidence": "A"
+      },
+      {
+        "target_id": "uc:Ss_20_05_80",
+        "target_name": "Structural grouting systems",
+        "score": 0.571,
+        "shared_tokens": [
+          "frame",
+          "framing",
+          "structure",
+          "structural"
+        ],
+        "relationship": "produces",
+        "confidence": "A"
+      },
+      {
+        "target_id": "uc:Ss_20_20_75",
+        "target_name": "Structural beam systems",
+        "score": 0.571,
+        "shared_tokens": [
+          "frame",
+          "framing",
+          "structure",
+          "structural"
+        ],
+        "relationship": "produces",
+        "confidence": "A"
+      },
+      {
+        "target_id": "uc:Ss_20_30_75",
+        "target_name": "Structural column systems",
+        "score": 0.571,
+        "shared_tokens": [
+          "frame",
+          "framing",
+          "structure",
+          "structural"
+        ],
+        "relationship": "produces",
+        "confidence": "A"
+      },
+      {
+        "target_id": "uc:Ss_20_80",
+        "target_name": "Structure accessory systems",
+        "score": 0.571,
+        "shared_tokens": [
+          "frame",
+          "framing",
+          "structure",
+          "structural"
+        ],
+        "relationship": "produces",
+        "confidence": "A"
+      }
+    ]
+  },
+  {
+    "source_id": "naics:23814",
+    "source_name": "Masonry Contractors",
+    "source_tokens": [
+      "concrete",
+      "masonry",
+      "cement",
+      "contractors"
+    ],
+    "matches": [
+      {
+        "target_id": "uc:Ss_20_10_65_17",
+        "target_name": "Concrete pods",
+        "score": 0.6,
+        "shared_tokens": [
+          "concrete",
+          "masonry",
+          "cement"
+        ],
+        "relationship": "produces",
+        "confidence": "A"
+      },
+      {
+        "target_id": "uc:Ss_15_30_15",
+        "target_name": "Concrete and masonry cleaning systems",
+        "score": 0.5,
+        "shared_tokens": [
+          "concrete",
+          "masonry",
+          "cement"
+        ],
+        "relationship": "produces",
+        "confidence": "A"
+      },
+      {
+        "target_id": "uc:Ss_15_30_15_15",
+        "target_name": "Concrete cleaning systems",
+        "score": 0.5,
+        "shared_tokens": [
+          "concrete",
+          "masonry",
+          "cement"
+        ],
+        "relationship": "produces",
+        "confidence": "A"
+      },
+      {
+        "target_id": "uc:Ss_15_30_15_50",
+        "target_name": "Masonry cleaning systems",
+        "score": 0.5,
+        "shared_tokens": [
+          "concrete",
+          "masonry",
+          "cement"
+        ],
+        "relationship": "produces",
+        "confidence": "A"
+      },
+      {
+        "target_id": "uc:Ss_15_30_17_18",
+        "target_name": "Concrete repair systems",
+        "score": 0.5,
+        "shared_tokens": [
+          "concrete",
+          "masonry",
+          "cement"
+        ],
+        "relationship": "produces",
+        "confidence": "A"
+      },
+      {
+        "target_id": "uc:Ss_15_30_50_50",
+        "target_name": "Masonry repair systems",
+        "score": 0.5,
+        "shared_tokens": [
+          "concrete",
+          "masonry",
+          "cement"
+        ],
+        "relationship": "produces",
+        "confidence": "A"
+      },
+      {
+        "target_id": "uc:Ss_20_05_50_15",
+        "target_name": "Concrete haunching systems",
+        "score": 0.5,
+        "shared_tokens": [
+          "concrete",
+          "masonry",
+          "cement"
+        ],
+        "relationship": "produces",
+        "confidence": "A"
+      },
+      {
+        "target_id": "uc:Ss_20_30_75_50",
+        "target_name": "Masonry column systems",
+        "score": 0.5,
+        "shared_tokens": [
+          "concrete",
+          "masonry",
+          "cement"
+        ],
+        "relationship": "produces",
+        "confidence": "A"
+      },
+      {
+        "target_id": "uc:Ss_20_70_15",
+        "target_name": "Concrete protection systems",
+        "score": 0.5,
+        "shared_tokens": [
+          "concrete",
+          "masonry",
+          "cement"
+        ],
+        "relationship": "produces",
+        "confidence": "A"
+      },
+      {
+        "target_id": "uc:Ss_25_20_15",
+        "target_name": "Concrete cladding systems",
+        "score": 0.5,
+        "shared_tokens": [
+          "concrete",
+          "masonry",
+          "cement"
+        ],
+        "relationship": "produces",
+        "confidence": "A"
+      }
+    ]
+  },
+  {
+    "source_id": "naics:238140",
+    "source_name": "Masonry Contractors",
+    "source_tokens": [
+      "concrete",
+      "masonry",
+      "cement",
+      "contractors"
+    ],
+    "matches": [
+      {
+        "target_id": "uc:Ss_20_10_65_17",
+        "target_name": "Concrete pods",
+        "score": 0.6,
+        "shared_tokens": [
+          "concrete",
+          "masonry",
+          "cement"
+        ],
+        "relationship": "produces",
+        "confidence": "A"
+      },
+      {
+        "target_id": "uc:Ss_15_30_15",
+        "target_name": "Concrete and masonry cleaning systems",
+        "score": 0.5,
+        "shared_tokens": [
+          "concrete",
+          "masonry",
+          "cement"
+        ],
+        "relationship": "produces",
+        "confidence": "A"
+      },
+      {
+        "target_id": "uc:Ss_15_30_15_15",
+        "target_name": "Concrete cleaning systems",
+        "score": 0.5,
+        "shared_tokens": [
+          "concrete",
+          "masonry",
+          "cement"
+        ],
+        "relationship": "produces",
+        "confidence": "A"
+      },
+      {
+        "target_id": "uc:Ss_15_30_15_50",
+        "target_name": "Masonry cleaning systems",
+        "score": 0.5,
+        "shared_tokens": [
+          "concrete",
+          "masonry",
+          "cement"
+        ],
+        "relationship": "produces",
+        "confidence": "A"
+      },
+      {
+        "target_id": "uc:Ss_15_30_17_18",
+        "target_name": "Concrete repair systems",
+        "score": 0.5,
+        "shared_tokens": [
+          "concrete",
+          "masonry",
+          "cement"
+        ],
+        "relationship": "produces",
+        "confidence": "A"
+      },
+      {
+        "target_id": "uc:Ss_15_30_50_50",
+        "target_name": "Masonry repair systems",
+        "score": 0.5,
+        "shared_tokens": [
+          "concrete",
+          "masonry",
+          "cement"
+        ],
+        "relationship": "produces",
+        "confidence": "A"
+      },
+      {
+        "target_id": "uc:Ss_20_05_50_15",
+        "target_name": "Concrete haunching systems",
+        "score": 0.5,
+        "shared_tokens": [
+          "concrete",
+          "masonry",
+          "cement"
+        ],
+        "relationship": "produces",
+        "confidence": "A"
+      },
+      {
+        "target_id": "uc:Ss_20_30_75_50",
+        "target_name": "Masonry column systems",
+        "score": 0.5,
+        "shared_tokens": [
+          "concrete",
+          "masonry",
+          "cement"
+        ],
+        "relationship": "produces",
+        "confidence": "A"
+      },
+      {
+        "target_id": "uc:Ss_20_70_15",
+        "target_name": "Concrete protection systems",
+        "score": 0.5,
+        "shared_tokens": [
+          "concrete",
+          "masonry",
+          "cement"
+        ],
+        "relationship": "produces",
+        "confidence": "A"
+      },
+      {
+        "target_id": "uc:Ss_25_20_15",
+        "target_name": "Concrete cladding systems",
+        "score": 0.5,
+        "shared_tokens": [
+          "concrete",
+          "masonry",
+          "cement"
+        ],
+        "relationship": "produces",
+        "confidence": "A"
+      }
+    ]
+  },
+  {
+    "source_id": "naics:23815",
+    "source_name": "Glass and Glazing Contractors",
+    "source_tokens": [
+      "window",
+      "glazed",
+      "contractors",
+      "glazing",
+      "glass"
+    ],
+    "matches": [
+      {
+        "target_id": "uc:Ss_25_30_95_95",
+        "target_name": "Window systems",
+        "score": 0.667,
+        "shared_tokens": [
+          "glazing",
+          "window",
+          "glazed",
+          "glass"
+        ],
+        "relationship": "produces",
+        "confidence": "A"
+      },
+      {
+        "target_id": "uc:Ss_25_60_35",
+        "target_name": "Glazing systems",
+        "score": 0.667,
+        "shared_tokens": [
+          "glazing",
+          "window",
+          "glazed",
+          "glass"
+        ],
+        "relationship": "produces",
+        "confidence": "A"
+      },
+      {
+        "target_id": "uc:Ss_20_10_60_34",
+        "target_name": "Glazed enclosure systems",
+        "score": 0.571,
+        "shared_tokens": [
+          "glazing",
+          "window",
+          "glazed",
+          "glass"
+        ],
+        "relationship": "produces",
+        "confidence": "A"
+      },
+      {
+        "target_id": "uc:Ss_25_10_35_35",
+        "target_name": "Glazed screen systems",
+        "score": 0.571,
+        "shared_tokens": [
+          "glazing",
+          "window",
+          "glazed",
+          "glass"
+        ],
+        "relationship": "produces",
+        "confidence": "A"
+      },
+      {
+        "target_id": "uc:Ss_25_30",
+        "target_name": "Door and window systems",
+        "score": 0.571,
+        "shared_tokens": [
+          "glazing",
+          "window",
+          "glazed",
+          "glass"
+        ],
+        "relationship": "produces",
+        "confidence": "A"
+      },
+      {
+        "target_id": "uc:Ss_25_30_95",
+        "target_name": "Window and window walling systems",
+        "score": 0.571,
+        "shared_tokens": [
+          "glazing",
+          "window",
+          "glazed",
+          "glass"
+        ],
+        "relationship": "produces",
+        "confidence": "A"
+      },
+      {
+        "target_id": "uc:Ss_25_30_95_96",
+        "target_name": "Window walling systems",
+        "score": 0.571,
+        "shared_tokens": [
+          "glazing",
+          "window",
+          "glazed",
+          "glass"
+        ],
+        "relationship": "produces",
+        "confidence": "A"
+      },
+      {
+        "target_id": "uc:Ss_25_38_20_95",
+        "target_name": "Window hardware systems",
+        "score": 0.571,
+        "shared_tokens": [
+          "glazing",
+          "window",
+          "glazed",
+          "glass"
+        ],
+        "relationship": "produces",
+        "confidence": "A"
+      },
+      {
+        "target_id": "uc:Ss_25_60_35_33",
+        "target_name": "Glazing film systems",
+        "score": 0.571,
+        "shared_tokens": [
+          "glazing",
+          "window",
+          "glazed",
+          "glass"
+        ],
+        "relationship": "produces",
+        "confidence": "A"
+      },
+      {
+        "target_id": "uc:Ss_25_60_35_50",
+        "target_name": "Mirror glazing systems",
+        "score": 0.571,
+        "shared_tokens": [
+          "glazing",
+          "window",
+          "glazed",
+          "glass"
+        ],
+        "relationship": "produces",
+        "confidence": "A"
+      }
+    ]
+  },
+  {
+    "source_id": "naics:238150",
+    "source_name": "Glass and Glazing Contractors",
+    "source_tokens": [
+      "window",
+      "glazed",
+      "contractors",
+      "glazing",
+      "glass"
+    ],
+    "matches": [
+      {
+        "target_id": "uc:Ss_25_30_95_95",
+        "target_name": "Window systems",
+        "score": 0.667,
+        "shared_tokens": [
+          "glazing",
+          "window",
+          "glazed",
+          "glass"
+        ],
+        "relationship": "produces",
+        "confidence": "A"
+      },
+      {
+        "target_id": "uc:Ss_25_60_35",
+        "target_name": "Glazing systems",
+        "score": 0.667,
+        "shared_tokens": [
+          "glazing",
+          "window",
+          "glazed",
+          "glass"
+        ],
+        "relationship": "produces",
+        "confidence": "A"
+      },
+      {
+        "target_id": "uc:Ss_20_10_60_34",
+        "target_name": "Glazed enclosure systems",
+        "score": 0.571,
+        "shared_tokens": [
+          "glazing",
+          "window",
+          "glazed",
+          "glass"
+        ],
+        "relationship": "produces",
+        "confidence": "A"
+      },
+      {
+        "target_id": "uc:Ss_25_10_35_35",
+        "target_name": "Glazed screen systems",
+        "score": 0.571,
+        "shared_tokens": [
+          "glazing",
+          "window",
+          "glazed",
+          "glass"
+        ],
+        "relationship": "produces",
+        "confidence": "A"
+      },
+      {
+        "target_id": "uc:Ss_25_30",
+        "target_name": "Door and window systems",
+        "score": 0.571,
+        "shared_tokens": [
+          "glazing",
+          "window",
+          "glazed",
+          "glass"
+        ],
+        "relationship": "produces",
+        "confidence": "A"
+      },
+      {
+        "target_id": "uc:Ss_25_30_95",
+        "target_name": "Window and window walling systems",
+        "score": 0.571,
+        "shared_tokens": [
+          "glazing",
+          "window",
+          "glazed",
+          "glass"
+        ],
+        "relationship": "produces",
+        "confidence": "A"
+      },
+      {
+        "target_id": "uc:Ss_25_30_95_96",
+        "target_name": "Window walling systems",
+        "score": 0.571,
+        "shared_tokens": [
+          "glazing",
+          "window",
+          "glazed",
+          "glass"
+        ],
+        "relationship": "produces",
+        "confidence": "A"
+      },
+      {
+        "target_id": "uc:Ss_25_38_20_95",
+        "target_name": "Window hardware systems",
+        "score": 0.571,
+        "shared_tokens": [
+          "glazing",
+          "window",
+          "glazed",
+          "glass"
+        ],
+        "relationship": "produces",
+        "confidence": "A"
+      },
+      {
+        "target_id": "uc:Ss_25_60_35_33",
+        "target_name": "Glazing film systems",
+        "score": 0.571,
+        "shared_tokens": [
+          "glazing",
+          "window",
+          "glazed",
+          "glass"
+        ],
+        "relationship": "produces",
+        "confidence": "A"
+      },
+      {
+        "target_id": "uc:Ss_25_60_35_50",
+        "target_name": "Mirror glazing systems",
+        "score": 0.571,
+        "shared_tokens": [
+          "glazing",
+          "window",
+          "glazed",
+          "glass"
+        ],
+        "relationship": "produces",
+        "confidence": "A"
+      }
+    ]
+  },
+  {
+    "source_id": "naics:23816",
+    "source_name": "Roofing Contractors",
+    "source_tokens": [
+      "roofing",
+      "contractors",
+      "roof"
+    ],
+    "matches": [
+      {
+        "target_id": "uc:Ss_30_30_71",
+        "target_name": "Roof hatch systems",
+        "score": 0.4,
+        "shared_tokens": [
+          "roofing",
+          "roof"
+        ],
+        "relationship": "produces",
+        "confidence": "B"
+      },
+      {
+        "target_id": "uc:Ss_30_30_73",
+        "target_name": "Roof ventilator systems",
+        "score": 0.4,
+        "shared_tokens": [
+          "roofing",
+          "roof"
+        ],
+        "relationship": "produces",
+        "confidence": "B"
+      },
+      {
+        "target_id": "uc:Ss_30_40_30_07",
+        "target_name": "Blue roof systems",
+        "score": 0.4,
+        "shared_tokens": [
+          "roofing",
+          "roof"
+        ],
+        "relationship": "produces",
+        "confidence": "B"
+      },
+      {
+        "target_id": "uc:Ss_30_40_92_85",
+        "target_name": "Thatch roofing systems",
+        "score": 0.4,
+        "shared_tokens": [
+          "roofing",
+          "roof"
+        ],
+        "relationship": "produces",
+        "confidence": "B"
+      },
+      {
+        "target_id": "uc:Ss_30_40_95",
+        "target_name": "Unit roofing systems",
+        "score": 0.4,
+        "shared_tokens": [
+          "roofing",
+          "roof"
+        ],
+        "relationship": "produces",
+        "confidence": "B"
+      },
+      {
+        "target_id": "uc:Ss_30_60_70",
+        "target_name": "Roof feature systems",
+        "score": 0.4,
+        "shared_tokens": [
+          "roofing",
+          "roof"
+        ],
+        "relationship": "produces",
+        "confidence": "B"
+      },
+      {
+        "target_id": "uc:Ss_45_40_47",
+        "target_name": "Living roof systems",
+        "score": 0.4,
+        "shared_tokens": [
+          "roofing",
+          "roof"
+        ],
+        "relationship": "produces",
+        "confidence": "B"
+      },
+      {
+        "target_id": "uc:Ss_45_40_47_09",
+        "target_name": "Brown roof systems",
+        "score": 0.4,
+        "shared_tokens": [
+          "roofing",
+          "roof"
+        ],
+        "relationship": "produces",
+        "confidence": "B"
+      },
+      {
+        "target_id": "uc:Ss_30_30_73_72",
+        "target_name": "Roof smoke ventilator systems",
+        "score": 0.333,
+        "shared_tokens": [
+          "roofing",
+          "roof"
+        ],
+        "relationship": "produces",
+        "confidence": "B"
+      },
+      {
+        "target_id": "uc:Ss_30_40_10",
+        "target_name": "Board roof covering systems",
+        "score": 0.333,
+        "shared_tokens": [
+          "roofing",
+          "roof"
+        ],
+        "relationship": "produces",
+        "confidence": "B"
+      }
+    ]
+  },
+  {
+    "source_id": "naics:238160",
+    "source_name": "Roofing Contractors",
+    "source_tokens": [
+      "roofing",
+      "contractors",
+      "roof"
+    ],
+    "matches": [
+      {
+        "target_id": "uc:Ss_30_30_71",
+        "target_name": "Roof hatch systems",
+        "score": 0.4,
+        "shared_tokens": [
+          "roofing",
+          "roof"
+        ],
+        "relationship": "produces",
+        "confidence": "B"
+      },
+      {
+        "target_id": "uc:Ss_30_30_73",
+        "target_name": "Roof ventilator systems",
+        "score": 0.4,
+        "shared_tokens": [
+          "roofing",
+          "roof"
+        ],
+        "relationship": "produces",
+        "confidence": "B"
+      },
+      {
+        "target_id": "uc:Ss_30_40_30_07",
+        "target_name": "Blue roof systems",
+        "score": 0.4,
+        "shared_tokens": [
+          "roofing",
+          "roof"
+        ],
+        "relationship": "produces",
+        "confidence": "B"
+      },
+      {
+        "target_id": "uc:Ss_30_40_92_85",
+        "target_name": "Thatch roofing systems",
+        "score": 0.4,
+        "shared_tokens": [
+          "roofing",
+          "roof"
+        ],
+        "relationship": "produces",
+        "confidence": "B"
+      },
+      {
+        "target_id": "uc:Ss_30_40_95",
+        "target_name": "Unit roofing systems",
+        "score": 0.4,
+        "shared_tokens": [
+          "roofing",
+          "roof"
+        ],
+        "relationship": "produces",
+        "confidence": "B"
+      },
+      {
+        "target_id": "uc:Ss_30_60_70",
+        "target_name": "Roof feature systems",
+        "score": 0.4,
+        "shared_tokens": [
+          "roofing",
+          "roof"
+        ],
+        "relationship": "produces",
+        "confidence": "B"
+      },
+      {
+        "target_id": "uc:Ss_45_40_47",
+        "target_name": "Living roof systems",
+        "score": 0.4,
+        "shared_tokens": [
+          "roofing",
+          "roof"
+        ],
+        "relationship": "produces",
+        "confidence": "B"
+      },
+      {
+        "target_id": "uc:Ss_45_40_47_09",
+        "target_name": "Brown roof systems",
+        "score": 0.4,
+        "shared_tokens": [
+          "roofing",
+          "roof"
+        ],
+        "relationship": "produces",
+        "confidence": "B"
+      },
+      {
+        "target_id": "uc:Ss_30_30_73_72",
+        "target_name": "Roof smoke ventilator systems",
+        "score": 0.333,
+        "shared_tokens": [
+          "roofing",
+          "roof"
+        ],
+        "relationship": "produces",
+        "confidence": "B"
+      },
+      {
+        "target_id": "uc:Ss_30_40_10",
+        "target_name": "Board roof covering systems",
+        "score": 0.333,
+        "shared_tokens": [
+          "roofing",
+          "roof"
+        ],
+        "relationship": "produces",
+        "confidence": "B"
+      }
+    ]
+  },
+  {
+    "source_id": "naics:23819",
+    "source_name": "Other Foundation, Structure, and Building Exterior Contractors",
+    "source_tokens": [
+      "foundation",
+      "contractors",
+      "frame",
+      "substructure",
+      "footing",
+      "framing",
+      "structural",
+      "exterior",
+      "other",
+      "structure",
+      "building"
+    ],
+    "matches": [
+      {
+        "target_id": "uc:Ss_20",
+        "target_name": "Structural systems",
+        "score": 0.333,
+        "shared_tokens": [
+          "frame",
+          "framing",
+          "structure",
+          "structural"
+        ],
+        "relationship": "produces",
+        "confidence": "B"
+      },
+      {
+        "target_id": "uc:Ss_20_10",
+        "target_name": "Structural frame systems",
+        "score": 0.333,
+        "shared_tokens": [
+          "frame",
+          "framing",
+          "structure",
+          "structural"
+        ],
+        "relationship": "produces",
+        "confidence": "B"
+      },
+      {
+        "target_id": "uc:Ss_20_10_75",
+        "target_name": "Structural framing systems",
+        "score": 0.333,
+        "shared_tokens": [
+          "frame",
+          "framing",
+          "structure",
+          "structural"
+        ],
+        "relationship": "produces",
+        "confidence": "B"
+      },
+      {
+        "target_id": "uc:Ss_20_20",
+        "target_name": "Structural beams",
+        "score": 0.333,
+        "shared_tokens": [
+          "frame",
+          "framing",
+          "structure",
+          "structural"
+        ],
+        "relationship": "produces",
+        "confidence": "B"
+      },
+      {
+        "target_id": "uc:Ss_20_30",
+        "target_name": "Structural columns",
+        "score": 0.333,
+        "shared_tokens": [
+          "frame",
+          "framing",
+          "structure",
+          "structural"
+        ],
+        "relationship": "produces",
+        "confidence": "B"
+      },
+      {
+        "target_id": "uc:Ss_15_95_20_72",
+        "target_name": "Retention structure systems",
+        "score": 0.308,
+        "shared_tokens": [
+          "frame",
+          "framing",
+          "structure",
+          "structural"
+        ],
+        "relationship": "produces",
+        "confidence": "B"
+      },
+      {
+        "target_id": "uc:Ss_20_05_80",
+        "target_name": "Structural grouting systems",
+        "score": 0.308,
+        "shared_tokens": [
+          "frame",
+          "framing",
+          "structure",
+          "structural"
+        ],
+        "relationship": "produces",
+        "confidence": "B"
+      },
+      {
+        "target_id": "uc:Ss_20_20_75",
+        "target_name": "Structural beam systems",
+        "score": 0.308,
+        "shared_tokens": [
+          "frame",
+          "framing",
+          "structure",
+          "structural"
+        ],
+        "relationship": "produces",
+        "confidence": "B"
+      },
+      {
+        "target_id": "uc:Ss_20_30_75",
+        "target_name": "Structural column systems",
+        "score": 0.308,
+        "shared_tokens": [
+          "frame",
+          "framing",
+          "structure",
+          "structural"
+        ],
+        "relationship": "produces",
+        "confidence": "B"
+      },
+      {
+        "target_id": "uc:Ss_20_80",
+        "target_name": "Structure accessory systems",
+        "score": 0.308,
+        "shared_tokens": [
+          "frame",
+          "framing",
+          "structure",
+          "structural"
+        ],
+        "relationship": "produces",
+        "confidence": "B"
+      }
+    ]
+  },
+  {
+    "source_id": "naics:238190",
+    "source_name": "Other Foundation, Structure, and Building Exterior Contractors",
+    "source_tokens": [
+      "foundation",
+      "contractors",
+      "frame",
+      "substructure",
+      "footing",
+      "framing",
+      "structural",
+      "exterior",
+      "other",
+      "structure",
+      "building"
+    ],
+    "matches": [
+      {
+        "target_id": "uc:Ss_20",
+        "target_name": "Structural systems",
+        "score": 0.333,
+        "shared_tokens": [
+          "frame",
+          "framing",
+          "structure",
+          "structural"
+        ],
+        "relationship": "produces",
+        "confidence": "B"
+      },
+      {
+        "target_id": "uc:Ss_20_10",
+        "target_name": "Structural frame systems",
+        "score": 0.333,
+        "shared_tokens": [
+          "frame",
+          "framing",
+          "structure",
+          "structural"
+        ],
+        "relationship": "produces",
+        "confidence": "B"
+      },
+      {
+        "target_id": "uc:Ss_20_10_75",
+        "target_name": "Structural framing systems",
+        "score": 0.333,
+        "shared_tokens": [
+          "frame",
+          "framing",
+          "structure",
+          "structural"
+        ],
+        "relationship": "produces",
+        "confidence": "B"
+      },
+      {
+        "target_id": "uc:Ss_20_20",
+        "target_name": "Structural beams",
+        "score": 0.333,
+        "shared_tokens": [
+          "frame",
+          "framing",
+          "structure",
+          "structural"
+        ],
+        "relationship": "produces",
+        "confidence": "B"
+      },
+      {
+        "target_id": "uc:Ss_20_30",
+        "target_name": "Structural columns",
+        "score": 0.333,
+        "shared_tokens": [
+          "frame",
+          "framing",
+          "structure",
+          "structural"
+        ],
+        "relationship": "produces",
+        "confidence": "B"
+      },
+      {
+        "target_id": "uc:Ss_15_95_20_72",
+        "target_name": "Retention structure systems",
+        "score": 0.308,
+        "shared_tokens": [
+          "frame",
+          "framing",
+          "structure",
+          "structural"
+        ],
+        "relationship": "produces",
+        "confidence": "B"
+      },
+      {
+        "target_id": "uc:Ss_20_05_80",
+        "target_name": "Structural grouting systems",
+        "score": 0.308,
+        "shared_tokens": [
+          "frame",
+          "framing",
+          "structure",
+          "structural"
+        ],
+        "relationship": "produces",
+        "confidence": "B"
+      },
+      {
+        "target_id": "uc:Ss_20_20_75",
+        "target_name": "Structural beam systems",
+        "score": 0.308,
+        "shared_tokens": [
+          "frame",
+          "framing",
+          "structure",
+          "structural"
+        ],
+        "relationship": "produces",
+        "confidence": "B"
+      },
+      {
+        "target_id": "uc:Ss_20_30_75",
+        "target_name": "Structural column systems",
+        "score": 0.308,
+        "shared_tokens": [
+          "frame",
+          "framing",
+          "structure",
+          "structural"
+        ],
+        "relationship": "produces",
+        "confidence": "B"
+      },
+      {
+        "target_id": "uc:Ss_20_80",
+        "target_name": "Structure accessory systems",
+        "score": 0.308,
+        "shared_tokens": [
+          "frame",
+          "framing",
+          "structure",
+          "structural"
+        ],
+        "relationship": "produces",
+        "confidence": "B"
+      }
+    ]
+  },
+  {
+    "source_id": "naics:2382",
+    "source_name": "Building Equipment Contractors",
+    "source_tokens": [
+      "building",
+      "equipment",
+      "contractors"
+    ],
+    "matches": [
+      {
+        "target_id": "uc:Ss_20_40_10",
+        "target_name": "Building cable systems",
+        "score": 0.2,
+        "shared_tokens": [
+          "building"
+        ],
+        "relationship": "produces",
+        "confidence": "C"
+      },
+      {
+        "target_id": "uc:Ss_40_10_35_10",
+        "target_name": "Building signage systems",
+        "score": 0.2,
+        "shared_tokens": [
+          "building"
+        ],
+        "relationship": "produces",
+        "confidence": "C"
+      },
+      {
+        "target_id": "uc:Ss_40_20_30_65",
+        "target_name": "Playground equipment systems",
+        "score": 0.2,
+        "shared_tokens": [
+          "equipment"
+        ],
+        "relationship": "produces",
+        "confidence": "C"
+      },
+      {
+        "target_id": "uc:Ss_40_25_32_12",
+        "target_name": "Cemetery equipment systems",
+        "score": 0.2,
+        "shared_tokens": [
+          "equipment"
+        ],
+        "relationship": "produces",
+        "confidence": "C"
+      },
+      {
+        "target_id": "uc:Ss_40_70_55_10",
+        "target_name": "Climbing equipment systems",
+        "score": 0.2,
+        "shared_tokens": [
+          "equipment"
+        ],
+        "relationship": "produces",
+        "confidence": "C"
+      },
+      {
+        "target_id": "uc:Ss_40_70_55_70",
+        "target_name": "Rocking equipment systems",
+        "score": 0.2,
+        "shared_tokens": [
+          "equipment"
+        ],
+        "relationship": "produces",
+        "confidence": "C"
+      },
+      {
+        "target_id": "uc:Ss_40_70_55_73",
+        "target_name": "Runway equipment systems",
+        "score": 0.2,
+        "shared_tokens": [
+          "equipment"
+        ],
+        "relationship": "produces",
+        "confidence": "C"
+      },
+      {
+        "target_id": "uc:Ss_40_70_55_80",
+        "target_name": "Slide equipment systems",
+        "score": 0.2,
+        "shared_tokens": [
+          "equipment"
+        ],
+        "relationship": "produces",
+        "confidence": "C"
+      },
+      {
+        "target_id": "uc:Ss_40_70_55_83",
+        "target_name": "Spinning equipment systems",
+        "score": 0.2,
+        "shared_tokens": [
+          "equipment"
+        ],
+        "relationship": "produces",
+        "confidence": "C"
+      },
+      {
+        "target_id": "uc:Ss_40_70_55_85",
+        "target_name": "Swinging equipment systems",
+        "score": 0.2,
+        "shared_tokens": [
+          "equipment"
+        ],
+        "relationship": "produces",
+        "confidence": "C"
+      }
+    ]
+  },
+  {
+    "source_id": "naics:23821",
+    "source_name": "Electrical Contractors and Other Wiring Installation Contractors",
+    "source_tokens": [
+      "other",
+      "electrical",
+      "installation",
+      "electric",
+      "power",
+      "contractors",
+      "wiring"
+    ],
+    "matches": [
+      {
+        "target_id": "uc:Ss_70",
+        "target_name": "Electrical systems",
+        "score": 0.5,
+        "shared_tokens": [
+          "electric",
+          "electrical",
+          "power",
+          "wiring"
+        ],
+        "relationship": "produces",
+        "confidence": "A"
+      },
+      {
+        "target_id": "uc:Ss_25_14_67_27",
+        "target_name": "Electric fencing systems",
+        "score": 0.444,
+        "shared_tokens": [
+          "electric",
+          "electrical",
+          "power",
+          "wiring"
+        ],
+        "relationship": "produces",
+        "confidence": "B"
+      },
+      {
+        "target_id": "uc:Ss_70_30_80",
+        "target_name": "Small power systems",
+        "score": 0.444,
+        "shared_tokens": [
+          "electric",
+          "electrical",
+          "power",
+          "wiring"
+        ],
+        "relationship": "produces",
+        "confidence": "B"
+      },
+      {
+        "target_id": "uc:Ss_70_95",
+        "target_name": "Temporary electrical systems",
+        "score": 0.444,
+        "shared_tokens": [
+          "electric",
+          "electrical",
+          "power",
+          "wiring"
+        ],
+        "relationship": "produces",
+        "confidence": "B"
+      },
+      {
+        "target_id": "uc:Ss_75_50_45",
+        "target_name": "Electrical protection systems",
+        "score": 0.444,
+        "shared_tokens": [
+          "electric",
+          "electrical",
+          "power",
+          "wiring"
+        ],
+        "relationship": "produces",
+        "confidence": "B"
+      },
+      {
+        "target_id": "uc:Ss_85_50",
+        "target_name": "Mechanical power systems",
+        "score": 0.444,
+        "shared_tokens": [
+          "electric",
+          "electrical",
+          "power",
+          "wiring"
+        ],
+        "relationship": "produces",
+        "confidence": "B"
+      },
+      {
+        "target_id": "uc:Ss_85_50_65",
+        "target_name": "Power supply systems",
+        "score": 0.444,
+        "shared_tokens": [
+          "electric",
+          "electrical",
+          "power",
+          "wiring"
+        ],
+        "relationship": "produces",
+        "confidence": "B"
+      },
+      {
+        "target_id": "uc:Ss_85_50_65_38",
+        "target_name": "Hydraulic power systems",
+        "score": 0.444,
+        "shared_tokens": [
+          "electric",
+          "electrical",
+          "power",
+          "wiring"
+        ],
+        "relationship": "produces",
+        "confidence": "B"
+      },
+      {
+        "target_id": "uc:Ss_15_95_70",
+        "target_name": "Temporary electrical works systems",
+        "score": 0.4,
+        "shared_tokens": [
+          "electric",
+          "electrical",
+          "power",
+          "wiring"
+        ],
+        "relationship": "produces",
+        "confidence": "B"
+      },
+      {
+        "target_id": "uc:Ss_25_14_67_28",
+        "target_name": "Electric security fencing systems",
+        "score": 0.4,
+        "shared_tokens": [
+          "electric",
+          "electrical",
+          "power",
+          "wiring"
+        ],
+        "relationship": "produces",
+        "confidence": "B"
+      }
+    ]
+  },
+  {
+    "source_id": "naics:238210",
+    "source_name": "Electrical Contractors and Other Wiring Installation Contractors",
+    "source_tokens": [
+      "other",
+      "electrical",
+      "installation",
+      "electric",
+      "power",
+      "contractors",
+      "wiring"
+    ],
+    "matches": [
+      {
+        "target_id": "uc:Ss_70",
+        "target_name": "Electrical systems",
+        "score": 0.5,
+        "shared_tokens": [
+          "electric",
+          "electrical",
+          "power",
+          "wiring"
+        ],
+        "relationship": "produces",
+        "confidence": "A"
+      },
+      {
+        "target_id": "uc:Ss_25_14_67_27",
+        "target_name": "Electric fencing systems",
+        "score": 0.444,
+        "shared_tokens": [
+          "electric",
+          "electrical",
+          "power",
+          "wiring"
+        ],
+        "relationship": "produces",
+        "confidence": "B"
+      },
+      {
+        "target_id": "uc:Ss_70_30_80",
+        "target_name": "Small power systems",
+        "score": 0.444,
+        "shared_tokens": [
+          "electric",
+          "electrical",
+          "power",
+          "wiring"
+        ],
+        "relationship": "produces",
+        "confidence": "B"
+      },
+      {
+        "target_id": "uc:Ss_70_95",
+        "target_name": "Temporary electrical systems",
+        "score": 0.444,
+        "shared_tokens": [
+          "electric",
+          "electrical",
+          "power",
+          "wiring"
+        ],
+        "relationship": "produces",
+        "confidence": "B"
+      },
+      {
+        "target_id": "uc:Ss_75_50_45",
+        "target_name": "Electrical protection systems",
+        "score": 0.444,
+        "shared_tokens": [
+          "electric",
+          "electrical",
+          "power",
+          "wiring"
+        ],
+        "relationship": "produces",
+        "confidence": "B"
+      },
+      {
+        "target_id": "uc:Ss_85_50",
+        "target_name": "Mechanical power systems",
+        "score": 0.444,
+        "shared_tokens": [
+          "electric",
+          "electrical",
+          "power",
+          "wiring"
+        ],
+        "relationship": "produces",
+        "confidence": "B"
+      },
+      {
+        "target_id": "uc:Ss_85_50_65",
+        "target_name": "Power supply systems",
+        "score": 0.444,
+        "shared_tokens": [
+          "electric",
+          "electrical",
+          "power",
+          "wiring"
+        ],
+        "relationship": "produces",
+        "confidence": "B"
+      },
+      {
+        "target_id": "uc:Ss_85_50_65_38",
+        "target_name": "Hydraulic power systems",
+        "score": 0.444,
+        "shared_tokens": [
+          "electric",
+          "electrical",
+          "power",
+          "wiring"
+        ],
+        "relationship": "produces",
+        "confidence": "B"
+      },
+      {
+        "target_id": "uc:Ss_15_95_70",
+        "target_name": "Temporary electrical works systems",
+        "score": 0.4,
+        "shared_tokens": [
+          "electric",
+          "electrical",
+          "power",
+          "wiring"
+        ],
+        "relationship": "produces",
+        "confidence": "B"
+      },
+      {
+        "target_id": "uc:Ss_25_14_67_28",
+        "target_name": "Electric security fencing systems",
+        "score": 0.4,
+        "shared_tokens": [
+          "electric",
+          "electrical",
+          "power",
+          "wiring"
+        ],
+        "relationship": "produces",
+        "confidence": "B"
+      }
+    ]
+  },
+  {
+    "source_id": "naics:23822",
+    "source_name": "Plumbing, Heating, and Air-Conditioning Contractors",
+    "source_tokens": [
+      "contractors",
+      "pipe",
+      "heating",
+      "hvac",
+      "plumb",
+      "piping",
+      "conditioning",
+      "air",
+      "water",
+      "cooling",
+      "ventilation",
+      "plumbing"
+    ],
+    "matches": [
+      {
+        "target_id": "uc:Ss_60_40_17_96",
+        "target_name": "Water cooling systems",
+        "score": 0.769,
+        "shared_tokens": [
+          "air",
+          "water",
+          "cooling",
+          "pipe",
+          "heating",
+          "hvac",
+          "plumb",
+          "ventilation",
+          "piping",
+          "plumbing"
+        ],
+        "relationship": "produces",
+        "confidence": "A"
+      },
+      {
+        "target_id": "uc:Ss_60_40_37_48",
+        "target_name": "Low-temperature hot water heating systems",
+        "score": 0.625,
+        "shared_tokens": [
+          "air",
+          "water",
+          "cooling",
+          "pipe",
+          "heating",
+          "hvac",
+          "plumb",
+          "ventilation",
+          "piping",
+          "plumbing"
+        ],
+        "relationship": "produces",
+        "confidence": "A"
+      },
+      {
+        "target_id": "uc:Ss_60_40_37_51",
+        "target_name": "Medium-temperature hot water heating systems",
+        "score": 0.625,
+        "shared_tokens": [
+          "air",
+          "water",
+          "cooling",
+          "pipe",
+          "heating",
+          "hvac",
+          "plumb",
+          "ventilation",
+          "piping",
+          "plumbing"
+        ],
+        "relationship": "produces",
+        "confidence": "A"
+      },
+      {
+        "target_id": "uc:Ss_75_70_52_97",
+        "target_name": "Water-to-air heat pump control systems",
+        "score": 0.625,
+        "shared_tokens": [
+          "air",
+          "water",
+          "cooling",
+          "pipe",
+          "heating",
+          "hvac",
+          "plumb",
+          "ventilation",
+          "piping",
+          "plumbing"
+        ],
+        "relationship": "produces",
+        "confidence": "A"
+      },
+      {
+        "target_id": "uc:Ss_60_40_92_94",
+        "target_name": "Underfloor low-temperature hot water heating systems",
+        "score": 0.588,
+        "shared_tokens": [
+          "air",
+          "water",
+          "cooling",
+          "pipe",
+          "heating",
+          "hvac",
+          "plumb",
+          "ventilation",
+          "piping",
+          "plumbing"
+        ],
+        "relationship": "produces",
+        "confidence": "A"
+      },
+      {
+        "target_id": "uc:Ss_65",
+        "target_name": "Ventilation and air conditioning systems",
+        "score": 0.462,
+        "shared_tokens": [
+          "air",
+          "conditioning",
+          "heating",
+          "hvac",
+          "cooling",
+          "ventilation"
+        ],
+        "relationship": "produces",
+        "confidence": "B"
+      },
+      {
+        "target_id": "uc:Ss_65_80",
+        "target_name": "Air conditioning systems",
+        "score": 0.462,
+        "shared_tokens": [
+          "air",
+          "conditioning",
+          "heating",
+          "hvac",
+          "cooling",
+          "ventilation"
+        ],
+        "relationship": "produces",
+        "confidence": "B"
+      },
+      {
+        "target_id": "uc:Ss_65_80_05",
+        "target_name": "Central air conditioning systems",
+        "score": 0.429,
+        "shared_tokens": [
+          "air",
+          "conditioning",
+          "heating",
+          "hvac",
+          "cooling",
+          "ventilation"
+        ],
+        "relationship": "produces",
+        "confidence": "B"
+      },
+      {
+        "target_id": "uc:Ss_65_80_45",
+        "target_name": "Local air conditioning systems",
+        "score": 0.429,
+        "shared_tokens": [
+          "air",
+          "conditioning",
+          "heating",
+          "hvac",
+          "cooling",
+          "ventilation"
+        ],
+        "relationship": "produces",
+        "confidence": "B"
+      },
+      {
+        "target_id": "uc:Ss_65_80_45_72",
+        "target_name": "Room air conditioning systems",
+        "score": 0.429,
+        "shared_tokens": [
+          "air",
+          "conditioning",
+          "heating",
+          "hvac",
+          "cooling",
+          "ventilation"
+        ],
+        "relationship": "produces",
+        "confidence": "B"
+      }
+    ]
+  },
+  {
+    "source_id": "naics:238220",
+    "source_name": "Plumbing, Heating, and Air-Conditioning Contractors",
+    "source_tokens": [
+      "contractors",
+      "pipe",
+      "heating",
+      "hvac",
+      "plumb",
+      "piping",
+      "conditioning",
+      "air",
+      "water",
+      "cooling",
+      "ventilation",
+      "plumbing"
+    ],
+    "matches": [
+      {
+        "target_id": "uc:Ss_60_40_17_96",
+        "target_name": "Water cooling systems",
+        "score": 0.769,
+        "shared_tokens": [
+          "air",
+          "water",
+          "cooling",
+          "pipe",
+          "heating",
+          "hvac",
+          "plumb",
+          "ventilation",
+          "piping",
+          "plumbing"
+        ],
+        "relationship": "produces",
+        "confidence": "A"
+      },
+      {
+        "target_id": "uc:Ss_60_40_37_48",
+        "target_name": "Low-temperature hot water heating systems",
+        "score": 0.625,
+        "shared_tokens": [
+          "air",
+          "water",
+          "cooling",
+          "pipe",
+          "heating",
+          "hvac",
+          "plumb",
+          "ventilation",
+          "piping",
+          "plumbing"
+        ],
+        "relationship": "produces",
+        "confidence": "A"
+      },
+      {
+        "target_id": "uc:Ss_60_40_37_51",
+        "target_name": "Medium-temperature hot water heating systems",
+        "score": 0.625,
+        "shared_tokens": [
+          "air",
+          "water",
+          "cooling",
+          "pipe",
+          "heating",
+          "hvac",
+          "plumb",
+          "ventilation",
+          "piping",
+          "plumbing"
+        ],
+        "relationship": "produces",
+        "confidence": "A"
+      },
+      {
+        "target_id": "uc:Ss_75_70_52_97",
+        "target_name": "Water-to-air heat pump control systems",
+        "score": 0.625,
+        "shared_tokens": [
+          "air",
+          "water",
+          "cooling",
+          "pipe",
+          "heating",
+          "hvac",
+          "plumb",
+          "ventilation",
+          "piping",
+          "plumbing"
+        ],
+        "relationship": "produces",
+        "confidence": "A"
+      },
+      {
+        "target_id": "uc:Ss_60_40_92_94",
+        "target_name": "Underfloor low-temperature hot water heating systems",
+        "score": 0.588,
+        "shared_tokens": [
+          "air",
+          "water",
+          "cooling",
+          "pipe",
+          "heating",
+          "hvac",
+          "plumb",
+          "ventilation",
+          "piping",
+          "plumbing"
+        ],
+        "relationship": "produces",
+        "confidence": "A"
+      },
+      {
+        "target_id": "uc:Ss_65",
+        "target_name": "Ventilation and air conditioning systems",
+        "score": 0.462,
+        "shared_tokens": [
+          "air",
+          "conditioning",
+          "heating",
+          "hvac",
+          "cooling",
+          "ventilation"
+        ],
+        "relationship": "produces",
+        "confidence": "B"
+      },
+      {
+        "target_id": "uc:Ss_65_80",
+        "target_name": "Air conditioning systems",
+        "score": 0.462,
+        "shared_tokens": [
+          "air",
+          "conditioning",
+          "heating",
+          "hvac",
+          "cooling",
+          "ventilation"
+        ],
+        "relationship": "produces",
+        "confidence": "B"
+      },
+      {
+        "target_id": "uc:Ss_65_80_05",
+        "target_name": "Central air conditioning systems",
+        "score": 0.429,
+        "shared_tokens": [
+          "air",
+          "conditioning",
+          "heating",
+          "hvac",
+          "cooling",
+          "ventilation"
+        ],
+        "relationship": "produces",
+        "confidence": "B"
+      },
+      {
+        "target_id": "uc:Ss_65_80_45",
+        "target_name": "Local air conditioning systems",
+        "score": 0.429,
+        "shared_tokens": [
+          "air",
+          "conditioning",
+          "heating",
+          "hvac",
+          "cooling",
+          "ventilation"
+        ],
+        "relationship": "produces",
+        "confidence": "B"
+      },
+      {
+        "target_id": "uc:Ss_65_80_45_72",
+        "target_name": "Room air conditioning systems",
+        "score": 0.429,
+        "shared_tokens": [
+          "air",
+          "conditioning",
+          "heating",
+          "hvac",
+          "cooling",
+          "ventilation"
+        ],
+        "relationship": "produces",
+        "confidence": "B"
+      }
+    ]
+  },
+  {
+    "source_id": "naics:23829",
+    "source_name": "Other Building Equipment Contractors",
+    "source_tokens": [
+      "other",
+      "building",
+      "equipment",
+      "contractors"
+    ],
+    "matches": [
+      {
+        "target_id": "uc:Ss_20_40_10",
+        "target_name": "Building cable systems",
+        "score": 0.167,
+        "shared_tokens": [
+          "building"
+        ],
+        "relationship": "produces",
+        "confidence": "D"
+      },
+      {
+        "target_id": "uc:Ss_40_10_35_10",
+        "target_name": "Building signage systems",
+        "score": 0.167,
+        "shared_tokens": [
+          "building"
+        ],
+        "relationship": "produces",
+        "confidence": "D"
+      },
+      {
+        "target_id": "uc:Ss_40_20_30_65",
+        "target_name": "Playground equipment systems",
+        "score": 0.167,
+        "shared_tokens": [
+          "equipment"
+        ],
+        "relationship": "produces",
+        "confidence": "D"
+      },
+      {
+        "target_id": "uc:Ss_40_25_32_12",
+        "target_name": "Cemetery equipment systems",
+        "score": 0.167,
+        "shared_tokens": [
+          "equipment"
+        ],
+        "relationship": "produces",
+        "confidence": "D"
+      },
+      {
+        "target_id": "uc:Ss_40_70_55_10",
+        "target_name": "Climbing equipment systems",
+        "score": 0.167,
+        "shared_tokens": [
+          "equipment"
+        ],
+        "relationship": "produces",
+        "confidence": "D"
+      },
+      {
+        "target_id": "uc:Ss_40_70_55_70",
+        "target_name": "Rocking equipment systems",
+        "score": 0.167,
+        "shared_tokens": [
+          "equipment"
+        ],
+        "relationship": "produces",
+        "confidence": "D"
+      },
+      {
+        "target_id": "uc:Ss_40_70_55_73",
+        "target_name": "Runway equipment systems",
+        "score": 0.167,
+        "shared_tokens": [
+          "equipment"
+        ],
+        "relationship": "produces",
+        "confidence": "D"
+      },
+      {
+        "target_id": "uc:Ss_40_70_55_80",
+        "target_name": "Slide equipment systems",
+        "score": 0.167,
+        "shared_tokens": [
+          "equipment"
+        ],
+        "relationship": "produces",
+        "confidence": "D"
+      },
+      {
+        "target_id": "uc:Ss_40_70_55_83",
+        "target_name": "Spinning equipment systems",
+        "score": 0.167,
+        "shared_tokens": [
+          "equipment"
+        ],
+        "relationship": "produces",
+        "confidence": "D"
+      },
+      {
+        "target_id": "uc:Ss_40_70_55_85",
+        "target_name": "Swinging equipment systems",
+        "score": 0.167,
+        "shared_tokens": [
+          "equipment"
+        ],
+        "relationship": "produces",
+        "confidence": "D"
+      }
+    ]
+  },
+  {
+    "source_id": "naics:238290",
+    "source_name": "Other Building Equipment Contractors",
+    "source_tokens": [
+      "other",
+      "building",
+      "equipment",
+      "contractors"
+    ],
+    "matches": [
+      {
+        "target_id": "uc:Ss_20_40_10",
+        "target_name": "Building cable systems",
+        "score": 0.167,
+        "shared_tokens": [
+          "building"
+        ],
+        "relationship": "produces",
+        "confidence": "D"
+      },
+      {
+        "target_id": "uc:Ss_40_10_35_10",
+        "target_name": "Building signage systems",
+        "score": 0.167,
+        "shared_tokens": [
+          "building"
+        ],
+        "relationship": "produces",
+        "confidence": "D"
+      },
+      {
+        "target_id": "uc:Ss_40_20_30_65",
+        "target_name": "Playground equipment systems",
+        "score": 0.167,
+        "shared_tokens": [
+          "equipment"
+        ],
+        "relationship": "produces",
+        "confidence": "D"
+      },
+      {
+        "target_id": "uc:Ss_40_25_32_12",
+        "target_name": "Cemetery equipment systems",
+        "score": 0.167,
+        "shared_tokens": [
+          "equipment"
+        ],
+        "relationship": "produces",
+        "confidence": "D"
+      },
+      {
+        "target_id": "uc:Ss_40_70_55_10",
+        "target_name": "Climbing equipment systems",
+        "score": 0.167,
+        "shared_tokens": [
+          "equipment"
+        ],
+        "relationship": "produces",
+        "confidence": "D"
+      },
+      {
+        "target_id": "uc:Ss_40_70_55_70",
+        "target_name": "Rocking equipment systems",
+        "score": 0.167,
+        "shared_tokens": [
+          "equipment"
+        ],
+        "relationship": "produces",
+        "confidence": "D"
+      },
+      {
+        "target_id": "uc:Ss_40_70_55_73",
+        "target_name": "Runway equipment systems",
+        "score": 0.167,
+        "shared_tokens": [
+          "equipment"
+        ],
+        "relationship": "produces",
+        "confidence": "D"
+      },
+      {
+        "target_id": "uc:Ss_40_70_55_80",
+        "target_name": "Slide equipment systems",
+        "score": 0.167,
+        "shared_tokens": [
+          "equipment"
+        ],
+        "relationship": "produces",
+        "confidence": "D"
+      },
+      {
+        "target_id": "uc:Ss_40_70_55_83",
+        "target_name": "Spinning equipment systems",
+        "score": 0.167,
+        "shared_tokens": [
+          "equipment"
+        ],
+        "relationship": "produces",
+        "confidence": "D"
+      },
+      {
+        "target_id": "uc:Ss_40_70_55_85",
+        "target_name": "Swinging equipment systems",
+        "score": 0.167,
+        "shared_tokens": [
+          "equipment"
+        ],
+        "relationship": "produces",
+        "confidence": "D"
+      }
+    ]
+  },
+  {
+    "source_id": "naics:2383",
+    "source_name": "Building Finishing Contractors",
+    "source_tokens": [
+      "finishing",
+      "building",
+      "contractors"
+    ],
+    "matches": [
+      {
+        "target_id": "uc:Ss_20_40_10",
+        "target_name": "Building cable systems",
+        "score": 0.2,
+        "shared_tokens": [
+          "building"
+        ],
+        "relationship": "produces",
+        "confidence": "C"
+      },
+      {
+        "target_id": "uc:Ss_40_10_35_10",
+        "target_name": "Building signage systems",
+        "score": 0.2,
+        "shared_tokens": [
+          "building"
+        ],
+        "relationship": "produces",
+        "confidence": "C"
+      },
+      {
+        "target_id": "uc:Ss_40_90",
+        "target_name": "General finishing systems",
+        "score": 0.2,
+        "shared_tokens": [
+          "finishing"
+        ],
+        "relationship": "produces",
+        "confidence": "C"
+      },
+      {
+        "target_id": "uc:Ss_15_30_10",
+        "target_name": "Building services remediation systems",
+        "score": 0.167,
+        "shared_tokens": [
+          "building"
+        ],
+        "relationship": "produces",
+        "confidence": "D"
+      },
+      {
+        "target_id": "uc:Ss_40_15_44_90",
+        "target_name": "Trims, guards and finishing systems",
+        "score": 0.167,
+        "shared_tokens": [
+          "finishing"
+        ],
+        "relationship": "produces",
+        "confidence": "D"
+      },
+      {
+        "target_id": "uc:Ss_75_70_54_10",
+        "target_name": "Building monitoring and management systems",
+        "score": 0.167,
+        "shared_tokens": [
+          "building"
+        ],
+        "relationship": "produces",
+        "confidence": "D"
+      }
+    ]
+  },
+  {
+    "source_id": "naics:23831",
+    "source_name": "Drywall and Insulation Contractors",
+    "source_tokens": [
+      "insulation",
+      "gypsum",
+      "insulating",
+      "drywall",
+      "contractors",
+      "thermal",
+      "plasterboard",
+      "sheetrock"
+    ],
+    "matches": [
+      {
+        "target_id": "uc:Ss_25_25_45_33",
+        "target_name": "Gypsum board casing systems",
+        "score": 0.364,
+        "shared_tokens": [
+          "gypsum",
+          "drywall",
+          "plasterboard",
+          "sheetrock"
+        ],
+        "relationship": "produces",
+        "confidence": "B"
+      },
+      {
+        "target_id": "uc:Ss_30_25_10_35",
+        "target_name": "Gypsum board suspended ceiling systems",
+        "score": 0.333,
+        "shared_tokens": [
+          "gypsum",
+          "drywall",
+          "plasterboard",
+          "sheetrock"
+        ],
+        "relationship": "produces",
+        "confidence": "B"
+      },
+      {
+        "target_id": "uc:Ss_25_10_30_35",
+        "target_name": "Gypsum board partition systems",
+        "score": 0.308,
+        "shared_tokens": [
+          "gypsum",
+          "drywall",
+          "plasterboard",
+          "sheetrock"
+        ],
+        "relationship": "produces",
+        "confidence": "B"
+      },
+      {
+        "target_id": "uc:Ss_25_12_65_60",
+        "target_name": "Plasterboard laminated partition systems",
+        "score": 0.308,
+        "shared_tokens": [
+          "gypsum",
+          "drywall",
+          "plasterboard",
+          "sheetrock"
+        ],
+        "relationship": "produces",
+        "confidence": "B"
+      },
+      {
+        "target_id": "uc:Ss_25_13_35",
+        "target_name": "Gypsum block wall systems",
+        "score": 0.308,
+        "shared_tokens": [
+          "gypsum",
+          "drywall",
+          "plasterboard",
+          "sheetrock"
+        ],
+        "relationship": "produces",
+        "confidence": "B"
+      },
+      {
+        "target_id": "uc:Ss_25_25_45_35",
+        "target_name": "Gypsum board wall lining systems",
+        "score": 0.286,
+        "shared_tokens": [
+          "gypsum",
+          "drywall",
+          "plasterboard",
+          "sheetrock"
+        ],
+        "relationship": "produces",
+        "confidence": "C"
+      },
+      {
+        "target_id": "uc:Ss_25_45_72",
+        "target_name": "Wall insulation systems",
+        "score": 0.25,
+        "shared_tokens": [
+          "insulation",
+          "thermal",
+          "insulating"
+        ],
+        "relationship": "produces",
+        "confidence": "C"
+      },
+      {
+        "target_id": "uc:Ss_25_20_34",
+        "target_name": "Glass fibre-reinforced gypsum (GRG) cladding systems",
+        "score": 0.235,
+        "shared_tokens": [
+          "gypsum",
+          "drywall",
+          "plasterboard",
+          "sheetrock"
+        ],
+        "relationship": "produces",
+        "confidence": "C"
+      },
+      {
+        "target_id": "uc:Ss_25_45_12",
+        "target_name": "Cavity wall insulation systems",
+        "score": 0.231,
+        "shared_tokens": [
+          "insulation",
+          "thermal",
+          "insulating"
+        ],
+        "relationship": "produces",
+        "confidence": "C"
+      },
+      {
+        "target_id": "uc:Ss_25_45_72_28",
+        "target_name": "External wall insulation systems",
+        "score": 0.231,
+        "shared_tokens": [
+          "insulation",
+          "thermal",
+          "insulating"
+        ],
+        "relationship": "produces",
+        "confidence": "C"
+      }
+    ]
+  },
+  {
+    "source_id": "naics:238310",
+    "source_name": "Drywall and Insulation Contractors",
+    "source_tokens": [
+      "insulation",
+      "gypsum",
+      "insulating",
+      "drywall",
+      "contractors",
+      "thermal",
+      "plasterboard",
+      "sheetrock"
+    ],
+    "matches": [
+      {
+        "target_id": "uc:Ss_25_25_45_33",
+        "target_name": "Gypsum board casing systems",
+        "score": 0.364,
+        "shared_tokens": [
+          "gypsum",
+          "drywall",
+          "plasterboard",
+          "sheetrock"
+        ],
+        "relationship": "produces",
+        "confidence": "B"
+      },
+      {
+        "target_id": "uc:Ss_30_25_10_35",
+        "target_name": "Gypsum board suspended ceiling systems",
+        "score": 0.333,
+        "shared_tokens": [
+          "gypsum",
+          "drywall",
+          "plasterboard",
+          "sheetrock"
+        ],
+        "relationship": "produces",
+        "confidence": "B"
+      },
+      {
+        "target_id": "uc:Ss_25_10_30_35",
+        "target_name": "Gypsum board partition systems",
+        "score": 0.308,
+        "shared_tokens": [
+          "gypsum",
+          "drywall",
+          "plasterboard",
+          "sheetrock"
+        ],
+        "relationship": "produces",
+        "confidence": "B"
+      },
+      {
+        "target_id": "uc:Ss_25_12_65_60",
+        "target_name": "Plasterboard laminated partition systems",
+        "score": 0.308,
+        "shared_tokens": [
+          "gypsum",
+          "drywall",
+          "plasterboard",
+          "sheetrock"
+        ],
+        "relationship": "produces",
+        "confidence": "B"
+      },
+      {
+        "target_id": "uc:Ss_25_13_35",
+        "target_name": "Gypsum block wall systems",
+        "score": 0.308,
+        "shared_tokens": [
+          "gypsum",
+          "drywall",
+          "plasterboard",
+          "sheetrock"
+        ],
+        "relationship": "produces",
+        "confidence": "B"
+      },
+      {
+        "target_id": "uc:Ss_25_25_45_35",
+        "target_name": "Gypsum board wall lining systems",
+        "score": 0.286,
+        "shared_tokens": [
+          "gypsum",
+          "drywall",
+          "plasterboard",
+          "sheetrock"
+        ],
+        "relationship": "produces",
+        "confidence": "C"
+      },
+      {
+        "target_id": "uc:Ss_25_45_72",
+        "target_name": "Wall insulation systems",
+        "score": 0.25,
+        "shared_tokens": [
+          "insulation",
+          "thermal",
+          "insulating"
+        ],
+        "relationship": "produces",
+        "confidence": "C"
+      },
+      {
+        "target_id": "uc:Ss_25_20_34",
+        "target_name": "Glass fibre-reinforced gypsum (GRG) cladding systems",
+        "score": 0.235,
+        "shared_tokens": [
+          "gypsum",
+          "drywall",
+          "plasterboard",
+          "sheetrock"
+        ],
+        "relationship": "produces",
+        "confidence": "C"
+      },
+      {
+        "target_id": "uc:Ss_25_45_12",
+        "target_name": "Cavity wall insulation systems",
+        "score": 0.231,
+        "shared_tokens": [
+          "insulation",
+          "thermal",
+          "insulating"
+        ],
+        "relationship": "produces",
+        "confidence": "C"
+      },
+      {
+        "target_id": "uc:Ss_25_45_72_28",
+        "target_name": "External wall insulation systems",
+        "score": 0.231,
+        "shared_tokens": [
+          "insulation",
+          "thermal",
+          "insulating"
+        ],
+        "relationship": "produces",
+        "confidence": "C"
+      }
+    ]
+  },
+  {
+    "source_id": "naics:23832",
+    "source_name": "Painting and Wall Covering Contractors",
+    "source_tokens": [
+      "covering",
+      "painting",
+      "coating",
+      "barrier",
+      "finish",
+      "contractors",
+      "paint",
+      "partition",
+      "wall"
+    ],
+    "matches": [
+      {
+        "target_id": "uc:Ss_25_45",
+        "target_name": "Wall covering and finish systems",
+        "score": 0.8,
+        "shared_tokens": [
+          "covering",
+          "painting",
+          "coating",
+          "barrier",
+          "finish",
+          "paint",
+          "partition",
+          "wall"
+        ],
+        "relationship": "produces",
+        "confidence": "A"
+      },
+      {
+        "target_id": "uc:Ss_30_40",
+        "target_name": "Roof and balcony covering and finish systems",
+        "score": 0.385,
+        "shared_tokens": [
+          "covering",
+          "painting",
+          "coating",
+          "finish",
+          "paint"
+        ],
+        "relationship": "produces",
+        "confidence": "B"
+      },
+      {
+        "target_id": "uc:Ss_20_70_65",
+        "target_name": "Protective painting systems",
+        "score": 0.364,
+        "shared_tokens": [
+          "paint",
+          "coating",
+          "painting",
+          "finish"
+        ],
+        "relationship": "produces",
+        "confidence": "B"
+      },
+      {
+        "target_id": "uc:Ss_25_45_85",
+        "target_name": "Sprayed coating systems",
+        "score": 0.364,
+        "shared_tokens": [
+          "paint",
+          "coating",
+          "painting",
+          "finish"
+        ],
+        "relationship": "produces",
+        "confidence": "B"
+      },
+      {
+        "target_id": "uc:Ss_32_46_65",
+        "target_name": "Plaster-coating systems",
+        "score": 0.364,
+        "shared_tokens": [
+          "paint",
+          "coating",
+          "painting",
+          "finish"
+        ],
+        "relationship": "produces",
+        "confidence": "B"
+      },
+      {
+        "target_id": "uc:Ss_40_90_40_42",
+        "target_name": "Intumescent coating systems",
+        "score": 0.364,
+        "shared_tokens": [
+          "paint",
+          "coating",
+          "painting",
+          "finish"
+        ],
+        "relationship": "produces",
+        "confidence": "B"
+      },
+      {
+        "target_id": "uc:Ss_40_90_60_55",
+        "target_name": "Multicolour coating systems",
+        "score": 0.364,
+        "shared_tokens": [
+          "paint",
+          "coating",
+          "painting",
+          "finish"
+        ],
+        "relationship": "produces",
+        "confidence": "B"
+      },
+      {
+        "target_id": "uc:Ss_40_90_60_85",
+        "target_name": "Special coating systems",
+        "score": 0.364,
+        "shared_tokens": [
+          "paint",
+          "coating",
+          "painting",
+          "finish"
+        ],
+        "relationship": "produces",
+        "confidence": "B"
+      },
+      {
+        "target_id": "uc:Ss_40_90_60_95",
+        "target_name": "Waterborne paint systems",
+        "score": 0.364,
+        "shared_tokens": [
+          "paint",
+          "coating",
+          "painting",
+          "finish"
+        ],
+        "relationship": "produces",
+        "confidence": "B"
+      },
+      {
+        "target_id": "uc:Ss_40_90_65",
+        "target_name": "Powder-coating systems",
+        "score": 0.364,
+        "shared_tokens": [
+          "paint",
+          "coating",
+          "painting",
+          "finish"
+        ],
+        "relationship": "produces",
+        "confidence": "B"
+      }
+    ]
+  },
+  {
+    "source_id": "naics:238320",
+    "source_name": "Painting and Wall Covering Contractors",
+    "source_tokens": [
+      "covering",
+      "painting",
+      "coating",
+      "barrier",
+      "finish",
+      "contractors",
+      "paint",
+      "partition",
+      "wall"
+    ],
+    "matches": [
+      {
+        "target_id": "uc:Ss_25_45",
+        "target_name": "Wall covering and finish systems",
+        "score": 0.8,
+        "shared_tokens": [
+          "covering",
+          "painting",
+          "coating",
+          "barrier",
+          "finish",
+          "paint",
+          "partition",
+          "wall"
+        ],
+        "relationship": "produces",
+        "confidence": "A"
+      },
+      {
+        "target_id": "uc:Ss_30_40",
+        "target_name": "Roof and balcony covering and finish systems",
+        "score": 0.385,
+        "shared_tokens": [
+          "covering",
+          "painting",
+          "coating",
+          "finish",
+          "paint"
+        ],
+        "relationship": "produces",
+        "confidence": "B"
+      },
+      {
+        "target_id": "uc:Ss_20_70_65",
+        "target_name": "Protective painting systems",
+        "score": 0.364,
+        "shared_tokens": [
+          "paint",
+          "coating",
+          "painting",
+          "finish"
+        ],
+        "relationship": "produces",
+        "confidence": "B"
+      },
+      {
+        "target_id": "uc:Ss_25_45_85",
+        "target_name": "Sprayed coating systems",
+        "score": 0.364,
+        "shared_tokens": [
+          "paint",
+          "coating",
+          "painting",
+          "finish"
+        ],
+        "relationship": "produces",
+        "confidence": "B"
+      },
+      {
+        "target_id": "uc:Ss_32_46_65",
+        "target_name": "Plaster-coating systems",
+        "score": 0.364,
+        "shared_tokens": [
+          "paint",
+          "coating",
+          "painting",
+          "finish"
+        ],
+        "relationship": "produces",
+        "confidence": "B"
+      },
+      {
+        "target_id": "uc:Ss_40_90_40_42",
+        "target_name": "Intumescent coating systems",
+        "score": 0.364,
+        "shared_tokens": [
+          "paint",
+          "coating",
+          "painting",
+          "finish"
+        ],
+        "relationship": "produces",
+        "confidence": "B"
+      },
+      {
+        "target_id": "uc:Ss_40_90_60_55",
+        "target_name": "Multicolour coating systems",
+        "score": 0.364,
+        "shared_tokens": [
+          "paint",
+          "coating",
+          "painting",
+          "finish"
+        ],
+        "relationship": "produces",
+        "confidence": "B"
+      },
+      {
+        "target_id": "uc:Ss_40_90_60_85",
+        "target_name": "Special coating systems",
+        "score": 0.364,
+        "shared_tokens": [
+          "paint",
+          "coating",
+          "painting",
+          "finish"
+        ],
+        "relationship": "produces",
+        "confidence": "B"
+      },
+      {
+        "target_id": "uc:Ss_40_90_60_95",
+        "target_name": "Waterborne paint systems",
+        "score": 0.364,
+        "shared_tokens": [
+          "paint",
+          "coating",
+          "painting",
+          "finish"
+        ],
+        "relationship": "produces",
+        "confidence": "B"
+      },
+      {
+        "target_id": "uc:Ss_40_90_65",
+        "target_name": "Powder-coating systems",
+        "score": 0.364,
+        "shared_tokens": [
+          "paint",
+          "coating",
+          "painting",
+          "finish"
+        ],
+        "relationship": "produces",
+        "confidence": "B"
+      }
+    ]
+  },
+  {
+    "source_id": "naics:23833",
+    "source_name": "Flooring Contractors",
+    "source_tokens": [
+      "contractors",
+      "flooring",
+      "floor"
+    ],
+    "matches": [
+      {
+        "target_id": "uc:Ss_30_12_33",
+        "target_name": "Framed floor systems",
+        "score": 0.4,
+        "shared_tokens": [
+          "flooring",
+          "floor"
+        ],
+        "relationship": "produces",
+        "confidence": "B"
+      },
+      {
+        "target_id": "uc:Ss_30_20",
+        "target_name": "Flooring and decking systems",
+        "score": 0.4,
+        "shared_tokens": [
+          "flooring",
+          "floor"
+        ],
+        "relationship": "produces",
+        "confidence": "B"
+      },
+      {
+        "target_id": "uc:Ss_30_20_70",
+        "target_name": "Raised floor systems",
+        "score": 0.4,
+        "shared_tokens": [
+          "flooring",
+          "floor"
+        ],
+        "relationship": "produces",
+        "confidence": "B"
+      },
+      {
+        "target_id": "uc:Ss_30_30_30",
+        "target_name": "Floor hatch systems",
+        "score": 0.4,
+        "shared_tokens": [
+          "flooring",
+          "floor"
+        ],
+        "relationship": "produces",
+        "confidence": "B"
+      },
+      {
+        "target_id": "uc:Ss_30_42_54",
+        "target_name": "Monolithic flooring systems",
+        "score": 0.4,
+        "shared_tokens": [
+          "flooring",
+          "floor"
+        ],
+        "relationship": "produces",
+        "confidence": "B"
+      },
+      {
+        "target_id": "uc:Ss_30_42_54_75",
+        "target_name": "Resin flooring systems",
+        "score": 0.4,
+        "shared_tokens": [
+          "flooring",
+          "floor"
+        ],
+        "relationship": "produces",
+        "confidence": "B"
+      },
+      {
+        "target_id": "uc:Ss_30_60_30",
+        "target_name": "Floor feature systems",
+        "score": 0.4,
+        "shared_tokens": [
+          "flooring",
+          "floor"
+        ],
+        "relationship": "produces",
+        "confidence": "B"
+      },
+      {
+        "target_id": "uc:Ss_80_80_30",
+        "target_name": "Floor turntable systems",
+        "score": 0.4,
+        "shared_tokens": [
+          "flooring",
+          "floor"
+        ],
+        "relationship": "produces",
+        "confidence": "B"
+      },
+      {
+        "target_id": "uc:Ss_30_12_05",
+        "target_name": "Beam and block floor systems",
+        "score": 0.333,
+        "shared_tokens": [
+          "flooring",
+          "floor"
+        ],
+        "relationship": "produces",
+        "confidence": "B"
+      },
+      {
+        "target_id": "uc:Ss_30_20_22",
+        "target_name": "Demountable athletics floor systems",
+        "score": 0.333,
+        "shared_tokens": [
+          "flooring",
+          "floor"
+        ],
+        "relationship": "produces",
+        "confidence": "B"
+      }
+    ]
+  },
+  {
+    "source_id": "naics:238330",
+    "source_name": "Flooring Contractors",
+    "source_tokens": [
+      "contractors",
+      "flooring",
+      "floor"
+    ],
+    "matches": [
+      {
+        "target_id": "uc:Ss_30_12_33",
+        "target_name": "Framed floor systems",
+        "score": 0.4,
+        "shared_tokens": [
+          "flooring",
+          "floor"
+        ],
+        "relationship": "produces",
+        "confidence": "B"
+      },
+      {
+        "target_id": "uc:Ss_30_20",
+        "target_name": "Flooring and decking systems",
+        "score": 0.4,
+        "shared_tokens": [
+          "flooring",
+          "floor"
+        ],
+        "relationship": "produces",
+        "confidence": "B"
+      },
+      {
+        "target_id": "uc:Ss_30_20_70",
+        "target_name": "Raised floor systems",
+        "score": 0.4,
+        "shared_tokens": [
+          "flooring",
+          "floor"
+        ],
+        "relationship": "produces",
+        "confidence": "B"
+      },
+      {
+        "target_id": "uc:Ss_30_30_30",
+        "target_name": "Floor hatch systems",
+        "score": 0.4,
+        "shared_tokens": [
+          "flooring",
+          "floor"
+        ],
+        "relationship": "produces",
+        "confidence": "B"
+      },
+      {
+        "target_id": "uc:Ss_30_42_54",
+        "target_name": "Monolithic flooring systems",
+        "score": 0.4,
+        "shared_tokens": [
+          "flooring",
+          "floor"
+        ],
+        "relationship": "produces",
+        "confidence": "B"
+      },
+      {
+        "target_id": "uc:Ss_30_42_54_75",
+        "target_name": "Resin flooring systems",
+        "score": 0.4,
+        "shared_tokens": [
+          "flooring",
+          "floor"
+        ],
+        "relationship": "produces",
+        "confidence": "B"
+      },
+      {
+        "target_id": "uc:Ss_30_60_30",
+        "target_name": "Floor feature systems",
+        "score": 0.4,
+        "shared_tokens": [
+          "flooring",
+          "floor"
+        ],
+        "relationship": "produces",
+        "confidence": "B"
+      },
+      {
+        "target_id": "uc:Ss_80_80_30",
+        "target_name": "Floor turntable systems",
+        "score": 0.4,
+        "shared_tokens": [
+          "flooring",
+          "floor"
+        ],
+        "relationship": "produces",
+        "confidence": "B"
+      },
+      {
+        "target_id": "uc:Ss_30_12_05",
+        "target_name": "Beam and block floor systems",
+        "score": 0.333,
+        "shared_tokens": [
+          "flooring",
+          "floor"
+        ],
+        "relationship": "produces",
+        "confidence": "B"
+      },
+      {
+        "target_id": "uc:Ss_30_20_22",
+        "target_name": "Demountable athletics floor systems",
+        "score": 0.333,
+        "shared_tokens": [
+          "flooring",
+          "floor"
+        ],
+        "relationship": "produces",
+        "confidence": "B"
+      }
+    ]
+  },
+  {
+    "source_id": "naics:23834",
+    "source_name": "Tile and Terrazzo Contractors",
+    "source_tokens": [
+      "tile",
+      "contractors",
+      "terrazzo",
+      "tiling",
+      "ceramic"
+    ],
+    "matches": [
+      {
+        "target_id": "uc:Ss_25_45_88",
+        "target_name": "Tiling systems",
+        "score": 0.5,
+        "shared_tokens": [
+          "tiling",
+          "tile",
+          "ceramic"
+        ],
+        "relationship": "produces",
+        "confidence": "A"
+      },
+      {
+        "target_id": "uc:Ss_25_45_88_88",
+        "target_name": "Terrazzo wall tiling systems",
+        "score": 0.444,
+        "shared_tokens": [
+          "tiling",
+          "tile",
+          "ceramic",
+          "terrazzo"
+        ],
+        "relationship": "produces",
+        "confidence": "B"
+      },
+      {
+        "target_id": "uc:Ss_30_42_90",
+        "target_name": "Terrazzo floor tiling and screed systems",
+        "score": 0.444,
+        "shared_tokens": [
+          "tiling",
+          "tile",
+          "ceramic",
+          "terrazzo"
+        ],
+        "relationship": "produces",
+        "confidence": "B"
+      },
+      {
+        "target_id": "uc:Ss_30_42_72_10",
+        "target_name": "Carpet tile systems",
+        "score": 0.429,
+        "shared_tokens": [
+          "tiling",
+          "tile",
+          "ceramic"
+        ],
+        "relationship": "produces",
+        "confidence": "B"
+      },
+      {
+        "target_id": "uc:Ss_30_42_32",
+        "target_name": "Floor tiling systems",
+        "score": 0.375,
+        "shared_tokens": [
+          "tiling",
+          "tile",
+          "ceramic"
+        ],
+        "relationship": "produces",
+        "confidence": "B"
+      },
+      {
+        "target_id": "uc:Ss_37_40_85",
+        "target_name": "Swimming pool tiling systems",
+        "score": 0.375,
+        "shared_tokens": [
+          "tiling",
+          "tile",
+          "ceramic"
+        ],
+        "relationship": "produces",
+        "confidence": "B"
+      },
+      {
+        "target_id": "uc:Ss_25_20_90_13",
+        "target_name": "Clay plain tile cladding systems",
+        "score": 0.333,
+        "shared_tokens": [
+          "tiling",
+          "tile",
+          "ceramic"
+        ],
+        "relationship": "produces",
+        "confidence": "B"
+      },
+      {
+        "target_id": "uc:Ss_25_45_70_90",
+        "target_name": "Tiling and mosaic render substrate systems",
+        "score": 0.333,
+        "shared_tokens": [
+          "tiling",
+          "tile",
+          "ceramic"
+        ],
+        "relationship": "produces",
+        "confidence": "B"
+      },
+      {
+        "target_id": "uc:Ss_25_45_88_90",
+        "target_name": "Tiling and mosaic mortar substrate systems",
+        "score": 0.333,
+        "shared_tokens": [
+          "tiling",
+          "tile",
+          "ceramic"
+        ],
+        "relationship": "produces",
+        "confidence": "B"
+      },
+      {
+        "target_id": "uc:Ss_30_40_95_15",
+        "target_name": "Ceramic slate roofing systems",
+        "score": 0.333,
+        "shared_tokens": [
+          "tiling",
+          "tile",
+          "ceramic"
+        ],
+        "relationship": "produces",
+        "confidence": "B"
+      }
+    ]
+  },
+  {
+    "source_id": "naics:238340",
+    "source_name": "Tile and Terrazzo Contractors",
+    "source_tokens": [
+      "tile",
+      "contractors",
+      "terrazzo",
+      "tiling",
+      "ceramic"
+    ],
+    "matches": [
+      {
+        "target_id": "uc:Ss_25_45_88",
+        "target_name": "Tiling systems",
+        "score": 0.5,
+        "shared_tokens": [
+          "tiling",
+          "tile",
+          "ceramic"
+        ],
+        "relationship": "produces",
+        "confidence": "A"
+      },
+      {
+        "target_id": "uc:Ss_25_45_88_88",
+        "target_name": "Terrazzo wall tiling systems",
+        "score": 0.444,
+        "shared_tokens": [
+          "tiling",
+          "tile",
+          "ceramic",
+          "terrazzo"
+        ],
+        "relationship": "produces",
+        "confidence": "B"
+      },
+      {
+        "target_id": "uc:Ss_30_42_90",
+        "target_name": "Terrazzo floor tiling and screed systems",
+        "score": 0.444,
+        "shared_tokens": [
+          "tiling",
+          "tile",
+          "ceramic",
+          "terrazzo"
+        ],
+        "relationship": "produces",
+        "confidence": "B"
+      },
+      {
+        "target_id": "uc:Ss_30_42_72_10",
+        "target_name": "Carpet tile systems",
+        "score": 0.429,
+        "shared_tokens": [
+          "tiling",
+          "tile",
+          "ceramic"
+        ],
+        "relationship": "produces",
+        "confidence": "B"
+      },
+      {
+        "target_id": "uc:Ss_30_42_32",
+        "target_name": "Floor tiling systems",
+        "score": 0.375,
+        "shared_tokens": [
+          "tiling",
+          "tile",
+          "ceramic"
+        ],
+        "relationship": "produces",
+        "confidence": "B"
+      },
+      {
+        "target_id": "uc:Ss_37_40_85",
+        "target_name": "Swimming pool tiling systems",
+        "score": 0.375,
+        "shared_tokens": [
+          "tiling",
+          "tile",
+          "ceramic"
+        ],
+        "relationship": "produces",
+        "confidence": "B"
+      },
+      {
+        "target_id": "uc:Ss_25_20_90_13",
+        "target_name": "Clay plain tile cladding systems",
+        "score": 0.333,
+        "shared_tokens": [
+          "tiling",
+          "tile",
+          "ceramic"
+        ],
+        "relationship": "produces",
+        "confidence": "B"
+      },
+      {
+        "target_id": "uc:Ss_25_45_70_90",
+        "target_name": "Tiling and mosaic render substrate systems",
+        "score": 0.333,
+        "shared_tokens": [
+          "tiling",
+          "tile",
+          "ceramic"
+        ],
+        "relationship": "produces",
+        "confidence": "B"
+      },
+      {
+        "target_id": "uc:Ss_25_45_88_90",
+        "target_name": "Tiling and mosaic mortar substrate systems",
+        "score": 0.333,
+        "shared_tokens": [
+          "tiling",
+          "tile",
+          "ceramic"
+        ],
+        "relationship": "produces",
+        "confidence": "B"
+      },
+      {
+        "target_id": "uc:Ss_30_40_95_15",
+        "target_name": "Ceramic slate roofing systems",
+        "score": 0.333,
+        "shared_tokens": [
+          "tiling",
+          "tile",
+          "ceramic"
+        ],
+        "relationship": "produces",
+        "confidence": "B"
+      }
+    ]
+  },
+  {
+    "source_id": "naics:23835",
+    "source_name": "Finish Carpentry Contractors",
+    "source_tokens": [
+      "coating",
+      "painting",
+      "finish",
+      "contractors",
+      "paint",
+      "carpentry"
+    ],
+    "matches": [
+      {
+        "target_id": "uc:Ss_20_70_65",
+        "target_name": "Protective painting systems",
+        "score": 0.5,
+        "shared_tokens": [
+          "paint",
+          "coating",
+          "painting",
+          "finish"
+        ],
+        "relationship": "produces",
+        "confidence": "A"
+      },
+      {
+        "target_id": "uc:Ss_25_45_85",
+        "target_name": "Sprayed coating systems",
+        "score": 0.5,
+        "shared_tokens": [
+          "paint",
+          "coating",
+          "painting",
+          "finish"
+        ],
+        "relationship": "produces",
+        "confidence": "A"
+      },
+      {
+        "target_id": "uc:Ss_32_46_65",
+        "target_name": "Plaster-coating systems",
+        "score": 0.5,
+        "shared_tokens": [
+          "paint",
+          "coating",
+          "painting",
+          "finish"
+        ],
+        "relationship": "produces",
+        "confidence": "A"
+      },
+      {
+        "target_id": "uc:Ss_40_90_40_42",
+        "target_name": "Intumescent coating systems",
+        "score": 0.5,
+        "shared_tokens": [
+          "paint",
+          "coating",
+          "painting",
+          "finish"
+        ],
+        "relationship": "produces",
+        "confidence": "A"
+      },
+      {
+        "target_id": "uc:Ss_40_90_60_55",
+        "target_name": "Multicolour coating systems",
+        "score": 0.5,
+        "shared_tokens": [
+          "paint",
+          "coating",
+          "painting",
+          "finish"
+        ],
+        "relationship": "produces",
+        "confidence": "A"
+      },
+      {
+        "target_id": "uc:Ss_40_90_60_85",
+        "target_name": "Special coating systems",
+        "score": 0.5,
+        "shared_tokens": [
+          "paint",
+          "coating",
+          "painting",
+          "finish"
+        ],
+        "relationship": "produces",
+        "confidence": "A"
+      },
+      {
+        "target_id": "uc:Ss_40_90_60_95",
+        "target_name": "Waterborne paint systems",
+        "score": 0.5,
+        "shared_tokens": [
+          "paint",
+          "coating",
+          "painting",
+          "finish"
+        ],
+        "relationship": "produces",
+        "confidence": "A"
+      },
+      {
+        "target_id": "uc:Ss_40_90_65",
+        "target_name": "Powder-coating systems",
+        "score": 0.5,
+        "shared_tokens": [
+          "paint",
+          "coating",
+          "painting",
+          "finish"
+        ],
+        "relationship": "produces",
+        "confidence": "A"
+      },
+      {
+        "target_id": "uc:Ss_25_45_70",
+        "target_name": "Render and roughcast coating systems",
+        "score": 0.444,
+        "shared_tokens": [
+          "paint",
+          "coating",
+          "painting",
+          "finish"
+        ],
+        "relationship": "produces",
+        "confidence": "B"
+      },
+      {
+        "target_id": "uc:Ss_30_42_30",
+        "target_name": "Floor paint systems",
+        "score": 0.444,
+        "shared_tokens": [
+          "paint",
+          "coating",
+          "painting",
+          "finish"
+        ],
+        "relationship": "produces",
+        "confidence": "B"
+      }
+    ]
+  },
+  {
+    "source_id": "naics:238350",
+    "source_name": "Finish Carpentry Contractors",
+    "source_tokens": [
+      "coating",
+      "painting",
+      "finish",
+      "contractors",
+      "paint",
+      "carpentry"
+    ],
+    "matches": [
+      {
+        "target_id": "uc:Ss_20_70_65",
+        "target_name": "Protective painting systems",
+        "score": 0.5,
+        "shared_tokens": [
+          "paint",
+          "coating",
+          "painting",
+          "finish"
+        ],
+        "relationship": "produces",
+        "confidence": "A"
+      },
+      {
+        "target_id": "uc:Ss_25_45_85",
+        "target_name": "Sprayed coating systems",
+        "score": 0.5,
+        "shared_tokens": [
+          "paint",
+          "coating",
+          "painting",
+          "finish"
+        ],
+        "relationship": "produces",
+        "confidence": "A"
+      },
+      {
+        "target_id": "uc:Ss_32_46_65",
+        "target_name": "Plaster-coating systems",
+        "score": 0.5,
+        "shared_tokens": [
+          "paint",
+          "coating",
+          "painting",
+          "finish"
+        ],
+        "relationship": "produces",
+        "confidence": "A"
+      },
+      {
+        "target_id": "uc:Ss_40_90_40_42",
+        "target_name": "Intumescent coating systems",
+        "score": 0.5,
+        "shared_tokens": [
+          "paint",
+          "coating",
+          "painting",
+          "finish"
+        ],
+        "relationship": "produces",
+        "confidence": "A"
+      },
+      {
+        "target_id": "uc:Ss_40_90_60_55",
+        "target_name": "Multicolour coating systems",
+        "score": 0.5,
+        "shared_tokens": [
+          "paint",
+          "coating",
+          "painting",
+          "finish"
+        ],
+        "relationship": "produces",
+        "confidence": "A"
+      },
+      {
+        "target_id": "uc:Ss_40_90_60_85",
+        "target_name": "Special coating systems",
+        "score": 0.5,
+        "shared_tokens": [
+          "paint",
+          "coating",
+          "painting",
+          "finish"
+        ],
+        "relationship": "produces",
+        "confidence": "A"
+      },
+      {
+        "target_id": "uc:Ss_40_90_60_95",
+        "target_name": "Waterborne paint systems",
+        "score": 0.5,
+        "shared_tokens": [
+          "paint",
+          "coating",
+          "painting",
+          "finish"
+        ],
+        "relationship": "produces",
+        "confidence": "A"
+      },
+      {
+        "target_id": "uc:Ss_40_90_65",
+        "target_name": "Powder-coating systems",
+        "score": 0.5,
+        "shared_tokens": [
+          "paint",
+          "coating",
+          "painting",
+          "finish"
+        ],
+        "relationship": "produces",
+        "confidence": "A"
+      },
+      {
+        "target_id": "uc:Ss_25_45_70",
+        "target_name": "Render and roughcast coating systems",
+        "score": 0.444,
+        "shared_tokens": [
+          "paint",
+          "coating",
+          "painting",
+          "finish"
+        ],
+        "relationship": "produces",
+        "confidence": "B"
+      },
+      {
+        "target_id": "uc:Ss_30_42_30",
+        "target_name": "Floor paint systems",
+        "score": 0.444,
+        "shared_tokens": [
+          "paint",
+          "coating",
+          "painting",
+          "finish"
+        ],
+        "relationship": "produces",
+        "confidence": "B"
+      }
+    ]
+  },
+  {
+    "source_id": "naics:23839",
+    "source_name": "Other Building Finishing Contractors",
+    "source_tokens": [
+      "other",
+      "finishing",
+      "building",
+      "contractors"
+    ],
+    "matches": [
+      {
+        "target_id": "uc:Ss_20_40_10",
+        "target_name": "Building cable systems",
+        "score": 0.167,
+        "shared_tokens": [
+          "building"
+        ],
+        "relationship": "produces",
+        "confidence": "D"
+      },
+      {
+        "target_id": "uc:Ss_40_10_35_10",
+        "target_name": "Building signage systems",
+        "score": 0.167,
+        "shared_tokens": [
+          "building"
+        ],
+        "relationship": "produces",
+        "confidence": "D"
+      },
+      {
+        "target_id": "uc:Ss_40_90",
+        "target_name": "General finishing systems",
+        "score": 0.167,
+        "shared_tokens": [
+          "finishing"
+        ],
+        "relationship": "produces",
+        "confidence": "D"
+      }
+    ]
+  },
+  {
+    "source_id": "naics:238390",
+    "source_name": "Other Building Finishing Contractors",
+    "source_tokens": [
+      "other",
+      "finishing",
+      "building",
+      "contractors"
+    ],
+    "matches": [
+      {
+        "target_id": "uc:Ss_20_40_10",
+        "target_name": "Building cable systems",
+        "score": 0.167,
+        "shared_tokens": [
+          "building"
+        ],
+        "relationship": "produces",
+        "confidence": "D"
+      },
+      {
+        "target_id": "uc:Ss_40_10_35_10",
+        "target_name": "Building signage systems",
+        "score": 0.167,
+        "shared_tokens": [
+          "building"
+        ],
+        "relationship": "produces",
+        "confidence": "D"
+      },
+      {
+        "target_id": "uc:Ss_40_90",
+        "target_name": "General finishing systems",
+        "score": 0.167,
+        "shared_tokens": [
+          "finishing"
+        ],
+        "relationship": "produces",
+        "confidence": "D"
+      }
+    ]
+  },
+  {
+    "source_id": "naics:23891",
+    "source_name": "Site Preparation Contractors",
+    "source_tokens": [
+      "site",
+      "contractors",
+      "preparation"
+    ],
+    "matches": [
+      {
+        "target_id": "uc:Ss_15_10_76",
+        "target_name": "Site waste disposal systems",
+        "score": 0.167,
+        "shared_tokens": [
+          "site"
+        ],
+        "relationship": "produces",
+        "confidence": "D"
+      },
+      {
+        "target_id": "uc:Ss_45_10_95_83",
+        "target_name": "Site vegetation control systems",
+        "score": 0.167,
+        "shared_tokens": [
+          "site"
+        ],
+        "relationship": "produces",
+        "confidence": "D"
+      }
+    ]
+  },
+  {
+    "source_id": "naics:238910",
+    "source_name": "Site Preparation Contractors",
+    "source_tokens": [
+      "site",
+      "contractors",
+      "preparation"
+    ],
+    "matches": [
+      {
+        "target_id": "uc:Ss_15_10_76",
+        "target_name": "Site waste disposal systems",
+        "score": 0.167,
+        "shared_tokens": [
+          "site"
+        ],
+        "relationship": "produces",
+        "confidence": "D"
+      },
+      {
+        "target_id": "uc:Ss_45_10_95_83",
+        "target_name": "Site vegetation control systems",
+        "score": 0.167,
+        "shared_tokens": [
+          "site"
+        ],
+        "relationship": "produces",
+        "confidence": "D"
+      }
+    ]
+  }
+]

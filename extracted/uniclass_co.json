@@ -1,0 +1,5009 @@
+[
+  {
+    "id": "uc:Co_20",
+    "code": "Co_20",
+    "name": "Administrative, commercial and protective service complexes",
+    "tokens": [
+      "service",
+      "administrative",
+      "commercial",
+      "protective",
+      "complexes"
+    ],
+    "table": "Co",
+    "group": "20",
+    "subgroup": ""
+  },
+  {
+    "id": "uc:Co_20_10",
+    "code": "Co_20_10",
+    "name": "Legislative complexes",
+    "tokens": [
+      "legislative",
+      "complexes"
+    ],
+    "table": "Co",
+    "group": "20",
+    "subgroup": "10"
+  },
+  {
+    "id": "uc:Co_20_10_60",
+    "code": "Co_20_10_60",
+    "name": "Governmental complexes",
+    "tokens": [
+      "governmental",
+      "complexes"
+    ],
+    "table": "Co",
+    "group": "20",
+    "subgroup": "10"
+  },
+  {
+    "id": "uc:Co_20_15",
+    "code": "Co_20_15",
+    "name": "Administrative complexes",
+    "tokens": [
+      "administrative",
+      "complexes"
+    ],
+    "table": "Co",
+    "group": "20",
+    "subgroup": "15"
+  },
+  {
+    "id": "uc:Co_20_15_08",
+    "code": "Co_20_15_08",
+    "name": "Business parks",
+    "tokens": [
+      "parks",
+      "business"
+    ],
+    "table": "Co",
+    "group": "20",
+    "subgroup": "15"
+  },
+  {
+    "id": "uc:Co_20_15_58",
+    "code": "Co_20_15_58",
+    "name": "Office complexes",
+    "tokens": [
+      "office",
+      "complexes"
+    ],
+    "table": "Co",
+    "group": "20",
+    "subgroup": "15"
+  },
+  {
+    "id": "uc:Co_20_20",
+    "code": "Co_20_20",
+    "name": "Secular representative complexes",
+    "tokens": [
+      "representative",
+      "secular",
+      "complexes"
+    ],
+    "table": "Co",
+    "group": "20",
+    "subgroup": "20"
+  },
+  {
+    "id": "uc:Co_20_20_15",
+    "code": "Co_20_20_15",
+    "name": "Complexes for representatives of nation states abroad",
+    "tokens": [
+      "nation",
+      "states",
+      "abroad",
+      "representatives",
+      "complexes"
+    ],
+    "table": "Co",
+    "group": "20",
+    "subgroup": "20"
+  },
+  {
+    "id": "uc:Co_20_20_40",
+    "code": "Co_20_20_40",
+    "name": "Local government complexes",
+    "tokens": [
+      "local",
+      "government",
+      "complexes"
+    ],
+    "table": "Co",
+    "group": "20",
+    "subgroup": "20"
+  },
+  {
+    "id": "uc:Co_20_20_50",
+    "code": "Co_20_20_50",
+    "name": "National government complexes",
+    "tokens": [
+      "national",
+      "government",
+      "complexes"
+    ],
+    "table": "Co",
+    "group": "20",
+    "subgroup": "20"
+  },
+  {
+    "id": "uc:Co_20_20_70",
+    "code": "Co_20_20_70",
+    "name": "Regional government complexes",
+    "tokens": [
+      "regional",
+      "government",
+      "complexes"
+    ],
+    "table": "Co",
+    "group": "20",
+    "subgroup": "20"
+  },
+  {
+    "id": "uc:Co_20_45",
+    "code": "Co_20_45",
+    "name": "Motor vehicle maintenance and fuelling complexes",
+    "tokens": [
+      "vehicle",
+      "maintenance",
+      "motor",
+      "fuelling",
+      "complexes"
+    ],
+    "table": "Co",
+    "group": "20",
+    "subgroup": "45"
+  },
+  {
+    "id": "uc:Co_20_45_50",
+    "code": "Co_20_45_50",
+    "name": "Motor vehicle fuelling and charging stations",
+    "tokens": [
+      "vehicle",
+      "motor",
+      "charging",
+      "stations",
+      "fuelling"
+    ],
+    "table": "Co",
+    "group": "20",
+    "subgroup": "45"
+  },
+  {
+    "id": "uc:Co_20_45_54",
+    "code": "Co_20_45_54",
+    "name": "Motor vehicle servicing complexes",
+    "tokens": [
+      "servicing",
+      "vehicle",
+      "motor",
+      "complexes"
+    ],
+    "table": "Co",
+    "group": "20",
+    "subgroup": "45"
+  },
+  {
+    "id": "uc:Co_20_50",
+    "code": "Co_20_50",
+    "name": "Commercial complexes",
+    "tokens": [
+      "commercial",
+      "complexes"
+    ],
+    "table": "Co",
+    "group": "20",
+    "subgroup": "50"
+  },
+  {
+    "id": "uc:Co_20_50_05",
+    "code": "Co_20_50_05",
+    "name": "Auction complexes",
+    "tokens": [
+      "auction",
+      "complexes"
+    ],
+    "table": "Co",
+    "group": "20",
+    "subgroup": "50"
+  },
+  {
+    "id": "uc:Co_20_50_50",
+    "code": "Co_20_50_50",
+    "name": "Market complexes",
+    "tokens": [
+      "market",
+      "complexes"
+    ],
+    "table": "Co",
+    "group": "20",
+    "subgroup": "50"
+  },
+  {
+    "id": "uc:Co_20_50_53",
+    "code": "Co_20_50_53",
+    "name": "Mixed use complexes",
+    "tokens": [
+      "mixed",
+      "use",
+      "complexes"
+    ],
+    "table": "Co",
+    "group": "20",
+    "subgroup": "50"
+  },
+  {
+    "id": "uc:Co_20_50_60",
+    "code": "Co_20_50_60",
+    "name": "Parades of shops",
+    "tokens": [
+      "shops",
+      "parades"
+    ],
+    "table": "Co",
+    "group": "20",
+    "subgroup": "50"
+  },
+  {
+    "id": "uc:Co_20_50_71",
+    "code": "Co_20_50_71",
+    "name": "Retail parks",
+    "tokens": [
+      "retail",
+      "parks"
+    ],
+    "table": "Co",
+    "group": "20",
+    "subgroup": "50"
+  },
+  {
+    "id": "uc:Co_20_50_78",
+    "code": "Co_20_50_78",
+    "name": "Shopping complexes",
+    "tokens": [
+      "shopping",
+      "complexes"
+    ],
+    "table": "Co",
+    "group": "20",
+    "subgroup": "50"
+  },
+  {
+    "id": "uc:Co_20_50_94",
+    "code": "Co_20_50_94",
+    "name": "Vehicle sales complexes",
+    "tokens": [
+      "vehicle",
+      "sales",
+      "complexes"
+    ],
+    "table": "Co",
+    "group": "20",
+    "subgroup": "50"
+  },
+  {
+    "id": "uc:Co_20_55",
+    "code": "Co_20_55",
+    "name": "Postal complexes",
+    "tokens": [
+      "postal",
+      "complexes"
+    ],
+    "table": "Co",
+    "group": "20",
+    "subgroup": "55"
+  },
+  {
+    "id": "uc:Co_20_55_10",
+    "code": "Co_20_55_10",
+    "name": "Postal communications complexes",
+    "tokens": [
+      "postal",
+      "communications",
+      "complexes"
+    ],
+    "table": "Co",
+    "group": "20",
+    "subgroup": "55"
+  },
+  {
+    "id": "uc:Co_20_60",
+    "code": "Co_20_60",
+    "name": "Military complexes",
+    "tokens": [
+      "military",
+      "complexes"
+    ],
+    "table": "Co",
+    "group": "20",
+    "subgroup": "60"
+  },
+  {
+    "id": "uc:Co_20_60_02",
+    "code": "Co_20_60_02",
+    "name": "Air force complexes",
+    "tokens": [
+      "air",
+      "force",
+      "complexes"
+    ],
+    "table": "Co",
+    "group": "20",
+    "subgroup": "60"
+  },
+  {
+    "id": "uc:Co_20_60_10",
+    "code": "Co_20_60_10",
+    "name": "Army complexes",
+    "tokens": [
+      "army",
+      "complexes"
+    ],
+    "table": "Co",
+    "group": "20",
+    "subgroup": "60"
+  },
+  {
+    "id": "uc:Co_20_60_56",
+    "code": "Co_20_60_56",
+    "name": "Navy complexes",
+    "tokens": [
+      "navy",
+      "complexes"
+    ],
+    "table": "Co",
+    "group": "20",
+    "subgroup": "60"
+  },
+  {
+    "id": "uc:Co_20_65",
+    "code": "Co_20_65",
+    "name": "Law enforcement complexes",
+    "tokens": [
+      "enforcement",
+      "law",
+      "complexes"
+    ],
+    "table": "Co",
+    "group": "20",
+    "subgroup": "65"
+  },
+  {
+    "id": "uc:Co_20_65_56",
+    "code": "Co_20_65_56",
+    "name": "Law enforcement agency complexes",
+    "tokens": [
+      "enforcement",
+      "agency",
+      "law",
+      "complexes"
+    ],
+    "table": "Co",
+    "group": "20",
+    "subgroup": "65"
+  },
+  {
+    "id": "uc:Co_20_70",
+    "code": "Co_20_70",
+    "name": "Judicial complexes",
+    "tokens": [
+      "judicial",
+      "complexes"
+    ],
+    "table": "Co",
+    "group": "20",
+    "subgroup": "70"
+  },
+  {
+    "id": "uc:Co_20_70_18",
+    "code": "Co_20_70_18",
+    "name": "Court complexes",
+    "tokens": [
+      "court",
+      "complexes"
+    ],
+    "table": "Co",
+    "group": "20",
+    "subgroup": "70"
+  },
+  {
+    "id": "uc:Co_20_70_65",
+    "code": "Co_20_70_65",
+    "name": "Probation complexes",
+    "tokens": [
+      "probation",
+      "complexes"
+    ],
+    "table": "Co",
+    "group": "20",
+    "subgroup": "70"
+  },
+  {
+    "id": "uc:Co_20_75",
+    "code": "Co_20_75",
+    "name": "Detention complexes",
+    "tokens": [
+      "detention",
+      "complexes"
+    ],
+    "table": "Co",
+    "group": "20",
+    "subgroup": "75"
+  },
+  {
+    "id": "uc:Co_20_75_42",
+    "code": "Co_20_75_42",
+    "name": "Immigrant detention complexes",
+    "tokens": [
+      "detention",
+      "immigrant",
+      "complexes"
+    ],
+    "table": "Co",
+    "group": "20",
+    "subgroup": "75"
+  },
+  {
+    "id": "uc:Co_20_75_64",
+    "code": "Co_20_75_64",
+    "name": "Prison complexes",
+    "tokens": [
+      "prison",
+      "complexes"
+    ],
+    "table": "Co",
+    "group": "20",
+    "subgroup": "75"
+  },
+  {
+    "id": "uc:Co_20_75_71",
+    "code": "Co_20_75_71",
+    "name": "Refugee detention complexes",
+    "tokens": [
+      "detention",
+      "refugee",
+      "complexes"
+    ],
+    "table": "Co",
+    "group": "20",
+    "subgroup": "75"
+  },
+  {
+    "id": "uc:Co_20_80",
+    "code": "Co_20_80",
+    "name": "Weapons training complexes",
+    "tokens": [
+      "weapons",
+      "training",
+      "complexes"
+    ],
+    "table": "Co",
+    "group": "20",
+    "subgroup": "80"
+  },
+  {
+    "id": "uc:Co_20_80_04",
+    "code": "Co_20_80_04",
+    "name": "Artillery firing range complexes",
+    "tokens": [
+      "artillery",
+      "firing",
+      "range",
+      "complexes"
+    ],
+    "table": "Co",
+    "group": "20",
+    "subgroup": "80"
+  },
+  {
+    "id": "uc:Co_20_80_80",
+    "code": "Co_20_80_80",
+    "name": "Small arms firing range complexes",
+    "tokens": [
+      "range",
+      "firing",
+      "arms",
+      "small",
+      "complexes"
+    ],
+    "table": "Co",
+    "group": "20",
+    "subgroup": "80"
+  },
+  {
+    "id": "uc:Co_20_90",
+    "code": "Co_20_90",
+    "name": "Incident support complexes",
+    "tokens": [
+      "support",
+      "incident",
+      "complexes"
+    ],
+    "table": "Co",
+    "group": "20",
+    "subgroup": "90"
+  },
+  {
+    "id": "uc:Co_20_90_02",
+    "code": "Co_20_90_02",
+    "name": "Air and sea rescue complexes",
+    "tokens": [
+      "air",
+      "rescue",
+      "sea",
+      "complexes"
+    ],
+    "table": "Co",
+    "group": "20",
+    "subgroup": "90"
+  },
+  {
+    "id": "uc:Co_20_90_16",
+    "code": "Co_20_90_16",
+    "name": "Coastguard stations",
+    "tokens": [
+      "coastguard",
+      "stations"
+    ],
+    "table": "Co",
+    "group": "20",
+    "subgroup": "90"
+  },
+  {
+    "id": "uc:Co_20_90_27",
+    "code": "Co_20_90_27",
+    "name": "Fire brigade complexes",
+    "tokens": [
+      "fire",
+      "brigade",
+      "complexes"
+    ],
+    "table": "Co",
+    "group": "20",
+    "subgroup": "90"
+  },
+  {
+    "id": "uc:Co_20_90_47",
+    "code": "Co_20_90_47",
+    "name": "Lifeboat stations",
+    "tokens": [
+      "stations",
+      "lifeboat"
+    ],
+    "table": "Co",
+    "group": "20",
+    "subgroup": "90"
+  },
+  {
+    "id": "uc:Co_20_90_53",
+    "code": "Co_20_90_53",
+    "name": "Mountain rescue complexes",
+    "tokens": [
+      "mountain",
+      "rescue",
+      "complexes"
+    ],
+    "table": "Co",
+    "group": "20",
+    "subgroup": "90"
+  },
+  {
+    "id": "uc:Co_25",
+    "code": "Co_25",
+    "name": "Cultural, educational, scientific and information complexes",
+    "tokens": [
+      "scientific",
+      "information",
+      "cultural",
+      "educational",
+      "complexes"
+    ],
+    "table": "Co",
+    "group": "25",
+    "subgroup": ""
+  },
+  {
+    "id": "uc:Co_25_05",
+    "code": "Co_25_05",
+    "name": "Commemorative complexes",
+    "tokens": [
+      "commemorative",
+      "complexes"
+    ],
+    "table": "Co",
+    "group": "25",
+    "subgroup": "05"
+  },
+  {
+    "id": "uc:Co_25_10",
+    "code": "Co_25_10",
+    "name": "Educational complexes",
+    "tokens": [
+      "educational",
+      "complexes"
+    ],
+    "table": "Co",
+    "group": "25",
+    "subgroup": "10"
+  },
+  {
+    "id": "uc:Co_25_10_32",
+    "code": "Co_25_10_32",
+    "name": "Further education colleges",
+    "tokens": [
+      "education",
+      "colleges",
+      "further"
+    ],
+    "table": "Co",
+    "group": "25",
+    "subgroup": "10"
+  },
+  {
+    "id": "uc:Co_25_10_41",
+    "code": "Co_25_10_41",
+    "name": "Infant schools",
+    "tokens": [
+      "schools",
+      "infant"
+    ],
+    "table": "Co",
+    "group": "25",
+    "subgroup": "10"
+  },
+  {
+    "id": "uc:Co_25_10_45",
+    "code": "Co_25_10_45",
+    "name": "Kindergartens, nurseries and preschools",
+    "tokens": [
+      "kindergartens",
+      "preschools",
+      "nurseries"
+    ],
+    "table": "Co",
+    "group": "25",
+    "subgroup": "10"
+  },
+  {
+    "id": "uc:Co_25_10_66",
+    "code": "Co_25_10_66",
+    "name": "Primary schools",
+    "tokens": [
+      "primary",
+      "schools"
+    ],
+    "table": "Co",
+    "group": "25",
+    "subgroup": "10"
+  },
+  {
+    "id": "uc:Co_25_10_77",
+    "code": "Co_25_10_77",
+    "name": "Secondary schools",
+    "tokens": [
+      "schools",
+      "secondary"
+    ],
+    "table": "Co",
+    "group": "25",
+    "subgroup": "10"
+  },
+  {
+    "id": "uc:Co_25_10_88",
+    "code": "Co_25_10_88",
+    "name": "Tertiary colleges",
+    "tokens": [
+      "tertiary",
+      "colleges"
+    ],
+    "table": "Co",
+    "group": "25",
+    "subgroup": "10"
+  },
+  {
+    "id": "uc:Co_25_10_92",
+    "code": "Co_25_10_92",
+    "name": "Universities",
+    "tokens": [
+      "universities"
+    ],
+    "table": "Co",
+    "group": "25",
+    "subgroup": "10"
+  },
+  {
+    "id": "uc:Co_25_30",
+    "code": "Co_25_30",
+    "name": "Scientific complexes",
+    "tokens": [
+      "scientific",
+      "complexes"
+    ],
+    "table": "Co",
+    "group": "25",
+    "subgroup": "30"
+  },
+  {
+    "id": "uc:Co_25_30_04",
+    "code": "Co_25_30_04",
+    "name": "Astronomical observatory complexes",
+    "tokens": [
+      "astronomical",
+      "observatory",
+      "complexes"
+    ],
+    "table": "Co",
+    "group": "25",
+    "subgroup": "30"
+  },
+  {
+    "id": "uc:Co_25_30_08",
+    "code": "Co_25_30_08",
+    "name": "Botanical gardens",
+    "tokens": [
+      "gardens",
+      "botanical"
+    ],
+    "table": "Co",
+    "group": "25",
+    "subgroup": "30"
+  },
+  {
+    "id": "uc:Co_25_30_45",
+    "code": "Co_25_30_45",
+    "name": "Laboratory complexes",
+    "tokens": [
+      "laboratory",
+      "complexes"
+    ],
+    "table": "Co",
+    "group": "25",
+    "subgroup": "30"
+  },
+  {
+    "id": "uc:Co_25_30_70",
+    "code": "Co_25_30_70",
+    "name": "Research complexes",
+    "tokens": [
+      "research",
+      "complexes"
+    ],
+    "table": "Co",
+    "group": "25",
+    "subgroup": "30"
+  },
+  {
+    "id": "uc:Co_25_50",
+    "code": "Co_25_50",
+    "name": "Exhibition complexes",
+    "tokens": [
+      "exhibition",
+      "complexes"
+    ],
+    "table": "Co",
+    "group": "25",
+    "subgroup": "50"
+  },
+  {
+    "id": "uc:Co_25_50_03",
+    "code": "Co_25_50_03",
+    "name": "Art installations",
+    "tokens": [
+      "installations",
+      "art"
+    ],
+    "table": "Co",
+    "group": "25",
+    "subgroup": "50"
+  },
+  {
+    "id": "uc:Co_25_50_33",
+    "code": "Co_25_50_33",
+    "name": "Galleries",
+    "tokens": [
+      "galleries"
+    ],
+    "table": "Co",
+    "group": "25",
+    "subgroup": "50"
+  },
+  {
+    "id": "uc:Co_25_50_34",
+    "code": "Co_25_50_34",
+    "name": "Gardens and arboretums",
+    "tokens": [
+      "gardens",
+      "arboretums"
+    ],
+    "table": "Co",
+    "group": "25",
+    "subgroup": "50"
+  },
+  {
+    "id": "uc:Co_25_50_50",
+    "code": "Co_25_50_50",
+    "name": "Memorial complexes",
+    "tokens": [
+      "memorial",
+      "complexes"
+    ],
+    "table": "Co",
+    "group": "25",
+    "subgroup": "50"
+  },
+  {
+    "id": "uc:Co_25_50_52",
+    "code": "Co_25_50_52",
+    "name": "Monument complexes",
+    "tokens": [
+      "monument",
+      "complexes"
+    ],
+    "table": "Co",
+    "group": "25",
+    "subgroup": "50"
+  },
+  {
+    "id": "uc:Co_25_50_54",
+    "code": "Co_25_50_54",
+    "name": "Multi-purpose exhibition complexes",
+    "tokens": [
+      "exhibition",
+      "purpose",
+      "multi",
+      "complexes"
+    ],
+    "table": "Co",
+    "group": "25",
+    "subgroup": "50"
+  },
+  {
+    "id": "uc:Co_25_50_55",
+    "code": "Co_25_50_55",
+    "name": "Museums",
+    "tokens": [
+      "museums"
+    ],
+    "table": "Co",
+    "group": "25",
+    "subgroup": "50"
+  },
+  {
+    "id": "uc:Co_25_50_58",
+    "code": "Co_25_50_58",
+    "name": "Open-air museums",
+    "tokens": [
+      "air",
+      "open",
+      "museums"
+    ],
+    "table": "Co",
+    "group": "25",
+    "subgroup": "50"
+  },
+  {
+    "id": "uc:Co_25_50_59",
+    "code": "Co_25_50_59",
+    "name": "Open-air sculpture parks",
+    "tokens": [
+      "air",
+      "parks",
+      "open",
+      "sculpture"
+    ],
+    "table": "Co",
+    "group": "25",
+    "subgroup": "50"
+  },
+  {
+    "id": "uc:Co_25_50_99",
+    "code": "Co_25_50_99",
+    "name": "Zoos",
+    "tokens": [
+      "zoos"
+    ],
+    "table": "Co",
+    "group": "25",
+    "subgroup": "50"
+  },
+  {
+    "id": "uc:Co_25_70",
+    "code": "Co_25_70",
+    "name": "Information complexes",
+    "tokens": [
+      "information",
+      "complexes"
+    ],
+    "table": "Co",
+    "group": "25",
+    "subgroup": "70"
+  },
+  {
+    "id": "uc:Co_25_70_16",
+    "code": "Co_25_70_16",
+    "name": "Conference complexes",
+    "tokens": [
+      "conference",
+      "complexes"
+    ],
+    "table": "Co",
+    "group": "25",
+    "subgroup": "70"
+  },
+  {
+    "id": "uc:Co_25_70_23",
+    "code": "Co_25_70_23",
+    "name": "Document archives",
+    "tokens": [
+      "document",
+      "archives"
+    ],
+    "table": "Co",
+    "group": "25",
+    "subgroup": "70"
+  },
+  {
+    "id": "uc:Co_25_70_30",
+    "code": "Co_25_70_30",
+    "name": "Film archives",
+    "tokens": [
+      "archives",
+      "film"
+    ],
+    "table": "Co",
+    "group": "25",
+    "subgroup": "70"
+  },
+  {
+    "id": "uc:Co_25_70_41",
+    "code": "Co_25_70_41",
+    "name": "Information centres",
+    "tokens": [
+      "centres",
+      "information"
+    ],
+    "table": "Co",
+    "group": "25",
+    "subgroup": "70"
+  },
+  {
+    "id": "uc:Co_25_70_47",
+    "code": "Co_25_70_47",
+    "name": "Library complexes",
+    "tokens": [
+      "library",
+      "complexes"
+    ],
+    "table": "Co",
+    "group": "25",
+    "subgroup": "70"
+  },
+  {
+    "id": "uc:Co_25_90",
+    "code": "Co_25_90",
+    "name": "Worship complexes",
+    "tokens": [
+      "worship",
+      "complexes"
+    ],
+    "table": "Co",
+    "group": "25",
+    "subgroup": "90"
+  },
+  {
+    "id": "uc:Co_25_90_30",
+    "code": "Co_25_90_30",
+    "name": "Faith worship complexes",
+    "tokens": [
+      "worship",
+      "faith",
+      "complexes"
+    ],
+    "table": "Co",
+    "group": "25",
+    "subgroup": "90"
+  },
+  {
+    "id": "uc:Co_30",
+    "code": "Co_30",
+    "name": "Industrial complexes",
+    "tokens": [
+      "industrial",
+      "complexes"
+    ],
+    "table": "Co",
+    "group": "30",
+    "subgroup": ""
+  },
+  {
+    "id": "uc:Co_30_10",
+    "code": "Co_30_10",
+    "name": "Mineral extraction complexes",
+    "tokens": [
+      "mineral",
+      "extraction",
+      "complexes"
+    ],
+    "table": "Co",
+    "group": "30",
+    "subgroup": "10"
+  },
+  {
+    "id": "uc:Co_30_10_22",
+    "code": "Co_30_10_22",
+    "name": "Deep mines",
+    "tokens": [
+      "mines",
+      "deep"
+    ],
+    "table": "Co",
+    "group": "30",
+    "subgroup": "10"
+  },
+  {
+    "id": "uc:Co_30_10_24",
+    "code": "Co_30_10_24",
+    "name": "Drift mines",
+    "tokens": [
+      "mines",
+      "drift"
+    ],
+    "table": "Co",
+    "group": "30",
+    "subgroup": "10"
+  },
+  {
+    "id": "uc:Co_30_10_51",
+    "code": "Co_30_10_51",
+    "name": "Methane hydrates extraction complexes",
+    "tokens": [
+      "hydrates",
+      "extraction",
+      "complexes",
+      "methane"
+    ],
+    "table": "Co",
+    "group": "30",
+    "subgroup": "10"
+  },
+  {
+    "id": "uc:Co_30_10_61",
+    "code": "Co_30_10_61",
+    "name": "Opencast mines",
+    "tokens": [
+      "mines",
+      "opencast"
+    ],
+    "table": "Co",
+    "group": "30",
+    "subgroup": "10"
+  },
+  {
+    "id": "uc:Co_30_10_69",
+    "code": "Co_30_10_69",
+    "name": "Quarries",
+    "tokens": [
+      "quarries"
+    ],
+    "table": "Co",
+    "group": "30",
+    "subgroup": "10"
+  },
+  {
+    "id": "uc:Co_30_10_77",
+    "code": "Co_30_10_77",
+    "name": "Shale gas extraction complexes",
+    "tokens": [
+      "extraction",
+      "shale",
+      "gas",
+      "complexes"
+    ],
+    "table": "Co",
+    "group": "30",
+    "subgroup": "10"
+  },
+  {
+    "id": "uc:Co_30_10_78",
+    "code": "Co_30_10_78",
+    "name": "Shale oil extraction complexes",
+    "tokens": [
+      "oil",
+      "extraction",
+      "shale",
+      "complexes"
+    ],
+    "table": "Co",
+    "group": "30",
+    "subgroup": "10"
+  },
+  {
+    "id": "uc:Co_30_20",
+    "code": "Co_30_20",
+    "name": "Nuclear and chemical management complexes",
+    "tokens": [
+      "chemical",
+      "management",
+      "complexes",
+      "nuclear"
+    ],
+    "table": "Co",
+    "group": "30",
+    "subgroup": "20"
+  },
+  {
+    "id": "uc:Co_30_20_80",
+    "code": "Co_30_20_80",
+    "name": "Surface radioactive waste management complexes",
+    "tokens": [
+      "complexes",
+      "surface",
+      "management",
+      "radioactive",
+      "waste"
+    ],
+    "table": "Co",
+    "group": "30",
+    "subgroup": "20"
+  },
+  {
+    "id": "uc:Co_30_20_95",
+    "code": "Co_30_20_95",
+    "name": "Underground radioactive waste management complexes",
+    "tokens": [
+      "underground",
+      "waste",
+      "management",
+      "radioactive",
+      "complexes"
+    ],
+    "table": "Co",
+    "group": "30",
+    "subgroup": "20"
+  },
+  {
+    "id": "uc:Co_30_30",
+    "code": "Co_30_30",
+    "name": "Mineral processing complexes",
+    "tokens": [
+      "mineral",
+      "processing",
+      "complexes"
+    ],
+    "table": "Co",
+    "group": "30",
+    "subgroup": "30"
+  },
+  {
+    "id": "uc:Co_30_30_30",
+    "code": "Co_30_30_30",
+    "name": "Gas processing complexes",
+    "tokens": [
+      "processing",
+      "gas",
+      "complexes"
+    ],
+    "table": "Co",
+    "group": "30",
+    "subgroup": "30"
+  },
+  {
+    "id": "uc:Co_30_30_50",
+    "code": "Co_30_30_50",
+    "name": "Oil processing complexes",
+    "tokens": [
+      "oil",
+      "processing",
+      "complexes"
+    ],
+    "table": "Co",
+    "group": "30",
+    "subgroup": "30"
+  },
+  {
+    "id": "uc:Co_30_30_55",
+    "code": "Co_30_30_55",
+    "name": "Ore processing complexes",
+    "tokens": [
+      "ore",
+      "processing",
+      "complexes"
+    ],
+    "table": "Co",
+    "group": "30",
+    "subgroup": "30"
+  },
+  {
+    "id": "uc:Co_30_40",
+    "code": "Co_30_40",
+    "name": "Animal and plant products processing complexes",
+    "tokens": [
+      "complexes",
+      "plant",
+      "products",
+      "processing",
+      "animal"
+    ],
+    "table": "Co",
+    "group": "30",
+    "subgroup": "40"
+  },
+  {
+    "id": "uc:Co_30_40_01",
+    "code": "Co_30_40_01",
+    "name": "Abattoirs",
+    "tokens": [
+      "abattoirs"
+    ],
+    "table": "Co",
+    "group": "30",
+    "subgroup": "40"
+  },
+  {
+    "id": "uc:Co_30_40_03",
+    "code": "Co_30_40_03",
+    "name": "Animal product processing complexes",
+    "tokens": [
+      "animal",
+      "product",
+      "processing",
+      "complexes"
+    ],
+    "table": "Co",
+    "group": "30",
+    "subgroup": "40"
+  },
+  {
+    "id": "uc:Co_30_40_04",
+    "code": "Co_30_40_04",
+    "name": "Arable crop processing complexes",
+    "tokens": [
+      "crop",
+      "arable",
+      "processing",
+      "complexes"
+    ],
+    "table": "Co",
+    "group": "30",
+    "subgroup": "40"
+  },
+  {
+    "id": "uc:Co_30_40_06",
+    "code": "Co_30_40_06",
+    "name": "Bakeries",
+    "tokens": [
+      "bakeries"
+    ],
+    "table": "Co",
+    "group": "30",
+    "subgroup": "40"
+  },
+  {
+    "id": "uc:Co_30_40_08",
+    "code": "Co_30_40_08",
+    "name": "Breweries",
+    "tokens": [
+      "breweries"
+    ],
+    "table": "Co",
+    "group": "30",
+    "subgroup": "40"
+  },
+  {
+    "id": "uc:Co_30_40_11",
+    "code": "Co_30_40_11",
+    "name": "Canneries",
+    "tokens": [
+      "canneries"
+    ],
+    "table": "Co",
+    "group": "30",
+    "subgroup": "40"
+  },
+  {
+    "id": "uc:Co_30_40_22",
+    "code": "Co_30_40_22",
+    "name": "Distilleries",
+    "tokens": [
+      "distilleries"
+    ],
+    "table": "Co",
+    "group": "30",
+    "subgroup": "40"
+  },
+  {
+    "id": "uc:Co_30_40_30",
+    "code": "Co_30_40_30",
+    "name": "Fish processing complexes",
+    "tokens": [
+      "fish",
+      "processing",
+      "complexes"
+    ],
+    "table": "Co",
+    "group": "30",
+    "subgroup": "40"
+  },
+  {
+    "id": "uc:Co_30_40_40",
+    "code": "Co_30_40_40",
+    "name": "Horticultural crop processing complexes",
+    "tokens": [
+      "horticultural",
+      "processing",
+      "complexes",
+      "crop"
+    ],
+    "table": "Co",
+    "group": "30",
+    "subgroup": "40"
+  },
+  {
+    "id": "uc:Co_30_40_55",
+    "code": "Co_30_40_55",
+    "name": "Mills",
+    "tokens": [
+      "mills"
+    ],
+    "table": "Co",
+    "group": "30",
+    "subgroup": "40"
+  },
+  {
+    "id": "uc:Co_30_40_60",
+    "code": "Co_30_40_60",
+    "name": "Livestock processing complexes",
+    "tokens": [
+      "livestock",
+      "processing",
+      "complexes"
+    ],
+    "table": "Co",
+    "group": "30",
+    "subgroup": "40"
+  },
+  {
+    "id": "uc:Co_30_40_90",
+    "code": "Co_30_40_90",
+    "name": "Timber processing complexes",
+    "tokens": [
+      "processing",
+      "timber",
+      "complexes"
+    ],
+    "table": "Co",
+    "group": "30",
+    "subgroup": "40"
+  },
+  {
+    "id": "uc:Co_30_40_96",
+    "code": "Co_30_40_96",
+    "name": "Wineries",
+    "tokens": [
+      "wineries"
+    ],
+    "table": "Co",
+    "group": "30",
+    "subgroup": "40"
+  },
+  {
+    "id": "uc:Co_30_50",
+    "code": "Co_30_50",
+    "name": "Manufacturing complexes",
+    "tokens": [
+      "manufacturing",
+      "complexes"
+    ],
+    "table": "Co",
+    "group": "30",
+    "subgroup": "50"
+  },
+  {
+    "id": "uc:Co_30_50_37",
+    "code": "Co_30_50_37",
+    "name": "Heavy manufacturing complexes",
+    "tokens": [
+      "heavy",
+      "manufacturing",
+      "complexes"
+    ],
+    "table": "Co",
+    "group": "30",
+    "subgroup": "50"
+  },
+  {
+    "id": "uc:Co_30_50_41",
+    "code": "Co_30_50_41",
+    "name": "Industrial parks",
+    "tokens": [
+      "industrial",
+      "parks"
+    ],
+    "table": "Co",
+    "group": "30",
+    "subgroup": "50"
+  },
+  {
+    "id": "uc:Co_30_50_47",
+    "code": "Co_30_50_47",
+    "name": "Light manufacturing complexes",
+    "tokens": [
+      "manufacturing",
+      "light",
+      "complexes"
+    ],
+    "table": "Co",
+    "group": "30",
+    "subgroup": "50"
+  },
+  {
+    "id": "uc:Co_30_50_77",
+    "code": "Co_30_50_77",
+    "name": "Ship and boat building yards",
+    "tokens": [
+      "building",
+      "yards",
+      "boat",
+      "ship"
+    ],
+    "table": "Co",
+    "group": "30",
+    "subgroup": "50"
+  },
+  {
+    "id": "uc:Co_30_60",
+    "code": "Co_30_60",
+    "name": "Cleaning and maintenance complexes",
+    "tokens": [
+      "cleaning",
+      "maintenance",
+      "complexes"
+    ],
+    "table": "Co",
+    "group": "30",
+    "subgroup": "60"
+  },
+  {
+    "id": "uc:Co_30_60_15",
+    "code": "Co_30_60_15",
+    "name": "Commercial laundries",
+    "tokens": [
+      "commercial",
+      "laundries"
+    ],
+    "table": "Co",
+    "group": "30",
+    "subgroup": "60"
+  },
+  {
+    "id": "uc:Co_30_60_94",
+    "code": "Co_30_60_94",
+    "name": "Vehicle-cleaning complexes",
+    "tokens": [
+      "cleaning",
+      "vehicle",
+      "complexes"
+    ],
+    "table": "Co",
+    "group": "30",
+    "subgroup": "60"
+  },
+  {
+    "id": "uc:Co_30_80",
+    "code": "Co_30_80",
+    "name": "Mechanical power generation complexes",
+    "tokens": [
+      "power",
+      "mechanical",
+      "generation",
+      "complexes"
+    ],
+    "table": "Co",
+    "group": "30",
+    "subgroup": "80"
+  },
+  {
+    "id": "uc:Co_30_80_10",
+    "code": "Co_30_80_10",
+    "name": "Kinetic power generation complexes",
+    "tokens": [
+      "power",
+      "kinetic",
+      "generation",
+      "complexes"
+    ],
+    "table": "Co",
+    "group": "30",
+    "subgroup": "80"
+  },
+  {
+    "id": "uc:Co_30_85",
+    "code": "Co_30_85",
+    "name": "Marine and water maintenance complexes",
+    "tokens": [
+      "maintenance",
+      "water",
+      "marine",
+      "complexes"
+    ],
+    "table": "Co",
+    "group": "30",
+    "subgroup": "85"
+  },
+  {
+    "id": "uc:Co_30_90",
+    "code": "Co_30_90",
+    "name": "Warehousing and distribution complexes",
+    "tokens": [
+      "warehousing",
+      "distribution",
+      "complexes"
+    ],
+    "table": "Co",
+    "group": "30",
+    "subgroup": "90"
+  },
+  {
+    "id": "uc:Co_32",
+    "code": "Co_32",
+    "name": "Water and land management complexes",
+    "tokens": [
+      "water",
+      "management",
+      "land",
+      "complexes"
+    ],
+    "table": "Co",
+    "group": "32",
+    "subgroup": ""
+  },
+  {
+    "id": "uc:Co_32_10",
+    "code": "Co_32_10",
+    "name": "Agricultural and horticultural complexes",
+    "tokens": [
+      "horticultural",
+      "agricultural",
+      "complexes"
+    ],
+    "table": "Co",
+    "group": "32",
+    "subgroup": "10"
+  },
+  {
+    "id": "uc:Co_32_10_02",
+    "code": "Co_32_10_02",
+    "name": "Arable farms",
+    "tokens": [
+      "arable",
+      "farms"
+    ],
+    "table": "Co",
+    "group": "32",
+    "subgroup": "10"
+  },
+  {
+    "id": "uc:Co_32_10_15",
+    "code": "Co_32_10_15",
+    "name": "Crofts",
+    "tokens": [
+      "crofts"
+    ],
+    "table": "Co",
+    "group": "32",
+    "subgroup": "10"
+  },
+  {
+    "id": "uc:Co_32_10_28",
+    "code": "Co_32_10_28",
+    "name": "Fish farms",
+    "tokens": [
+      "farms",
+      "fish"
+    ],
+    "table": "Co",
+    "group": "32",
+    "subgroup": "10"
+  },
+  {
+    "id": "uc:Co_32_10_30",
+    "code": "Co_32_10_30",
+    "name": "Fish hatcheries",
+    "tokens": [
+      "fish",
+      "hatcheries"
+    ],
+    "table": "Co",
+    "group": "32",
+    "subgroup": "10"
+  },
+  {
+    "id": "uc:Co_32_10_39",
+    "code": "Co_32_10_39",
+    "name": "Horticultural nurseries",
+    "tokens": [
+      "nurseries",
+      "horticultural"
+    ],
+    "table": "Co",
+    "group": "32",
+    "subgroup": "10"
+  },
+  {
+    "id": "uc:Co_32_10_46",
+    "code": "Co_32_10_46",
+    "name": "Livestock farms",
+    "tokens": [
+      "livestock",
+      "farms"
+    ],
+    "table": "Co",
+    "group": "32",
+    "subgroup": "10"
+  },
+  {
+    "id": "uc:Co_32_10_50",
+    "code": "Co_32_10_50",
+    "name": "Managed forests",
+    "tokens": [
+      "managed",
+      "forests"
+    ],
+    "table": "Co",
+    "group": "32",
+    "subgroup": "10"
+  },
+  {
+    "id": "uc:Co_32_10_58",
+    "code": "Co_32_10_58",
+    "name": "Orchards",
+    "tokens": [
+      "orchards"
+    ],
+    "table": "Co",
+    "group": "32",
+    "subgroup": "10"
+  },
+  {
+    "id": "uc:Co_32_10_94",
+    "code": "Co_32_10_94",
+    "name": "Vineyards",
+    "tokens": [
+      "vineyards"
+    ],
+    "table": "Co",
+    "group": "32",
+    "subgroup": "10"
+  },
+  {
+    "id": "uc:Co_32_20",
+    "code": "Co_32_20",
+    "name": "Designated land areas",
+    "tokens": [
+      "land",
+      "designated",
+      "areas"
+    ],
+    "table": "Co",
+    "group": "32",
+    "subgroup": "20"
+  },
+  {
+    "id": "uc:Co_32_20_04",
+    "code": "Co_32_20_04",
+    "name": "Areas of special architectural or historical interest",
+    "tokens": [
+      "historical",
+      "areas",
+      "special",
+      "interest",
+      "architectural"
+    ],
+    "table": "Co",
+    "group": "32",
+    "subgroup": "20"
+  },
+  {
+    "id": "uc:Co_32_20_17",
+    "code": "Co_32_20_17",
+    "name": "Commons",
+    "tokens": [
+      "commons"
+    ],
+    "table": "Co",
+    "group": "32",
+    "subgroup": "20"
+  },
+  {
+    "id": "uc:Co_32_20_22",
+    "code": "Co_32_20_22",
+    "name": "Designated archaeological sites",
+    "tokens": [
+      "sites",
+      "archaeological",
+      "designated"
+    ],
+    "table": "Co",
+    "group": "32",
+    "subgroup": "20"
+  },
+  {
+    "id": "uc:Co_32_20_23",
+    "code": "Co_32_20_23",
+    "name": "Designated nature reserves",
+    "tokens": [
+      "nature",
+      "designated",
+      "reserves"
+    ],
+    "table": "Co",
+    "group": "32",
+    "subgroup": "20"
+  },
+  {
+    "id": "uc:Co_32_20_57",
+    "code": "Co_32_20_57",
+    "name": "National parks",
+    "tokens": [
+      "national",
+      "parks"
+    ],
+    "table": "Co",
+    "group": "32",
+    "subgroup": "20"
+  },
+  {
+    "id": "uc:Co_32_20_65",
+    "code": "Co_32_20_65",
+    "name": "Planning zones",
+    "tokens": [
+      "planning",
+      "zones"
+    ],
+    "table": "Co",
+    "group": "32",
+    "subgroup": "20"
+  },
+  {
+    "id": "uc:Co_32_50",
+    "code": "Co_32_50",
+    "name": "Marine ways and waterway complexes",
+    "tokens": [
+      "marine",
+      "ways",
+      "waterway",
+      "complexes"
+    ],
+    "table": "Co",
+    "group": "32",
+    "subgroup": "50"
+  },
+  {
+    "id": "uc:Co_32_50_11",
+    "code": "Co_32_50_11",
+    "name": "Causeways",
+    "tokens": [
+      "causeways"
+    ],
+    "table": "Co",
+    "group": "32",
+    "subgroup": "50"
+  },
+  {
+    "id": "uc:Co_32_50_48",
+    "code": "Co_32_50_48",
+    "name": "Lighthouse complexes",
+    "tokens": [
+      "lighthouse",
+      "complexes"
+    ],
+    "table": "Co",
+    "group": "32",
+    "subgroup": "50"
+  },
+  {
+    "id": "uc:Co_32_50_94",
+    "code": "Co_32_50_94",
+    "name": "Vessel berthing complexes",
+    "tokens": [
+      "berthing",
+      "vessel",
+      "complexes"
+    ],
+    "table": "Co",
+    "group": "32",
+    "subgroup": "50"
+  },
+  {
+    "id": "uc:Co_32_50_95",
+    "code": "Co_32_50_95",
+    "name": "Vessel launching complexes",
+    "tokens": [
+      "launching",
+      "vessel",
+      "complexes"
+    ],
+    "table": "Co",
+    "group": "32",
+    "subgroup": "50"
+  },
+  {
+    "id": "uc:Co_32_55",
+    "code": "Co_32_55",
+    "name": "Marine and water protection complexes",
+    "tokens": [
+      "water",
+      "protection",
+      "marine",
+      "complexes"
+    ],
+    "table": "Co",
+    "group": "32",
+    "subgroup": "55"
+  },
+  {
+    "id": "uc:Co_32_55_20",
+    "code": "Co_32_55_20",
+    "name": "Coastal protection complexes",
+    "tokens": [
+      "coastal",
+      "protection",
+      "complexes"
+    ],
+    "table": "Co",
+    "group": "32",
+    "subgroup": "55"
+  },
+  {
+    "id": "uc:Co_32_55_27",
+    "code": "Co_32_55_27",
+    "name": "Erosion protection complexes",
+    "tokens": [
+      "erosion",
+      "protection",
+      "complexes"
+    ],
+    "table": "Co",
+    "group": "32",
+    "subgroup": "55"
+  },
+  {
+    "id": "uc:Co_32_55_30",
+    "code": "Co_32_55_30",
+    "name": "Flood protection complexes",
+    "tokens": [
+      "protection",
+      "flood",
+      "complexes"
+    ],
+    "table": "Co",
+    "group": "32",
+    "subgroup": "55"
+  },
+  {
+    "id": "uc:Co_32_65",
+    "code": "Co_32_65",
+    "name": "Natural areas",
+    "tokens": [
+      "natural",
+      "areas"
+    ],
+    "table": "Co",
+    "group": "32",
+    "subgroup": "65"
+  },
+  {
+    "id": "uc:Co_32_65_04",
+    "code": "Co_32_65_04",
+    "name": "Aquifers",
+    "tokens": [
+      "aquifers"
+    ],
+    "table": "Co",
+    "group": "32",
+    "subgroup": "65"
+  },
+  {
+    "id": "uc:Co_32_65_15",
+    "code": "Co_32_65_15",
+    "name": "Cliffs",
+    "tokens": [
+      "cliffs"
+    ],
+    "table": "Co",
+    "group": "32",
+    "subgroup": "65"
+  },
+  {
+    "id": "uc:Co_32_65_16",
+    "code": "Co_32_65_16",
+    "name": "Coastal zones",
+    "tokens": [
+      "coastal",
+      "zones"
+    ],
+    "table": "Co",
+    "group": "32",
+    "subgroup": "65"
+  },
+  {
+    "id": "uc:Co_32_65_22",
+    "code": "Co_32_65_22",
+    "name": "Deserts",
+    "tokens": [
+      "deserts"
+    ],
+    "table": "Co",
+    "group": "32",
+    "subgroup": "65"
+  },
+  {
+    "id": "uc:Co_32_65_27",
+    "code": "Co_32_65_27",
+    "name": "Estuaries",
+    "tokens": [
+      "estuaries"
+    ],
+    "table": "Co",
+    "group": "32",
+    "subgroup": "65"
+  },
+  {
+    "id": "uc:Co_32_65_30",
+    "code": "Co_32_65_30",
+    "name": "Forests",
+    "tokens": [
+      "forests"
+    ],
+    "table": "Co",
+    "group": "32",
+    "subgroup": "65"
+  },
+  {
+    "id": "uc:Co_32_65_38",
+    "code": "Co_32_65_38",
+    "name": "Hills",
+    "tokens": [
+      "hills"
+    ],
+    "table": "Co",
+    "group": "32",
+    "subgroup": "65"
+  },
+  {
+    "id": "uc:Co_32_65_46",
+    "code": "Co_32_65_46",
+    "name": "Lakes",
+    "tokens": [
+      "lakes"
+    ],
+    "table": "Co",
+    "group": "32",
+    "subgroup": "65"
+  },
+  {
+    "id": "uc:Co_32_65_54",
+    "code": "Co_32_65_54",
+    "name": "Mountains",
+    "tokens": [
+      "mountains"
+    ],
+    "table": "Co",
+    "group": "32",
+    "subgroup": "65"
+  },
+  {
+    "id": "uc:Co_32_65_64",
+    "code": "Co_32_65_64",
+    "name": "Ponds",
+    "tokens": [
+      "ponds"
+    ],
+    "table": "Co",
+    "group": "32",
+    "subgroup": "65"
+  },
+  {
+    "id": "uc:Co_32_65_72",
+    "code": "Co_32_65_72",
+    "name": "Rivers",
+    "tokens": [
+      "rivers"
+    ],
+    "table": "Co",
+    "group": "32",
+    "subgroup": "65"
+  },
+  {
+    "id": "uc:Co_32_65_75",
+    "code": "Co_32_65_75",
+    "name": "Salt marshes",
+    "tokens": [
+      "marshes",
+      "salt"
+    ],
+    "table": "Co",
+    "group": "32",
+    "subgroup": "65"
+  },
+  {
+    "id": "uc:Co_32_65_79",
+    "code": "Co_32_65_79",
+    "name": "Seasonal wetlands",
+    "tokens": [
+      "wetlands",
+      "seasonal"
+    ],
+    "table": "Co",
+    "group": "32",
+    "subgroup": "65"
+  },
+  {
+    "id": "uc:Co_32_65_82",
+    "code": "Co_32_65_82",
+    "name": "Springs",
+    "tokens": [
+      "springs"
+    ],
+    "table": "Co",
+    "group": "32",
+    "subgroup": "65"
+  },
+  {
+    "id": "uc:Co_32_65_85",
+    "code": "Co_32_65_85",
+    "name": "Streams, brooks and burns",
+    "tokens": [
+      "burns",
+      "streams",
+      "brooks"
+    ],
+    "table": "Co",
+    "group": "32",
+    "subgroup": "65"
+  },
+  {
+    "id": "uc:Co_32_65_96",
+    "code": "Co_32_65_96",
+    "name": "Woodlands",
+    "tokens": [
+      "woodlands"
+    ],
+    "table": "Co",
+    "group": "32",
+    "subgroup": "65"
+  },
+  {
+    "id": "uc:Co_32_85",
+    "code": "Co_32_85",
+    "name": "Water control and retaining complexes",
+    "tokens": [
+      "water",
+      "retaining",
+      "control",
+      "complexes"
+    ],
+    "table": "Co",
+    "group": "32",
+    "subgroup": "85"
+  },
+  {
+    "id": "uc:Co_32_85_50",
+    "code": "Co_32_85_50",
+    "name": "Lock complexes",
+    "tokens": [
+      "lock",
+      "complexes"
+    ],
+    "table": "Co",
+    "group": "32",
+    "subgroup": "85"
+  },
+  {
+    "id": "uc:Co_32_85_70",
+    "code": "Co_32_85_70",
+    "name": "Reservoirs",
+    "tokens": [
+      "reservoirs"
+    ],
+    "table": "Co",
+    "group": "32",
+    "subgroup": "85"
+  },
+  {
+    "id": "uc:Co_32_85_88",
+    "code": "Co_32_85_88",
+    "name": "Tidal barriers",
+    "tokens": [
+      "tidal",
+      "barriers"
+    ],
+    "table": "Co",
+    "group": "32",
+    "subgroup": "85"
+  },
+  {
+    "id": "uc:Co_32_85_96",
+    "code": "Co_32_85_96",
+    "name": "Water control complexes",
+    "tokens": [
+      "water",
+      "control",
+      "complexes"
+    ],
+    "table": "Co",
+    "group": "32",
+    "subgroup": "85"
+  },
+  {
+    "id": "uc:Co_32_85_97",
+    "code": "Co_32_85_97",
+    "name": "Water level and flow monitoring complexes",
+    "tokens": [
+      "level",
+      "monitoring",
+      "flow",
+      "water",
+      "complexes"
+    ],
+    "table": "Co",
+    "group": "32",
+    "subgroup": "85"
+  },
+  {
+    "id": "uc:Co_32_85_98",
+    "code": "Co_32_85_98",
+    "name": "Water pumping complexes",
+    "tokens": [
+      "water",
+      "pumping",
+      "complexes"
+    ],
+    "table": "Co",
+    "group": "32",
+    "subgroup": "85"
+  },
+  {
+    "id": "uc:Co_35",
+    "code": "Co_35",
+    "name": "Medical, health, welfare and sanitary complexes",
+    "tokens": [
+      "complexes",
+      "welfare",
+      "medical",
+      "health",
+      "sanitary"
+    ],
+    "table": "Co",
+    "group": "35",
+    "subgroup": ""
+  },
+  {
+    "id": "uc:Co_35_10",
+    "code": "Co_35_10",
+    "name": "Medical complexes",
+    "tokens": [
+      "medical",
+      "complexes"
+    ],
+    "table": "Co",
+    "group": "35",
+    "subgroup": "10"
+  },
+  {
+    "id": "uc:Co_35_10_02",
+    "code": "Co_35_10_02",
+    "name": "Air ambulance complexes",
+    "tokens": [
+      "air",
+      "ambulance",
+      "complexes"
+    ],
+    "table": "Co",
+    "group": "35",
+    "subgroup": "10"
+  },
+  {
+    "id": "uc:Co_35_10_03",
+    "code": "Co_35_10_03",
+    "name": "Ambulance complexes",
+    "tokens": [
+      "ambulance",
+      "complexes"
+    ],
+    "table": "Co",
+    "group": "35",
+    "subgroup": "10"
+  },
+  {
+    "id": "uc:Co_35_10_15",
+    "code": "Co_35_10_15",
+    "name": "Clinical complexes",
+    "tokens": [
+      "clinical",
+      "complexes"
+    ],
+    "table": "Co",
+    "group": "35",
+    "subgroup": "10"
+  },
+  {
+    "id": "uc:Co_35_10_37",
+    "code": "Co_35_10_37",
+    "name": "Hospital complexes",
+    "tokens": [
+      "hospital",
+      "complexes"
+    ],
+    "table": "Co",
+    "group": "35",
+    "subgroup": "10"
+  },
+  {
+    "id": "uc:Co_35_50",
+    "code": "Co_35_50",
+    "name": "Welfare complexes",
+    "tokens": [
+      "welfare",
+      "complexes"
+    ],
+    "table": "Co",
+    "group": "35",
+    "subgroup": "50"
+  },
+  {
+    "id": "uc:Co_35_50_30",
+    "code": "Co_35_50_30",
+    "name": "Fitness and detox complexes",
+    "tokens": [
+      "detox",
+      "fitness",
+      "complexes"
+    ],
+    "table": "Co",
+    "group": "35",
+    "subgroup": "50"
+  },
+  {
+    "id": "uc:Co_35_50_37",
+    "code": "Co_35_50_37",
+    "name": "Hospices",
+    "tokens": [
+      "hospices"
+    ],
+    "table": "Co",
+    "group": "35",
+    "subgroup": "50"
+  },
+  {
+    "id": "uc:Co_35_50_58",
+    "code": "Co_35_50_58",
+    "name": "Nursing homes",
+    "tokens": [
+      "nursing",
+      "homes"
+    ],
+    "table": "Co",
+    "group": "35",
+    "subgroup": "50"
+  },
+  {
+    "id": "uc:Co_35_50_69",
+    "code": "Co_35_50_69",
+    "name": "Quarantine stations",
+    "tokens": [
+      "stations",
+      "quarantine"
+    ],
+    "table": "Co",
+    "group": "35",
+    "subgroup": "50"
+  },
+  {
+    "id": "uc:Co_35_50_82",
+    "code": "Co_35_50_82",
+    "name": "Spa complexes",
+    "tokens": [
+      "spa",
+      "complexes"
+    ],
+    "table": "Co",
+    "group": "35",
+    "subgroup": "50"
+  },
+  {
+    "id": "uc:Co_35_50_90",
+    "code": "Co_35_50_90",
+    "name": "Turkish baths",
+    "tokens": [
+      "turkish",
+      "baths"
+    ],
+    "table": "Co",
+    "group": "35",
+    "subgroup": "50"
+  },
+  {
+    "id": "uc:Co_35_70",
+    "code": "Co_35_70",
+    "name": "Funerary complexes",
+    "tokens": [
+      "funerary",
+      "complexes"
+    ],
+    "table": "Co",
+    "group": "35",
+    "subgroup": "70"
+  },
+  {
+    "id": "uc:Co_35_70_13",
+    "code": "Co_35_70_13",
+    "name": "Cemeteries",
+    "tokens": [
+      "cemeteries"
+    ],
+    "table": "Co",
+    "group": "35",
+    "subgroup": "70"
+  },
+  {
+    "id": "uc:Co_35_70_16",
+    "code": "Co_35_70_16",
+    "name": "Crematoriums",
+    "tokens": [
+      "crematoriums"
+    ],
+    "table": "Co",
+    "group": "35",
+    "subgroup": "70"
+  },
+  {
+    "id": "uc:Co_35_70_32",
+    "code": "Co_35_70_32",
+    "name": "Funeral complexes",
+    "tokens": [
+      "funeral",
+      "complexes"
+    ],
+    "table": "Co",
+    "group": "35",
+    "subgroup": "70"
+  },
+  {
+    "id": "uc:Co_35_85",
+    "code": "Co_35_85",
+    "name": "Animal complexes",
+    "tokens": [
+      "animal",
+      "complexes"
+    ],
+    "table": "Co",
+    "group": "35",
+    "subgroup": "85"
+  },
+  {
+    "id": "uc:Co_35_85_02",
+    "code": "Co_35_85_02",
+    "name": "Animal cage complexes",
+    "tokens": [
+      "animal",
+      "cage",
+      "complexes"
+    ],
+    "table": "Co",
+    "group": "35",
+    "subgroup": "85"
+  },
+  {
+    "id": "uc:Co_35_85_03",
+    "code": "Co_35_85_03",
+    "name": "Animal pen complexes",
+    "tokens": [
+      "animal",
+      "pen",
+      "complexes"
+    ],
+    "table": "Co",
+    "group": "35",
+    "subgroup": "85"
+  },
+  {
+    "id": "uc:Co_35_85_04",
+    "code": "Co_35_85_04",
+    "name": "Aquariums",
+    "tokens": [
+      "aquariums"
+    ],
+    "table": "Co",
+    "group": "35",
+    "subgroup": "85"
+  },
+  {
+    "id": "uc:Co_35_85_05",
+    "code": "Co_35_85_05",
+    "name": "Aviary complexes",
+    "tokens": [
+      "aviary",
+      "complexes"
+    ],
+    "table": "Co",
+    "group": "35",
+    "subgroup": "85"
+  },
+  {
+    "id": "uc:Co_35_85_45",
+    "code": "Co_35_85_45",
+    "name": "Kennel complexes",
+    "tokens": [
+      "kennel",
+      "complexes"
+    ],
+    "table": "Co",
+    "group": "35",
+    "subgroup": "85"
+  },
+  {
+    "id": "uc:Co_35_85_85",
+    "code": "Co_35_85_85",
+    "name": "Stable complexes",
+    "tokens": [
+      "stable",
+      "complexes"
+    ],
+    "table": "Co",
+    "group": "35",
+    "subgroup": "85"
+  },
+  {
+    "id": "uc:Co_35_90",
+    "code": "Co_35_90",
+    "name": "Animal medical, health, welfare, funerary and sanitary complexes",
+    "tokens": [
+      "complexes",
+      "welfare",
+      "medical",
+      "animal",
+      "funerary",
+      "health",
+      "sanitary"
+    ],
+    "table": "Co",
+    "group": "35",
+    "subgroup": "90"
+  },
+  {
+    "id": "uc:Co_35_90_02",
+    "code": "Co_35_90_02",
+    "name": "Animal funerary complexes",
+    "tokens": [
+      "animal",
+      "funerary",
+      "complexes"
+    ],
+    "table": "Co",
+    "group": "35",
+    "subgroup": "90"
+  },
+  {
+    "id": "uc:Co_35_90_03",
+    "code": "Co_35_90_03",
+    "name": "Animal quarantine stations",
+    "tokens": [
+      "stations",
+      "quarantine",
+      "animal"
+    ],
+    "table": "Co",
+    "group": "35",
+    "subgroup": "90"
+  },
+  {
+    "id": "uc:Co_35_90_95",
+    "code": "Co_35_90_95",
+    "name": "Veterinary hospitals",
+    "tokens": [
+      "hospitals",
+      "veterinary"
+    ],
+    "table": "Co",
+    "group": "35",
+    "subgroup": "90"
+  },
+  {
+    "id": "uc:Co_40",
+    "code": "Co_40",
+    "name": "Recreational complexes",
+    "tokens": [
+      "recreational",
+      "complexes"
+    ],
+    "table": "Co",
+    "group": "40",
+    "subgroup": ""
+  },
+  {
+    "id": "uc:Co_40_05",
+    "code": "Co_40_05",
+    "name": "Amusement complexes",
+    "tokens": [
+      "amusement",
+      "complexes"
+    ],
+    "table": "Co",
+    "group": "40",
+    "subgroup": "05"
+  },
+  {
+    "id": "uc:Co_40_05_02",
+    "code": "Co_40_05_02",
+    "name": "Amphitheatres",
+    "tokens": [
+      "amphitheatres"
+    ],
+    "table": "Co",
+    "group": "40",
+    "subgroup": "05"
+  },
+  {
+    "id": "uc:Co_40_05_03",
+    "code": "Co_40_05_03",
+    "name": "Amusement parks",
+    "tokens": [
+      "amusement",
+      "parks"
+    ],
+    "table": "Co",
+    "group": "40",
+    "subgroup": "05"
+  },
+  {
+    "id": "uc:Co_40_05_27",
+    "code": "Co_40_05_27",
+    "name": "E-sport complexes",
+    "tokens": [
+      "sport",
+      "e",
+      "complexes"
+    ],
+    "table": "Co",
+    "group": "40",
+    "subgroup": "05"
+  },
+  {
+    "id": "uc:Co_40_05_30",
+    "code": "Co_40_05_30",
+    "name": "Fairground complexes",
+    "tokens": [
+      "fairground",
+      "complexes"
+    ],
+    "table": "Co",
+    "group": "40",
+    "subgroup": "05"
+  },
+  {
+    "id": "uc:Co_40_05_63",
+    "code": "Co_40_05_63",
+    "name": "Pleasure piers",
+    "tokens": [
+      "piers",
+      "pleasure"
+    ],
+    "table": "Co",
+    "group": "40",
+    "subgroup": "05"
+  },
+  {
+    "id": "uc:Co_40_05_89",
+    "code": "Co_40_05_89",
+    "name": "Theme parks",
+    "tokens": [
+      "theme",
+      "parks"
+    ],
+    "table": "Co",
+    "group": "40",
+    "subgroup": "05"
+  },
+  {
+    "id": "uc:Co_40_35",
+    "code": "Co_40_35",
+    "name": "Historic complexes",
+    "tokens": [
+      "historic",
+      "complexes"
+    ],
+    "table": "Co",
+    "group": "40",
+    "subgroup": "35"
+  },
+  {
+    "id": "uc:Co_40_35_06",
+    "code": "Co_40_35_06",
+    "name": "Battle sites",
+    "tokens": [
+      "sites",
+      "battle"
+    ],
+    "table": "Co",
+    "group": "40",
+    "subgroup": "35"
+  },
+  {
+    "id": "uc:Co_40_35_39",
+    "code": "Co_40_35_39",
+    "name": "Historic sites",
+    "tokens": [
+      "sites",
+      "historic"
+    ],
+    "table": "Co",
+    "group": "40",
+    "subgroup": "35"
+  },
+  {
+    "id": "uc:Co_40_35_78",
+    "code": "Co_40_35_78",
+    "name": "Sites of antiquity",
+    "tokens": [
+      "sites",
+      "antiquity"
+    ],
+    "table": "Co",
+    "group": "40",
+    "subgroup": "35"
+  },
+  {
+    "id": "uc:Co_40_35_94",
+    "code": "Co_40_35_94",
+    "name": "Visible earthworks",
+    "tokens": [
+      "earthworks",
+      "visible"
+    ],
+    "table": "Co",
+    "group": "40",
+    "subgroup": "35"
+  },
+  {
+    "id": "uc:Co_40_60",
+    "code": "Co_40_60",
+    "name": "Performing arts complexes",
+    "tokens": [
+      "performing",
+      "arts",
+      "complexes"
+    ],
+    "table": "Co",
+    "group": "40",
+    "subgroup": "60"
+  },
+  {
+    "id": "uc:Co_40_60_13",
+    "code": "Co_40_60_13",
+    "name": "Cinema complexes",
+    "tokens": [
+      "cinema",
+      "complexes"
+    ],
+    "table": "Co",
+    "group": "40",
+    "subgroup": "60"
+  },
+  {
+    "id": "uc:Co_40_60_14",
+    "code": "Co_40_60_14",
+    "name": "Circuses",
+    "tokens": [
+      "circuses"
+    ],
+    "table": "Co",
+    "group": "40",
+    "subgroup": "60"
+  },
+  {
+    "id": "uc:Co_40_60_16",
+    "code": "Co_40_60_16",
+    "name": "Concert hall complexes",
+    "tokens": [
+      "concert",
+      "hall",
+      "complexes"
+    ],
+    "table": "Co",
+    "group": "40",
+    "subgroup": "60"
+  },
+  {
+    "id": "uc:Co_40_60_30",
+    "code": "Co_40_60_30",
+    "name": "Film and television studio complexes",
+    "tokens": [
+      "television",
+      "film",
+      "studio",
+      "complexes"
+    ],
+    "table": "Co",
+    "group": "40",
+    "subgroup": "60"
+  },
+  {
+    "id": "uc:Co_40_60_88",
+    "code": "Co_40_60_88",
+    "name": "Theatre complexes",
+    "tokens": [
+      "theatre",
+      "complexes"
+    ],
+    "table": "Co",
+    "group": "40",
+    "subgroup": "60"
+  },
+  {
+    "id": "uc:Co_40_75",
+    "code": "Co_40_75",
+    "name": "Social recreation complexes",
+    "tokens": [
+      "social",
+      "recreation",
+      "complexes"
+    ],
+    "table": "Co",
+    "group": "40",
+    "subgroup": "75"
+  },
+  {
+    "id": "uc:Co_40_75_15",
+    "code": "Co_40_75_15",
+    "name": "Community centres",
+    "tokens": [
+      "community",
+      "centres"
+    ],
+    "table": "Co",
+    "group": "40",
+    "subgroup": "75"
+  },
+  {
+    "id": "uc:Co_40_75_17",
+    "code": "Co_40_75_17",
+    "name": "Country parks",
+    "tokens": [
+      "parks",
+      "country"
+    ],
+    "table": "Co",
+    "group": "40",
+    "subgroup": "75"
+  },
+  {
+    "id": "uc:Co_40_75_68",
+    "code": "Co_40_75_68",
+    "name": "Public parks",
+    "tokens": [
+      "public",
+      "parks"
+    ],
+    "table": "Co",
+    "group": "40",
+    "subgroup": "75"
+  },
+  {
+    "id": "uc:Co_40_75_71",
+    "code": "Co_40_75_71",
+    "name": "Recreation grounds",
+    "tokens": [
+      "grounds",
+      "recreation"
+    ],
+    "table": "Co",
+    "group": "40",
+    "subgroup": "75"
+  },
+  {
+    "id": "uc:Co_42",
+    "code": "Co_42",
+    "name": "Sport and activity complexes",
+    "tokens": [
+      "sport",
+      "activity",
+      "complexes"
+    ],
+    "table": "Co",
+    "group": "42",
+    "subgroup": ""
+  },
+  {
+    "id": "uc:Co_42_40",
+    "code": "Co_42_40",
+    "name": "Indoor activity complexes",
+    "tokens": [
+      "activity",
+      "indoor",
+      "complexes"
+    ],
+    "table": "Co",
+    "group": "42",
+    "subgroup": "40"
+  },
+  {
+    "id": "uc:Co_42_40_10",
+    "code": "Co_42_40_10",
+    "name": "Indoor athletics stadiums",
+    "tokens": [
+      "athletics",
+      "indoor",
+      "stadiums"
+    ],
+    "table": "Co",
+    "group": "42",
+    "subgroup": "40"
+  },
+  {
+    "id": "uc:Co_42_40_40",
+    "code": "Co_42_40_40",
+    "name": "Indoor sports complexes",
+    "tokens": [
+      "sports",
+      "indoor",
+      "complexes"
+    ],
+    "table": "Co",
+    "group": "42",
+    "subgroup": "40"
+  },
+  {
+    "id": "uc:Co_42_50",
+    "code": "Co_42_50",
+    "name": "Outdoor activity complexes",
+    "tokens": [
+      "activity",
+      "outdoor",
+      "complexes"
+    ],
+    "table": "Co",
+    "group": "42",
+    "subgroup": "50"
+  },
+  {
+    "id": "uc:Co_42_50_10",
+    "code": "Co_42_50_10",
+    "name": "Outdoor stadiums",
+    "tokens": [
+      "outdoor",
+      "stadiums"
+    ],
+    "table": "Co",
+    "group": "42",
+    "subgroup": "50"
+  },
+  {
+    "id": "uc:Co_42_50_25",
+    "code": "Co_42_50_25",
+    "name": "Equine sports complexes",
+    "tokens": [
+      "sports",
+      "equine",
+      "complexes"
+    ],
+    "table": "Co",
+    "group": "42",
+    "subgroup": "50"
+  },
+  {
+    "id": "uc:Co_42_50_30",
+    "code": "Co_42_50_30",
+    "name": "Golf courses",
+    "tokens": [
+      "golf",
+      "courses"
+    ],
+    "table": "Co",
+    "group": "42",
+    "subgroup": "50"
+  },
+  {
+    "id": "uc:Co_42_50_50",
+    "code": "Co_42_50_50",
+    "name": "Motor sports complexes",
+    "tokens": [
+      "sports",
+      "motor",
+      "complexes"
+    ],
+    "table": "Co",
+    "group": "42",
+    "subgroup": "50"
+  },
+  {
+    "id": "uc:Co_42_50_60",
+    "code": "Co_42_50_60",
+    "name": "Outdoor sports complexes",
+    "tokens": [
+      "sports",
+      "outdoor",
+      "complexes"
+    ],
+    "table": "Co",
+    "group": "42",
+    "subgroup": "50"
+  },
+  {
+    "id": "uc:Co_42_50_70",
+    "code": "Co_42_50_70",
+    "name": "Racehorse gallops",
+    "tokens": [
+      "racehorse",
+      "gallops"
+    ],
+    "table": "Co",
+    "group": "42",
+    "subgroup": "50"
+  },
+  {
+    "id": "uc:Co_42_50_95",
+    "code": "Co_42_50_95",
+    "name": "Winter sport complexes",
+    "tokens": [
+      "sport",
+      "winter",
+      "complexes"
+    ],
+    "table": "Co",
+    "group": "42",
+    "subgroup": "50"
+  },
+  {
+    "id": "uc:Co_42_85",
+    "code": "Co_42_85",
+    "name": "Swimming complexes",
+    "tokens": [
+      "swimming",
+      "complexes"
+    ],
+    "table": "Co",
+    "group": "42",
+    "subgroup": "85"
+  },
+  {
+    "id": "uc:Co_42_85_40",
+    "code": "Co_42_85_40",
+    "name": "Indoor swimming pool complexes",
+    "tokens": [
+      "swimming",
+      "pool",
+      "indoor",
+      "complexes"
+    ],
+    "table": "Co",
+    "group": "42",
+    "subgroup": "85"
+  },
+  {
+    "id": "uc:Co_42_85_60",
+    "code": "Co_42_85_60",
+    "name": "Outdoor swimming pool complexes",
+    "tokens": [
+      "swimming",
+      "pool",
+      "outdoor",
+      "complexes"
+    ],
+    "table": "Co",
+    "group": "42",
+    "subgroup": "85"
+  },
+  {
+    "id": "uc:Co_42_85_96",
+    "code": "Co_42_85_96",
+    "name": "Water parks",
+    "tokens": [
+      "water",
+      "parks"
+    ],
+    "table": "Co",
+    "group": "42",
+    "subgroup": "85"
+  },
+  {
+    "id": "uc:Co_45",
+    "code": "Co_45",
+    "name": "Residential complexes",
+    "tokens": [
+      "residential",
+      "complexes"
+    ],
+    "table": "Co",
+    "group": "45",
+    "subgroup": ""
+  },
+  {
+    "id": "uc:Co_45_10",
+    "code": "Co_45_10",
+    "name": "Living complexes",
+    "tokens": [
+      "living",
+      "complexes"
+    ],
+    "table": "Co",
+    "group": "45",
+    "subgroup": "10"
+  },
+  {
+    "id": "uc:Co_45_10_11",
+    "code": "Co_45_10_11",
+    "name": "Campsites",
+    "tokens": [
+      "campsites"
+    ],
+    "table": "Co",
+    "group": "45",
+    "subgroup": "10"
+  },
+  {
+    "id": "uc:Co_45_10_12",
+    "code": "Co_45_10_12",
+    "name": "Caravan parks",
+    "tokens": [
+      "caravan",
+      "parks"
+    ],
+    "table": "Co",
+    "group": "45",
+    "subgroup": "10"
+  },
+  {
+    "id": "uc:Co_45_10_15",
+    "code": "Co_45_10_15",
+    "name": "Convents and monasteries",
+    "tokens": [
+      "convents",
+      "monasteries"
+    ],
+    "table": "Co",
+    "group": "45",
+    "subgroup": "10"
+  },
+  {
+    "id": "uc:Co_45_10_27",
+    "code": "Co_45_10_27",
+    "name": "Emergency camps",
+    "tokens": [
+      "emergency",
+      "camps"
+    ],
+    "table": "Co",
+    "group": "45",
+    "subgroup": "10"
+  },
+  {
+    "id": "uc:Co_45_10_35",
+    "code": "Co_45_10_35",
+    "name": "Halls of residence",
+    "tokens": [
+      "halls",
+      "residence"
+    ],
+    "table": "Co",
+    "group": "45",
+    "subgroup": "10"
+  },
+  {
+    "id": "uc:Co_45_10_36",
+    "code": "Co_45_10_36",
+    "name": "High-rise residential complexes",
+    "tokens": [
+      "high",
+      "rise",
+      "residential",
+      "complexes"
+    ],
+    "table": "Co",
+    "group": "45",
+    "subgroup": "10"
+  },
+  {
+    "id": "uc:Co_45_10_37",
+    "code": "Co_45_10_37",
+    "name": "Hostels",
+    "tokens": [
+      "hostels"
+    ],
+    "table": "Co",
+    "group": "45",
+    "subgroup": "10"
+  },
+  {
+    "id": "uc:Co_45_10_38",
+    "code": "Co_45_10_38",
+    "name": "Hotels",
+    "tokens": [
+      "hotels"
+    ],
+    "table": "Co",
+    "group": "45",
+    "subgroup": "10"
+  },
+  {
+    "id": "uc:Co_45_10_40",
+    "code": "Co_45_10_40",
+    "name": "Houses in multiple occupation",
+    "tokens": [
+      "occupation",
+      "multiple",
+      "houses"
+    ],
+    "table": "Co",
+    "group": "45",
+    "subgroup": "10"
+  },
+  {
+    "id": "uc:Co_45_10_41",
+    "code": "Co_45_10_41",
+    "name": "Housing estates",
+    "tokens": [
+      "housing",
+      "estates"
+    ],
+    "table": "Co",
+    "group": "45",
+    "subgroup": "10"
+  },
+  {
+    "id": "uc:Co_45_10_51",
+    "code": "Co_45_10_51",
+    "name": "Military camps",
+    "tokens": [
+      "military",
+      "camps"
+    ],
+    "table": "Co",
+    "group": "45",
+    "subgroup": "10"
+  },
+  {
+    "id": "uc:Co_45_10_54",
+    "code": "Co_45_10_54",
+    "name": "Motels",
+    "tokens": [
+      "motels"
+    ],
+    "table": "Co",
+    "group": "45",
+    "subgroup": "10"
+  },
+  {
+    "id": "uc:Co_45_10_72",
+    "code": "Co_45_10_72",
+    "name": "Religious retreats",
+    "tokens": [
+      "religious",
+      "retreats"
+    ],
+    "table": "Co",
+    "group": "45",
+    "subgroup": "10"
+  },
+  {
+    "id": "uc:Co_45_10_74",
+    "code": "Co_45_10_74",
+    "name": "Residential properties",
+    "tokens": [
+      "properties",
+      "residential"
+    ],
+    "table": "Co",
+    "group": "45",
+    "subgroup": "10"
+  },
+  {
+    "id": "uc:Co_45_10_78",
+    "code": "Co_45_10_78",
+    "name": "Sheltered housing",
+    "tokens": [
+      "housing",
+      "sheltered"
+    ],
+    "table": "Co",
+    "group": "45",
+    "subgroup": "10"
+  },
+  {
+    "id": "uc:Co_45_10_98",
+    "code": "Co_45_10_98",
+    "name": "Youth group camps",
+    "tokens": [
+      "youth",
+      "group",
+      "camps"
+    ],
+    "table": "Co",
+    "group": "45",
+    "subgroup": "10"
+  },
+  {
+    "id": "uc:Co_50",
+    "code": "Co_50",
+    "name": "Waste disposal complexes",
+    "tokens": [
+      "disposal",
+      "waste",
+      "complexes"
+    ],
+    "table": "Co",
+    "group": "50",
+    "subgroup": ""
+  },
+  {
+    "id": "uc:Co_50_20",
+    "code": "Co_50_20",
+    "name": "Non-aqueous waste collection and distribution complexes",
+    "tokens": [
+      "non",
+      "distribution",
+      "waste",
+      "collection",
+      "aqueous",
+      "complexes"
+    ],
+    "table": "Co",
+    "group": "50",
+    "subgroup": "20"
+  },
+  {
+    "id": "uc:Co_50_30",
+    "code": "Co_50_30",
+    "name": "Drainage collection complexes",
+    "tokens": [
+      "collection",
+      "complexes",
+      "drainage"
+    ],
+    "table": "Co",
+    "group": "50",
+    "subgroup": "30"
+  },
+  {
+    "id": "uc:Co_50_30_25",
+    "code": "Co_50_30_25",
+    "name": "Drainage collection networks",
+    "tokens": [
+      "networks",
+      "collection",
+      "drainage"
+    ],
+    "table": "Co",
+    "group": "50",
+    "subgroup": "30"
+  },
+  {
+    "id": "uc:Co_50_35",
+    "code": "Co_50_35",
+    "name": "Wastewater collection complexes",
+    "tokens": [
+      "wastewater",
+      "collection",
+      "complexes"
+    ],
+    "table": "Co",
+    "group": "50",
+    "subgroup": "35"
+  },
+  {
+    "id": "uc:Co_50_35_15",
+    "code": "Co_50_35_15",
+    "name": "Combined wastewater collection networks",
+    "tokens": [
+      "wastewater",
+      "combined",
+      "collection",
+      "networks"
+    ],
+    "table": "Co",
+    "group": "50",
+    "subgroup": "35"
+  },
+  {
+    "id": "uc:Co_50_35_85",
+    "code": "Co_50_35_85",
+    "name": "Surface water collection networks",
+    "tokens": [
+      "water",
+      "collection",
+      "surface",
+      "networks"
+    ],
+    "table": "Co",
+    "group": "50",
+    "subgroup": "35"
+  },
+  {
+    "id": "uc:Co_50_35_96",
+    "code": "Co_50_35_96",
+    "name": "Wastewater collection networks",
+    "tokens": [
+      "wastewater",
+      "collection",
+      "networks"
+    ],
+    "table": "Co",
+    "group": "50",
+    "subgroup": "35"
+  },
+  {
+    "id": "uc:Co_50_40",
+    "code": "Co_50_40",
+    "name": "Dry waste collection and distribution complexes",
+    "tokens": [
+      "distribution",
+      "complexes",
+      "collection",
+      "dry",
+      "waste"
+    ],
+    "table": "Co",
+    "group": "50",
+    "subgroup": "40"
+  },
+  {
+    "id": "uc:Co_50_40_10",
+    "code": "Co_50_40_10",
+    "name": "Dry waste collection complexes",
+    "tokens": [
+      "waste",
+      "dry",
+      "collection",
+      "complexes"
+    ],
+    "table": "Co",
+    "group": "50",
+    "subgroup": "40"
+  },
+  {
+    "id": "uc:Co_50_40_50",
+    "code": "Co_50_40_50",
+    "name": "Dry waste distribution complexes",
+    "tokens": [
+      "waste",
+      "dry",
+      "distribution",
+      "complexes"
+    ],
+    "table": "Co",
+    "group": "50",
+    "subgroup": "40"
+  },
+  {
+    "id": "uc:Co_50_60",
+    "code": "Co_50_60",
+    "name": "Non-aqueous waste treatment and disposal complexes",
+    "tokens": [
+      "disposal",
+      "non",
+      "waste",
+      "treatment",
+      "aqueous",
+      "complexes"
+    ],
+    "table": "Co",
+    "group": "50",
+    "subgroup": "60"
+  },
+  {
+    "id": "uc:Co_50_70",
+    "code": "Co_50_70",
+    "name": "Drainage storage, treatment and disposal complexes",
+    "tokens": [
+      "disposal",
+      "drainage",
+      "treatment",
+      "storage",
+      "complexes"
+    ],
+    "table": "Co",
+    "group": "50",
+    "subgroup": "70"
+  },
+  {
+    "id": "uc:Co_50_70_25",
+    "code": "Co_50_70_25",
+    "name": "Drainage disposal networks",
+    "tokens": [
+      "disposal",
+      "drainage",
+      "networks"
+    ],
+    "table": "Co",
+    "group": "50",
+    "subgroup": "70"
+  },
+  {
+    "id": "uc:Co_50_75",
+    "code": "Co_50_75",
+    "name": "Wastewater storage, treatment and disposal complexes",
+    "tokens": [
+      "wastewater",
+      "disposal",
+      "treatment",
+      "storage",
+      "complexes"
+    ],
+    "table": "Co",
+    "group": "50",
+    "subgroup": "75"
+  },
+  {
+    "id": "uc:Co_50_75_25",
+    "code": "Co_50_75_25",
+    "name": "Wastewater disposal complexes",
+    "tokens": [
+      "wastewater",
+      "disposal",
+      "complexes"
+    ],
+    "table": "Co",
+    "group": "50",
+    "subgroup": "75"
+  },
+  {
+    "id": "uc:Co_50_75_85",
+    "code": "Co_50_75_85",
+    "name": "Wastewater storage complexes",
+    "tokens": [
+      "wastewater",
+      "storage",
+      "complexes"
+    ],
+    "table": "Co",
+    "group": "50",
+    "subgroup": "75"
+  },
+  {
+    "id": "uc:Co_50_75_90",
+    "code": "Co_50_75_90",
+    "name": "Wastewater treatment complexes",
+    "tokens": [
+      "wastewater",
+      "treatment",
+      "complexes"
+    ],
+    "table": "Co",
+    "group": "50",
+    "subgroup": "75"
+  },
+  {
+    "id": "uc:Co_50_80",
+    "code": "Co_50_80",
+    "name": "Dry waste storage, treatment and disposal complexes",
+    "tokens": [
+      "disposal",
+      "waste",
+      "treatment",
+      "storage",
+      "dry",
+      "complexes"
+    ],
+    "table": "Co",
+    "group": "50",
+    "subgroup": "80"
+  },
+  {
+    "id": "uc:Co_50_80_24",
+    "code": "Co_50_80_24",
+    "name": "Dry waste storage complexes",
+    "tokens": [
+      "storage",
+      "waste",
+      "dry",
+      "complexes"
+    ],
+    "table": "Co",
+    "group": "50",
+    "subgroup": "80"
+  },
+  {
+    "id": "uc:Co_50_80_40",
+    "code": "Co_50_80_40",
+    "name": "Dry waste treatment complexes",
+    "tokens": [
+      "waste",
+      "dry",
+      "complexes",
+      "treatment"
+    ],
+    "table": "Co",
+    "group": "50",
+    "subgroup": "80"
+  },
+  {
+    "id": "uc:Co_50_80_70",
+    "code": "Co_50_80_70",
+    "name": "Dry waste disposal complexes",
+    "tokens": [
+      "disposal",
+      "waste",
+      "dry",
+      "complexes"
+    ],
+    "table": "Co",
+    "group": "50",
+    "subgroup": "80"
+  },
+  {
+    "id": "uc:Co_55",
+    "code": "Co_55",
+    "name": "Piped supply complexes",
+    "tokens": [
+      "supply",
+      "piped",
+      "complexes"
+    ],
+    "table": "Co",
+    "group": "55",
+    "subgroup": ""
+  },
+  {
+    "id": "uc:Co_55_05",
+    "code": "Co_55_05",
+    "name": "Gas extraction, storage and treatment complexes",
+    "tokens": [
+      "gas",
+      "treatment",
+      "storage",
+      "extraction",
+      "complexes"
+    ],
+    "table": "Co",
+    "group": "55",
+    "subgroup": "05"
+  },
+  {
+    "id": "uc:Co_55_05_30",
+    "code": "Co_55_05_30",
+    "name": "Gas extraction complexes",
+    "tokens": [
+      "extraction",
+      "gas",
+      "complexes"
+    ],
+    "table": "Co",
+    "group": "55",
+    "subgroup": "05"
+  },
+  {
+    "id": "uc:Co_55_05_34",
+    "code": "Co_55_05_34",
+    "name": "Gas storage complexes",
+    "tokens": [
+      "storage",
+      "gas",
+      "complexes"
+    ],
+    "table": "Co",
+    "group": "55",
+    "subgroup": "05"
+  },
+  {
+    "id": "uc:Co_55_05_70",
+    "code": "Co_55_05_70",
+    "name": "Gas treatment complexes",
+    "tokens": [
+      "treatment",
+      "gas",
+      "complexes"
+    ],
+    "table": "Co",
+    "group": "55",
+    "subgroup": "05"
+  },
+  {
+    "id": "uc:Co_55_10",
+    "code": "Co_55_10",
+    "name": "Liquid fuel extraction, storage and treatment complexes",
+    "tokens": [
+      "liquid",
+      "treatment",
+      "storage",
+      "fuel",
+      "extraction",
+      "complexes"
+    ],
+    "table": "Co",
+    "group": "55",
+    "subgroup": "10"
+  },
+  {
+    "id": "uc:Co_55_10_40",
+    "code": "Co_55_10_40",
+    "name": "Oil extraction complexes",
+    "tokens": [
+      "oil",
+      "extraction",
+      "complexes"
+    ],
+    "table": "Co",
+    "group": "55",
+    "subgroup": "10"
+  },
+  {
+    "id": "uc:Co_55_10_45",
+    "code": "Co_55_10_45",
+    "name": "Liquid fuel storage complexes",
+    "tokens": [
+      "storage",
+      "liquid",
+      "fuel",
+      "complexes"
+    ],
+    "table": "Co",
+    "group": "55",
+    "subgroup": "10"
+  },
+  {
+    "id": "uc:Co_55_10_80",
+    "code": "Co_55_10_80",
+    "name": "Oil treatment complexes",
+    "tokens": [
+      "treatment",
+      "oil",
+      "complexes"
+    ],
+    "table": "Co",
+    "group": "55",
+    "subgroup": "10"
+  },
+  {
+    "id": "uc:Co_55_15",
+    "code": "Co_55_15",
+    "name": "Water extraction, storage and treatment complexes",
+    "tokens": [
+      "treatment",
+      "storage",
+      "water",
+      "extraction",
+      "complexes"
+    ],
+    "table": "Co",
+    "group": "55",
+    "subgroup": "15"
+  },
+  {
+    "id": "uc:Co_55_15_10",
+    "code": "Co_55_15_10",
+    "name": "Water extraction complexes",
+    "tokens": [
+      "water",
+      "extraction",
+      "complexes"
+    ],
+    "table": "Co",
+    "group": "55",
+    "subgroup": "15"
+  },
+  {
+    "id": "uc:Co_55_15_15",
+    "code": "Co_55_15_15",
+    "name": "Water extraction networks",
+    "tokens": [
+      "water",
+      "extraction",
+      "networks"
+    ],
+    "table": "Co",
+    "group": "55",
+    "subgroup": "15"
+  },
+  {
+    "id": "uc:Co_55_15_50",
+    "code": "Co_55_15_50",
+    "name": "Water treatment complexes",
+    "tokens": [
+      "treatment",
+      "water",
+      "complexes"
+    ],
+    "table": "Co",
+    "group": "55",
+    "subgroup": "15"
+  },
+  {
+    "id": "uc:Co_55_15_96",
+    "code": "Co_55_15_96",
+    "name": "Water storage complexes",
+    "tokens": [
+      "storage",
+      "water",
+      "complexes"
+    ],
+    "table": "Co",
+    "group": "55",
+    "subgroup": "15"
+  },
+  {
+    "id": "uc:Co_55_20",
+    "code": "Co_55_20",
+    "name": "Gas supply complexes",
+    "tokens": [
+      "supply",
+      "gas",
+      "complexes"
+    ],
+    "table": "Co",
+    "group": "55",
+    "subgroup": "20"
+  },
+  {
+    "id": "uc:Co_55_20_50",
+    "code": "Co_55_20_50",
+    "name": "Gas distribution complexes",
+    "tokens": [
+      "gas",
+      "distribution",
+      "complexes"
+    ],
+    "table": "Co",
+    "group": "55",
+    "subgroup": "20"
+  },
+  {
+    "id": "uc:Co_55_20_60",
+    "code": "Co_55_20_60",
+    "name": "Gas distribution networks",
+    "tokens": [
+      "gas",
+      "distribution",
+      "networks"
+    ],
+    "table": "Co",
+    "group": "55",
+    "subgroup": "20"
+  },
+  {
+    "id": "uc:Co_55_50",
+    "code": "Co_55_50",
+    "name": "Liquid fuel supply complexes",
+    "tokens": [
+      "supply",
+      "liquid",
+      "fuel",
+      "complexes"
+    ],
+    "table": "Co",
+    "group": "55",
+    "subgroup": "50"
+  },
+  {
+    "id": "uc:Co_55_50_10",
+    "code": "Co_55_50_10",
+    "name": "Liquid fuel distribution complexes",
+    "tokens": [
+      "liquid",
+      "fuel",
+      "distribution",
+      "complexes"
+    ],
+    "table": "Co",
+    "group": "55",
+    "subgroup": "50"
+  },
+  {
+    "id": "uc:Co_55_50_50",
+    "code": "Co_55_50_50",
+    "name": "Liquid fuel distribution networks",
+    "tokens": [
+      "liquid",
+      "fuel",
+      "distribution",
+      "networks"
+    ],
+    "table": "Co",
+    "group": "55",
+    "subgroup": "50"
+  },
+  {
+    "id": "uc:Co_55_70",
+    "code": "Co_55_70",
+    "name": "Water supply complexes",
+    "tokens": [
+      "water",
+      "supply",
+      "complexes"
+    ],
+    "table": "Co",
+    "group": "55",
+    "subgroup": "70"
+  },
+  {
+    "id": "uc:Co_55_70_20",
+    "code": "Co_55_70_20",
+    "name": "Water distribution complexes",
+    "tokens": [
+      "water",
+      "distribution",
+      "complexes"
+    ],
+    "table": "Co",
+    "group": "55",
+    "subgroup": "70"
+  },
+  {
+    "id": "uc:Co_55_70_60",
+    "code": "Co_55_70_60",
+    "name": "Water distribution networks",
+    "tokens": [
+      "water",
+      "distribution",
+      "networks"
+    ],
+    "table": "Co",
+    "group": "55",
+    "subgroup": "70"
+  },
+  {
+    "id": "uc:Co_60",
+    "code": "Co_60",
+    "name": "Heating, cooling and refrigeration complexes",
+    "tokens": [
+      "refrigeration",
+      "cooling",
+      "heating",
+      "complexes"
+    ],
+    "table": "Co",
+    "group": "60",
+    "subgroup": ""
+  },
+  {
+    "id": "uc:Co_60_10",
+    "code": "Co_60_10",
+    "name": "Heating complexes",
+    "tokens": [
+      "heating",
+      "complexes"
+    ],
+    "table": "Co",
+    "group": "60",
+    "subgroup": "10"
+  },
+  {
+    "id": "uc:Co_60_10_10",
+    "code": "Co_60_10_10",
+    "name": "District heating complexes",
+    "tokens": [
+      "district",
+      "heating",
+      "complexes"
+    ],
+    "table": "Co",
+    "group": "60",
+    "subgroup": "10"
+  },
+  {
+    "id": "uc:Co_60_40",
+    "code": "Co_60_40",
+    "name": "Cooling complexes",
+    "tokens": [
+      "cooling",
+      "complexes"
+    ],
+    "table": "Co",
+    "group": "60",
+    "subgroup": "40"
+  },
+  {
+    "id": "uc:Co_60_40_10",
+    "code": "Co_60_40_10",
+    "name": "District cooling complexes",
+    "tokens": [
+      "district",
+      "cooling",
+      "complexes"
+    ],
+    "table": "Co",
+    "group": "60",
+    "subgroup": "40"
+  },
+  {
+    "id": "uc:Co_65",
+    "code": "Co_65",
+    "name": "Ventilation and air conditioning complexes",
+    "tokens": [
+      "air",
+      "ventilation",
+      "conditioning",
+      "complexes"
+    ],
+    "table": "Co",
+    "group": "65",
+    "subgroup": ""
+  },
+  {
+    "id": "uc:Co_70",
+    "code": "Co_70",
+    "name": "Electrical power generation and distribution complexes",
+    "tokens": [
+      "distribution",
+      "complexes",
+      "generation",
+      "electrical",
+      "power"
+    ],
+    "table": "Co",
+    "group": "70",
+    "subgroup": ""
+  },
+  {
+    "id": "uc:Co_70_10",
+    "code": "Co_70_10",
+    "name": "Electrical power generation complexes",
+    "tokens": [
+      "power",
+      "electrical",
+      "generation",
+      "complexes"
+    ],
+    "table": "Co",
+    "group": "70",
+    "subgroup": "10"
+  },
+  {
+    "id": "uc:Co_70_10_08",
+    "code": "Co_70_10_08",
+    "name": "Biomass power generation complexes",
+    "tokens": [
+      "power",
+      "biomass",
+      "generation",
+      "complexes"
+    ],
+    "table": "Co",
+    "group": "70",
+    "subgroup": "10"
+  },
+  {
+    "id": "uc:Co_70_10_16",
+    "code": "Co_70_10_16",
+    "name": "Coal power generation complexes",
+    "tokens": [
+      "coal",
+      "power",
+      "generation",
+      "complexes"
+    ],
+    "table": "Co",
+    "group": "70",
+    "subgroup": "10"
+  },
+  {
+    "id": "uc:Co_70_10_17",
+    "code": "Co_70_10_17",
+    "name": "Combined heat and power generation complexes",
+    "tokens": [
+      "complexes",
+      "heat",
+      "generation",
+      "combined",
+      "power"
+    ],
+    "table": "Co",
+    "group": "70",
+    "subgroup": "10"
+  },
+  {
+    "id": "uc:Co_70_10_33",
+    "code": "Co_70_10_33",
+    "name": "Gas power generation complexes",
+    "tokens": [
+      "power",
+      "gas",
+      "generation",
+      "complexes"
+    ],
+    "table": "Co",
+    "group": "70",
+    "subgroup": "10"
+  },
+  {
+    "id": "uc:Co_70_10_34",
+    "code": "Co_70_10_34",
+    "name": "Geothermal power generation complexes",
+    "tokens": [
+      "power",
+      "geothermal",
+      "generation",
+      "complexes"
+    ],
+    "table": "Co",
+    "group": "70",
+    "subgroup": "10"
+  },
+  {
+    "id": "uc:Co_70_10_38",
+    "code": "Co_70_10_38",
+    "name": "Hydroelectric power generation complexes",
+    "tokens": [
+      "power",
+      "hydroelectric",
+      "generation",
+      "complexes"
+    ],
+    "table": "Co",
+    "group": "70",
+    "subgroup": "10"
+  },
+  {
+    "id": "uc:Co_70_10_57",
+    "code": "Co_70_10_57",
+    "name": "Nuclear power generation complexes",
+    "tokens": [
+      "generation",
+      "nuclear",
+      "complexes",
+      "power"
+    ],
+    "table": "Co",
+    "group": "70",
+    "subgroup": "10"
+  },
+  {
+    "id": "uc:Co_70_10_58",
+    "code": "Co_70_10_58",
+    "name": "Offshore wind power generation complexes",
+    "tokens": [
+      "complexes",
+      "wind",
+      "offshore",
+      "generation",
+      "power"
+    ],
+    "table": "Co",
+    "group": "70",
+    "subgroup": "10"
+  },
+  {
+    "id": "uc:Co_70_10_59",
+    "code": "Co_70_10_59",
+    "name": "Oil-fired power generation complexes",
+    "tokens": [
+      "oil",
+      "fired",
+      "power",
+      "generation",
+      "complexes"
+    ],
+    "table": "Co",
+    "group": "70",
+    "subgroup": "10"
+  },
+  {
+    "id": "uc:Co_70_10_60",
+    "code": "Co_70_10_60",
+    "name": "Onshore wind power generation complexes",
+    "tokens": [
+      "onshore",
+      "complexes",
+      "wind",
+      "generation",
+      "power"
+    ],
+    "table": "Co",
+    "group": "70",
+    "subgroup": "10"
+  },
+  {
+    "id": "uc:Co_70_10_63",
+    "code": "Co_70_10_63",
+    "name": "Photovoltaic power generation complexes",
+    "tokens": [
+      "power",
+      "photovoltaic",
+      "generation",
+      "complexes"
+    ],
+    "table": "Co",
+    "group": "70",
+    "subgroup": "10"
+  },
+  {
+    "id": "uc:Co_70_10_81",
+    "code": "Co_70_10_81",
+    "name": "Solar reflector power generation complexes",
+    "tokens": [
+      "power",
+      "reflector",
+      "generation",
+      "solar",
+      "complexes"
+    ],
+    "table": "Co",
+    "group": "70",
+    "subgroup": "10"
+  },
+  {
+    "id": "uc:Co_70_10_88",
+    "code": "Co_70_10_88",
+    "name": "Tidal power generation complexes",
+    "tokens": [
+      "power",
+      "tidal",
+      "generation",
+      "complexes"
+    ],
+    "table": "Co",
+    "group": "70",
+    "subgroup": "10"
+  },
+  {
+    "id": "uc:Co_70_10_96",
+    "code": "Co_70_10_96",
+    "name": "Wave power generation complexes",
+    "tokens": [
+      "power",
+      "wave",
+      "generation",
+      "complexes"
+    ],
+    "table": "Co",
+    "group": "70",
+    "subgroup": "10"
+  },
+  {
+    "id": "uc:Co_70_30",
+    "code": "Co_70_30",
+    "name": "Electricity distribution complexes",
+    "tokens": [
+      "electricity",
+      "distribution",
+      "complexes"
+    ],
+    "table": "Co",
+    "group": "70",
+    "subgroup": "30"
+  },
+  {
+    "id": "uc:Co_70_30_35",
+    "code": "Co_70_30_35",
+    "name": "High-voltage electricity substation complexes",
+    "tokens": [
+      "electricity",
+      "substation",
+      "voltage",
+      "high",
+      "complexes"
+    ],
+    "table": "Co",
+    "group": "70",
+    "subgroup": "30"
+  },
+  {
+    "id": "uc:Co_70_30_40",
+    "code": "Co_70_30_40",
+    "name": "High-voltage electricity networks",
+    "tokens": [
+      "high",
+      "electricity",
+      "voltage",
+      "networks"
+    ],
+    "table": "Co",
+    "group": "70",
+    "subgroup": "30"
+  },
+  {
+    "id": "uc:Co_70_30_45",
+    "code": "Co_70_30_45",
+    "name": "Low-voltage electricity substation complexes",
+    "tokens": [
+      "complexes",
+      "substation",
+      "voltage",
+      "low",
+      "electricity"
+    ],
+    "table": "Co",
+    "group": "70",
+    "subgroup": "30"
+  },
+  {
+    "id": "uc:Co_70_30_50",
+    "code": "Co_70_30_50",
+    "name": "Low-voltage electricity networks",
+    "tokens": [
+      "low",
+      "networks",
+      "voltage",
+      "electricity"
+    ],
+    "table": "Co",
+    "group": "70",
+    "subgroup": "30"
+  },
+  {
+    "id": "uc:Co_75",
+    "code": "Co_75",
+    "name": "Communications, security, safety and protection complexes",
+    "tokens": [
+      "protection",
+      "communications",
+      "safety",
+      "security",
+      "complexes"
+    ],
+    "table": "Co",
+    "group": "75",
+    "subgroup": ""
+  },
+  {
+    "id": "uc:Co_75_10",
+    "code": "Co_75_10",
+    "name": "Communications complexes",
+    "tokens": [
+      "communications",
+      "complexes"
+    ],
+    "table": "Co",
+    "group": "75",
+    "subgroup": "10"
+  },
+  {
+    "id": "uc:Co_75_10_10",
+    "code": "Co_75_10_10",
+    "name": "Broadcast communications complexes",
+    "tokens": [
+      "broadcast",
+      "communications",
+      "complexes"
+    ],
+    "table": "Co",
+    "group": "75",
+    "subgroup": "10"
+  },
+  {
+    "id": "uc:Co_75_10_20",
+    "code": "Co_75_10_20",
+    "name": "Broadcast communications networks",
+    "tokens": [
+      "broadcast",
+      "communications",
+      "networks"
+    ],
+    "table": "Co",
+    "group": "75",
+    "subgroup": "10"
+  },
+  {
+    "id": "uc:Co_75_10_80",
+    "code": "Co_75_10_80",
+    "name": "Telecommunications complexes",
+    "tokens": [
+      "telecommunications",
+      "complexes"
+    ],
+    "table": "Co",
+    "group": "75",
+    "subgroup": "10"
+  },
+  {
+    "id": "uc:Co_75_10_90",
+    "code": "Co_75_10_90",
+    "name": "Telecommunications networks",
+    "tokens": [
+      "telecommunications",
+      "networks"
+    ],
+    "table": "Co",
+    "group": "75",
+    "subgroup": "10"
+  },
+  {
+    "id": "uc:Co_80",
+    "code": "Co_80",
+    "name": "Transport complexes",
+    "tokens": [
+      "transport",
+      "complexes"
+    ],
+    "table": "Co",
+    "group": "80",
+    "subgroup": ""
+  },
+  {
+    "id": "uc:Co_80_05",
+    "code": "Co_80_05",
+    "name": "Aerospace complexes",
+    "tokens": [
+      "aerospace",
+      "complexes"
+    ],
+    "table": "Co",
+    "group": "80",
+    "subgroup": "05"
+  },
+  {
+    "id": "uc:Co_80_05_02",
+    "code": "Co_80_05_02",
+    "name": "Airports and airfields",
+    "tokens": [
+      "airfields",
+      "airports"
+    ],
+    "table": "Co",
+    "group": "80",
+    "subgroup": "05"
+  },
+  {
+    "id": "uc:Co_80_05_38",
+    "code": "Co_80_05_38",
+    "name": "Heliports",
+    "tokens": [
+      "heliports"
+    ],
+    "table": "Co",
+    "group": "80",
+    "subgroup": "05"
+  },
+  {
+    "id": "uc:Co_80_05_84",
+    "code": "Co_80_05_84",
+    "name": "Spacecraft complexes",
+    "tokens": [
+      "spacecraft",
+      "complexes"
+    ],
+    "table": "Co",
+    "group": "80",
+    "subgroup": "05"
+  },
+  {
+    "id": "uc:Co_80_20",
+    "code": "Co_80_20",
+    "name": "Cable transport complexes",
+    "tokens": [
+      "transport",
+      "cable",
+      "complexes"
+    ],
+    "table": "Co",
+    "group": "80",
+    "subgroup": "20"
+  },
+  {
+    "id": "uc:Co_80_20_02",
+    "code": "Co_80_20_02",
+    "name": "Aerial tramway complexes",
+    "tokens": [
+      "tramway",
+      "aerial",
+      "complexes"
+    ],
+    "table": "Co",
+    "group": "80",
+    "subgroup": "20"
+  },
+  {
+    "id": "uc:Co_80_20_10",
+    "code": "Co_80_20_10",
+    "name": "Cable railway complexes",
+    "tokens": [
+      "railway",
+      "cable",
+      "complexes"
+    ],
+    "table": "Co",
+    "group": "80",
+    "subgroup": "20"
+  },
+  {
+    "id": "uc:Co_80_20_13",
+    "code": "Co_80_20_13",
+    "name": "Chairlift way complexes",
+    "tokens": [
+      "chairlift",
+      "way",
+      "complexes"
+    ],
+    "table": "Co",
+    "group": "80",
+    "subgroup": "20"
+  },
+  {
+    "id": "uc:Co_80_20_32",
+    "code": "Co_80_20_32",
+    "name": "Funicular railway complexes",
+    "tokens": [
+      "funicular",
+      "railway",
+      "complexes"
+    ],
+    "table": "Co",
+    "group": "80",
+    "subgroup": "20"
+  },
+  {
+    "id": "uc:Co_80_20_34",
+    "code": "Co_80_20_34",
+    "name": "Gondola lift way complexes",
+    "tokens": [
+      "lift",
+      "gondola",
+      "way",
+      "complexes"
+    ],
+    "table": "Co",
+    "group": "80",
+    "subgroup": "20"
+  },
+  {
+    "id": "uc:Co_80_20_84",
+    "code": "Co_80_20_84",
+    "name": "Surface lift way complexes",
+    "tokens": [
+      "lift",
+      "surface",
+      "way",
+      "complexes"
+    ],
+    "table": "Co",
+    "group": "80",
+    "subgroup": "20"
+  },
+  {
+    "id": "uc:Co_80_20_99",
+    "code": "Co_80_20_99",
+    "name": "Zip line way complexes",
+    "tokens": [
+      "zip",
+      "line",
+      "way",
+      "complexes"
+    ],
+    "table": "Co",
+    "group": "80",
+    "subgroup": "20"
+  },
+  {
+    "id": "uc:Co_80_35",
+    "code": "Co_80_35",
+    "name": "Road complexes",
+    "tokens": [
+      "road",
+      "complexes"
+    ],
+    "table": "Co",
+    "group": "80",
+    "subgroup": "35"
+  },
+  {
+    "id": "uc:Co_80_35_10",
+    "code": "Co_80_35_10",
+    "name": "Bus route networks",
+    "tokens": [
+      "bus",
+      "route",
+      "networks"
+    ],
+    "table": "Co",
+    "group": "80",
+    "subgroup": "35"
+  },
+  {
+    "id": "uc:Co_80_35_75",
+    "code": "Co_80_35_75",
+    "name": "Road networks",
+    "tokens": [
+      "road",
+      "networks"
+    ],
+    "table": "Co",
+    "group": "80",
+    "subgroup": "35"
+  },
+  {
+    "id": "uc:Co_80_50",
+    "code": "Co_80_50",
+    "name": "Railway complexes",
+    "tokens": [
+      "railway",
+      "complexes"
+    ],
+    "table": "Co",
+    "group": "80",
+    "subgroup": "50"
+  },
+  {
+    "id": "uc:Co_80_50_35",
+    "code": "Co_80_50_35",
+    "name": "Heavy rail complexes",
+    "tokens": [
+      "heavy",
+      "rail",
+      "complexes"
+    ],
+    "table": "Co",
+    "group": "80",
+    "subgroup": "50"
+  },
+  {
+    "id": "uc:Co_80_50_37",
+    "code": "Co_80_50_37",
+    "name": "High-speed rail complexes",
+    "tokens": [
+      "high",
+      "rail",
+      "speed",
+      "complexes"
+    ],
+    "table": "Co",
+    "group": "80",
+    "subgroup": "50"
+  },
+  {
+    "id": "uc:Co_80_50_45",
+    "code": "Co_80_50_45",
+    "name": "Light rail complexes",
+    "tokens": [
+      "rail",
+      "light",
+      "complexes"
+    ],
+    "table": "Co",
+    "group": "80",
+    "subgroup": "50"
+  },
+  {
+    "id": "uc:Co_80_50_50",
+    "code": "Co_80_50_50",
+    "name": "Magnetic levitation ways",
+    "tokens": [
+      "magnetic",
+      "ways",
+      "levitation"
+    ],
+    "table": "Co",
+    "group": "80",
+    "subgroup": "50"
+  },
+  {
+    "id": "uc:Co_80_50_53",
+    "code": "Co_80_50_53",
+    "name": "Monorail complexes",
+    "tokens": [
+      "monorail",
+      "complexes"
+    ],
+    "table": "Co",
+    "group": "80",
+    "subgroup": "50"
+  },
+  {
+    "id": "uc:Co_80_50_56",
+    "code": "Co_80_50_56",
+    "name": "Narrow gauge rail complexes",
+    "tokens": [
+      "rail",
+      "narrow",
+      "gauge",
+      "complexes"
+    ],
+    "table": "Co",
+    "group": "80",
+    "subgroup": "50"
+  },
+  {
+    "id": "uc:Co_80_50_69",
+    "code": "Co_80_50_69",
+    "name": "Rack rail complexes",
+    "tokens": [
+      "rail",
+      "rack",
+      "complexes"
+    ],
+    "table": "Co",
+    "group": "80",
+    "subgroup": "50"
+  },
+  {
+    "id": "uc:Co_80_50_76",
+    "code": "Co_80_50_76",
+    "name": "Road-based light rail complexes",
+    "tokens": [
+      "rail",
+      "based",
+      "road",
+      "light",
+      "complexes"
+    ],
+    "table": "Co",
+    "group": "80",
+    "subgroup": "50"
+  },
+  {
+    "id": "uc:Co_80_70",
+    "code": "Co_80_70",
+    "name": "Marine and waterways transport complexes",
+    "tokens": [
+      "transport",
+      "waterways",
+      "marine",
+      "complexes"
+    ],
+    "table": "Co",
+    "group": "80",
+    "subgroup": "70"
+  },
+  {
+    "id": "uc:Co_80_70_11",
+    "code": "Co_80_70_11",
+    "name": "Cable ferry complexes",
+    "tokens": [
+      "ferry",
+      "cable",
+      "complexes"
+    ],
+    "table": "Co",
+    "group": "80",
+    "subgroup": "70"
+  },
+  {
+    "id": "uc:Co_80_70_13",
+    "code": "Co_80_70_13",
+    "name": "Canal complexes",
+    "tokens": [
+      "canal",
+      "complexes"
+    ],
+    "table": "Co",
+    "group": "80",
+    "subgroup": "70"
+  },
+  {
+    "id": "uc:Co_80_70_17",
+    "code": "Co_80_70_17",
+    "name": "Container ports",
+    "tokens": [
+      "container",
+      "ports"
+    ],
+    "table": "Co",
+    "group": "80",
+    "subgroup": "70"
+  },
+  {
+    "id": "uc:Co_80_70_23",
+    "code": "Co_80_70_23",
+    "name": "Dry bulk ports",
+    "tokens": [
+      "ports",
+      "bulk",
+      "dry"
+    ],
+    "table": "Co",
+    "group": "80",
+    "subgroup": "70"
+  },
+  {
+    "id": "uc:Co_80_70_28",
+    "code": "Co_80_70_28",
+    "name": "Ferry routes",
+    "tokens": [
+      "ferry",
+      "routes"
+    ],
+    "table": "Co",
+    "group": "80",
+    "subgroup": "70"
+  },
+  {
+    "id": "uc:Co_80_70_30",
+    "code": "Co_80_70_30",
+    "name": "Fishing ports",
+    "tokens": [
+      "ports",
+      "fishing"
+    ],
+    "table": "Co",
+    "group": "80",
+    "subgroup": "70"
+  },
+  {
+    "id": "uc:Co_80_70_36",
+    "code": "Co_80_70_36",
+    "name": "Harbours",
+    "tokens": [
+      "harbours"
+    ],
+    "table": "Co",
+    "group": "80",
+    "subgroup": "70"
+  },
+  {
+    "id": "uc:Co_80_70_47",
+    "code": "Co_80_70_47",
+    "name": "Liquid bulk ports",
+    "tokens": [
+      "ports",
+      "bulk",
+      "liquid"
+    ],
+    "table": "Co",
+    "group": "80",
+    "subgroup": "70"
+  },
+  {
+    "id": "uc:Co_80_70_72",
+    "code": "Co_80_70_72",
+    "name": "Roll-on/ roll-off ports",
+    "tokens": [
+      "off",
+      "roll",
+      "ports"
+    ],
+    "table": "Co",
+    "group": "80",
+    "subgroup": "70"
+  },
+  {
+    "id": "uc:Co_80_70_77",
+    "code": "Co_80_70_77",
+    "name": "Sea cruise ports",
+    "tokens": [
+      "ports",
+      "cruise",
+      "sea"
+    ],
+    "table": "Co",
+    "group": "80",
+    "subgroup": "70"
+  },
+  {
+    "id": "uc:Co_80_70_78",
+    "code": "Co_80_70_78",
+    "name": "Sea ferry ports",
+    "tokens": [
+      "ferry",
+      "ports",
+      "sea"
+    ],
+    "table": "Co",
+    "group": "80",
+    "subgroup": "70"
+  },
+  {
+    "id": "uc:Co_80_70_80",
+    "code": "Co_80_70_80",
+    "name": "Shipping lanes",
+    "tokens": [
+      "lanes",
+      "shipping"
+    ],
+    "table": "Co",
+    "group": "80",
+    "subgroup": "70"
+  },
+  {
+    "id": "uc:Co_80_70_96",
+    "code": "Co_80_70_96",
+    "name": "Waterway ferry complexes",
+    "tokens": [
+      "ferry",
+      "waterway",
+      "complexes"
+    ],
+    "table": "Co",
+    "group": "80",
+    "subgroup": "70"
+  },
+  {
+    "id": "uc:Co_80_90",
+    "code": "Co_80_90",
+    "name": "Transport interchange complexes",
+    "tokens": [
+      "transport",
+      "interchange",
+      "complexes"
+    ],
+    "table": "Co",
+    "group": "80",
+    "subgroup": "90"
+  },
+  {
+    "id": "uc:Co_90",
+    "code": "Co_90",
+    "name": "Circulation and storage complexes",
+    "tokens": [
+      "storage",
+      "circulation",
+      "complexes"
+    ],
+    "table": "Co",
+    "group": "90",
+    "subgroup": ""
+  },
+  {
+    "id": "uc:Co_90_50",
+    "code": "Co_90_50",
+    "name": "Storage complexes",
+    "tokens": [
+      "storage",
+      "complexes"
+    ],
+    "table": "Co",
+    "group": "90",
+    "subgroup": "50"
+  },
+  {
+    "id": "uc:Co_90_50_03",
+    "code": "Co_90_50_03",
+    "name": "Ambient food storage complexes",
+    "tokens": [
+      "storage",
+      "food",
+      "ambient",
+      "complexes"
+    ],
+    "table": "Co",
+    "group": "90",
+    "subgroup": "50"
+  },
+  {
+    "id": "uc:Co_90_50_04",
+    "code": "Co_90_50_04",
+    "name": "Arms storage complexes",
+    "tokens": [
+      "storage",
+      "arms",
+      "complexes"
+    ],
+    "table": "Co",
+    "group": "90",
+    "subgroup": "50"
+  },
+  {
+    "id": "uc:Co_90_50_15",
+    "code": "Co_90_50_15",
+    "name": "Cold storage complexes",
+    "tokens": [
+      "storage",
+      "cold",
+      "complexes"
+    ],
+    "table": "Co",
+    "group": "90",
+    "subgroup": "50"
+  },
+  {
+    "id": "uc:Co_90_50_16",
+    "code": "Co_90_50_16",
+    "name": "Complexes for the storage of human remains",
+    "tokens": [
+      "storage",
+      "remains",
+      "human",
+      "complexes"
+    ],
+    "table": "Co",
+    "group": "90",
+    "subgroup": "50"
+  },
+  {
+    "id": "uc:Co_90_50_51",
+    "code": "Co_90_50_51",
+    "name": "Military arsenals",
+    "tokens": [
+      "military",
+      "arsenals"
+    ],
+    "table": "Co",
+    "group": "90",
+    "subgroup": "50"
+  },
+  {
+    "id": "uc:Co_90_50_52",
+    "code": "Co_90_50_52",
+    "name": "Mineral storage complexes",
+    "tokens": [
+      "storage",
+      "mineral",
+      "complexes"
+    ],
+    "table": "Co",
+    "group": "90",
+    "subgroup": "50"
+  },
+  {
+    "id": "uc:Co_90_50_71",
+    "code": "Co_90_50_71",
+    "name": "Refrigerated food storage complexes",
+    "tokens": [
+      "refrigerated",
+      "food",
+      "storage",
+      "complexes"
+    ],
+    "table": "Co",
+    "group": "90",
+    "subgroup": "50"
+  },
+  {
+    "id": "uc:Co_90_50_77",
+    "code": "Co_90_50_77",
+    "name": "Secure storage complexes",
+    "tokens": [
+      "storage",
+      "secure",
+      "complexes"
+    ],
+    "table": "Co",
+    "group": "90",
+    "subgroup": "50"
+  },
+  {
+    "id": "uc:Co_90_50_78",
+    "code": "Co_90_50_78",
+    "name": "Self-storage complexes",
+    "tokens": [
+      "storage",
+      "self",
+      "complexes"
+    ],
+    "table": "Co",
+    "group": "90",
+    "subgroup": "50"
+  },
+  {
+    "id": "uc:Co_90_50_80",
+    "code": "Co_90_50_80",
+    "name": "Solid fuel storage complexes",
+    "tokens": [
+      "storage",
+      "solid",
+      "fuel",
+      "complexes"
+    ],
+    "table": "Co",
+    "group": "90",
+    "subgroup": "50"
+  },
+  {
+    "id": "uc:Co_90_50_94",
+    "code": "Co_90_50_94",
+    "name": "Warehouses",
+    "tokens": [
+      "warehouses"
+    ],
+    "table": "Co",
+    "group": "90",
+    "subgroup": "50"
+  },
+  {
+    "id": "uc:Co_90_90",
+    "code": "Co_90_90",
+    "name": "Plant and control complexes",
+    "tokens": [
+      "plant",
+      "control",
+      "complexes"
+    ],
+    "table": "Co",
+    "group": "90",
+    "subgroup": "90"
+  },
+  {
+    "id": "uc:Co_90_90_50",
+    "code": "Co_90_90_50",
+    "name": "Multiple services plant and equipment complexes",
+    "tokens": [
+      "services",
+      "equipment",
+      "plant",
+      "multiple",
+      "complexes"
+    ],
+    "table": "Co",
+    "group": "90",
+    "subgroup": "90"
+  }
+]

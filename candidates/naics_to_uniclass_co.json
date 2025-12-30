@@ -1,0 +1,2379 @@
+[
+  {
+    "source_id": "naics:2361",
+    "source_name": "Residential Building Construction",
+    "source_tokens": [
+      "dwelling",
+      "construction",
+      "building",
+      "housing",
+      "home",
+      "residential"
+    ],
+    "matches": [
+      {
+        "target_id": "uc:Co_45",
+        "target_name": "Residential complexes",
+        "score": 0.571,
+        "shared_tokens": [
+          "residential",
+          "dwelling",
+          "home",
+          "housing"
+        ],
+        "relationship": "manages",
+        "confidence": "A"
+      },
+      {
+        "target_id": "uc:Co_45_10_41",
+        "target_name": "Housing estates",
+        "score": 0.571,
+        "shared_tokens": [
+          "residential",
+          "dwelling",
+          "home",
+          "housing"
+        ],
+        "relationship": "manages",
+        "confidence": "A"
+      },
+      {
+        "target_id": "uc:Co_45_10_74",
+        "target_name": "Residential properties",
+        "score": 0.571,
+        "shared_tokens": [
+          "residential",
+          "dwelling",
+          "home",
+          "housing"
+        ],
+        "relationship": "manages",
+        "confidence": "A"
+      },
+      {
+        "target_id": "uc:Co_45_10_78",
+        "target_name": "Sheltered housing",
+        "score": 0.571,
+        "shared_tokens": [
+          "residential",
+          "dwelling",
+          "home",
+          "housing"
+        ],
+        "relationship": "manages",
+        "confidence": "A"
+      },
+      {
+        "target_id": "uc:Co_45_10_36",
+        "target_name": "High-rise residential complexes",
+        "score": 0.444,
+        "shared_tokens": [
+          "residential",
+          "dwelling",
+          "home",
+          "housing"
+        ],
+        "relationship": "manages",
+        "confidence": "B"
+      }
+    ]
+  },
+  {
+    "source_id": "naics:23611",
+    "source_name": "Residential Building Construction",
+    "source_tokens": [
+      "dwelling",
+      "construction",
+      "building",
+      "housing",
+      "home",
+      "residential"
+    ],
+    "matches": [
+      {
+        "target_id": "uc:Co_45",
+        "target_name": "Residential complexes",
+        "score": 0.571,
+        "shared_tokens": [
+          "residential",
+          "dwelling",
+          "home",
+          "housing"
+        ],
+        "relationship": "manages",
+        "confidence": "A"
+      },
+      {
+        "target_id": "uc:Co_45_10_41",
+        "target_name": "Housing estates",
+        "score": 0.571,
+        "shared_tokens": [
+          "residential",
+          "dwelling",
+          "home",
+          "housing"
+        ],
+        "relationship": "manages",
+        "confidence": "A"
+      },
+      {
+        "target_id": "uc:Co_45_10_74",
+        "target_name": "Residential properties",
+        "score": 0.571,
+        "shared_tokens": [
+          "residential",
+          "dwelling",
+          "home",
+          "housing"
+        ],
+        "relationship": "manages",
+        "confidence": "A"
+      },
+      {
+        "target_id": "uc:Co_45_10_78",
+        "target_name": "Sheltered housing",
+        "score": 0.571,
+        "shared_tokens": [
+          "residential",
+          "dwelling",
+          "home",
+          "housing"
+        ],
+        "relationship": "manages",
+        "confidence": "A"
+      },
+      {
+        "target_id": "uc:Co_45_10_36",
+        "target_name": "High-rise residential complexes",
+        "score": 0.444,
+        "shared_tokens": [
+          "residential",
+          "dwelling",
+          "home",
+          "housing"
+        ],
+        "relationship": "manages",
+        "confidence": "B"
+      }
+    ]
+  },
+  {
+    "source_id": "naics:236115",
+    "source_name": "New Single-Family Housing Construction (except For-Sale Builders)",
+    "source_tokens": [
+      "residential",
+      "single",
+      "new",
+      "family",
+      "except",
+      "dwelling",
+      "construction",
+      "housing",
+      "builders",
+      "home",
+      "sale"
+    ],
+    "matches": [
+      {
+        "target_id": "uc:Co_45",
+        "target_name": "Residential complexes",
+        "score": 0.333,
+        "shared_tokens": [
+          "residential",
+          "dwelling",
+          "home",
+          "housing"
+        ],
+        "relationship": "manages",
+        "confidence": "B"
+      },
+      {
+        "target_id": "uc:Co_45_10_41",
+        "target_name": "Housing estates",
+        "score": 0.333,
+        "shared_tokens": [
+          "residential",
+          "dwelling",
+          "home",
+          "housing"
+        ],
+        "relationship": "manages",
+        "confidence": "B"
+      },
+      {
+        "target_id": "uc:Co_45_10_74",
+        "target_name": "Residential properties",
+        "score": 0.333,
+        "shared_tokens": [
+          "residential",
+          "dwelling",
+          "home",
+          "housing"
+        ],
+        "relationship": "manages",
+        "confidence": "B"
+      },
+      {
+        "target_id": "uc:Co_45_10_78",
+        "target_name": "Sheltered housing",
+        "score": 0.333,
+        "shared_tokens": [
+          "residential",
+          "dwelling",
+          "home",
+          "housing"
+        ],
+        "relationship": "manages",
+        "confidence": "B"
+      },
+      {
+        "target_id": "uc:Co_45_10_36",
+        "target_name": "High-rise residential complexes",
+        "score": 0.286,
+        "shared_tokens": [
+          "residential",
+          "dwelling",
+          "home",
+          "housing"
+        ],
+        "relationship": "manages",
+        "confidence": "C"
+      }
+    ]
+  },
+  {
+    "source_id": "naics:236116",
+    "source_name": "New Multifamily Housing Construction (except For-Sale Builders)",
+    "source_tokens": [
+      "except",
+      "dwelling",
+      "multifamily",
+      "sale",
+      "new",
+      "construction",
+      "housing",
+      "builders",
+      "home",
+      "residential"
+    ],
+    "matches": [
+      {
+        "target_id": "uc:Co_45",
+        "target_name": "Residential complexes",
+        "score": 0.364,
+        "shared_tokens": [
+          "residential",
+          "dwelling",
+          "home",
+          "housing"
+        ],
+        "relationship": "manages",
+        "confidence": "B"
+      },
+      {
+        "target_id": "uc:Co_45_10_41",
+        "target_name": "Housing estates",
+        "score": 0.364,
+        "shared_tokens": [
+          "residential",
+          "dwelling",
+          "home",
+          "housing"
+        ],
+        "relationship": "manages",
+        "confidence": "B"
+      },
+      {
+        "target_id": "uc:Co_45_10_74",
+        "target_name": "Residential properties",
+        "score": 0.364,
+        "shared_tokens": [
+          "residential",
+          "dwelling",
+          "home",
+          "housing"
+        ],
+        "relationship": "manages",
+        "confidence": "B"
+      },
+      {
+        "target_id": "uc:Co_45_10_78",
+        "target_name": "Sheltered housing",
+        "score": 0.364,
+        "shared_tokens": [
+          "residential",
+          "dwelling",
+          "home",
+          "housing"
+        ],
+        "relationship": "manages",
+        "confidence": "B"
+      },
+      {
+        "target_id": "uc:Co_45_10_36",
+        "target_name": "High-rise residential complexes",
+        "score": 0.308,
+        "shared_tokens": [
+          "residential",
+          "dwelling",
+          "home",
+          "housing"
+        ],
+        "relationship": "manages",
+        "confidence": "B"
+      }
+    ]
+  },
+  {
+    "source_id": "naics:236117",
+    "source_name": "New Housing For-Sale Builders",
+    "source_tokens": [
+      "new",
+      "dwelling",
+      "sale",
+      "housing",
+      "builders",
+      "home",
+      "residential"
+    ],
+    "matches": [
+      {
+        "target_id": "uc:Co_45",
+        "target_name": "Residential complexes",
+        "score": 0.5,
+        "shared_tokens": [
+          "residential",
+          "dwelling",
+          "home",
+          "housing"
+        ],
+        "relationship": "manages",
+        "confidence": "A"
+      },
+      {
+        "target_id": "uc:Co_45_10_41",
+        "target_name": "Housing estates",
+        "score": 0.5,
+        "shared_tokens": [
+          "residential",
+          "dwelling",
+          "home",
+          "housing"
+        ],
+        "relationship": "manages",
+        "confidence": "A"
+      },
+      {
+        "target_id": "uc:Co_45_10_74",
+        "target_name": "Residential properties",
+        "score": 0.5,
+        "shared_tokens": [
+          "residential",
+          "dwelling",
+          "home",
+          "housing"
+        ],
+        "relationship": "manages",
+        "confidence": "A"
+      },
+      {
+        "target_id": "uc:Co_45_10_78",
+        "target_name": "Sheltered housing",
+        "score": 0.5,
+        "shared_tokens": [
+          "residential",
+          "dwelling",
+          "home",
+          "housing"
+        ],
+        "relationship": "manages",
+        "confidence": "A"
+      },
+      {
+        "target_id": "uc:Co_45_10_36",
+        "target_name": "High-rise residential complexes",
+        "score": 0.4,
+        "shared_tokens": [
+          "residential",
+          "dwelling",
+          "home",
+          "housing"
+        ],
+        "relationship": "manages",
+        "confidence": "B"
+      }
+    ]
+  },
+  {
+    "source_id": "naics:236118",
+    "source_name": "Residential Remodelers",
+    "source_tokens": [
+      "dwelling",
+      "housing",
+      "home",
+      "residential",
+      "remodelers"
+    ],
+    "matches": [
+      {
+        "target_id": "uc:Co_45",
+        "target_name": "Residential complexes",
+        "score": 0.667,
+        "shared_tokens": [
+          "residential",
+          "dwelling",
+          "home",
+          "housing"
+        ],
+        "relationship": "manages",
+        "confidence": "A"
+      },
+      {
+        "target_id": "uc:Co_45_10_41",
+        "target_name": "Housing estates",
+        "score": 0.667,
+        "shared_tokens": [
+          "residential",
+          "dwelling",
+          "home",
+          "housing"
+        ],
+        "relationship": "manages",
+        "confidence": "A"
+      },
+      {
+        "target_id": "uc:Co_45_10_74",
+        "target_name": "Residential properties",
+        "score": 0.667,
+        "shared_tokens": [
+          "residential",
+          "dwelling",
+          "home",
+          "housing"
+        ],
+        "relationship": "manages",
+        "confidence": "A"
+      },
+      {
+        "target_id": "uc:Co_45_10_78",
+        "target_name": "Sheltered housing",
+        "score": 0.667,
+        "shared_tokens": [
+          "residential",
+          "dwelling",
+          "home",
+          "housing"
+        ],
+        "relationship": "manages",
+        "confidence": "A"
+      },
+      {
+        "target_id": "uc:Co_45_10_36",
+        "target_name": "High-rise residential complexes",
+        "score": 0.5,
+        "shared_tokens": [
+          "residential",
+          "dwelling",
+          "home",
+          "housing"
+        ],
+        "relationship": "manages",
+        "confidence": "A"
+      }
+    ]
+  },
+  {
+    "source_id": "naics:2362",
+    "source_name": "Nonresidential Building Construction",
+    "source_tokens": [
+      "construction",
+      "building",
+      "nonresidential"
+    ],
+    "matches": [
+      {
+        "target_id": "uc:Co_30_50_77",
+        "target_name": "Ship and boat building yards",
+        "score": 0.167,
+        "shared_tokens": [
+          "building"
+        ],
+        "relationship": "manages",
+        "confidence": "D"
+      }
+    ]
+  },
+  {
+    "source_id": "naics:23621",
+    "source_name": "Industrial Building Construction",
+    "source_tokens": [
+      "manufacturing",
+      "factory",
+      "construction",
+      "building",
+      "industrial",
+      "warehouse"
+    ],
+    "matches": [
+      {
+        "target_id": "uc:Co_30",
+        "target_name": "Industrial complexes",
+        "score": 0.571,
+        "shared_tokens": [
+          "warehouse",
+          "manufacturing",
+          "factory",
+          "industrial"
+        ],
+        "relationship": "manages",
+        "confidence": "A"
+      },
+      {
+        "target_id": "uc:Co_30_50",
+        "target_name": "Manufacturing complexes",
+        "score": 0.571,
+        "shared_tokens": [
+          "warehouse",
+          "manufacturing",
+          "factory",
+          "industrial"
+        ],
+        "relationship": "manages",
+        "confidence": "A"
+      },
+      {
+        "target_id": "uc:Co_30_50_41",
+        "target_name": "Industrial parks",
+        "score": 0.571,
+        "shared_tokens": [
+          "warehouse",
+          "manufacturing",
+          "factory",
+          "industrial"
+        ],
+        "relationship": "manages",
+        "confidence": "A"
+      },
+      {
+        "target_id": "uc:Co_30_50_37",
+        "target_name": "Heavy manufacturing complexes",
+        "score": 0.5,
+        "shared_tokens": [
+          "warehouse",
+          "manufacturing",
+          "factory",
+          "industrial"
+        ],
+        "relationship": "manages",
+        "confidence": "A"
+      },
+      {
+        "target_id": "uc:Co_30_50_47",
+        "target_name": "Light manufacturing complexes",
+        "score": 0.5,
+        "shared_tokens": [
+          "warehouse",
+          "manufacturing",
+          "factory",
+          "industrial"
+        ],
+        "relationship": "manages",
+        "confidence": "A"
+      }
+    ]
+  },
+  {
+    "source_id": "naics:236210",
+    "source_name": "Industrial Building Construction",
+    "source_tokens": [
+      "manufacturing",
+      "factory",
+      "construction",
+      "building",
+      "industrial",
+      "warehouse"
+    ],
+    "matches": [
+      {
+        "target_id": "uc:Co_30",
+        "target_name": "Industrial complexes",
+        "score": 0.571,
+        "shared_tokens": [
+          "warehouse",
+          "manufacturing",
+          "factory",
+          "industrial"
+        ],
+        "relationship": "manages",
+        "confidence": "A"
+      },
+      {
+        "target_id": "uc:Co_30_50",
+        "target_name": "Manufacturing complexes",
+        "score": 0.571,
+        "shared_tokens": [
+          "warehouse",
+          "manufacturing",
+          "factory",
+          "industrial"
+        ],
+        "relationship": "manages",
+        "confidence": "A"
+      },
+      {
+        "target_id": "uc:Co_30_50_41",
+        "target_name": "Industrial parks",
+        "score": 0.571,
+        "shared_tokens": [
+          "warehouse",
+          "manufacturing",
+          "factory",
+          "industrial"
+        ],
+        "relationship": "manages",
+        "confidence": "A"
+      },
+      {
+        "target_id": "uc:Co_30_50_37",
+        "target_name": "Heavy manufacturing complexes",
+        "score": 0.5,
+        "shared_tokens": [
+          "warehouse",
+          "manufacturing",
+          "factory",
+          "industrial"
+        ],
+        "relationship": "manages",
+        "confidence": "A"
+      },
+      {
+        "target_id": "uc:Co_30_50_47",
+        "target_name": "Light manufacturing complexes",
+        "score": 0.5,
+        "shared_tokens": [
+          "warehouse",
+          "manufacturing",
+          "factory",
+          "industrial"
+        ],
+        "relationship": "manages",
+        "confidence": "A"
+      }
+    ]
+  },
+  {
+    "source_id": "naics:23622",
+    "source_name": "Commercial and Institutional Building Construction",
+    "source_tokens": [
+      "office",
+      "institutional",
+      "business",
+      "construction",
+      "building",
+      "retail",
+      "commercial"
+    ],
+    "matches": [
+      {
+        "target_id": "uc:Co_20_15_08",
+        "target_name": "Business parks",
+        "score": 0.5,
+        "shared_tokens": [
+          "retail",
+          "office",
+          "commercial",
+          "business"
+        ],
+        "relationship": "manages",
+        "confidence": "A"
+      },
+      {
+        "target_id": "uc:Co_20_15_58",
+        "target_name": "Office complexes",
+        "score": 0.5,
+        "shared_tokens": [
+          "retail",
+          "office",
+          "commercial",
+          "business"
+        ],
+        "relationship": "manages",
+        "confidence": "A"
+      },
+      {
+        "target_id": "uc:Co_20_50",
+        "target_name": "Commercial complexes",
+        "score": 0.5,
+        "shared_tokens": [
+          "retail",
+          "office",
+          "commercial",
+          "business"
+        ],
+        "relationship": "manages",
+        "confidence": "A"
+      },
+      {
+        "target_id": "uc:Co_20_50_71",
+        "target_name": "Retail parks",
+        "score": 0.5,
+        "shared_tokens": [
+          "retail",
+          "office",
+          "commercial",
+          "business"
+        ],
+        "relationship": "manages",
+        "confidence": "A"
+      },
+      {
+        "target_id": "uc:Co_30_60_15",
+        "target_name": "Commercial laundries",
+        "score": 0.5,
+        "shared_tokens": [
+          "retail",
+          "office",
+          "commercial",
+          "business"
+        ],
+        "relationship": "manages",
+        "confidence": "A"
+      },
+      {
+        "target_id": "uc:Co_20",
+        "target_name": "Administrative, commercial and protective service complexes",
+        "score": 0.364,
+        "shared_tokens": [
+          "retail",
+          "office",
+          "commercial",
+          "business"
+        ],
+        "relationship": "manages",
+        "confidence": "B"
+      }
+    ]
+  },
+  {
+    "source_id": "naics:236220",
+    "source_name": "Commercial and Institutional Building Construction",
+    "source_tokens": [
+      "office",
+      "institutional",
+      "business",
+      "construction",
+      "building",
+      "retail",
+      "commercial"
+    ],
+    "matches": [
+      {
+        "target_id": "uc:Co_20_15_08",
+        "target_name": "Business parks",
+        "score": 0.5,
+        "shared_tokens": [
+          "retail",
+          "office",
+          "commercial",
+          "business"
+        ],
+        "relationship": "manages",
+        "confidence": "A"
+      },
+      {
+        "target_id": "uc:Co_20_15_58",
+        "target_name": "Office complexes",
+        "score": 0.5,
+        "shared_tokens": [
+          "retail",
+          "office",
+          "commercial",
+          "business"
+        ],
+        "relationship": "manages",
+        "confidence": "A"
+      },
+      {
+        "target_id": "uc:Co_20_50",
+        "target_name": "Commercial complexes",
+        "score": 0.5,
+        "shared_tokens": [
+          "retail",
+          "office",
+          "commercial",
+          "business"
+        ],
+        "relationship": "manages",
+        "confidence": "A"
+      },
+      {
+        "target_id": "uc:Co_20_50_71",
+        "target_name": "Retail parks",
+        "score": 0.5,
+        "shared_tokens": [
+          "retail",
+          "office",
+          "commercial",
+          "business"
+        ],
+        "relationship": "manages",
+        "confidence": "A"
+      },
+      {
+        "target_id": "uc:Co_30_60_15",
+        "target_name": "Commercial laundries",
+        "score": 0.5,
+        "shared_tokens": [
+          "retail",
+          "office",
+          "commercial",
+          "business"
+        ],
+        "relationship": "manages",
+        "confidence": "A"
+      },
+      {
+        "target_id": "uc:Co_20",
+        "target_name": "Administrative, commercial and protective service complexes",
+        "score": 0.364,
+        "shared_tokens": [
+          "retail",
+          "office",
+          "commercial",
+          "business"
+        ],
+        "relationship": "manages",
+        "confidence": "B"
+      }
+    ]
+  },
+  {
+    "source_id": "naics:237",
+    "source_name": "Heavy and Civil Engineering Construction",
+    "source_tokens": [
+      "construction",
+      "engineering",
+      "civil",
+      "heavy"
+    ],
+    "matches": [
+      {
+        "target_id": "uc:Co_80_50_35",
+        "target_name": "Heavy rail complexes",
+        "score": 0.167,
+        "shared_tokens": [
+          "heavy"
+        ],
+        "relationship": "produces",
+        "confidence": "D"
+      }
+    ]
+  },
+  {
+    "source_id": "naics:23711",
+    "source_name": "Water and Sewer Line and Related Structures Construction",
+    "source_tokens": [
+      "sewer",
+      "related",
+      "pipe",
+      "plumb",
+      "drainage",
+      "structures",
+      "piping",
+      "line",
+      "water",
+      "wastewater",
+      "construction",
+      "sanitary",
+      "plumbing"
+    ],
+    "matches": [
+      {
+        "target_id": "uc:Co_42_85_96",
+        "target_name": "Water parks",
+        "score": 0.357,
+        "shared_tokens": [
+          "water",
+          "pipe",
+          "plumb",
+          "piping",
+          "plumbing"
+        ],
+        "relationship": "produces",
+        "confidence": "B"
+      },
+      {
+        "target_id": "uc:Co_32_85_96",
+        "target_name": "Water control complexes",
+        "score": 0.333,
+        "shared_tokens": [
+          "water",
+          "pipe",
+          "plumb",
+          "piping",
+          "plumbing"
+        ],
+        "relationship": "produces",
+        "confidence": "B"
+      },
+      {
+        "target_id": "uc:Co_32_85_98",
+        "target_name": "Water pumping complexes",
+        "score": 0.333,
+        "shared_tokens": [
+          "water",
+          "pipe",
+          "plumb",
+          "piping",
+          "plumbing"
+        ],
+        "relationship": "produces",
+        "confidence": "B"
+      },
+      {
+        "target_id": "uc:Co_55_15_10",
+        "target_name": "Water extraction complexes",
+        "score": 0.333,
+        "shared_tokens": [
+          "water",
+          "pipe",
+          "plumb",
+          "piping",
+          "plumbing"
+        ],
+        "relationship": "produces",
+        "confidence": "B"
+      },
+      {
+        "target_id": "uc:Co_55_15_15",
+        "target_name": "Water extraction networks",
+        "score": 0.333,
+        "shared_tokens": [
+          "water",
+          "pipe",
+          "plumb",
+          "piping",
+          "plumbing"
+        ],
+        "relationship": "produces",
+        "confidence": "B"
+      },
+      {
+        "target_id": "uc:Co_55_15_50",
+        "target_name": "Water treatment complexes",
+        "score": 0.333,
+        "shared_tokens": [
+          "water",
+          "pipe",
+          "plumb",
+          "piping",
+          "plumbing"
+        ],
+        "relationship": "produces",
+        "confidence": "B"
+      },
+      {
+        "target_id": "uc:Co_55_15_96",
+        "target_name": "Water storage complexes",
+        "score": 0.333,
+        "shared_tokens": [
+          "water",
+          "pipe",
+          "plumb",
+          "piping",
+          "plumbing"
+        ],
+        "relationship": "produces",
+        "confidence": "B"
+      },
+      {
+        "target_id": "uc:Co_55_70",
+        "target_name": "Water supply complexes",
+        "score": 0.333,
+        "shared_tokens": [
+          "water",
+          "pipe",
+          "plumb",
+          "piping",
+          "plumbing"
+        ],
+        "relationship": "produces",
+        "confidence": "B"
+      },
+      {
+        "target_id": "uc:Co_55_70_20",
+        "target_name": "Water distribution complexes",
+        "score": 0.333,
+        "shared_tokens": [
+          "water",
+          "pipe",
+          "plumb",
+          "piping",
+          "plumbing"
+        ],
+        "relationship": "produces",
+        "confidence": "B"
+      },
+      {
+        "target_id": "uc:Co_55_70_60",
+        "target_name": "Water distribution networks",
+        "score": 0.333,
+        "shared_tokens": [
+          "water",
+          "pipe",
+          "plumb",
+          "piping",
+          "plumbing"
+        ],
+        "relationship": "produces",
+        "confidence": "B"
+      }
+    ]
+  },
+  {
+    "source_id": "naics:237110",
+    "source_name": "Water and Sewer Line and Related Structures Construction",
+    "source_tokens": [
+      "sewer",
+      "related",
+      "pipe",
+      "plumb",
+      "drainage",
+      "structures",
+      "piping",
+      "line",
+      "water",
+      "wastewater",
+      "construction",
+      "sanitary",
+      "plumbing"
+    ],
+    "matches": [
+      {
+        "target_id": "uc:Co_42_85_96",
+        "target_name": "Water parks",
+        "score": 0.357,
+        "shared_tokens": [
+          "water",
+          "pipe",
+          "plumb",
+          "piping",
+          "plumbing"
+        ],
+        "relationship": "produces",
+        "confidence": "B"
+      },
+      {
+        "target_id": "uc:Co_32_85_96",
+        "target_name": "Water control complexes",
+        "score": 0.333,
+        "shared_tokens": [
+          "water",
+          "pipe",
+          "plumb",
+          "piping",
+          "plumbing"
+        ],
+        "relationship": "produces",
+        "confidence": "B"
+      },
+      {
+        "target_id": "uc:Co_32_85_98",
+        "target_name": "Water pumping complexes",
+        "score": 0.333,
+        "shared_tokens": [
+          "water",
+          "pipe",
+          "plumb",
+          "piping",
+          "plumbing"
+        ],
+        "relationship": "produces",
+        "confidence": "B"
+      },
+      {
+        "target_id": "uc:Co_55_15_10",
+        "target_name": "Water extraction complexes",
+        "score": 0.333,
+        "shared_tokens": [
+          "water",
+          "pipe",
+          "plumb",
+          "piping",
+          "plumbing"
+        ],
+        "relationship": "produces",
+        "confidence": "B"
+      },
+      {
+        "target_id": "uc:Co_55_15_15",
+        "target_name": "Water extraction networks",
+        "score": 0.333,
+        "shared_tokens": [
+          "water",
+          "pipe",
+          "plumb",
+          "piping",
+          "plumbing"
+        ],
+        "relationship": "produces",
+        "confidence": "B"
+      },
+      {
+        "target_id": "uc:Co_55_15_50",
+        "target_name": "Water treatment complexes",
+        "score": 0.333,
+        "shared_tokens": [
+          "water",
+          "pipe",
+          "plumb",
+          "piping",
+          "plumbing"
+        ],
+        "relationship": "produces",
+        "confidence": "B"
+      },
+      {
+        "target_id": "uc:Co_55_15_96",
+        "target_name": "Water storage complexes",
+        "score": 0.333,
+        "shared_tokens": [
+          "water",
+          "pipe",
+          "plumb",
+          "piping",
+          "plumbing"
+        ],
+        "relationship": "produces",
+        "confidence": "B"
+      },
+      {
+        "target_id": "uc:Co_55_70",
+        "target_name": "Water supply complexes",
+        "score": 0.333,
+        "shared_tokens": [
+          "water",
+          "pipe",
+          "plumb",
+          "piping",
+          "plumbing"
+        ],
+        "relationship": "produces",
+        "confidence": "B"
+      },
+      {
+        "target_id": "uc:Co_55_70_20",
+        "target_name": "Water distribution complexes",
+        "score": 0.333,
+        "shared_tokens": [
+          "water",
+          "pipe",
+          "plumb",
+          "piping",
+          "plumbing"
+        ],
+        "relationship": "produces",
+        "confidence": "B"
+      },
+      {
+        "target_id": "uc:Co_55_70_60",
+        "target_name": "Water distribution networks",
+        "score": 0.333,
+        "shared_tokens": [
+          "water",
+          "pipe",
+          "plumb",
+          "piping",
+          "plumbing"
+        ],
+        "relationship": "produces",
+        "confidence": "B"
+      }
+    ]
+  },
+  {
+    "source_id": "naics:23713",
+    "source_name": "Power and Communication Line and Related Structures Construction",
+    "source_tokens": [
+      "power",
+      "related",
+      "communication",
+      "electric",
+      "structures",
+      "line",
+      "wiring",
+      "construction",
+      "electrical"
+    ],
+    "matches": [
+      {
+        "target_id": "uc:Co_70_10",
+        "target_name": "Electrical power generation complexes",
+        "score": 0.364,
+        "shared_tokens": [
+          "electric",
+          "electrical",
+          "power",
+          "wiring"
+        ],
+        "relationship": "produces",
+        "confidence": "B"
+      },
+      {
+        "target_id": "uc:Co_30_80",
+        "target_name": "Mechanical power generation complexes",
+        "score": 0.333,
+        "shared_tokens": [
+          "electric",
+          "electrical",
+          "power",
+          "wiring"
+        ],
+        "relationship": "produces",
+        "confidence": "B"
+      },
+      {
+        "target_id": "uc:Co_30_80_10",
+        "target_name": "Kinetic power generation complexes",
+        "score": 0.333,
+        "shared_tokens": [
+          "electric",
+          "electrical",
+          "power",
+          "wiring"
+        ],
+        "relationship": "produces",
+        "confidence": "B"
+      },
+      {
+        "target_id": "uc:Co_70",
+        "target_name": "Electrical power generation and distribution complexes",
+        "score": 0.333,
+        "shared_tokens": [
+          "electric",
+          "power",
+          "electrical",
+          "wiring"
+        ],
+        "relationship": "produces",
+        "confidence": "B"
+      },
+      {
+        "target_id": "uc:Co_70_10_08",
+        "target_name": "Biomass power generation complexes",
+        "score": 0.333,
+        "shared_tokens": [
+          "electric",
+          "electrical",
+          "power",
+          "wiring"
+        ],
+        "relationship": "produces",
+        "confidence": "B"
+      },
+      {
+        "target_id": "uc:Co_70_10_16",
+        "target_name": "Coal power generation complexes",
+        "score": 0.333,
+        "shared_tokens": [
+          "electric",
+          "electrical",
+          "power",
+          "wiring"
+        ],
+        "relationship": "produces",
+        "confidence": "B"
+      },
+      {
+        "target_id": "uc:Co_70_10_33",
+        "target_name": "Gas power generation complexes",
+        "score": 0.333,
+        "shared_tokens": [
+          "electric",
+          "electrical",
+          "power",
+          "wiring"
+        ],
+        "relationship": "produces",
+        "confidence": "B"
+      },
+      {
+        "target_id": "uc:Co_70_10_34",
+        "target_name": "Geothermal power generation complexes",
+        "score": 0.333,
+        "shared_tokens": [
+          "electric",
+          "electrical",
+          "power",
+          "wiring"
+        ],
+        "relationship": "produces",
+        "confidence": "B"
+      },
+      {
+        "target_id": "uc:Co_70_10_38",
+        "target_name": "Hydroelectric power generation complexes",
+        "score": 0.333,
+        "shared_tokens": [
+          "electric",
+          "electrical",
+          "power",
+          "wiring"
+        ],
+        "relationship": "produces",
+        "confidence": "B"
+      },
+      {
+        "target_id": "uc:Co_70_10_57",
+        "target_name": "Nuclear power generation complexes",
+        "score": 0.333,
+        "shared_tokens": [
+          "electric",
+          "electrical",
+          "power",
+          "wiring"
+        ],
+        "relationship": "produces",
+        "confidence": "B"
+      }
+    ]
+  },
+  {
+    "source_id": "naics:237130",
+    "source_name": "Power and Communication Line and Related Structures Construction",
+    "source_tokens": [
+      "power",
+      "related",
+      "communication",
+      "electric",
+      "structures",
+      "line",
+      "wiring",
+      "construction",
+      "electrical"
+    ],
+    "matches": [
+      {
+        "target_id": "uc:Co_70_10",
+        "target_name": "Electrical power generation complexes",
+        "score": 0.364,
+        "shared_tokens": [
+          "electric",
+          "electrical",
+          "power",
+          "wiring"
+        ],
+        "relationship": "produces",
+        "confidence": "B"
+      },
+      {
+        "target_id": "uc:Co_30_80",
+        "target_name": "Mechanical power generation complexes",
+        "score": 0.333,
+        "shared_tokens": [
+          "electric",
+          "electrical",
+          "power",
+          "wiring"
+        ],
+        "relationship": "produces",
+        "confidence": "B"
+      },
+      {
+        "target_id": "uc:Co_30_80_10",
+        "target_name": "Kinetic power generation complexes",
+        "score": 0.333,
+        "shared_tokens": [
+          "electric",
+          "electrical",
+          "power",
+          "wiring"
+        ],
+        "relationship": "produces",
+        "confidence": "B"
+      },
+      {
+        "target_id": "uc:Co_70",
+        "target_name": "Electrical power generation and distribution complexes",
+        "score": 0.333,
+        "shared_tokens": [
+          "electric",
+          "power",
+          "electrical",
+          "wiring"
+        ],
+        "relationship": "produces",
+        "confidence": "B"
+      },
+      {
+        "target_id": "uc:Co_70_10_08",
+        "target_name": "Biomass power generation complexes",
+        "score": 0.333,
+        "shared_tokens": [
+          "electric",
+          "electrical",
+          "power",
+          "wiring"
+        ],
+        "relationship": "produces",
+        "confidence": "B"
+      },
+      {
+        "target_id": "uc:Co_70_10_16",
+        "target_name": "Coal power generation complexes",
+        "score": 0.333,
+        "shared_tokens": [
+          "electric",
+          "electrical",
+          "power",
+          "wiring"
+        ],
+        "relationship": "produces",
+        "confidence": "B"
+      },
+      {
+        "target_id": "uc:Co_70_10_33",
+        "target_name": "Gas power generation complexes",
+        "score": 0.333,
+        "shared_tokens": [
+          "electric",
+          "electrical",
+          "power",
+          "wiring"
+        ],
+        "relationship": "produces",
+        "confidence": "B"
+      },
+      {
+        "target_id": "uc:Co_70_10_34",
+        "target_name": "Geothermal power generation complexes",
+        "score": 0.333,
+        "shared_tokens": [
+          "electric",
+          "electrical",
+          "power",
+          "wiring"
+        ],
+        "relationship": "produces",
+        "confidence": "B"
+      },
+      {
+        "target_id": "uc:Co_70_10_38",
+        "target_name": "Hydroelectric power generation complexes",
+        "score": 0.333,
+        "shared_tokens": [
+          "electric",
+          "electrical",
+          "power",
+          "wiring"
+        ],
+        "relationship": "produces",
+        "confidence": "B"
+      },
+      {
+        "target_id": "uc:Co_70_10_57",
+        "target_name": "Nuclear power generation complexes",
+        "score": 0.333,
+        "shared_tokens": [
+          "electric",
+          "electrical",
+          "power",
+          "wiring"
+        ],
+        "relationship": "produces",
+        "confidence": "B"
+      }
+    ]
+  },
+  {
+    "source_id": "naics:2372",
+    "source_name": "Land Subdivision",
+    "source_tokens": [
+      "land",
+      "subdivision"
+    ],
+    "matches": [
+      {
+        "target_id": "uc:Co_32_20",
+        "target_name": "Designated land areas",
+        "score": 0.25,
+        "shared_tokens": [
+          "land"
+        ],
+        "relationship": "produces",
+        "confidence": "C"
+      }
+    ]
+  },
+  {
+    "source_id": "naics:23721",
+    "source_name": "Land Subdivision",
+    "source_tokens": [
+      "land",
+      "subdivision"
+    ],
+    "matches": [
+      {
+        "target_id": "uc:Co_32_20",
+        "target_name": "Designated land areas",
+        "score": 0.25,
+        "shared_tokens": [
+          "land"
+        ],
+        "relationship": "produces",
+        "confidence": "C"
+      }
+    ]
+  },
+  {
+    "source_id": "naics:237210",
+    "source_name": "Land Subdivision",
+    "source_tokens": [
+      "land",
+      "subdivision"
+    ],
+    "matches": [
+      {
+        "target_id": "uc:Co_32_20",
+        "target_name": "Designated land areas",
+        "score": 0.25,
+        "shared_tokens": [
+          "land"
+        ],
+        "relationship": "produces",
+        "confidence": "C"
+      }
+    ]
+  },
+  {
+    "source_id": "naics:2373",
+    "source_name": "Highway, Street, and Bridge Construction",
+    "source_tokens": [
+      "road",
+      "paving",
+      "span",
+      "highway",
+      "pavement",
+      "construction",
+      "overpass",
+      "street",
+      "bridge"
+    ],
+    "matches": [
+      {
+        "target_id": "uc:Co_80_35",
+        "target_name": "Road complexes",
+        "score": 0.5,
+        "shared_tokens": [
+          "road",
+          "paving",
+          "highway",
+          "pavement",
+          "street"
+        ],
+        "relationship": "produces",
+        "confidence": "A"
+      },
+      {
+        "target_id": "uc:Co_80_35_75",
+        "target_name": "Road networks",
+        "score": 0.5,
+        "shared_tokens": [
+          "road",
+          "paving",
+          "highway",
+          "pavement",
+          "street"
+        ],
+        "relationship": "produces",
+        "confidence": "A"
+      },
+      {
+        "target_id": "uc:Co_80_50_76",
+        "target_name": "Road-based light rail complexes",
+        "score": 0.385,
+        "shared_tokens": [
+          "road",
+          "paving",
+          "highway",
+          "pavement",
+          "street"
+        ],
+        "relationship": "produces",
+        "confidence": "B"
+      }
+    ]
+  },
+  {
+    "source_id": "naics:23731",
+    "source_name": "Highway, Street, and Bridge Construction",
+    "source_tokens": [
+      "road",
+      "paving",
+      "span",
+      "highway",
+      "pavement",
+      "construction",
+      "overpass",
+      "street",
+      "bridge"
+    ],
+    "matches": [
+      {
+        "target_id": "uc:Co_80_35",
+        "target_name": "Road complexes",
+        "score": 0.5,
+        "shared_tokens": [
+          "road",
+          "paving",
+          "highway",
+          "pavement",
+          "street"
+        ],
+        "relationship": "produces",
+        "confidence": "A"
+      },
+      {
+        "target_id": "uc:Co_80_35_75",
+        "target_name": "Road networks",
+        "score": 0.5,
+        "shared_tokens": [
+          "road",
+          "paving",
+          "highway",
+          "pavement",
+          "street"
+        ],
+        "relationship": "produces",
+        "confidence": "A"
+      },
+      {
+        "target_id": "uc:Co_80_50_76",
+        "target_name": "Road-based light rail complexes",
+        "score": 0.385,
+        "shared_tokens": [
+          "road",
+          "paving",
+          "highway",
+          "pavement",
+          "street"
+        ],
+        "relationship": "produces",
+        "confidence": "B"
+      }
+    ]
+  },
+  {
+    "source_id": "naics:237310",
+    "source_name": "Highway, Street, and Bridge Construction",
+    "source_tokens": [
+      "road",
+      "paving",
+      "span",
+      "highway",
+      "pavement",
+      "construction",
+      "overpass",
+      "street",
+      "bridge"
+    ],
+    "matches": [
+      {
+        "target_id": "uc:Co_80_35",
+        "target_name": "Road complexes",
+        "score": 0.5,
+        "shared_tokens": [
+          "road",
+          "paving",
+          "highway",
+          "pavement",
+          "street"
+        ],
+        "relationship": "produces",
+        "confidence": "A"
+      },
+      {
+        "target_id": "uc:Co_80_35_75",
+        "target_name": "Road networks",
+        "score": 0.5,
+        "shared_tokens": [
+          "road",
+          "paving",
+          "highway",
+          "pavement",
+          "street"
+        ],
+        "relationship": "produces",
+        "confidence": "A"
+      },
+      {
+        "target_id": "uc:Co_80_50_76",
+        "target_name": "Road-based light rail complexes",
+        "score": 0.385,
+        "shared_tokens": [
+          "road",
+          "paving",
+          "highway",
+          "pavement",
+          "street"
+        ],
+        "relationship": "produces",
+        "confidence": "B"
+      }
+    ]
+  },
+  {
+    "source_id": "naics:2382",
+    "source_name": "Building Equipment Contractors",
+    "source_tokens": [
+      "building",
+      "equipment",
+      "contractors"
+    ],
+    "matches": [
+      {
+        "target_id": "uc:Co_30_50_77",
+        "target_name": "Ship and boat building yards",
+        "score": 0.167,
+        "shared_tokens": [
+          "building"
+        ],
+        "relationship": "produces",
+        "confidence": "D"
+      }
+    ]
+  },
+  {
+    "source_id": "naics:23821",
+    "source_name": "Electrical Contractors and Other Wiring Installation Contractors",
+    "source_tokens": [
+      "other",
+      "electrical",
+      "installation",
+      "electric",
+      "power",
+      "contractors",
+      "wiring"
+    ],
+    "matches": [
+      {
+        "target_id": "uc:Co_70_10",
+        "target_name": "Electrical power generation complexes",
+        "score": 0.444,
+        "shared_tokens": [
+          "electric",
+          "electrical",
+          "power",
+          "wiring"
+        ],
+        "relationship": "produces",
+        "confidence": "B"
+      },
+      {
+        "target_id": "uc:Co_30_80",
+        "target_name": "Mechanical power generation complexes",
+        "score": 0.4,
+        "shared_tokens": [
+          "electric",
+          "electrical",
+          "power",
+          "wiring"
+        ],
+        "relationship": "produces",
+        "confidence": "B"
+      },
+      {
+        "target_id": "uc:Co_30_80_10",
+        "target_name": "Kinetic power generation complexes",
+        "score": 0.4,
+        "shared_tokens": [
+          "electric",
+          "electrical",
+          "power",
+          "wiring"
+        ],
+        "relationship": "produces",
+        "confidence": "B"
+      },
+      {
+        "target_id": "uc:Co_70",
+        "target_name": "Electrical power generation and distribution complexes",
+        "score": 0.4,
+        "shared_tokens": [
+          "electric",
+          "power",
+          "electrical",
+          "wiring"
+        ],
+        "relationship": "produces",
+        "confidence": "B"
+      },
+      {
+        "target_id": "uc:Co_70_10_08",
+        "target_name": "Biomass power generation complexes",
+        "score": 0.4,
+        "shared_tokens": [
+          "electric",
+          "electrical",
+          "power",
+          "wiring"
+        ],
+        "relationship": "produces",
+        "confidence": "B"
+      },
+      {
+        "target_id": "uc:Co_70_10_16",
+        "target_name": "Coal power generation complexes",
+        "score": 0.4,
+        "shared_tokens": [
+          "electric",
+          "electrical",
+          "power",
+          "wiring"
+        ],
+        "relationship": "produces",
+        "confidence": "B"
+      },
+      {
+        "target_id": "uc:Co_70_10_33",
+        "target_name": "Gas power generation complexes",
+        "score": 0.4,
+        "shared_tokens": [
+          "electric",
+          "electrical",
+          "power",
+          "wiring"
+        ],
+        "relationship": "produces",
+        "confidence": "B"
+      },
+      {
+        "target_id": "uc:Co_70_10_34",
+        "target_name": "Geothermal power generation complexes",
+        "score": 0.4,
+        "shared_tokens": [
+          "electric",
+          "electrical",
+          "power",
+          "wiring"
+        ],
+        "relationship": "produces",
+        "confidence": "B"
+      },
+      {
+        "target_id": "uc:Co_70_10_38",
+        "target_name": "Hydroelectric power generation complexes",
+        "score": 0.4,
+        "shared_tokens": [
+          "electric",
+          "electrical",
+          "power",
+          "wiring"
+        ],
+        "relationship": "produces",
+        "confidence": "B"
+      },
+      {
+        "target_id": "uc:Co_70_10_57",
+        "target_name": "Nuclear power generation complexes",
+        "score": 0.4,
+        "shared_tokens": [
+          "electric",
+          "electrical",
+          "power",
+          "wiring"
+        ],
+        "relationship": "produces",
+        "confidence": "B"
+      }
+    ]
+  },
+  {
+    "source_id": "naics:238210",
+    "source_name": "Electrical Contractors and Other Wiring Installation Contractors",
+    "source_tokens": [
+      "other",
+      "electrical",
+      "installation",
+      "electric",
+      "power",
+      "contractors",
+      "wiring"
+    ],
+    "matches": [
+      {
+        "target_id": "uc:Co_70_10",
+        "target_name": "Electrical power generation complexes",
+        "score": 0.444,
+        "shared_tokens": [
+          "electric",
+          "electrical",
+          "power",
+          "wiring"
+        ],
+        "relationship": "produces",
+        "confidence": "B"
+      },
+      {
+        "target_id": "uc:Co_30_80",
+        "target_name": "Mechanical power generation complexes",
+        "score": 0.4,
+        "shared_tokens": [
+          "electric",
+          "electrical",
+          "power",
+          "wiring"
+        ],
+        "relationship": "produces",
+        "confidence": "B"
+      },
+      {
+        "target_id": "uc:Co_30_80_10",
+        "target_name": "Kinetic power generation complexes",
+        "score": 0.4,
+        "shared_tokens": [
+          "electric",
+          "electrical",
+          "power",
+          "wiring"
+        ],
+        "relationship": "produces",
+        "confidence": "B"
+      },
+      {
+        "target_id": "uc:Co_70",
+        "target_name": "Electrical power generation and distribution complexes",
+        "score": 0.4,
+        "shared_tokens": [
+          "electric",
+          "power",
+          "electrical",
+          "wiring"
+        ],
+        "relationship": "produces",
+        "confidence": "B"
+      },
+      {
+        "target_id": "uc:Co_70_10_08",
+        "target_name": "Biomass power generation complexes",
+        "score": 0.4,
+        "shared_tokens": [
+          "electric",
+          "electrical",
+          "power",
+          "wiring"
+        ],
+        "relationship": "produces",
+        "confidence": "B"
+      },
+      {
+        "target_id": "uc:Co_70_10_16",
+        "target_name": "Coal power generation complexes",
+        "score": 0.4,
+        "shared_tokens": [
+          "electric",
+          "electrical",
+          "power",
+          "wiring"
+        ],
+        "relationship": "produces",
+        "confidence": "B"
+      },
+      {
+        "target_id": "uc:Co_70_10_33",
+        "target_name": "Gas power generation complexes",
+        "score": 0.4,
+        "shared_tokens": [
+          "electric",
+          "electrical",
+          "power",
+          "wiring"
+        ],
+        "relationship": "produces",
+        "confidence": "B"
+      },
+      {
+        "target_id": "uc:Co_70_10_34",
+        "target_name": "Geothermal power generation complexes",
+        "score": 0.4,
+        "shared_tokens": [
+          "electric",
+          "electrical",
+          "power",
+          "wiring"
+        ],
+        "relationship": "produces",
+        "confidence": "B"
+      },
+      {
+        "target_id": "uc:Co_70_10_38",
+        "target_name": "Hydroelectric power generation complexes",
+        "score": 0.4,
+        "shared_tokens": [
+          "electric",
+          "electrical",
+          "power",
+          "wiring"
+        ],
+        "relationship": "produces",
+        "confidence": "B"
+      },
+      {
+        "target_id": "uc:Co_70_10_57",
+        "target_name": "Nuclear power generation complexes",
+        "score": 0.4,
+        "shared_tokens": [
+          "electric",
+          "electrical",
+          "power",
+          "wiring"
+        ],
+        "relationship": "produces",
+        "confidence": "B"
+      }
+    ]
+  },
+  {
+    "source_id": "naics:23822",
+    "source_name": "Plumbing, Heating, and Air-Conditioning Contractors",
+    "source_tokens": [
+      "contractors",
+      "pipe",
+      "heating",
+      "hvac",
+      "plumb",
+      "piping",
+      "conditioning",
+      "air",
+      "water",
+      "cooling",
+      "ventilation",
+      "plumbing"
+    ],
+    "matches": [
+      {
+        "target_id": "uc:Co_65",
+        "target_name": "Ventilation and air conditioning complexes",
+        "score": 0.462,
+        "shared_tokens": [
+          "air",
+          "conditioning",
+          "heating",
+          "hvac",
+          "cooling",
+          "ventilation"
+        ],
+        "relationship": "produces",
+        "confidence": "B"
+      },
+      {
+        "target_id": "uc:Co_42_85_96",
+        "target_name": "Water parks",
+        "score": 0.385,
+        "shared_tokens": [
+          "water",
+          "pipe",
+          "plumb",
+          "piping",
+          "plumbing"
+        ],
+        "relationship": "produces",
+        "confidence": "B"
+      },
+      {
+        "target_id": "uc:Co_60_10",
+        "target_name": "Heating complexes",
+        "score": 0.385,
+        "shared_tokens": [
+          "air",
+          "heating",
+          "hvac",
+          "cooling",
+          "ventilation"
+        ],
+        "relationship": "produces",
+        "confidence": "B"
+      },
+      {
+        "target_id": "uc:Co_60_40",
+        "target_name": "Cooling complexes",
+        "score": 0.385,
+        "shared_tokens": [
+          "air",
+          "heating",
+          "hvac",
+          "cooling",
+          "ventilation"
+        ],
+        "relationship": "produces",
+        "confidence": "B"
+      },
+      {
+        "target_id": "uc:Co_20_60_02",
+        "target_name": "Air force complexes",
+        "score": 0.357,
+        "shared_tokens": [
+          "air",
+          "heating",
+          "hvac",
+          "cooling",
+          "ventilation"
+        ],
+        "relationship": "produces",
+        "confidence": "B"
+      },
+      {
+        "target_id": "uc:Co_25_50_58",
+        "target_name": "Open-air museums",
+        "score": 0.357,
+        "shared_tokens": [
+          "air",
+          "heating",
+          "hvac",
+          "cooling",
+          "ventilation"
+        ],
+        "relationship": "produces",
+        "confidence": "B"
+      },
+      {
+        "target_id": "uc:Co_32_85_96",
+        "target_name": "Water control complexes",
+        "score": 0.357,
+        "shared_tokens": [
+          "water",
+          "pipe",
+          "plumb",
+          "piping",
+          "plumbing"
+        ],
+        "relationship": "produces",
+        "confidence": "B"
+      },
+      {
+        "target_id": "uc:Co_32_85_98",
+        "target_name": "Water pumping complexes",
+        "score": 0.357,
+        "shared_tokens": [
+          "water",
+          "pipe",
+          "plumb",
+          "piping",
+          "plumbing"
+        ],
+        "relationship": "produces",
+        "confidence": "B"
+      },
+      {
+        "target_id": "uc:Co_35_10_02",
+        "target_name": "Air ambulance complexes",
+        "score": 0.357,
+        "shared_tokens": [
+          "air",
+          "heating",
+          "hvac",
+          "cooling",
+          "ventilation"
+        ],
+        "relationship": "produces",
+        "confidence": "B"
+      },
+      {
+        "target_id": "uc:Co_55_15_10",
+        "target_name": "Water extraction complexes",
+        "score": 0.357,
+        "shared_tokens": [
+          "water",
+          "pipe",
+          "plumb",
+          "piping",
+          "plumbing"
+        ],
+        "relationship": "produces",
+        "confidence": "B"
+      }
+    ]
+  },
+  {
+    "source_id": "naics:238220",
+    "source_name": "Plumbing, Heating, and Air-Conditioning Contractors",
+    "source_tokens": [
+      "contractors",
+      "pipe",
+      "heating",
+      "hvac",
+      "plumb",
+      "piping",
+      "conditioning",
+      "air",
+      "water",
+      "cooling",
+      "ventilation",
+      "plumbing"
+    ],
+    "matches": [
+      {
+        "target_id": "uc:Co_65",
+        "target_name": "Ventilation and air conditioning complexes",
+        "score": 0.462,
+        "shared_tokens": [
+          "air",
+          "conditioning",
+          "heating",
+          "hvac",
+          "cooling",
+          "ventilation"
+        ],
+        "relationship": "produces",
+        "confidence": "B"
+      },
+      {
+        "target_id": "uc:Co_42_85_96",
+        "target_name": "Water parks",
+        "score": 0.385,
+        "shared_tokens": [
+          "water",
+          "pipe",
+          "plumb",
+          "piping",
+          "plumbing"
+        ],
+        "relationship": "produces",
+        "confidence": "B"
+      },
+      {
+        "target_id": "uc:Co_60_10",
+        "target_name": "Heating complexes",
+        "score": 0.385,
+        "shared_tokens": [
+          "air",
+          "heating",
+          "hvac",
+          "cooling",
+          "ventilation"
+        ],
+        "relationship": "produces",
+        "confidence": "B"
+      },
+      {
+        "target_id": "uc:Co_60_40",
+        "target_name": "Cooling complexes",
+        "score": 0.385,
+        "shared_tokens": [
+          "air",
+          "heating",
+          "hvac",
+          "cooling",
+          "ventilation"
+        ],
+        "relationship": "produces",
+        "confidence": "B"
+      },
+      {
+        "target_id": "uc:Co_20_60_02",
+        "target_name": "Air force complexes",
+        "score": 0.357,
+        "shared_tokens": [
+          "air",
+          "heating",
+          "hvac",
+          "cooling",
+          "ventilation"
+        ],
+        "relationship": "produces",
+        "confidence": "B"
+      },
+      {
+        "target_id": "uc:Co_25_50_58",
+        "target_name": "Open-air museums",
+        "score": 0.357,
+        "shared_tokens": [
+          "air",
+          "heating",
+          "hvac",
+          "cooling",
+          "ventilation"
+        ],
+        "relationship": "produces",
+        "confidence": "B"
+      },
+      {
+        "target_id": "uc:Co_32_85_96",
+        "target_name": "Water control complexes",
+        "score": 0.357,
+        "shared_tokens": [
+          "water",
+          "pipe",
+          "plumb",
+          "piping",
+          "plumbing"
+        ],
+        "relationship": "produces",
+        "confidence": "B"
+      },
+      {
+        "target_id": "uc:Co_32_85_98",
+        "target_name": "Water pumping complexes",
+        "score": 0.357,
+        "shared_tokens": [
+          "water",
+          "pipe",
+          "plumb",
+          "piping",
+          "plumbing"
+        ],
+        "relationship": "produces",
+        "confidence": "B"
+      },
+      {
+        "target_id": "uc:Co_35_10_02",
+        "target_name": "Air ambulance complexes",
+        "score": 0.357,
+        "shared_tokens": [
+          "air",
+          "heating",
+          "hvac",
+          "cooling",
+          "ventilation"
+        ],
+        "relationship": "produces",
+        "confidence": "B"
+      },
+      {
+        "target_id": "uc:Co_55_15_10",
+        "target_name": "Water extraction complexes",
+        "score": 0.357,
+        "shared_tokens": [
+          "water",
+          "pipe",
+          "plumb",
+          "piping",
+          "plumbing"
+        ],
+        "relationship": "produces",
+        "confidence": "B"
+      }
+    ]
+  },
+  {
+    "source_id": "naics:2383",
+    "source_name": "Building Finishing Contractors",
+    "source_tokens": [
+      "finishing",
+      "building",
+      "contractors"
+    ],
+    "matches": [
+      {
+        "target_id": "uc:Co_30_50_77",
+        "target_name": "Ship and boat building yards",
+        "score": 0.167,
+        "shared_tokens": [
+          "building"
+        ],
+        "relationship": "produces",
+        "confidence": "D"
+      }
+    ]
+  }
+]

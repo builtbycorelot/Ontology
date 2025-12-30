@@ -1,0 +1,5314 @@
+[
+  {
+    "source_id": "naics:2361",
+    "target_id": "uc:Ss_40_45_70_07",
+    "relationship": "coordinates",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_40_45_70"
+  },
+  {
+    "source_id": "naics:2361",
+    "target_id": "uc:Ss_40_45_70_22",
+    "relationship": "coordinates",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_40_45_70"
+  },
+  {
+    "source_id": "naics:2361",
+    "target_id": "uc:Ss_40_45_70_24",
+    "relationship": "coordinates",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_40_45_70"
+  },
+  {
+    "source_id": "naics:2361",
+    "target_id": "uc:Ss_40_45_70_33",
+    "relationship": "coordinates",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_40_45_70"
+  },
+  {
+    "source_id": "naics:2361",
+    "target_id": "uc:Ss_40_45_70_47",
+    "relationship": "coordinates",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_40_45_70"
+  },
+  {
+    "source_id": "naics:236115",
+    "target_id": "uc:Ss_55_20_14_70",
+    "relationship": "coordinates",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_source": "naics:23611"
+  },
+  {
+    "source_id": "naics:236115",
+    "target_id": "uc:Ss_55_30_98_23",
+    "relationship": "coordinates",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_source": "naics:23611"
+  },
+  {
+    "source_id": "naics:236115",
+    "target_id": "uc:Ss_90_45",
+    "relationship": "coordinates",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_source": "naics:23611"
+  },
+  {
+    "source_id": "naics:236115",
+    "target_id": "uc:Ss_40_45_70",
+    "relationship": "coordinates",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_source": "naics:23611"
+  },
+  {
+    "source_id": "naics:236116",
+    "target_id": "uc:Ss_40_45_70",
+    "relationship": "coordinates",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_source": "naics:23611"
+  },
+  {
+    "source_id": "naics:23611",
+    "target_id": "uc:Ss_40_45_70_07",
+    "relationship": "coordinates",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_40_45_70"
+  },
+  {
+    "source_id": "naics:23611",
+    "target_id": "uc:Ss_40_45_70_22",
+    "relationship": "coordinates",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_40_45_70"
+  },
+  {
+    "source_id": "naics:23611",
+    "target_id": "uc:Ss_40_45_70_24",
+    "relationship": "coordinates",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_40_45_70"
+  },
+  {
+    "source_id": "naics:23611",
+    "target_id": "uc:Ss_40_45_70_33",
+    "relationship": "coordinates",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_40_45_70"
+  },
+  {
+    "source_id": "naics:23611",
+    "target_id": "uc:Ss_40_45_70_47",
+    "relationship": "coordinates",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_40_45_70"
+  },
+  {
+    "source_id": "naics:236115",
+    "target_id": "uc:Ss_55_30_98_70",
+    "relationship": "coordinates",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_source": "naics:23611"
+  },
+  {
+    "source_id": "naics:236116",
+    "target_id": "uc:Ss_55_30_98_70",
+    "relationship": "coordinates",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_source": "naics:23611"
+  },
+  {
+    "source_id": "naics:236117",
+    "target_id": "uc:Ss_55_30_98_70",
+    "relationship": "coordinates",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_source": "naics:23611"
+  },
+  {
+    "source_id": "naics:236117",
+    "target_id": "uc:Ss_40_45_70_07",
+    "relationship": "coordinates",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_40_45_70"
+  },
+  {
+    "source_id": "naics:236117",
+    "target_id": "uc:Ss_40_45_70_22",
+    "relationship": "coordinates",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_40_45_70"
+  },
+  {
+    "source_id": "naics:236117",
+    "target_id": "uc:Ss_40_45_70_24",
+    "relationship": "coordinates",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_40_45_70"
+  },
+  {
+    "source_id": "naics:236117",
+    "target_id": "uc:Ss_40_45_70_33",
+    "relationship": "coordinates",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_40_45_70"
+  },
+  {
+    "source_id": "naics:236117",
+    "target_id": "uc:Ss_40_45_70_47",
+    "relationship": "coordinates",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_40_45_70"
+  },
+  {
+    "source_id": "naics:236118",
+    "target_id": "uc:Ss_40_45_70_07",
+    "relationship": "coordinates",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_40_45_70"
+  },
+  {
+    "source_id": "naics:236118",
+    "target_id": "uc:Ss_40_45_70_22",
+    "relationship": "coordinates",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_40_45_70"
+  },
+  {
+    "source_id": "naics:236118",
+    "target_id": "uc:Ss_40_45_70_24",
+    "relationship": "coordinates",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_40_45_70"
+  },
+  {
+    "source_id": "naics:236118",
+    "target_id": "uc:Ss_40_45_70_33",
+    "relationship": "coordinates",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_40_45_70"
+  },
+  {
+    "source_id": "naics:236118",
+    "target_id": "uc:Ss_40_45_70_47",
+    "relationship": "coordinates",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_40_45_70"
+  },
+  {
+    "source_id": "naics:23621",
+    "target_id": "uc:Ss_40_30_42_52",
+    "relationship": "coordinates",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_40_30_42"
+  },
+  {
+    "source_id": "naics:23621",
+    "target_id": "uc:Ss_40_30_42_58",
+    "relationship": "coordinates",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_40_30_42"
+  },
+  {
+    "source_id": "naics:23621",
+    "target_id": "uc:Ss_65_40_42_25",
+    "relationship": "coordinates",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_65_40_42"
+  },
+  {
+    "source_id": "naics:23621",
+    "target_id": "uc:Ss_65_40_42_36",
+    "relationship": "coordinates",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_65_40_42"
+  },
+  {
+    "source_id": "naics:23621",
+    "target_id": "uc:Ss_65_40_42_45",
+    "relationship": "coordinates",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_65_40_42"
+  },
+  {
+    "source_id": "naics:23621",
+    "target_id": "uc:Ss_65_40_42_95",
+    "relationship": "coordinates",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_65_40_42"
+  },
+  {
+    "source_id": "naics:236210",
+    "target_id": "uc:Ss_40_30_42_52",
+    "relationship": "coordinates",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_40_30_42"
+  },
+  {
+    "source_id": "naics:236210",
+    "target_id": "uc:Ss_40_30_42_58",
+    "relationship": "coordinates",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_40_30_42"
+  },
+  {
+    "source_id": "naics:236210",
+    "target_id": "uc:Ss_65_40_42_25",
+    "relationship": "coordinates",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_65_40_42"
+  },
+  {
+    "source_id": "naics:236210",
+    "target_id": "uc:Ss_65_40_42_36",
+    "relationship": "coordinates",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_65_40_42"
+  },
+  {
+    "source_id": "naics:236210",
+    "target_id": "uc:Ss_65_40_42_45",
+    "relationship": "coordinates",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_65_40_42"
+  },
+  {
+    "source_id": "naics:236210",
+    "target_id": "uc:Ss_65_40_42_95",
+    "relationship": "coordinates",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_65_40_42"
+  },
+  {
+    "source_id": "naics:23622",
+    "target_id": "uc:Ss_40_15_58_50",
+    "relationship": "coordinates",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_40_15_58"
+  },
+  {
+    "source_id": "naics:23622",
+    "target_id": "uc:Ss_40_20_15_89",
+    "relationship": "coordinates",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_40_20_15"
+  },
+  {
+    "source_id": "naics:23622",
+    "target_id": "uc:Ss_40_20_01",
+    "relationship": "coordinates",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_40_20"
+  },
+  {
+    "source_id": "naics:23622",
+    "target_id": "uc:Ss_40_20_30",
+    "relationship": "coordinates",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_40_20"
+  },
+  {
+    "source_id": "naics:23622",
+    "target_id": "uc:Ss_40_20_65",
+    "relationship": "coordinates",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_40_20"
+  },
+  {
+    "source_id": "naics:236220",
+    "target_id": "uc:Ss_40_15_58_50",
+    "relationship": "coordinates",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_40_15_58"
+  },
+  {
+    "source_id": "naics:236220",
+    "target_id": "uc:Ss_40_20_15_89",
+    "relationship": "coordinates",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_40_20_15"
+  },
+  {
+    "source_id": "naics:236220",
+    "target_id": "uc:Ss_40_20_01",
+    "relationship": "coordinates",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_40_20"
+  },
+  {
+    "source_id": "naics:236220",
+    "target_id": "uc:Ss_40_20_30",
+    "relationship": "coordinates",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_40_20"
+  },
+  {
+    "source_id": "naics:236220",
+    "target_id": "uc:Ss_40_20_65",
+    "relationship": "coordinates",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_40_20"
+  },
+  {
+    "source_id": "naics:23711",
+    "target_id": "uc:Ss_50_35_80_10",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_50_35_80"
+  },
+  {
+    "source_id": "naics:23711",
+    "target_id": "uc:Ss_50_35_80_72",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_50_35_80"
+  },
+  {
+    "source_id": "naics:23711",
+    "target_id": "uc:Ss_75_70_96_21",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_75_70_96"
+  },
+  {
+    "source_id": "naics:23711",
+    "target_id": "uc:Ss_75_70_96_30",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_75_70_96"
+  },
+  {
+    "source_id": "naics:23711",
+    "target_id": "uc:Ss_75_70_96_96",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_75_70_96"
+  },
+  {
+    "source_id": "naics:23711",
+    "target_id": "uc:Ss_75_70_96_98",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_75_70_96"
+  },
+  {
+    "source_id": "naics:23711",
+    "target_id": "uc:Ss_55_30_96_24",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_55_30_96"
+  },
+  {
+    "source_id": "naics:23711",
+    "target_id": "uc:Ss_55_30_96_25",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_55_30_96"
+  },
+  {
+    "source_id": "naics:23711",
+    "target_id": "uc:Ss_55_30_96_29",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_55_30_96"
+  },
+  {
+    "source_id": "naics:23711",
+    "target_id": "uc:Ss_55_30_96_30",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_55_30_96"
+  },
+  {
+    "source_id": "naics:23711",
+    "target_id": "uc:Ss_55_30_96_95",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_55_30_96"
+  },
+  {
+    "source_id": "naics:23711",
+    "target_id": "uc:Ss_55_30_96_97",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_55_30_96"
+  },
+  {
+    "source_id": "naics:23711",
+    "target_id": "uc:Ss_55_70_96_15",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_55_70_96"
+  },
+  {
+    "source_id": "naics:23711",
+    "target_id": "uc:Ss_55_70_96_31",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_55_70_96"
+  },
+  {
+    "source_id": "naics:23711",
+    "target_id": "uc:Ss_55_70_96_83",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_55_70_96"
+  },
+  {
+    "source_id": "naics:23711",
+    "target_id": "uc:Ss_55_70_96_96",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_55_70_96"
+  },
+  {
+    "source_id": "naics:237110",
+    "target_id": "uc:Ss_50_35_80_10",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_50_35_80"
+  },
+  {
+    "source_id": "naics:237110",
+    "target_id": "uc:Ss_50_35_80_72",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_50_35_80"
+  },
+  {
+    "source_id": "naics:237110",
+    "target_id": "uc:Ss_75_70_96_21",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_75_70_96"
+  },
+  {
+    "source_id": "naics:237110",
+    "target_id": "uc:Ss_75_70_96_30",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_75_70_96"
+  },
+  {
+    "source_id": "naics:237110",
+    "target_id": "uc:Ss_75_70_96_96",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_75_70_96"
+  },
+  {
+    "source_id": "naics:237110",
+    "target_id": "uc:Ss_75_70_96_98",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_75_70_96"
+  },
+  {
+    "source_id": "naics:237110",
+    "target_id": "uc:Ss_55_30_96_24",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_55_30_96"
+  },
+  {
+    "source_id": "naics:237110",
+    "target_id": "uc:Ss_55_30_96_25",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_55_30_96"
+  },
+  {
+    "source_id": "naics:237110",
+    "target_id": "uc:Ss_55_30_96_29",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_55_30_96"
+  },
+  {
+    "source_id": "naics:237110",
+    "target_id": "uc:Ss_55_30_96_30",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_55_30_96"
+  },
+  {
+    "source_id": "naics:237110",
+    "target_id": "uc:Ss_55_30_96_95",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_55_30_96"
+  },
+  {
+    "source_id": "naics:237110",
+    "target_id": "uc:Ss_55_30_96_97",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_55_30_96"
+  },
+  {
+    "source_id": "naics:237110",
+    "target_id": "uc:Ss_55_70_96_15",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_55_70_96"
+  },
+  {
+    "source_id": "naics:237110",
+    "target_id": "uc:Ss_55_70_96_31",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_55_70_96"
+  },
+  {
+    "source_id": "naics:237110",
+    "target_id": "uc:Ss_55_70_96_83",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_55_70_96"
+  },
+  {
+    "source_id": "naics:237110",
+    "target_id": "uc:Ss_55_70_96_96",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_55_70_96"
+  },
+  {
+    "source_id": "naics:23713",
+    "target_id": "uc:Ss_70_10",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_70"
+  },
+  {
+    "source_id": "naics:23713",
+    "target_id": "uc:Ss_70_30",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_70"
+  },
+  {
+    "source_id": "naics:23713",
+    "target_id": "uc:Ss_70_80",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_70"
+  },
+  {
+    "source_id": "naics:23713",
+    "target_id": "uc:Ss_70_30_60_11",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_70_30_60"
+  },
+  {
+    "source_id": "naics:23713",
+    "target_id": "uc:Ss_70_30_60_89",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_70_30_60"
+  },
+  {
+    "source_id": "naics:23713",
+    "target_id": "uc:Ss_70_30_80_35",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_70_30_80"
+  },
+  {
+    "source_id": "naics:23713",
+    "target_id": "uc:Ss_70_30_80_45",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_70_30_80"
+  },
+  {
+    "source_id": "naics:23713",
+    "target_id": "uc:Ss_75_50_45_45",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_75_50_45"
+  },
+  {
+    "source_id": "naics:23713",
+    "target_id": "uc:Ss_85_50_65_27",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_85_50_65"
+  },
+  {
+    "source_id": "naics:23713",
+    "target_id": "uc:Ss_85_50_65_28",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_85_50_65"
+  },
+  {
+    "source_id": "naics:23713",
+    "target_id": "uc:Ss_85_50_65_40",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_85_50_65"
+  },
+  {
+    "source_id": "naics:237130",
+    "target_id": "uc:Ss_70_10",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_70"
+  },
+  {
+    "source_id": "naics:237130",
+    "target_id": "uc:Ss_70_30",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_70"
+  },
+  {
+    "source_id": "naics:237130",
+    "target_id": "uc:Ss_70_80",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_70"
+  },
+  {
+    "source_id": "naics:237130",
+    "target_id": "uc:Ss_70_30_60_11",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_70_30_60"
+  },
+  {
+    "source_id": "naics:237130",
+    "target_id": "uc:Ss_70_30_60_89",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_70_30_60"
+  },
+  {
+    "source_id": "naics:237130",
+    "target_id": "uc:Ss_70_30_80_35",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_70_30_80"
+  },
+  {
+    "source_id": "naics:237130",
+    "target_id": "uc:Ss_70_30_80_45",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_70_30_80"
+  },
+  {
+    "source_id": "naics:237130",
+    "target_id": "uc:Ss_75_50_45_45",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_75_50_45"
+  },
+  {
+    "source_id": "naics:237130",
+    "target_id": "uc:Ss_85_50_65_27",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_85_50_65"
+  },
+  {
+    "source_id": "naics:237130",
+    "target_id": "uc:Ss_85_50_65_28",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_85_50_65"
+  },
+  {
+    "source_id": "naics:237130",
+    "target_id": "uc:Ss_85_50_65_40",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_85_50_65"
+  },
+  {
+    "source_id": "naics:2373",
+    "target_id": "uc:Ss_30_14_02",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_30_14"
+  },
+  {
+    "source_id": "naics:2373",
+    "target_id": "uc:Ss_30_14_15",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_30_14"
+  },
+  {
+    "source_id": "naics:2373",
+    "target_id": "uc:Ss_30_14_50",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_30_14"
+  },
+  {
+    "source_id": "naics:2373",
+    "target_id": "uc:Ss_30_14_80",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_30_14"
+  },
+  {
+    "source_id": "naics:2373",
+    "target_id": "uc:Ss_30_14_05_05",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_30_14_05"
+  },
+  {
+    "source_id": "naics:2373",
+    "target_id": "uc:Ss_30_14_05_06",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_30_14_05"
+  },
+  {
+    "source_id": "naics:2373",
+    "target_id": "uc:Ss_30_14_05_07",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_30_14_05"
+  },
+  {
+    "source_id": "naics:2373",
+    "target_id": "uc:Ss_30_14_05_08",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_30_14_05"
+  },
+  {
+    "source_id": "naics:2373",
+    "target_id": "uc:Ss_30_14_05_35",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_30_14_05"
+  },
+  {
+    "source_id": "naics:2373",
+    "target_id": "uc:Ss_30_14_05_36",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_30_14_05"
+  },
+  {
+    "source_id": "naics:2373",
+    "target_id": "uc:Ss_30_14_05_40",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_30_14_05"
+  },
+  {
+    "source_id": "naics:2373",
+    "target_id": "uc:Ss_30_14_05_50",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_30_14_05"
+  },
+  {
+    "source_id": "naics:2373",
+    "target_id": "uc:Ss_30_14_05_65",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_30_14_05"
+  },
+  {
+    "source_id": "naics:2373",
+    "target_id": "uc:Ss_30_14_05_70",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_30_14_05"
+  },
+  {
+    "source_id": "naics:2373",
+    "target_id": "uc:Ss_30_14_05_75",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_30_14_05"
+  },
+  {
+    "source_id": "naics:2373",
+    "target_id": "uc:Ss_30_14_05_80",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_30_14_05"
+  },
+  {
+    "source_id": "naics:2373",
+    "target_id": "uc:Ss_30_14_90_11",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_30_14_90"
+  },
+  {
+    "source_id": "naics:2373",
+    "target_id": "uc:Ss_30_14_90_12",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_30_14_90"
+  },
+  {
+    "source_id": "naics:2373",
+    "target_id": "uc:Ss_30_14_90_30",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_30_14_90"
+  },
+  {
+    "source_id": "naics:2373",
+    "target_id": "uc:Ss_30_14_90_32",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_30_14_90"
+  },
+  {
+    "source_id": "naics:2373",
+    "target_id": "uc:Ss_30_14_90_34",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_30_14_90"
+  },
+  {
+    "source_id": "naics:2373",
+    "target_id": "uc:Ss_30_14_90_36",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_30_14_90"
+  },
+  {
+    "source_id": "naics:2373",
+    "target_id": "uc:Ss_30_14_90_60",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_30_14_90"
+  },
+  {
+    "source_id": "naics:2373",
+    "target_id": "uc:Ss_30_14_90_62",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_30_14_90"
+  },
+  {
+    "source_id": "naics:2373",
+    "target_id": "uc:Ss_30_14_90_70",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_30_14_90"
+  },
+  {
+    "source_id": "naics:2373",
+    "target_id": "uc:Ss_30_14_90_75",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_30_14_90"
+  },
+  {
+    "source_id": "naics:2373",
+    "target_id": "uc:Ss_30_14_90_80",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_30_14_90"
+  },
+  {
+    "source_id": "naics:2373",
+    "target_id": "uc:Ss_30_14_90_85",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_30_14_90"
+  },
+  {
+    "source_id": "naics:2373",
+    "target_id": "uc:Ss_30_34_03",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_30_34"
+  },
+  {
+    "source_id": "naics:2373",
+    "target_id": "uc:Ss_30_34_15",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_30_34"
+  },
+  {
+    "source_id": "naics:2373",
+    "target_id": "uc:Ss_30_34_16",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_30_34"
+  },
+  {
+    "source_id": "naics:2373",
+    "target_id": "uc:Ss_15_95_80_02",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_15_95_80"
+  },
+  {
+    "source_id": "naics:2373",
+    "target_id": "uc:Ss_15_95_80_72",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_15_95_80"
+  },
+  {
+    "source_id": "naics:23731",
+    "target_id": "uc:Ss_30_14_02",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_30_14"
+  },
+  {
+    "source_id": "naics:23731",
+    "target_id": "uc:Ss_30_14_15",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_30_14"
+  },
+  {
+    "source_id": "naics:23731",
+    "target_id": "uc:Ss_30_14_50",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_30_14"
+  },
+  {
+    "source_id": "naics:23731",
+    "target_id": "uc:Ss_30_14_80",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_30_14"
+  },
+  {
+    "source_id": "naics:23731",
+    "target_id": "uc:Ss_30_14_05_05",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_30_14_05"
+  },
+  {
+    "source_id": "naics:23731",
+    "target_id": "uc:Ss_30_14_05_06",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_30_14_05"
+  },
+  {
+    "source_id": "naics:23731",
+    "target_id": "uc:Ss_30_14_05_07",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_30_14_05"
+  },
+  {
+    "source_id": "naics:23731",
+    "target_id": "uc:Ss_30_14_05_08",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_30_14_05"
+  },
+  {
+    "source_id": "naics:23731",
+    "target_id": "uc:Ss_30_14_05_35",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_30_14_05"
+  },
+  {
+    "source_id": "naics:23731",
+    "target_id": "uc:Ss_30_14_05_36",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_30_14_05"
+  },
+  {
+    "source_id": "naics:23731",
+    "target_id": "uc:Ss_30_14_05_40",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_30_14_05"
+  },
+  {
+    "source_id": "naics:23731",
+    "target_id": "uc:Ss_30_14_05_50",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_30_14_05"
+  },
+  {
+    "source_id": "naics:23731",
+    "target_id": "uc:Ss_30_14_05_65",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_30_14_05"
+  },
+  {
+    "source_id": "naics:23731",
+    "target_id": "uc:Ss_30_14_05_70",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_30_14_05"
+  },
+  {
+    "source_id": "naics:23731",
+    "target_id": "uc:Ss_30_14_05_75",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_30_14_05"
+  },
+  {
+    "source_id": "naics:23731",
+    "target_id": "uc:Ss_30_14_05_80",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_30_14_05"
+  },
+  {
+    "source_id": "naics:23731",
+    "target_id": "uc:Ss_30_14_90_11",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_30_14_90"
+  },
+  {
+    "source_id": "naics:23731",
+    "target_id": "uc:Ss_30_14_90_12",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_30_14_90"
+  },
+  {
+    "source_id": "naics:23731",
+    "target_id": "uc:Ss_30_14_90_30",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_30_14_90"
+  },
+  {
+    "source_id": "naics:23731",
+    "target_id": "uc:Ss_30_14_90_32",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_30_14_90"
+  },
+  {
+    "source_id": "naics:23731",
+    "target_id": "uc:Ss_30_14_90_34",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_30_14_90"
+  },
+  {
+    "source_id": "naics:23731",
+    "target_id": "uc:Ss_30_14_90_36",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_30_14_90"
+  },
+  {
+    "source_id": "naics:23731",
+    "target_id": "uc:Ss_30_14_90_60",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_30_14_90"
+  },
+  {
+    "source_id": "naics:23731",
+    "target_id": "uc:Ss_30_14_90_62",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_30_14_90"
+  },
+  {
+    "source_id": "naics:23731",
+    "target_id": "uc:Ss_30_14_90_70",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_30_14_90"
+  },
+  {
+    "source_id": "naics:23731",
+    "target_id": "uc:Ss_30_14_90_75",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_30_14_90"
+  },
+  {
+    "source_id": "naics:23731",
+    "target_id": "uc:Ss_30_14_90_80",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_30_14_90"
+  },
+  {
+    "source_id": "naics:23731",
+    "target_id": "uc:Ss_30_14_90_85",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_30_14_90"
+  },
+  {
+    "source_id": "naics:23731",
+    "target_id": "uc:Ss_30_34_03",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_30_34"
+  },
+  {
+    "source_id": "naics:23731",
+    "target_id": "uc:Ss_30_34_15",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_30_34"
+  },
+  {
+    "source_id": "naics:23731",
+    "target_id": "uc:Ss_30_34_16",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_30_34"
+  },
+  {
+    "source_id": "naics:23731",
+    "target_id": "uc:Ss_15_95_80_02",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_15_95_80"
+  },
+  {
+    "source_id": "naics:23731",
+    "target_id": "uc:Ss_15_95_80_72",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_15_95_80"
+  },
+  {
+    "source_id": "naics:237310",
+    "target_id": "uc:Ss_30_14_02",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_30_14"
+  },
+  {
+    "source_id": "naics:237310",
+    "target_id": "uc:Ss_30_14_15",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_30_14"
+  },
+  {
+    "source_id": "naics:237310",
+    "target_id": "uc:Ss_30_14_50",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_30_14"
+  },
+  {
+    "source_id": "naics:237310",
+    "target_id": "uc:Ss_30_14_80",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_30_14"
+  },
+  {
+    "source_id": "naics:237310",
+    "target_id": "uc:Ss_30_14_05_05",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_30_14_05"
+  },
+  {
+    "source_id": "naics:237310",
+    "target_id": "uc:Ss_30_14_05_06",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_30_14_05"
+  },
+  {
+    "source_id": "naics:237310",
+    "target_id": "uc:Ss_30_14_05_07",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_30_14_05"
+  },
+  {
+    "source_id": "naics:237310",
+    "target_id": "uc:Ss_30_14_05_08",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_30_14_05"
+  },
+  {
+    "source_id": "naics:237310",
+    "target_id": "uc:Ss_30_14_05_35",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_30_14_05"
+  },
+  {
+    "source_id": "naics:237310",
+    "target_id": "uc:Ss_30_14_05_36",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_30_14_05"
+  },
+  {
+    "source_id": "naics:237310",
+    "target_id": "uc:Ss_30_14_05_40",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_30_14_05"
+  },
+  {
+    "source_id": "naics:237310",
+    "target_id": "uc:Ss_30_14_05_50",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_30_14_05"
+  },
+  {
+    "source_id": "naics:237310",
+    "target_id": "uc:Ss_30_14_05_65",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_30_14_05"
+  },
+  {
+    "source_id": "naics:237310",
+    "target_id": "uc:Ss_30_14_05_70",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_30_14_05"
+  },
+  {
+    "source_id": "naics:237310",
+    "target_id": "uc:Ss_30_14_05_75",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_30_14_05"
+  },
+  {
+    "source_id": "naics:237310",
+    "target_id": "uc:Ss_30_14_05_80",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_30_14_05"
+  },
+  {
+    "source_id": "naics:237310",
+    "target_id": "uc:Ss_30_14_90_11",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_30_14_90"
+  },
+  {
+    "source_id": "naics:237310",
+    "target_id": "uc:Ss_30_14_90_12",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_30_14_90"
+  },
+  {
+    "source_id": "naics:237310",
+    "target_id": "uc:Ss_30_14_90_30",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_30_14_90"
+  },
+  {
+    "source_id": "naics:237310",
+    "target_id": "uc:Ss_30_14_90_32",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_30_14_90"
+  },
+  {
+    "source_id": "naics:237310",
+    "target_id": "uc:Ss_30_14_90_34",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_30_14_90"
+  },
+  {
+    "source_id": "naics:237310",
+    "target_id": "uc:Ss_30_14_90_36",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_30_14_90"
+  },
+  {
+    "source_id": "naics:237310",
+    "target_id": "uc:Ss_30_14_90_60",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_30_14_90"
+  },
+  {
+    "source_id": "naics:237310",
+    "target_id": "uc:Ss_30_14_90_62",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_30_14_90"
+  },
+  {
+    "source_id": "naics:237310",
+    "target_id": "uc:Ss_30_14_90_70",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_30_14_90"
+  },
+  {
+    "source_id": "naics:237310",
+    "target_id": "uc:Ss_30_14_90_75",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_30_14_90"
+  },
+  {
+    "source_id": "naics:237310",
+    "target_id": "uc:Ss_30_14_90_80",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_30_14_90"
+  },
+  {
+    "source_id": "naics:237310",
+    "target_id": "uc:Ss_30_14_90_85",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_30_14_90"
+  },
+  {
+    "source_id": "naics:237310",
+    "target_id": "uc:Ss_30_34_03",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_30_34"
+  },
+  {
+    "source_id": "naics:237310",
+    "target_id": "uc:Ss_30_34_15",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_30_34"
+  },
+  {
+    "source_id": "naics:237310",
+    "target_id": "uc:Ss_30_34_16",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_30_34"
+  },
+  {
+    "source_id": "naics:237310",
+    "target_id": "uc:Ss_15_95_80_02",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_15_95_80"
+  },
+  {
+    "source_id": "naics:237310",
+    "target_id": "uc:Ss_15_95_80_72",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_15_95_80"
+  },
+  {
+    "source_id": "naics:23811",
+    "target_id": "uc:Ss_20",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_source": "naics:2381"
+  },
+  {
+    "source_id": "naics:23812",
+    "target_id": "uc:Ss_20",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_source": "naics:2381"
+  },
+  {
+    "source_id": "naics:23814",
+    "target_id": "uc:Ss_20",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_source": "naics:2381"
+  },
+  {
+    "source_id": "naics:23815",
+    "target_id": "uc:Ss_20",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_source": "naics:2381"
+  },
+  {
+    "source_id": "naics:23816",
+    "target_id": "uc:Ss_20",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_source": "naics:2381"
+  },
+  {
+    "source_id": "naics:23817",
+    "target_id": "uc:Ss_20",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_source": "naics:2381"
+  },
+  {
+    "source_id": "naics:2381",
+    "target_id": "uc:Ss_20_05",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_20"
+  },
+  {
+    "source_id": "naics:2381",
+    "target_id": "uc:Ss_20_40",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_20"
+  },
+  {
+    "source_id": "naics:2381",
+    "target_id": "uc:Ss_20_50",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_20"
+  },
+  {
+    "source_id": "naics:2381",
+    "target_id": "uc:Ss_20_60",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_20"
+  },
+  {
+    "source_id": "naics:2381",
+    "target_id": "uc:Ss_20_70",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_20"
+  },
+  {
+    "source_id": "naics:2381",
+    "target_id": "uc:Ss_20_95",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_20"
+  },
+  {
+    "source_id": "naics:23811",
+    "target_id": "uc:Ss_20_10",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_source": "naics:2381"
+  },
+  {
+    "source_id": "naics:23812",
+    "target_id": "uc:Ss_20_10",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_source": "naics:2381"
+  },
+  {
+    "source_id": "naics:23814",
+    "target_id": "uc:Ss_20_10",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_source": "naics:2381"
+  },
+  {
+    "source_id": "naics:23815",
+    "target_id": "uc:Ss_20_10",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_source": "naics:2381"
+  },
+  {
+    "source_id": "naics:23816",
+    "target_id": "uc:Ss_20_10",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_source": "naics:2381"
+  },
+  {
+    "source_id": "naics:23817",
+    "target_id": "uc:Ss_20_10",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_source": "naics:2381"
+  },
+  {
+    "source_id": "naics:2381",
+    "target_id": "uc:Ss_20_10_30",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_20_10"
+  },
+  {
+    "source_id": "naics:2381",
+    "target_id": "uc:Ss_20_10_60",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_20_10"
+  },
+  {
+    "source_id": "naics:2381",
+    "target_id": "uc:Ss_20_10_65",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_20_10"
+  },
+  {
+    "source_id": "naics:2381",
+    "target_id": "uc:Ss_20_10_70",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_20_10"
+  },
+  {
+    "source_id": "naics:23811",
+    "target_id": "uc:Ss_20_10_75",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_source": "naics:2381"
+  },
+  {
+    "source_id": "naics:23812",
+    "target_id": "uc:Ss_20_10_75",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_source": "naics:2381"
+  },
+  {
+    "source_id": "naics:23814",
+    "target_id": "uc:Ss_20_10_75",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_source": "naics:2381"
+  },
+  {
+    "source_id": "naics:23815",
+    "target_id": "uc:Ss_20_10_75",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_source": "naics:2381"
+  },
+  {
+    "source_id": "naics:23816",
+    "target_id": "uc:Ss_20_10_75",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_source": "naics:2381"
+  },
+  {
+    "source_id": "naics:23817",
+    "target_id": "uc:Ss_20_10_75",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_source": "naics:2381"
+  },
+  {
+    "source_id": "naics:2381",
+    "target_id": "uc:Ss_20_10_75_35",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_20_10_75"
+  },
+  {
+    "source_id": "naics:2381",
+    "target_id": "uc:Ss_20_10_75_45",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_20_10_75"
+  },
+  {
+    "source_id": "naics:2381",
+    "target_id": "uc:Ss_20_10_75_65",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_20_10_75"
+  },
+  {
+    "source_id": "naics:2381",
+    "target_id": "uc:Ss_20_10_75_70",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_20_10_75"
+  },
+  {
+    "source_id": "naics:2381",
+    "target_id": "uc:Ss_20_10_75_85",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_20_10_75"
+  },
+  {
+    "source_id": "naics:23811",
+    "target_id": "uc:Ss_20_20",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_source": "naics:2381"
+  },
+  {
+    "source_id": "naics:23812",
+    "target_id": "uc:Ss_20_20",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_source": "naics:2381"
+  },
+  {
+    "source_id": "naics:23814",
+    "target_id": "uc:Ss_20_20",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_source": "naics:2381"
+  },
+  {
+    "source_id": "naics:23815",
+    "target_id": "uc:Ss_20_20",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_source": "naics:2381"
+  },
+  {
+    "source_id": "naics:23816",
+    "target_id": "uc:Ss_20_20",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_source": "naics:2381"
+  },
+  {
+    "source_id": "naics:23817",
+    "target_id": "uc:Ss_20_20",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_source": "naics:2381"
+  },
+  {
+    "source_id": "naics:23811",
+    "target_id": "uc:Ss_20_30",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_source": "naics:2381"
+  },
+  {
+    "source_id": "naics:23812",
+    "target_id": "uc:Ss_20_30",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_source": "naics:2381"
+  },
+  {
+    "source_id": "naics:23814",
+    "target_id": "uc:Ss_20_30",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_source": "naics:2381"
+  },
+  {
+    "source_id": "naics:23815",
+    "target_id": "uc:Ss_20_30",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_source": "naics:2381"
+  },
+  {
+    "source_id": "naics:23816",
+    "target_id": "uc:Ss_20_30",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_source": "naics:2381"
+  },
+  {
+    "source_id": "naics:23817",
+    "target_id": "uc:Ss_20_30",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_source": "naics:2381"
+  },
+  {
+    "source_id": "naics:23811",
+    "target_id": "uc:Ss_15_95_20_72",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_source": "naics:2381"
+  },
+  {
+    "source_id": "naics:23812",
+    "target_id": "uc:Ss_15_95_20_72",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_source": "naics:2381"
+  },
+  {
+    "source_id": "naics:23814",
+    "target_id": "uc:Ss_15_95_20_72",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_source": "naics:2381"
+  },
+  {
+    "source_id": "naics:23815",
+    "target_id": "uc:Ss_15_95_20_72",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_source": "naics:2381"
+  },
+  {
+    "source_id": "naics:23816",
+    "target_id": "uc:Ss_15_95_20_72",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_source": "naics:2381"
+  },
+  {
+    "source_id": "naics:23817",
+    "target_id": "uc:Ss_15_95_20_72",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_source": "naics:2381"
+  },
+  {
+    "source_id": "naics:23811",
+    "target_id": "uc:Ss_20_05_80",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_source": "naics:2381"
+  },
+  {
+    "source_id": "naics:23812",
+    "target_id": "uc:Ss_20_05_80",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_source": "naics:2381"
+  },
+  {
+    "source_id": "naics:23814",
+    "target_id": "uc:Ss_20_05_80",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_source": "naics:2381"
+  },
+  {
+    "source_id": "naics:23815",
+    "target_id": "uc:Ss_20_05_80",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_source": "naics:2381"
+  },
+  {
+    "source_id": "naics:23816",
+    "target_id": "uc:Ss_20_05_80",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_source": "naics:2381"
+  },
+  {
+    "source_id": "naics:23817",
+    "target_id": "uc:Ss_20_05_80",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_source": "naics:2381"
+  },
+  {
+    "source_id": "naics:2381",
+    "target_id": "uc:Ss_20_05_80_12",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_20_05_80"
+  },
+  {
+    "source_id": "naics:2381",
+    "target_id": "uc:Ss_20_05_80_40",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_20_05_80"
+  },
+  {
+    "source_id": "naics:2381",
+    "target_id": "uc:Ss_20_05_80_57",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_20_05_80"
+  },
+  {
+    "source_id": "naics:2381",
+    "target_id": "uc:Ss_20_05_80_71",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_20_05_80"
+  },
+  {
+    "source_id": "naics:2381",
+    "target_id": "uc:Ss_20_05_80_73",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_20_05_80"
+  },
+  {
+    "source_id": "naics:2381",
+    "target_id": "uc:Ss_20_05_80_80",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_20_05_80"
+  },
+  {
+    "source_id": "naics:23811",
+    "target_id": "uc:Ss_20_20_75",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_source": "naics:2381"
+  },
+  {
+    "source_id": "naics:23812",
+    "target_id": "uc:Ss_20_20_75",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_source": "naics:2381"
+  },
+  {
+    "source_id": "naics:23814",
+    "target_id": "uc:Ss_20_20_75",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_source": "naics:2381"
+  },
+  {
+    "source_id": "naics:23815",
+    "target_id": "uc:Ss_20_20_75",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_source": "naics:2381"
+  },
+  {
+    "source_id": "naics:23816",
+    "target_id": "uc:Ss_20_20_75",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_source": "naics:2381"
+  },
+  {
+    "source_id": "naics:23817",
+    "target_id": "uc:Ss_20_20_75",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_source": "naics:2381"
+  },
+  {
+    "source_id": "naics:2381",
+    "target_id": "uc:Ss_20_20_75_35",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_20_20_75"
+  },
+  {
+    "source_id": "naics:2381",
+    "target_id": "uc:Ss_20_20_75_45",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_20_20_75"
+  },
+  {
+    "source_id": "naics:2381",
+    "target_id": "uc:Ss_20_20_75_65",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_20_20_75"
+  },
+  {
+    "source_id": "naics:2381",
+    "target_id": "uc:Ss_20_20_75_70",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_20_20_75"
+  },
+  {
+    "source_id": "naics:2381",
+    "target_id": "uc:Ss_20_20_75_85",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_20_20_75"
+  },
+  {
+    "source_id": "naics:23811",
+    "target_id": "uc:Ss_20_30_75",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_source": "naics:2381"
+  },
+  {
+    "source_id": "naics:23812",
+    "target_id": "uc:Ss_20_30_75",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_source": "naics:2381"
+  },
+  {
+    "source_id": "naics:23814",
+    "target_id": "uc:Ss_20_30_75",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_source": "naics:2381"
+  },
+  {
+    "source_id": "naics:23815",
+    "target_id": "uc:Ss_20_30_75",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_source": "naics:2381"
+  },
+  {
+    "source_id": "naics:23816",
+    "target_id": "uc:Ss_20_30_75",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_source": "naics:2381"
+  },
+  {
+    "source_id": "naics:23817",
+    "target_id": "uc:Ss_20_30_75",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_source": "naics:2381"
+  },
+  {
+    "source_id": "naics:2381",
+    "target_id": "uc:Ss_20_30_75_35",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_20_30_75"
+  },
+  {
+    "source_id": "naics:2381",
+    "target_id": "uc:Ss_20_30_75_45",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_20_30_75"
+  },
+  {
+    "source_id": "naics:2381",
+    "target_id": "uc:Ss_20_30_75_50",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_20_30_75"
+  },
+  {
+    "source_id": "naics:2381",
+    "target_id": "uc:Ss_20_30_75_65",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_20_30_75"
+  },
+  {
+    "source_id": "naics:2381",
+    "target_id": "uc:Ss_20_30_75_70",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_20_30_75"
+  },
+  {
+    "source_id": "naics:2381",
+    "target_id": "uc:Ss_20_30_75_85",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_20_30_75"
+  },
+  {
+    "source_id": "naics:23811",
+    "target_id": "uc:Ss_20_80",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_source": "naics:2381"
+  },
+  {
+    "source_id": "naics:23812",
+    "target_id": "uc:Ss_20_80",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_source": "naics:2381"
+  },
+  {
+    "source_id": "naics:23814",
+    "target_id": "uc:Ss_20_80",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_source": "naics:2381"
+  },
+  {
+    "source_id": "naics:23815",
+    "target_id": "uc:Ss_20_80",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_source": "naics:2381"
+  },
+  {
+    "source_id": "naics:23816",
+    "target_id": "uc:Ss_20_80",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_source": "naics:2381"
+  },
+  {
+    "source_id": "naics:23817",
+    "target_id": "uc:Ss_20_80",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_source": "naics:2381"
+  },
+  {
+    "source_id": "naics:2381",
+    "target_id": "uc:Ss_20_80_60",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_20_80"
+  },
+  {
+    "source_id": "naics:23811",
+    "target_id": "uc:Ss_20_05_15_65",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_20_05_15"
+  },
+  {
+    "source_id": "naics:23811",
+    "target_id": "uc:Ss_20_05_15_70",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_20_05_15"
+  },
+  {
+    "source_id": "naics:23811",
+    "target_id": "uc:Ss_20_05_15_71",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_20_05_15"
+  },
+  {
+    "source_id": "naics:23811",
+    "target_id": "uc:Ss_20_05_15_72",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_20_05_15"
+  },
+  {
+    "source_id": "naics:23811",
+    "target_id": "uc:Ss_20_05_15_80",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_20_05_15"
+  },
+  {
+    "source_id": "naics:23811",
+    "target_id": "uc:Ss_20_05_15_90",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_20_05_15"
+  },
+  {
+    "source_id": "naics:23811",
+    "target_id": "uc:Ss_20_05_15_91",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_20_05_15"
+  },
+  {
+    "source_id": "naics:23811",
+    "target_id": "uc:Ss_20_05_15_92",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_20_05_15"
+  },
+  {
+    "source_id": "naics:23811",
+    "target_id": "uc:Ss_20_05_50_15",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_20_05_50"
+  },
+  {
+    "source_id": "naics:23811",
+    "target_id": "uc:Ss_20_05_50_65",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_20_05_50"
+  },
+  {
+    "source_id": "naics:23811",
+    "target_id": "uc:Ss_20_05_50_70",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_20_05_50"
+  },
+  {
+    "source_id": "naics:23811",
+    "target_id": "uc:Ss_20_05_50_92",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_20_05_50"
+  },
+  {
+    "source_id": "naics:23811",
+    "target_id": "uc:Ss_20_05_50_93",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_20_05_50"
+  },
+  {
+    "source_id": "naics:238110",
+    "target_id": "uc:Ss_20_05_15_65",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_20_05_15"
+  },
+  {
+    "source_id": "naics:238110",
+    "target_id": "uc:Ss_20_05_15_70",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_20_05_15"
+  },
+  {
+    "source_id": "naics:238110",
+    "target_id": "uc:Ss_20_05_15_71",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_20_05_15"
+  },
+  {
+    "source_id": "naics:238110",
+    "target_id": "uc:Ss_20_05_15_72",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_20_05_15"
+  },
+  {
+    "source_id": "naics:238110",
+    "target_id": "uc:Ss_20_05_15_80",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_20_05_15"
+  },
+  {
+    "source_id": "naics:238110",
+    "target_id": "uc:Ss_20_05_15_90",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_20_05_15"
+  },
+  {
+    "source_id": "naics:238110",
+    "target_id": "uc:Ss_20_05_15_91",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_20_05_15"
+  },
+  {
+    "source_id": "naics:238110",
+    "target_id": "uc:Ss_20_05_15_92",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_20_05_15"
+  },
+  {
+    "source_id": "naics:238110",
+    "target_id": "uc:Ss_20_05_50_15",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_20_05_50"
+  },
+  {
+    "source_id": "naics:238110",
+    "target_id": "uc:Ss_20_05_50_65",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_20_05_50"
+  },
+  {
+    "source_id": "naics:238110",
+    "target_id": "uc:Ss_20_05_50_70",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_20_05_50"
+  },
+  {
+    "source_id": "naics:238110",
+    "target_id": "uc:Ss_20_05_50_92",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_20_05_50"
+  },
+  {
+    "source_id": "naics:238110",
+    "target_id": "uc:Ss_20_05_50_93",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_20_05_50"
+  },
+  {
+    "source_id": "naics:23813",
+    "target_id": "uc:Ss_20_05",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_20"
+  },
+  {
+    "source_id": "naics:23813",
+    "target_id": "uc:Ss_20_40",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_20"
+  },
+  {
+    "source_id": "naics:23813",
+    "target_id": "uc:Ss_20_50",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_20"
+  },
+  {
+    "source_id": "naics:23813",
+    "target_id": "uc:Ss_20_60",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_20"
+  },
+  {
+    "source_id": "naics:23813",
+    "target_id": "uc:Ss_20_70",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_20"
+  },
+  {
+    "source_id": "naics:23813",
+    "target_id": "uc:Ss_20_95",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_20"
+  },
+  {
+    "source_id": "naics:23813",
+    "target_id": "uc:Ss_20_10_30",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_20_10"
+  },
+  {
+    "source_id": "naics:23813",
+    "target_id": "uc:Ss_20_10_60",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_20_10"
+  },
+  {
+    "source_id": "naics:23813",
+    "target_id": "uc:Ss_20_10_65",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_20_10"
+  },
+  {
+    "source_id": "naics:23813",
+    "target_id": "uc:Ss_20_10_70",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_20_10"
+  },
+  {
+    "source_id": "naics:23813",
+    "target_id": "uc:Ss_20_10_75_35",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_20_10_75"
+  },
+  {
+    "source_id": "naics:23813",
+    "target_id": "uc:Ss_20_10_75_45",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_20_10_75"
+  },
+  {
+    "source_id": "naics:23813",
+    "target_id": "uc:Ss_20_10_75_65",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_20_10_75"
+  },
+  {
+    "source_id": "naics:23813",
+    "target_id": "uc:Ss_20_10_75_70",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_20_10_75"
+  },
+  {
+    "source_id": "naics:23813",
+    "target_id": "uc:Ss_20_10_75_85",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_20_10_75"
+  },
+  {
+    "source_id": "naics:23813",
+    "target_id": "uc:Ss_20_05_80_12",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_20_05_80"
+  },
+  {
+    "source_id": "naics:23813",
+    "target_id": "uc:Ss_20_05_80_40",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_20_05_80"
+  },
+  {
+    "source_id": "naics:23813",
+    "target_id": "uc:Ss_20_05_80_57",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_20_05_80"
+  },
+  {
+    "source_id": "naics:23813",
+    "target_id": "uc:Ss_20_05_80_71",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_20_05_80"
+  },
+  {
+    "source_id": "naics:23813",
+    "target_id": "uc:Ss_20_05_80_73",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_20_05_80"
+  },
+  {
+    "source_id": "naics:23813",
+    "target_id": "uc:Ss_20_05_80_80",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_20_05_80"
+  },
+  {
+    "source_id": "naics:23813",
+    "target_id": "uc:Ss_20_20_75_35",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_20_20_75"
+  },
+  {
+    "source_id": "naics:23813",
+    "target_id": "uc:Ss_20_20_75_45",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_20_20_75"
+  },
+  {
+    "source_id": "naics:23813",
+    "target_id": "uc:Ss_20_20_75_65",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_20_20_75"
+  },
+  {
+    "source_id": "naics:23813",
+    "target_id": "uc:Ss_20_20_75_70",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_20_20_75"
+  },
+  {
+    "source_id": "naics:23813",
+    "target_id": "uc:Ss_20_20_75_85",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_20_20_75"
+  },
+  {
+    "source_id": "naics:23813",
+    "target_id": "uc:Ss_20_30_75_35",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_20_30_75"
+  },
+  {
+    "source_id": "naics:23813",
+    "target_id": "uc:Ss_20_30_75_45",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_20_30_75"
+  },
+  {
+    "source_id": "naics:23813",
+    "target_id": "uc:Ss_20_30_75_50",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_20_30_75"
+  },
+  {
+    "source_id": "naics:23813",
+    "target_id": "uc:Ss_20_30_75_65",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_20_30_75"
+  },
+  {
+    "source_id": "naics:23813",
+    "target_id": "uc:Ss_20_30_75_70",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_20_30_75"
+  },
+  {
+    "source_id": "naics:23813",
+    "target_id": "uc:Ss_20_30_75_85",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_20_30_75"
+  },
+  {
+    "source_id": "naics:23813",
+    "target_id": "uc:Ss_20_80_60",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_20_80"
+  },
+  {
+    "source_id": "naics:238130",
+    "target_id": "uc:Ss_20_05",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_20"
+  },
+  {
+    "source_id": "naics:238130",
+    "target_id": "uc:Ss_20_40",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_20"
+  },
+  {
+    "source_id": "naics:238130",
+    "target_id": "uc:Ss_20_50",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_20"
+  },
+  {
+    "source_id": "naics:238130",
+    "target_id": "uc:Ss_20_60",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_20"
+  },
+  {
+    "source_id": "naics:238130",
+    "target_id": "uc:Ss_20_70",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_20"
+  },
+  {
+    "source_id": "naics:238130",
+    "target_id": "uc:Ss_20_95",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_20"
+  },
+  {
+    "source_id": "naics:238130",
+    "target_id": "uc:Ss_20_10_30",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_20_10"
+  },
+  {
+    "source_id": "naics:238130",
+    "target_id": "uc:Ss_20_10_60",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_20_10"
+  },
+  {
+    "source_id": "naics:238130",
+    "target_id": "uc:Ss_20_10_65",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_20_10"
+  },
+  {
+    "source_id": "naics:238130",
+    "target_id": "uc:Ss_20_10_70",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_20_10"
+  },
+  {
+    "source_id": "naics:238130",
+    "target_id": "uc:Ss_20_10_75_35",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_20_10_75"
+  },
+  {
+    "source_id": "naics:238130",
+    "target_id": "uc:Ss_20_10_75_45",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_20_10_75"
+  },
+  {
+    "source_id": "naics:238130",
+    "target_id": "uc:Ss_20_10_75_65",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_20_10_75"
+  },
+  {
+    "source_id": "naics:238130",
+    "target_id": "uc:Ss_20_10_75_70",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_20_10_75"
+  },
+  {
+    "source_id": "naics:238130",
+    "target_id": "uc:Ss_20_10_75_85",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_20_10_75"
+  },
+  {
+    "source_id": "naics:238130",
+    "target_id": "uc:Ss_20_05_80_12",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_20_05_80"
+  },
+  {
+    "source_id": "naics:238130",
+    "target_id": "uc:Ss_20_05_80_40",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_20_05_80"
+  },
+  {
+    "source_id": "naics:238130",
+    "target_id": "uc:Ss_20_05_80_57",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_20_05_80"
+  },
+  {
+    "source_id": "naics:238130",
+    "target_id": "uc:Ss_20_05_80_71",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_20_05_80"
+  },
+  {
+    "source_id": "naics:238130",
+    "target_id": "uc:Ss_20_05_80_73",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_20_05_80"
+  },
+  {
+    "source_id": "naics:238130",
+    "target_id": "uc:Ss_20_05_80_80",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_20_05_80"
+  },
+  {
+    "source_id": "naics:238130",
+    "target_id": "uc:Ss_20_20_75_35",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_20_20_75"
+  },
+  {
+    "source_id": "naics:238130",
+    "target_id": "uc:Ss_20_20_75_45",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_20_20_75"
+  },
+  {
+    "source_id": "naics:238130",
+    "target_id": "uc:Ss_20_20_75_65",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_20_20_75"
+  },
+  {
+    "source_id": "naics:238130",
+    "target_id": "uc:Ss_20_20_75_70",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_20_20_75"
+  },
+  {
+    "source_id": "naics:238130",
+    "target_id": "uc:Ss_20_20_75_85",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_20_20_75"
+  },
+  {
+    "source_id": "naics:238130",
+    "target_id": "uc:Ss_20_30_75_35",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_20_30_75"
+  },
+  {
+    "source_id": "naics:238130",
+    "target_id": "uc:Ss_20_30_75_45",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_20_30_75"
+  },
+  {
+    "source_id": "naics:238130",
+    "target_id": "uc:Ss_20_30_75_50",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_20_30_75"
+  },
+  {
+    "source_id": "naics:238130",
+    "target_id": "uc:Ss_20_30_75_65",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_20_30_75"
+  },
+  {
+    "source_id": "naics:238130",
+    "target_id": "uc:Ss_20_30_75_70",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_20_30_75"
+  },
+  {
+    "source_id": "naics:238130",
+    "target_id": "uc:Ss_20_30_75_85",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_20_30_75"
+  },
+  {
+    "source_id": "naics:238130",
+    "target_id": "uc:Ss_20_80_60",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_20_80"
+  },
+  {
+    "source_id": "naics:23814",
+    "target_id": "uc:Ss_15_30_15_65",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_15_30_15"
+  },
+  {
+    "source_id": "naics:23814",
+    "target_id": "uc:Ss_15_30_15_66",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_15_30_15"
+  },
+  {
+    "source_id": "naics:23814",
+    "target_id": "uc:Ss_25_20_15_16",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_25_20_15"
+  },
+  {
+    "source_id": "naics:238140",
+    "target_id": "uc:Ss_15_30_15_65",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_15_30_15"
+  },
+  {
+    "source_id": "naics:238140",
+    "target_id": "uc:Ss_15_30_15_66",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_15_30_15"
+  },
+  {
+    "source_id": "naics:238140",
+    "target_id": "uc:Ss_25_20_15_16",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_25_20_15"
+  },
+  {
+    "source_id": "naics:23815",
+    "target_id": "uc:Ss_25_60_35_06",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_25_60_35"
+  },
+  {
+    "source_id": "naics:23815",
+    "target_id": "uc:Ss_25_60_35_08",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_25_60_35"
+  },
+  {
+    "source_id": "naics:23815",
+    "target_id": "uc:Ss_25_60_35_30",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_25_60_35"
+  },
+  {
+    "source_id": "naics:23815",
+    "target_id": "uc:Ss_25_60_35_35",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_25_60_35"
+  },
+  {
+    "source_id": "naics:23815",
+    "target_id": "uc:Ss_25_60_35_40",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_25_60_35"
+  },
+  {
+    "source_id": "naics:23815",
+    "target_id": "uc:Ss_25_60_35_65",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_25_60_35"
+  },
+  {
+    "source_id": "naics:23815",
+    "target_id": "uc:Ss_25_60_35_75",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_25_60_35"
+  },
+  {
+    "source_id": "naics:23815",
+    "target_id": "uc:Ss_25_60_35_85",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_25_60_35"
+  },
+  {
+    "source_id": "naics:23815",
+    "target_id": "uc:Ss_25_60_35_95",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_25_60_35"
+  },
+  {
+    "source_id": "naics:23815",
+    "target_id": "uc:Ss_25_30_15",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_25_30"
+  },
+  {
+    "source_id": "naics:23815",
+    "target_id": "uc:Ss_25_30_20",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_25_30"
+  },
+  {
+    "source_id": "naics:23815",
+    "target_id": "uc:Ss_25_30_29",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_25_30"
+  },
+  {
+    "source_id": "naics:238150",
+    "target_id": "uc:Ss_25_60_35_06",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_25_60_35"
+  },
+  {
+    "source_id": "naics:238150",
+    "target_id": "uc:Ss_25_60_35_08",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_25_60_35"
+  },
+  {
+    "source_id": "naics:238150",
+    "target_id": "uc:Ss_25_60_35_30",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_25_60_35"
+  },
+  {
+    "source_id": "naics:238150",
+    "target_id": "uc:Ss_25_60_35_35",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_25_60_35"
+  },
+  {
+    "source_id": "naics:238150",
+    "target_id": "uc:Ss_25_60_35_40",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_25_60_35"
+  },
+  {
+    "source_id": "naics:238150",
+    "target_id": "uc:Ss_25_60_35_65",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_25_60_35"
+  },
+  {
+    "source_id": "naics:238150",
+    "target_id": "uc:Ss_25_60_35_75",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_25_60_35"
+  },
+  {
+    "source_id": "naics:238150",
+    "target_id": "uc:Ss_25_60_35_85",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_25_60_35"
+  },
+  {
+    "source_id": "naics:238150",
+    "target_id": "uc:Ss_25_60_35_95",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_25_60_35"
+  },
+  {
+    "source_id": "naics:238150",
+    "target_id": "uc:Ss_25_30_15",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_25_30"
+  },
+  {
+    "source_id": "naics:238150",
+    "target_id": "uc:Ss_25_30_20",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_25_30"
+  },
+  {
+    "source_id": "naics:238150",
+    "target_id": "uc:Ss_25_30_29",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_25_30"
+  },
+  {
+    "source_id": "naics:23816",
+    "target_id": "uc:Ss_30_30_73_60",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_30_30_73"
+  },
+  {
+    "source_id": "naics:23816",
+    "target_id": "uc:Ss_30_40_95_10",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_30_40_95"
+  },
+  {
+    "source_id": "naics:23816",
+    "target_id": "uc:Ss_30_40_95_15",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_30_40_95"
+  },
+  {
+    "source_id": "naics:23816",
+    "target_id": "uc:Ss_30_40_95_30",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_30_40_95"
+  },
+  {
+    "source_id": "naics:23816",
+    "target_id": "uc:Ss_30_40_95_40",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_30_40_95"
+  },
+  {
+    "source_id": "naics:23816",
+    "target_id": "uc:Ss_30_40_95_50",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_30_40_95"
+  },
+  {
+    "source_id": "naics:23816",
+    "target_id": "uc:Ss_30_40_95_55",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_30_40_95"
+  },
+  {
+    "source_id": "naics:23816",
+    "target_id": "uc:Ss_30_40_95_60",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_30_40_95"
+  },
+  {
+    "source_id": "naics:23816",
+    "target_id": "uc:Ss_30_40_95_65",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_30_40_95"
+  },
+  {
+    "source_id": "naics:23816",
+    "target_id": "uc:Ss_30_40_95_70",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_30_40_95"
+  },
+  {
+    "source_id": "naics:23816",
+    "target_id": "uc:Ss_30_40_95_74",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_30_40_95"
+  },
+  {
+    "source_id": "naics:23816",
+    "target_id": "uc:Ss_30_40_95_95",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_30_40_95"
+  },
+  {
+    "source_id": "naics:23816",
+    "target_id": "uc:Ss_45_40_47_28",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_45_40_47"
+  },
+  {
+    "source_id": "naics:23816",
+    "target_id": "uc:Ss_45_40_47_40",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_45_40_47"
+  },
+  {
+    "source_id": "naics:23816",
+    "target_id": "uc:Ss_45_40_47_75",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_45_40_47"
+  },
+  {
+    "source_id": "naics:23816",
+    "target_id": "uc:Ss_30_40_10_30",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_30_40_10"
+  },
+  {
+    "source_id": "naics:23816",
+    "target_id": "uc:Ss_30_40_10_60",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_30_40_10"
+  },
+  {
+    "source_id": "naics:238160",
+    "target_id": "uc:Ss_30_30_73_60",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_30_30_73"
+  },
+  {
+    "source_id": "naics:238160",
+    "target_id": "uc:Ss_30_40_95_10",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_30_40_95"
+  },
+  {
+    "source_id": "naics:238160",
+    "target_id": "uc:Ss_30_40_95_15",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_30_40_95"
+  },
+  {
+    "source_id": "naics:238160",
+    "target_id": "uc:Ss_30_40_95_30",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_30_40_95"
+  },
+  {
+    "source_id": "naics:238160",
+    "target_id": "uc:Ss_30_40_95_40",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_30_40_95"
+  },
+  {
+    "source_id": "naics:238160",
+    "target_id": "uc:Ss_30_40_95_50",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_30_40_95"
+  },
+  {
+    "source_id": "naics:238160",
+    "target_id": "uc:Ss_30_40_95_55",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_30_40_95"
+  },
+  {
+    "source_id": "naics:238160",
+    "target_id": "uc:Ss_30_40_95_60",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_30_40_95"
+  },
+  {
+    "source_id": "naics:238160",
+    "target_id": "uc:Ss_30_40_95_65",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_30_40_95"
+  },
+  {
+    "source_id": "naics:238160",
+    "target_id": "uc:Ss_30_40_95_70",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_30_40_95"
+  },
+  {
+    "source_id": "naics:238160",
+    "target_id": "uc:Ss_30_40_95_74",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_30_40_95"
+  },
+  {
+    "source_id": "naics:238160",
+    "target_id": "uc:Ss_30_40_95_95",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_30_40_95"
+  },
+  {
+    "source_id": "naics:238160",
+    "target_id": "uc:Ss_45_40_47_28",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_45_40_47"
+  },
+  {
+    "source_id": "naics:238160",
+    "target_id": "uc:Ss_45_40_47_40",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_45_40_47"
+  },
+  {
+    "source_id": "naics:238160",
+    "target_id": "uc:Ss_45_40_47_75",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_45_40_47"
+  },
+  {
+    "source_id": "naics:238160",
+    "target_id": "uc:Ss_30_40_10_30",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_30_40_10"
+  },
+  {
+    "source_id": "naics:238160",
+    "target_id": "uc:Ss_30_40_10_60",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_30_40_10"
+  },
+  {
+    "source_id": "naics:23819",
+    "target_id": "uc:Ss_20_05",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_20"
+  },
+  {
+    "source_id": "naics:23819",
+    "target_id": "uc:Ss_20_40",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_20"
+  },
+  {
+    "source_id": "naics:23819",
+    "target_id": "uc:Ss_20_50",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_20"
+  },
+  {
+    "source_id": "naics:23819",
+    "target_id": "uc:Ss_20_60",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_20"
+  },
+  {
+    "source_id": "naics:23819",
+    "target_id": "uc:Ss_20_70",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_20"
+  },
+  {
+    "source_id": "naics:23819",
+    "target_id": "uc:Ss_20_95",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_20"
+  },
+  {
+    "source_id": "naics:23819",
+    "target_id": "uc:Ss_20_10_30",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_20_10"
+  },
+  {
+    "source_id": "naics:23819",
+    "target_id": "uc:Ss_20_10_60",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_20_10"
+  },
+  {
+    "source_id": "naics:23819",
+    "target_id": "uc:Ss_20_10_65",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_20_10"
+  },
+  {
+    "source_id": "naics:23819",
+    "target_id": "uc:Ss_20_10_70",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_20_10"
+  },
+  {
+    "source_id": "naics:23819",
+    "target_id": "uc:Ss_20_10_75_35",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_20_10_75"
+  },
+  {
+    "source_id": "naics:23819",
+    "target_id": "uc:Ss_20_10_75_45",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_20_10_75"
+  },
+  {
+    "source_id": "naics:23819",
+    "target_id": "uc:Ss_20_10_75_65",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_20_10_75"
+  },
+  {
+    "source_id": "naics:23819",
+    "target_id": "uc:Ss_20_10_75_70",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_20_10_75"
+  },
+  {
+    "source_id": "naics:23819",
+    "target_id": "uc:Ss_20_10_75_85",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_20_10_75"
+  },
+  {
+    "source_id": "naics:23819",
+    "target_id": "uc:Ss_20_05_80_12",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_20_05_80"
+  },
+  {
+    "source_id": "naics:23819",
+    "target_id": "uc:Ss_20_05_80_40",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_20_05_80"
+  },
+  {
+    "source_id": "naics:23819",
+    "target_id": "uc:Ss_20_05_80_57",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_20_05_80"
+  },
+  {
+    "source_id": "naics:23819",
+    "target_id": "uc:Ss_20_05_80_71",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_20_05_80"
+  },
+  {
+    "source_id": "naics:23819",
+    "target_id": "uc:Ss_20_05_80_73",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_20_05_80"
+  },
+  {
+    "source_id": "naics:23819",
+    "target_id": "uc:Ss_20_05_80_80",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_20_05_80"
+  },
+  {
+    "source_id": "naics:23819",
+    "target_id": "uc:Ss_20_20_75_35",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_20_20_75"
+  },
+  {
+    "source_id": "naics:23819",
+    "target_id": "uc:Ss_20_20_75_45",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_20_20_75"
+  },
+  {
+    "source_id": "naics:23819",
+    "target_id": "uc:Ss_20_20_75_65",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_20_20_75"
+  },
+  {
+    "source_id": "naics:23819",
+    "target_id": "uc:Ss_20_20_75_70",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_20_20_75"
+  },
+  {
+    "source_id": "naics:23819",
+    "target_id": "uc:Ss_20_20_75_85",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_20_20_75"
+  },
+  {
+    "source_id": "naics:23819",
+    "target_id": "uc:Ss_20_30_75_35",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_20_30_75"
+  },
+  {
+    "source_id": "naics:23819",
+    "target_id": "uc:Ss_20_30_75_45",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_20_30_75"
+  },
+  {
+    "source_id": "naics:23819",
+    "target_id": "uc:Ss_20_30_75_50",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_20_30_75"
+  },
+  {
+    "source_id": "naics:23819",
+    "target_id": "uc:Ss_20_30_75_65",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_20_30_75"
+  },
+  {
+    "source_id": "naics:23819",
+    "target_id": "uc:Ss_20_30_75_70",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_20_30_75"
+  },
+  {
+    "source_id": "naics:23819",
+    "target_id": "uc:Ss_20_30_75_85",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_20_30_75"
+  },
+  {
+    "source_id": "naics:23819",
+    "target_id": "uc:Ss_20_80_60",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_20_80"
+  },
+  {
+    "source_id": "naics:238190",
+    "target_id": "uc:Ss_20_05",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_20"
+  },
+  {
+    "source_id": "naics:238190",
+    "target_id": "uc:Ss_20_40",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_20"
+  },
+  {
+    "source_id": "naics:238190",
+    "target_id": "uc:Ss_20_50",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_20"
+  },
+  {
+    "source_id": "naics:238190",
+    "target_id": "uc:Ss_20_60",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_20"
+  },
+  {
+    "source_id": "naics:238190",
+    "target_id": "uc:Ss_20_70",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_20"
+  },
+  {
+    "source_id": "naics:238190",
+    "target_id": "uc:Ss_20_95",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_20"
+  },
+  {
+    "source_id": "naics:238190",
+    "target_id": "uc:Ss_20_10_30",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_20_10"
+  },
+  {
+    "source_id": "naics:238190",
+    "target_id": "uc:Ss_20_10_60",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_20_10"
+  },
+  {
+    "source_id": "naics:238190",
+    "target_id": "uc:Ss_20_10_65",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_20_10"
+  },
+  {
+    "source_id": "naics:238190",
+    "target_id": "uc:Ss_20_10_70",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_20_10"
+  },
+  {
+    "source_id": "naics:238190",
+    "target_id": "uc:Ss_20_10_75_35",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_20_10_75"
+  },
+  {
+    "source_id": "naics:238190",
+    "target_id": "uc:Ss_20_10_75_45",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_20_10_75"
+  },
+  {
+    "source_id": "naics:238190",
+    "target_id": "uc:Ss_20_10_75_65",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_20_10_75"
+  },
+  {
+    "source_id": "naics:238190",
+    "target_id": "uc:Ss_20_10_75_70",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_20_10_75"
+  },
+  {
+    "source_id": "naics:238190",
+    "target_id": "uc:Ss_20_10_75_85",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_20_10_75"
+  },
+  {
+    "source_id": "naics:238190",
+    "target_id": "uc:Ss_20_05_80_12",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_20_05_80"
+  },
+  {
+    "source_id": "naics:238190",
+    "target_id": "uc:Ss_20_05_80_40",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_20_05_80"
+  },
+  {
+    "source_id": "naics:238190",
+    "target_id": "uc:Ss_20_05_80_57",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_20_05_80"
+  },
+  {
+    "source_id": "naics:238190",
+    "target_id": "uc:Ss_20_05_80_71",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_20_05_80"
+  },
+  {
+    "source_id": "naics:238190",
+    "target_id": "uc:Ss_20_05_80_73",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_20_05_80"
+  },
+  {
+    "source_id": "naics:238190",
+    "target_id": "uc:Ss_20_05_80_80",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_20_05_80"
+  },
+  {
+    "source_id": "naics:238190",
+    "target_id": "uc:Ss_20_20_75_35",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_20_20_75"
+  },
+  {
+    "source_id": "naics:238190",
+    "target_id": "uc:Ss_20_20_75_45",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_20_20_75"
+  },
+  {
+    "source_id": "naics:238190",
+    "target_id": "uc:Ss_20_20_75_65",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_20_20_75"
+  },
+  {
+    "source_id": "naics:238190",
+    "target_id": "uc:Ss_20_20_75_70",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_20_20_75"
+  },
+  {
+    "source_id": "naics:238190",
+    "target_id": "uc:Ss_20_20_75_85",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_20_20_75"
+  },
+  {
+    "source_id": "naics:238190",
+    "target_id": "uc:Ss_20_30_75_35",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_20_30_75"
+  },
+  {
+    "source_id": "naics:238190",
+    "target_id": "uc:Ss_20_30_75_45",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_20_30_75"
+  },
+  {
+    "source_id": "naics:238190",
+    "target_id": "uc:Ss_20_30_75_50",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_20_30_75"
+  },
+  {
+    "source_id": "naics:238190",
+    "target_id": "uc:Ss_20_30_75_65",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_20_30_75"
+  },
+  {
+    "source_id": "naics:238190",
+    "target_id": "uc:Ss_20_30_75_70",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_20_30_75"
+  },
+  {
+    "source_id": "naics:238190",
+    "target_id": "uc:Ss_20_30_75_85",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_20_30_75"
+  },
+  {
+    "source_id": "naics:238190",
+    "target_id": "uc:Ss_20_80_60",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_20_80"
+  },
+  {
+    "source_id": "naics:23821",
+    "target_id": "uc:Ss_70_10",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_70"
+  },
+  {
+    "source_id": "naics:23821",
+    "target_id": "uc:Ss_70_30",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_70"
+  },
+  {
+    "source_id": "naics:23821",
+    "target_id": "uc:Ss_70_80",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_70"
+  },
+  {
+    "source_id": "naics:23821",
+    "target_id": "uc:Ss_70_30_80_35",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_70_30_80"
+  },
+  {
+    "source_id": "naics:23821",
+    "target_id": "uc:Ss_70_30_80_45",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_70_30_80"
+  },
+  {
+    "source_id": "naics:23821",
+    "target_id": "uc:Ss_75_50_45_45",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_75_50_45"
+  },
+  {
+    "source_id": "naics:23821",
+    "target_id": "uc:Ss_85_50_65_27",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_85_50_65"
+  },
+  {
+    "source_id": "naics:23821",
+    "target_id": "uc:Ss_85_50_65_28",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_85_50_65"
+  },
+  {
+    "source_id": "naics:23821",
+    "target_id": "uc:Ss_85_50_65_40",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_85_50_65"
+  },
+  {
+    "source_id": "naics:238210",
+    "target_id": "uc:Ss_70_10",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_70"
+  },
+  {
+    "source_id": "naics:238210",
+    "target_id": "uc:Ss_70_30",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_70"
+  },
+  {
+    "source_id": "naics:238210",
+    "target_id": "uc:Ss_70_80",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_70"
+  },
+  {
+    "source_id": "naics:238210",
+    "target_id": "uc:Ss_70_30_80_35",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_70_30_80"
+  },
+  {
+    "source_id": "naics:238210",
+    "target_id": "uc:Ss_70_30_80_45",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_70_30_80"
+  },
+  {
+    "source_id": "naics:238210",
+    "target_id": "uc:Ss_75_50_45_45",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_75_50_45"
+  },
+  {
+    "source_id": "naics:238210",
+    "target_id": "uc:Ss_85_50_65_27",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_85_50_65"
+  },
+  {
+    "source_id": "naics:238210",
+    "target_id": "uc:Ss_85_50_65_28",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_85_50_65"
+  },
+  {
+    "source_id": "naics:238210",
+    "target_id": "uc:Ss_85_50_65_40",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_85_50_65"
+  },
+  {
+    "source_id": "naics:23822",
+    "target_id": "uc:Ss_65_40",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_65"
+  },
+  {
+    "source_id": "naics:23822",
+    "target_id": "uc:Ss_65_60",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_65"
+  },
+  {
+    "source_id": "naics:23822",
+    "target_id": "uc:Ss_65_95",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_65"
+  },
+  {
+    "source_id": "naics:23822",
+    "target_id": "uc:Ss_65_80_15",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_65_80"
+  },
+  {
+    "source_id": "naics:23822",
+    "target_id": "uc:Ss_65_80_05_10",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_65_80_05"
+  },
+  {
+    "source_id": "naics:23822",
+    "target_id": "uc:Ss_65_80_05_30",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_65_80_05"
+  },
+  {
+    "source_id": "naics:23822",
+    "target_id": "uc:Ss_65_80_05_40",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_65_80_05"
+  },
+  {
+    "source_id": "naics:23822",
+    "target_id": "uc:Ss_65_80_45_25",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_65_80_45"
+  },
+  {
+    "source_id": "naics:23822",
+    "target_id": "uc:Ss_65_80_45_48",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_65_80_45"
+  },
+  {
+    "source_id": "naics:238220",
+    "target_id": "uc:Ss_65_40",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_65"
+  },
+  {
+    "source_id": "naics:238220",
+    "target_id": "uc:Ss_65_60",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_65"
+  },
+  {
+    "source_id": "naics:238220",
+    "target_id": "uc:Ss_65_95",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_65"
+  },
+  {
+    "source_id": "naics:238220",
+    "target_id": "uc:Ss_65_80_15",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_65_80"
+  },
+  {
+    "source_id": "naics:238220",
+    "target_id": "uc:Ss_65_80_05_10",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_65_80_05"
+  },
+  {
+    "source_id": "naics:238220",
+    "target_id": "uc:Ss_65_80_05_30",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_65_80_05"
+  },
+  {
+    "source_id": "naics:238220",
+    "target_id": "uc:Ss_65_80_05_40",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_65_80_05"
+  },
+  {
+    "source_id": "naics:238220",
+    "target_id": "uc:Ss_65_80_45_25",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_65_80_45"
+  },
+  {
+    "source_id": "naics:238220",
+    "target_id": "uc:Ss_65_80_45_48",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_65_80_45"
+  },
+  {
+    "source_id": "naics:23832",
+    "target_id": "uc:Ss_25_45_02",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_25_45"
+  },
+  {
+    "source_id": "naics:23832",
+    "target_id": "uc:Ss_25_45_12",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_25_45"
+  },
+  {
+    "source_id": "naics:23832",
+    "target_id": "uc:Ss_25_45_25",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_25_45"
+  },
+  {
+    "source_id": "naics:23832",
+    "target_id": "uc:Ss_25_45_70",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_25_45"
+  },
+  {
+    "source_id": "naics:23832",
+    "target_id": "uc:Ss_25_45_72",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_25_45"
+  },
+  {
+    "source_id": "naics:23832",
+    "target_id": "uc:Ss_25_45_74",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_25_45"
+  },
+  {
+    "source_id": "naics:23832",
+    "target_id": "uc:Ss_25_45_86",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_25_45"
+  },
+  {
+    "source_id": "naics:23832",
+    "target_id": "uc:Ss_25_45_88",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_25_45"
+  },
+  {
+    "source_id": "naics:23832",
+    "target_id": "uc:Ss_25_45_90",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_25_45"
+  },
+  {
+    "source_id": "naics:23832",
+    "target_id": "uc:Ss_30_40_10",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_30_40"
+  },
+  {
+    "source_id": "naics:23832",
+    "target_id": "uc:Ss_30_40_30",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_30_40"
+  },
+  {
+    "source_id": "naics:23832",
+    "target_id": "uc:Ss_30_40_32",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_30_40"
+  },
+  {
+    "source_id": "naics:23832",
+    "target_id": "uc:Ss_30_40_34",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_30_40"
+  },
+  {
+    "source_id": "naics:23832",
+    "target_id": "uc:Ss_30_40_50",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_30_40"
+  },
+  {
+    "source_id": "naics:23832",
+    "target_id": "uc:Ss_30_40_55",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_30_40"
+  },
+  {
+    "source_id": "naics:23832",
+    "target_id": "uc:Ss_30_40_65",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_30_40"
+  },
+  {
+    "source_id": "naics:23832",
+    "target_id": "uc:Ss_30_40_90",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_30_40"
+  },
+  {
+    "source_id": "naics:23832",
+    "target_id": "uc:Ss_30_40_92",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_30_40"
+  },
+  {
+    "source_id": "naics:23832",
+    "target_id": "uc:Ss_30_40_95",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_30_40"
+  },
+  {
+    "source_id": "naics:23832",
+    "target_id": "uc:Ss_25_45_85_82",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_25_45_85"
+  },
+  {
+    "source_id": "naics:23832",
+    "target_id": "uc:Ss_25_45_85_85",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_25_45_85"
+  },
+  {
+    "source_id": "naics:23832",
+    "target_id": "uc:Ss_32_46_65_15",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_32_46_65"
+  },
+  {
+    "source_id": "naics:23832",
+    "target_id": "uc:Ss_32_46_65_55",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_32_46_65"
+  },
+  {
+    "source_id": "naics:23832",
+    "target_id": "uc:Ss_32_46_65_58",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_32_46_65"
+  },
+  {
+    "source_id": "naics:23832",
+    "target_id": "uc:Ss_32_46_65_90",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_32_46_65"
+  },
+  {
+    "source_id": "naics:23832",
+    "target_id": "uc:Ss_40_90_65_05",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_40_90_65"
+  },
+  {
+    "source_id": "naics:23832",
+    "target_id": "uc:Ss_40_90_65_85",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_40_90_65"
+  },
+  {
+    "source_id": "naics:238320",
+    "target_id": "uc:Ss_25_45_02",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_25_45"
+  },
+  {
+    "source_id": "naics:238320",
+    "target_id": "uc:Ss_25_45_12",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_25_45"
+  },
+  {
+    "source_id": "naics:238320",
+    "target_id": "uc:Ss_25_45_25",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_25_45"
+  },
+  {
+    "source_id": "naics:238320",
+    "target_id": "uc:Ss_25_45_70",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_25_45"
+  },
+  {
+    "source_id": "naics:238320",
+    "target_id": "uc:Ss_25_45_72",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_25_45"
+  },
+  {
+    "source_id": "naics:238320",
+    "target_id": "uc:Ss_25_45_74",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_25_45"
+  },
+  {
+    "source_id": "naics:238320",
+    "target_id": "uc:Ss_25_45_86",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_25_45"
+  },
+  {
+    "source_id": "naics:238320",
+    "target_id": "uc:Ss_25_45_88",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_25_45"
+  },
+  {
+    "source_id": "naics:238320",
+    "target_id": "uc:Ss_25_45_90",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_25_45"
+  },
+  {
+    "source_id": "naics:238320",
+    "target_id": "uc:Ss_30_40_10",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_30_40"
+  },
+  {
+    "source_id": "naics:238320",
+    "target_id": "uc:Ss_30_40_30",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_30_40"
+  },
+  {
+    "source_id": "naics:238320",
+    "target_id": "uc:Ss_30_40_32",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_30_40"
+  },
+  {
+    "source_id": "naics:238320",
+    "target_id": "uc:Ss_30_40_34",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_30_40"
+  },
+  {
+    "source_id": "naics:238320",
+    "target_id": "uc:Ss_30_40_50",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_30_40"
+  },
+  {
+    "source_id": "naics:238320",
+    "target_id": "uc:Ss_30_40_55",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_30_40"
+  },
+  {
+    "source_id": "naics:238320",
+    "target_id": "uc:Ss_30_40_65",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_30_40"
+  },
+  {
+    "source_id": "naics:238320",
+    "target_id": "uc:Ss_30_40_90",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_30_40"
+  },
+  {
+    "source_id": "naics:238320",
+    "target_id": "uc:Ss_30_40_92",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_30_40"
+  },
+  {
+    "source_id": "naics:238320",
+    "target_id": "uc:Ss_30_40_95",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_30_40"
+  },
+  {
+    "source_id": "naics:238320",
+    "target_id": "uc:Ss_25_45_85_82",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_25_45_85"
+  },
+  {
+    "source_id": "naics:238320",
+    "target_id": "uc:Ss_25_45_85_85",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_25_45_85"
+  },
+  {
+    "source_id": "naics:238320",
+    "target_id": "uc:Ss_32_46_65_15",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_32_46_65"
+  },
+  {
+    "source_id": "naics:238320",
+    "target_id": "uc:Ss_32_46_65_55",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_32_46_65"
+  },
+  {
+    "source_id": "naics:238320",
+    "target_id": "uc:Ss_32_46_65_58",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_32_46_65"
+  },
+  {
+    "source_id": "naics:238320",
+    "target_id": "uc:Ss_32_46_65_90",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_32_46_65"
+  },
+  {
+    "source_id": "naics:238320",
+    "target_id": "uc:Ss_40_90_65_05",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_40_90_65"
+  },
+  {
+    "source_id": "naics:238320",
+    "target_id": "uc:Ss_40_90_65_85",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_40_90_65"
+  },
+  {
+    "source_id": "naics:23833",
+    "target_id": "uc:Ss_30_12_33_50",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_30_12_33"
+  },
+  {
+    "source_id": "naics:23833",
+    "target_id": "uc:Ss_30_12_33_90",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_30_12_33"
+  },
+  {
+    "source_id": "naics:23833",
+    "target_id": "uc:Ss_30_20_10",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_30_20"
+  },
+  {
+    "source_id": "naics:23833",
+    "target_id": "uc:Ss_30_20_30",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_30_20"
+  },
+  {
+    "source_id": "naics:23833",
+    "target_id": "uc:Ss_30_20_90",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_30_20"
+  },
+  {
+    "source_id": "naics:23833",
+    "target_id": "uc:Ss_30_20_95",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_30_20"
+  },
+  {
+    "source_id": "naics:23833",
+    "target_id": "uc:Ss_30_20_70_70",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_30_20_70"
+  },
+  {
+    "source_id": "naics:23833",
+    "target_id": "uc:Ss_30_60_30_26",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_30_60_30"
+  },
+  {
+    "source_id": "naics:238330",
+    "target_id": "uc:Ss_30_12_33_50",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_30_12_33"
+  },
+  {
+    "source_id": "naics:238330",
+    "target_id": "uc:Ss_30_12_33_90",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_30_12_33"
+  },
+  {
+    "source_id": "naics:238330",
+    "target_id": "uc:Ss_30_20_10",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_30_20"
+  },
+  {
+    "source_id": "naics:238330",
+    "target_id": "uc:Ss_30_20_30",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_30_20"
+  },
+  {
+    "source_id": "naics:238330",
+    "target_id": "uc:Ss_30_20_90",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_30_20"
+  },
+  {
+    "source_id": "naics:238330",
+    "target_id": "uc:Ss_30_20_95",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_30_20"
+  },
+  {
+    "source_id": "naics:238330",
+    "target_id": "uc:Ss_30_20_70_70",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_30_20_70"
+  },
+  {
+    "source_id": "naics:238330",
+    "target_id": "uc:Ss_30_60_30_26",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_30_60_30"
+  },
+  {
+    "source_id": "naics:23834",
+    "target_id": "uc:Ss_25_45_88_25",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_25_45_88"
+  },
+  {
+    "source_id": "naics:23834",
+    "target_id": "uc:Ss_25_45_88_40",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_25_45_88"
+  },
+  {
+    "source_id": "naics:23834",
+    "target_id": "uc:Ss_30_42_90_90",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_30_42_90"
+  },
+  {
+    "source_id": "naics:23834",
+    "target_id": "uc:Ss_30_42_32_30",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_30_42_32"
+  },
+  {
+    "source_id": "naics:23834",
+    "target_id": "uc:Ss_30_42_32_40",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_30_42_32"
+  },
+  {
+    "source_id": "naics:23834",
+    "target_id": "uc:Ss_37_40_85_83",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_37_40_85"
+  },
+  {
+    "source_id": "naics:23834",
+    "target_id": "uc:Ss_37_40_85_85",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_37_40_85"
+  },
+  {
+    "source_id": "naics:238340",
+    "target_id": "uc:Ss_25_45_88_25",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_25_45_88"
+  },
+  {
+    "source_id": "naics:238340",
+    "target_id": "uc:Ss_25_45_88_40",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_25_45_88"
+  },
+  {
+    "source_id": "naics:238340",
+    "target_id": "uc:Ss_30_42_90_90",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_30_42_90"
+  },
+  {
+    "source_id": "naics:238340",
+    "target_id": "uc:Ss_30_42_32_30",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_30_42_32"
+  },
+  {
+    "source_id": "naics:238340",
+    "target_id": "uc:Ss_30_42_32_40",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_30_42_32"
+  },
+  {
+    "source_id": "naics:238340",
+    "target_id": "uc:Ss_37_40_85_83",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_37_40_85"
+  },
+  {
+    "source_id": "naics:238340",
+    "target_id": "uc:Ss_37_40_85_85",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_37_40_85"
+  },
+  {
+    "source_id": "naics:23835",
+    "target_id": "uc:Ss_25_45_85_82",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_25_45_85"
+  },
+  {
+    "source_id": "naics:23835",
+    "target_id": "uc:Ss_25_45_85_85",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_25_45_85"
+  },
+  {
+    "source_id": "naics:23835",
+    "target_id": "uc:Ss_32_46_65_15",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_32_46_65"
+  },
+  {
+    "source_id": "naics:23835",
+    "target_id": "uc:Ss_32_46_65_55",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_32_46_65"
+  },
+  {
+    "source_id": "naics:23835",
+    "target_id": "uc:Ss_32_46_65_58",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_32_46_65"
+  },
+  {
+    "source_id": "naics:23835",
+    "target_id": "uc:Ss_32_46_65_90",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_32_46_65"
+  },
+  {
+    "source_id": "naics:23835",
+    "target_id": "uc:Ss_40_90_65_05",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_40_90_65"
+  },
+  {
+    "source_id": "naics:23835",
+    "target_id": "uc:Ss_40_90_65_85",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_40_90_65"
+  },
+  {
+    "source_id": "naics:23835",
+    "target_id": "uc:Ss_25_45_70_55",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_25_45_70"
+  },
+  {
+    "source_id": "naics:23835",
+    "target_id": "uc:Ss_25_45_70_60",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_25_45_70"
+  },
+  {
+    "source_id": "naics:23835",
+    "target_id": "uc:Ss_25_45_70_65",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_25_45_70"
+  },
+  {
+    "source_id": "naics:23835",
+    "target_id": "uc:Ss_25_45_70_90",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_25_45_70"
+  },
+  {
+    "source_id": "naics:23835",
+    "target_id": "uc:Ss_30_42_30_30",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_30_42_30"
+  },
+  {
+    "source_id": "naics:238350",
+    "target_id": "uc:Ss_25_45_85_82",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_25_45_85"
+  },
+  {
+    "source_id": "naics:238350",
+    "target_id": "uc:Ss_25_45_85_85",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_25_45_85"
+  },
+  {
+    "source_id": "naics:238350",
+    "target_id": "uc:Ss_32_46_65_15",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_32_46_65"
+  },
+  {
+    "source_id": "naics:238350",
+    "target_id": "uc:Ss_32_46_65_55",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_32_46_65"
+  },
+  {
+    "source_id": "naics:238350",
+    "target_id": "uc:Ss_32_46_65_58",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_32_46_65"
+  },
+  {
+    "source_id": "naics:238350",
+    "target_id": "uc:Ss_32_46_65_90",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_32_46_65"
+  },
+  {
+    "source_id": "naics:238350",
+    "target_id": "uc:Ss_40_90_65_05",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_40_90_65"
+  },
+  {
+    "source_id": "naics:238350",
+    "target_id": "uc:Ss_40_90_65_85",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_40_90_65"
+  },
+  {
+    "source_id": "naics:238350",
+    "target_id": "uc:Ss_25_45_70_55",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_25_45_70"
+  },
+  {
+    "source_id": "naics:238350",
+    "target_id": "uc:Ss_25_45_70_60",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_25_45_70"
+  },
+  {
+    "source_id": "naics:238350",
+    "target_id": "uc:Ss_25_45_70_65",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_25_45_70"
+  },
+  {
+    "source_id": "naics:238350",
+    "target_id": "uc:Ss_25_45_70_90",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_25_45_70"
+  },
+  {
+    "source_id": "naics:238350",
+    "target_id": "uc:Ss_30_42_30_30",
+    "relationship": "produces",
+    "confidence": "C",
+    "method": "hierarchy_propagate",
+    "parent_target": "uc:Ss_30_42_30"
+  }
+]

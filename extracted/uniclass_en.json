@@ -1,0 +1,6713 @@
+[
+  {
+    "id": "uc:En_20",
+    "code": "En_20",
+    "name": "Administrative, commercial and protective service entities",
+    "tokens": [
+      "entities",
+      "service",
+      "administrative",
+      "commercial",
+      "protective"
+    ],
+    "table": "En",
+    "group": "20",
+    "subgroup": ""
+  },
+  {
+    "id": "uc:En_20_10",
+    "code": "En_20_10",
+    "name": "Legislative entities",
+    "tokens": [
+      "legislative",
+      "entities"
+    ],
+    "table": "En",
+    "group": "20",
+    "subgroup": "10"
+  },
+  {
+    "id": "uc:En_20_10_45",
+    "code": "En_20_10_45",
+    "name": "Governmental buildings",
+    "tokens": [
+      "buildings",
+      "governmental"
+    ],
+    "table": "En",
+    "group": "20",
+    "subgroup": "10"
+  },
+  {
+    "id": "uc:En_20_15",
+    "code": "En_20_15",
+    "name": "Administrative office entities",
+    "tokens": [
+      "entities",
+      "office",
+      "administrative"
+    ],
+    "table": "En",
+    "group": "20",
+    "subgroup": "15"
+  },
+  {
+    "id": "uc:En_20_15_10",
+    "code": "En_20_15_10",
+    "name": "Multiple occupation office buildings",
+    "tokens": [
+      "office",
+      "occupation",
+      "multiple",
+      "buildings"
+    ],
+    "table": "En",
+    "group": "20",
+    "subgroup": "15"
+  },
+  {
+    "id": "uc:En_20_15_70",
+    "code": "En_20_15_70",
+    "name": "Single occupation office buildings",
+    "tokens": [
+      "office",
+      "occupation",
+      "single",
+      "buildings"
+    ],
+    "table": "En",
+    "group": "20",
+    "subgroup": "15"
+  },
+  {
+    "id": "uc:En_20_20",
+    "code": "En_20_20",
+    "name": "Secular representative entities",
+    "tokens": [
+      "representative",
+      "entities",
+      "secular"
+    ],
+    "table": "En",
+    "group": "20",
+    "subgroup": "20"
+  },
+  {
+    "id": "uc:En_20_20_10",
+    "code": "En_20_20_10",
+    "name": "Buildings for representatives of nation states abroad",
+    "tokens": [
+      "nation",
+      "states",
+      "buildings",
+      "abroad",
+      "representatives"
+    ],
+    "table": "En",
+    "group": "20",
+    "subgroup": "20"
+  },
+  {
+    "id": "uc:En_20_20_40",
+    "code": "En_20_20_40",
+    "name": "Local government buildings",
+    "tokens": [
+      "buildings",
+      "local",
+      "government"
+    ],
+    "table": "En",
+    "group": "20",
+    "subgroup": "20"
+  },
+  {
+    "id": "uc:En_20_20_50",
+    "code": "En_20_20_50",
+    "name": "National government buildings",
+    "tokens": [
+      "national",
+      "buildings",
+      "government"
+    ],
+    "table": "En",
+    "group": "20",
+    "subgroup": "20"
+  },
+  {
+    "id": "uc:En_20_20_70",
+    "code": "En_20_20_70",
+    "name": "Regional government buildings",
+    "tokens": [
+      "buildings",
+      "regional",
+      "government"
+    ],
+    "table": "En",
+    "group": "20",
+    "subgroup": "20"
+  },
+  {
+    "id": "uc:En_20_45",
+    "code": "En_20_45",
+    "name": "Motor vehicle maintenance and fuelling entities",
+    "tokens": [
+      "vehicle",
+      "maintenance",
+      "entities",
+      "motor",
+      "fuelling"
+    ],
+    "table": "En",
+    "group": "20",
+    "subgroup": "45"
+  },
+  {
+    "id": "uc:En_20_45_50",
+    "code": "En_20_45_50",
+    "name": "Motor vehicle fuelling and charging entities",
+    "tokens": [
+      "vehicle",
+      "entities",
+      "motor",
+      "charging",
+      "fuelling"
+    ],
+    "table": "En",
+    "group": "20",
+    "subgroup": "45"
+  },
+  {
+    "id": "uc:En_20_45_54",
+    "code": "En_20_45_54",
+    "name": "Motor vehicle servicing and repair entities",
+    "tokens": [
+      "vehicle",
+      "entities",
+      "repair",
+      "motor",
+      "servicing"
+    ],
+    "table": "En",
+    "group": "20",
+    "subgroup": "45"
+  },
+  {
+    "id": "uc:En_20_50",
+    "code": "En_20_50",
+    "name": "Commercial entities",
+    "tokens": [
+      "entities",
+      "commercial"
+    ],
+    "table": "En",
+    "group": "20",
+    "subgroup": "50"
+  },
+  {
+    "id": "uc:En_20_50_05",
+    "code": "En_20_50_05",
+    "name": "Auction buildings",
+    "tokens": [
+      "buildings",
+      "auction"
+    ],
+    "table": "En",
+    "group": "20",
+    "subgroup": "50"
+  },
+  {
+    "id": "uc:En_20_50_22",
+    "code": "En_20_50_22",
+    "name": "Department stores",
+    "tokens": [
+      "department",
+      "stores"
+    ],
+    "table": "En",
+    "group": "20",
+    "subgroup": "50"
+  },
+  {
+    "id": "uc:En_20_50_29",
+    "code": "En_20_50_29",
+    "name": "Financial and professional services buildings",
+    "tokens": [
+      "professional",
+      "services",
+      "financial",
+      "buildings"
+    ],
+    "table": "En",
+    "group": "20",
+    "subgroup": "50"
+  },
+  {
+    "id": "uc:En_20_50_50",
+    "code": "En_20_50_50",
+    "name": "Markets",
+    "tokens": [
+      "markets"
+    ],
+    "table": "En",
+    "group": "20",
+    "subgroup": "50"
+  },
+  {
+    "id": "uc:En_20_50_53",
+    "code": "En_20_50_53",
+    "name": "Mixed use buildings",
+    "tokens": [
+      "mixed",
+      "use",
+      "buildings"
+    ],
+    "table": "En",
+    "group": "20",
+    "subgroup": "50"
+  },
+  {
+    "id": "uc:En_20_50_55",
+    "code": "En_20_50_55",
+    "name": "Motor vehicle sales entities",
+    "tokens": [
+      "sales",
+      "vehicle",
+      "motor",
+      "entities"
+    ],
+    "table": "En",
+    "group": "20",
+    "subgroup": "50"
+  },
+  {
+    "id": "uc:En_20_50_80",
+    "code": "En_20_50_80",
+    "name": "Shop units",
+    "tokens": [
+      "shop",
+      "units"
+    ],
+    "table": "En",
+    "group": "20",
+    "subgroup": "50"
+  },
+  {
+    "id": "uc:En_20_50_85",
+    "code": "En_20_50_85",
+    "name": "Supermarkets",
+    "tokens": [
+      "supermarkets"
+    ],
+    "table": "En",
+    "group": "20",
+    "subgroup": "50"
+  },
+  {
+    "id": "uc:En_20_50_97",
+    "code": "En_20_50_97",
+    "name": "Wholesale buildings",
+    "tokens": [
+      "buildings",
+      "wholesale"
+    ],
+    "table": "En",
+    "group": "20",
+    "subgroup": "50"
+  },
+  {
+    "id": "uc:En_20_55",
+    "code": "En_20_55",
+    "name": "Postal communications entities",
+    "tokens": [
+      "entities",
+      "postal",
+      "communications"
+    ],
+    "table": "En",
+    "group": "20",
+    "subgroup": "55"
+  },
+  {
+    "id": "uc:En_20_55_65",
+    "code": "En_20_55_65",
+    "name": "Post office buildings",
+    "tokens": [
+      "post",
+      "office",
+      "buildings"
+    ],
+    "table": "En",
+    "group": "20",
+    "subgroup": "55"
+  },
+  {
+    "id": "uc:En_20_55_80",
+    "code": "En_20_55_80",
+    "name": "Sorting office buildings",
+    "tokens": [
+      "office",
+      "sorting",
+      "buildings"
+    ],
+    "table": "En",
+    "group": "20",
+    "subgroup": "55"
+  },
+  {
+    "id": "uc:En_20_60",
+    "code": "En_20_60",
+    "name": "Military entities",
+    "tokens": [
+      "entities",
+      "military"
+    ],
+    "table": "En",
+    "group": "20",
+    "subgroup": "60"
+  },
+  {
+    "id": "uc:En_20_60_02",
+    "code": "En_20_60_02",
+    "name": "Air force buildings",
+    "tokens": [
+      "air",
+      "force",
+      "buildings"
+    ],
+    "table": "En",
+    "group": "20",
+    "subgroup": "60"
+  },
+  {
+    "id": "uc:En_20_60_10",
+    "code": "En_20_60_10",
+    "name": "Army buildings",
+    "tokens": [
+      "buildings",
+      "army"
+    ],
+    "table": "En",
+    "group": "20",
+    "subgroup": "60"
+  },
+  {
+    "id": "uc:En_20_60_56",
+    "code": "En_20_60_56",
+    "name": "Navy buildings",
+    "tokens": [
+      "navy",
+      "buildings"
+    ],
+    "table": "En",
+    "group": "20",
+    "subgroup": "60"
+  },
+  {
+    "id": "uc:En_20_65",
+    "code": "En_20_65",
+    "name": "Law enforcement operational entities",
+    "tokens": [
+      "entities",
+      "enforcement",
+      "law",
+      "operational"
+    ],
+    "table": "En",
+    "group": "20",
+    "subgroup": "65"
+  },
+  {
+    "id": "uc:En_20_65_09",
+    "code": "En_20_65_09",
+    "name": "Police buildings",
+    "tokens": [
+      "buildings",
+      "police"
+    ],
+    "table": "En",
+    "group": "20",
+    "subgroup": "65"
+  },
+  {
+    "id": "uc:En_20_70",
+    "code": "En_20_70",
+    "name": "Judicial entities",
+    "tokens": [
+      "judicial",
+      "entities"
+    ],
+    "table": "En",
+    "group": "20",
+    "subgroup": "70"
+  },
+  {
+    "id": "uc:En_20_70_40",
+    "code": "En_20_70_40",
+    "name": "Law court buildings",
+    "tokens": [
+      "court",
+      "law",
+      "buildings"
+    ],
+    "table": "En",
+    "group": "20",
+    "subgroup": "70"
+  },
+  {
+    "id": "uc:En_20_75",
+    "code": "En_20_75",
+    "name": "Detention entities",
+    "tokens": [
+      "detention",
+      "entities"
+    ],
+    "table": "En",
+    "group": "20",
+    "subgroup": "75"
+  },
+  {
+    "id": "uc:En_20_75_10",
+    "code": "En_20_75_10",
+    "name": "Detention buildings",
+    "tokens": [
+      "detention",
+      "buildings"
+    ],
+    "table": "En",
+    "group": "20",
+    "subgroup": "75"
+  },
+  {
+    "id": "uc:En_20_80",
+    "code": "En_20_80",
+    "name": "Weapons training ranges",
+    "tokens": [
+      "weapons",
+      "training",
+      "ranges"
+    ],
+    "table": "En",
+    "group": "20",
+    "subgroup": "80"
+  },
+  {
+    "id": "uc:En_20_80_29",
+    "code": "En_20_80_29",
+    "name": "Firing range buildings",
+    "tokens": [
+      "range",
+      "firing",
+      "buildings"
+    ],
+    "table": "En",
+    "group": "20",
+    "subgroup": "80"
+  },
+  {
+    "id": "uc:En_20_80_30",
+    "code": "En_20_80_30",
+    "name": "Exterior firing ranges",
+    "tokens": [
+      "exterior",
+      "firing",
+      "ranges"
+    ],
+    "table": "En",
+    "group": "20",
+    "subgroup": "80"
+  },
+  {
+    "id": "uc:En_20_85",
+    "code": "En_20_85",
+    "name": "Security entities",
+    "tokens": [
+      "entities",
+      "security"
+    ],
+    "table": "En",
+    "group": "20",
+    "subgroup": "85"
+  },
+  {
+    "id": "uc:En_20_85_15",
+    "code": "En_20_85_15",
+    "name": "Security control buildings",
+    "tokens": [
+      "security",
+      "buildings",
+      "control"
+    ],
+    "table": "En",
+    "group": "20",
+    "subgroup": "85"
+  },
+  {
+    "id": "uc:En_20_85_30",
+    "code": "En_20_85_30",
+    "name": "Security fences",
+    "tokens": [
+      "security",
+      "fences"
+    ],
+    "table": "En",
+    "group": "20",
+    "subgroup": "85"
+  },
+  {
+    "id": "uc:En_20_90",
+    "code": "En_20_90",
+    "name": "Incident support entities",
+    "tokens": [
+      "support",
+      "entities",
+      "incident"
+    ],
+    "table": "En",
+    "group": "20",
+    "subgroup": "90"
+  },
+  {
+    "id": "uc:En_20_90_10",
+    "code": "En_20_90_10",
+    "name": "Fire and rescue training buildings",
+    "tokens": [
+      "fire",
+      "buildings",
+      "rescue",
+      "training"
+    ],
+    "table": "En",
+    "group": "20",
+    "subgroup": "90"
+  },
+  {
+    "id": "uc:En_20_90_15",
+    "code": "En_20_90_15",
+    "name": "Fire station buildings",
+    "tokens": [
+      "fire",
+      "buildings",
+      "station"
+    ],
+    "table": "En",
+    "group": "20",
+    "subgroup": "90"
+  },
+  {
+    "id": "uc:En_25",
+    "code": "En_25",
+    "name": "Cultural, educational, scientific and information entities",
+    "tokens": [
+      "entities",
+      "scientific",
+      "information",
+      "cultural",
+      "educational"
+    ],
+    "table": "En",
+    "group": "25",
+    "subgroup": ""
+  },
+  {
+    "id": "uc:En_25_05",
+    "code": "En_25_05",
+    "name": "Commemoration entities",
+    "tokens": [
+      "entities",
+      "commemoration"
+    ],
+    "table": "En",
+    "group": "25",
+    "subgroup": "05"
+  },
+  {
+    "id": "uc:En_25_05_35",
+    "code": "En_25_05_35",
+    "name": "Gardens of remembrance",
+    "tokens": [
+      "remembrance",
+      "gardens"
+    ],
+    "table": "En",
+    "group": "25",
+    "subgroup": "05"
+  },
+  {
+    "id": "uc:En_25_05_50",
+    "code": "En_25_05_50",
+    "name": "Memorials",
+    "tokens": [
+      "memorials"
+    ],
+    "table": "En",
+    "group": "25",
+    "subgroup": "05"
+  },
+  {
+    "id": "uc:En_25_05_55",
+    "code": "En_25_05_55",
+    "name": "Monuments",
+    "tokens": [
+      "monuments"
+    ],
+    "table": "En",
+    "group": "25",
+    "subgroup": "05"
+  },
+  {
+    "id": "uc:En_25_10",
+    "code": "En_25_10",
+    "name": "Educational entities",
+    "tokens": [
+      "entities",
+      "educational"
+    ],
+    "table": "En",
+    "group": "25",
+    "subgroup": "10"
+  },
+  {
+    "id": "uc:En_25_10_10",
+    "code": "En_25_10_10",
+    "name": "Preschool educational buildings",
+    "tokens": [
+      "preschool",
+      "educational",
+      "buildings"
+    ],
+    "table": "En",
+    "group": "25",
+    "subgroup": "10"
+  },
+  {
+    "id": "uc:En_25_10_20",
+    "code": "En_25_10_20",
+    "name": "Infant educational buildings",
+    "tokens": [
+      "buildings",
+      "educational",
+      "infant"
+    ],
+    "table": "En",
+    "group": "25",
+    "subgroup": "10"
+  },
+  {
+    "id": "uc:En_25_10_30",
+    "code": "En_25_10_30",
+    "name": "Primary educational buildings",
+    "tokens": [
+      "buildings",
+      "primary",
+      "educational"
+    ],
+    "table": "En",
+    "group": "25",
+    "subgroup": "10"
+  },
+  {
+    "id": "uc:En_25_10_40",
+    "code": "En_25_10_40",
+    "name": "Secondary educational buildings",
+    "tokens": [
+      "buildings",
+      "educational",
+      "secondary"
+    ],
+    "table": "En",
+    "group": "25",
+    "subgroup": "10"
+  },
+  {
+    "id": "uc:En_25_10_50",
+    "code": "En_25_10_50",
+    "name": "Pre-tertiary educational buildings",
+    "tokens": [
+      "pre",
+      "buildings",
+      "educational",
+      "tertiary"
+    ],
+    "table": "En",
+    "group": "25",
+    "subgroup": "10"
+  },
+  {
+    "id": "uc:En_25_10_60",
+    "code": "En_25_10_60",
+    "name": "Tertiary educational buildings",
+    "tokens": [
+      "buildings",
+      "educational",
+      "tertiary"
+    ],
+    "table": "En",
+    "group": "25",
+    "subgroup": "10"
+  },
+  {
+    "id": "uc:En_25_10_70",
+    "code": "En_25_10_70",
+    "name": "Adult educational buildings",
+    "tokens": [
+      "buildings",
+      "educational",
+      "adult"
+    ],
+    "table": "En",
+    "group": "25",
+    "subgroup": "10"
+  },
+  {
+    "id": "uc:En_25_30",
+    "code": "En_25_30",
+    "name": "Scientific and laboratory entities",
+    "tokens": [
+      "laboratory",
+      "scientific",
+      "entities"
+    ],
+    "table": "En",
+    "group": "25",
+    "subgroup": "30"
+  },
+  {
+    "id": "uc:En_25_30_40",
+    "code": "En_25_30_40",
+    "name": "Laboratory buildings",
+    "tokens": [
+      "laboratory",
+      "buildings"
+    ],
+    "table": "En",
+    "group": "25",
+    "subgroup": "30"
+  },
+  {
+    "id": "uc:En_25_30_50",
+    "code": "En_25_30_50",
+    "name": "Meteorological stations",
+    "tokens": [
+      "stations",
+      "meteorological"
+    ],
+    "table": "En",
+    "group": "25",
+    "subgroup": "30"
+  },
+  {
+    "id": "uc:En_25_30_60",
+    "code": "En_25_30_60",
+    "name": "Observatory buildings",
+    "tokens": [
+      "buildings",
+      "observatory"
+    ],
+    "table": "En",
+    "group": "25",
+    "subgroup": "30"
+  },
+  {
+    "id": "uc:En_25_30_66",
+    "code": "En_25_30_66",
+    "name": "Observatory antennas",
+    "tokens": [
+      "observatory",
+      "antennas"
+    ],
+    "table": "En",
+    "group": "25",
+    "subgroup": "30"
+  },
+  {
+    "id": "uc:En_25_30_70",
+    "code": "En_25_30_70",
+    "name": "Research buildings",
+    "tokens": [
+      "buildings",
+      "research"
+    ],
+    "table": "En",
+    "group": "25",
+    "subgroup": "30"
+  },
+  {
+    "id": "uc:En_25_30_77",
+    "code": "En_25_30_77",
+    "name": "Seed banks",
+    "tokens": [
+      "seed",
+      "banks"
+    ],
+    "table": "En",
+    "group": "25",
+    "subgroup": "30"
+  },
+  {
+    "id": "uc:En_25_30_90",
+    "code": "En_25_30_90",
+    "name": "Triangulation pillars",
+    "tokens": [
+      "pillars",
+      "triangulation"
+    ],
+    "table": "En",
+    "group": "25",
+    "subgroup": "30"
+  },
+  {
+    "id": "uc:En_25_50",
+    "code": "En_25_50",
+    "name": "Exhibition entities",
+    "tokens": [
+      "entities",
+      "exhibition"
+    ],
+    "table": "En",
+    "group": "25",
+    "subgroup": "50"
+  },
+  {
+    "id": "uc:En_25_50_02",
+    "code": "En_25_50_02",
+    "name": "Art exhibition buildings",
+    "tokens": [
+      "buildings",
+      "art",
+      "exhibition"
+    ],
+    "table": "En",
+    "group": "25",
+    "subgroup": "50"
+  },
+  {
+    "id": "uc:En_25_50_04",
+    "code": "En_25_50_04",
+    "name": "Art installations",
+    "tokens": [
+      "installations",
+      "art"
+    ],
+    "table": "En",
+    "group": "25",
+    "subgroup": "50"
+  },
+  {
+    "id": "uc:En_25_50_15",
+    "code": "En_25_50_15",
+    "name": "Collection exhibition buildings",
+    "tokens": [
+      "buildings",
+      "collection",
+      "exhibition"
+    ],
+    "table": "En",
+    "group": "25",
+    "subgroup": "50"
+  },
+  {
+    "id": "uc:En_25_50_29",
+    "code": "En_25_50_29",
+    "name": "Fauna exhibition buildings",
+    "tokens": [
+      "buildings",
+      "fauna",
+      "exhibition"
+    ],
+    "table": "En",
+    "group": "25",
+    "subgroup": "50"
+  },
+  {
+    "id": "uc:En_25_50_30",
+    "code": "En_25_50_30",
+    "name": "Fauna exhibition grounds",
+    "tokens": [
+      "grounds",
+      "fauna",
+      "exhibition"
+    ],
+    "table": "En",
+    "group": "25",
+    "subgroup": "50"
+  },
+  {
+    "id": "uc:En_25_50_31",
+    "code": "En_25_50_31",
+    "name": "Flora exhibition buildings",
+    "tokens": [
+      "buildings",
+      "flora",
+      "exhibition"
+    ],
+    "table": "En",
+    "group": "25",
+    "subgroup": "50"
+  },
+  {
+    "id": "uc:En_25_50_32",
+    "code": "En_25_50_32",
+    "name": "Flora exhibition grounds",
+    "tokens": [
+      "grounds",
+      "flora",
+      "exhibition"
+    ],
+    "table": "En",
+    "group": "25",
+    "subgroup": "50"
+  },
+  {
+    "id": "uc:En_25_50_54",
+    "code": "En_25_50_54",
+    "name": "Multipurpose exhibition buildings",
+    "tokens": [
+      "multipurpose",
+      "buildings",
+      "exhibition"
+    ],
+    "table": "En",
+    "group": "25",
+    "subgroup": "50"
+  },
+  {
+    "id": "uc:En_25_70",
+    "code": "En_25_70",
+    "name": "Information entities",
+    "tokens": [
+      "entities",
+      "information"
+    ],
+    "table": "En",
+    "group": "25",
+    "subgroup": "70"
+  },
+  {
+    "id": "uc:En_25_70_02",
+    "code": "En_25_70_02",
+    "name": "Archive buildings",
+    "tokens": [
+      "archive",
+      "buildings"
+    ],
+    "table": "En",
+    "group": "25",
+    "subgroup": "70"
+  },
+  {
+    "id": "uc:En_25_70_13",
+    "code": "En_25_70_13",
+    "name": "Conference buildings",
+    "tokens": [
+      "buildings",
+      "conference"
+    ],
+    "table": "En",
+    "group": "25",
+    "subgroup": "70"
+  },
+  {
+    "id": "uc:En_25_70_42",
+    "code": "En_25_70_42",
+    "name": "Information kiosks",
+    "tokens": [
+      "kiosks",
+      "information"
+    ],
+    "table": "En",
+    "group": "25",
+    "subgroup": "70"
+  },
+  {
+    "id": "uc:En_25_70_47",
+    "code": "En_25_70_47",
+    "name": "Library buildings",
+    "tokens": [
+      "buildings",
+      "library"
+    ],
+    "table": "En",
+    "group": "25",
+    "subgroup": "70"
+  },
+  {
+    "id": "uc:En_25_90",
+    "code": "En_25_90",
+    "name": "Worship entities",
+    "tokens": [
+      "worship",
+      "entities"
+    ],
+    "table": "En",
+    "group": "25",
+    "subgroup": "90"
+  },
+  {
+    "id": "uc:En_25_90_30",
+    "code": "En_25_90_30",
+    "name": "Faith worship buildings",
+    "tokens": [
+      "worship",
+      "buildings",
+      "faith"
+    ],
+    "table": "En",
+    "group": "25",
+    "subgroup": "90"
+  },
+  {
+    "id": "uc:En_30",
+    "code": "En_30",
+    "name": "Industrial entities",
+    "tokens": [
+      "industrial",
+      "entities"
+    ],
+    "table": "En",
+    "group": "30",
+    "subgroup": ""
+  },
+  {
+    "id": "uc:En_30_10",
+    "code": "En_30_10",
+    "name": "Mineral extraction entities",
+    "tokens": [
+      "entities",
+      "extraction",
+      "mineral"
+    ],
+    "table": "En",
+    "group": "30",
+    "subgroup": "10"
+  },
+  {
+    "id": "uc:En_30_10_57",
+    "code": "En_30_10_57",
+    "name": "Offshore oil and gas extraction platforms",
+    "tokens": [
+      "oil",
+      "offshore",
+      "platforms",
+      "gas",
+      "extraction"
+    ],
+    "table": "En",
+    "group": "30",
+    "subgroup": "10"
+  },
+  {
+    "id": "uc:En_30_10_80",
+    "code": "En_30_10_80",
+    "name": "Spoil heaps",
+    "tokens": [
+      "spoil",
+      "heaps"
+    ],
+    "table": "En",
+    "group": "30",
+    "subgroup": "10"
+  },
+  {
+    "id": "uc:En_30_10_85",
+    "code": "En_30_10_85",
+    "name": "Surface mining structures",
+    "tokens": [
+      "structures",
+      "mining",
+      "surface"
+    ],
+    "table": "En",
+    "group": "30",
+    "subgroup": "10"
+  },
+  {
+    "id": "uc:En_30_10_86",
+    "code": "En_30_10_86",
+    "name": "Surface mining cuttings",
+    "tokens": [
+      "mining",
+      "surface",
+      "cuttings"
+    ],
+    "table": "En",
+    "group": "30",
+    "subgroup": "10"
+  },
+  {
+    "id": "uc:En_30_10_90",
+    "code": "En_30_10_90",
+    "name": "Underground mining structures",
+    "tokens": [
+      "underground",
+      "structures",
+      "mining"
+    ],
+    "table": "En",
+    "group": "30",
+    "subgroup": "10"
+  },
+  {
+    "id": "uc:En_30_20",
+    "code": "En_30_20",
+    "name": "Nuclear and chemical management entities",
+    "tokens": [
+      "chemical",
+      "entities",
+      "management",
+      "nuclear"
+    ],
+    "table": "En",
+    "group": "30",
+    "subgroup": "20"
+  },
+  {
+    "id": "uc:En_30_20_15",
+    "code": "En_30_20_15",
+    "name": "Radioactivity waste management control buildings",
+    "tokens": [
+      "control",
+      "management",
+      "buildings",
+      "radioactivity",
+      "waste"
+    ],
+    "table": "En",
+    "group": "30",
+    "subgroup": "20"
+  },
+  {
+    "id": "uc:En_30_20_30",
+    "code": "En_30_20_30",
+    "name": "High-heat-generating radioactive waste management tunnels",
+    "tokens": [
+      "generating",
+      "heat",
+      "management",
+      "high",
+      "tunnels",
+      "radioactive",
+      "waste"
+    ],
+    "table": "En",
+    "group": "30",
+    "subgroup": "20"
+  },
+  {
+    "id": "uc:En_30_20_35",
+    "code": "En_30_20_35",
+    "name": "High-heat radioactive waste package transfer buildings",
+    "tokens": [
+      "transfer",
+      "heat",
+      "package",
+      "buildings",
+      "high",
+      "radioactive",
+      "waste"
+    ],
+    "table": "En",
+    "group": "30",
+    "subgroup": "20"
+  },
+  {
+    "id": "uc:En_30_20_45",
+    "code": "En_30_20_45",
+    "name": "Low-heat radioactive waste package transfer buildings",
+    "tokens": [
+      "transfer",
+      "heat",
+      "package",
+      "low",
+      "buildings",
+      "radioactive",
+      "waste"
+    ],
+    "table": "En",
+    "group": "30",
+    "subgroup": "20"
+  },
+  {
+    "id": "uc:En_30_20_60",
+    "code": "En_30_20_60",
+    "name": "Low-heat-generating radioactive waste management vault",
+    "tokens": [
+      "generating",
+      "heat",
+      "management",
+      "low",
+      "vault",
+      "radioactive",
+      "waste"
+    ],
+    "table": "En",
+    "group": "30",
+    "subgroup": "20"
+  },
+  {
+    "id": "uc:En_30_20_70",
+    "code": "En_30_20_70",
+    "name": "Radioactivity decontamination buildings",
+    "tokens": [
+      "buildings",
+      "radioactivity",
+      "decontamination"
+    ],
+    "table": "En",
+    "group": "30",
+    "subgroup": "20"
+  },
+  {
+    "id": "uc:En_30_20_75",
+    "code": "En_30_20_75",
+    "name": "Radioactivity effluent management buildings",
+    "tokens": [
+      "effluent",
+      "radioactivity",
+      "management",
+      "buildings"
+    ],
+    "table": "En",
+    "group": "30",
+    "subgroup": "20"
+  },
+  {
+    "id": "uc:En_30_30",
+    "code": "En_30_30",
+    "name": "Mineral processing entities",
+    "tokens": [
+      "entities",
+      "processing",
+      "mineral"
+    ],
+    "table": "En",
+    "group": "30",
+    "subgroup": "30"
+  },
+  {
+    "id": "uc:En_30_30_33",
+    "code": "En_30_30_33",
+    "name": "Gas processing structures",
+    "tokens": [
+      "structures",
+      "processing",
+      "gas"
+    ],
+    "table": "En",
+    "group": "30",
+    "subgroup": "30"
+  },
+  {
+    "id": "uc:En_30_30_58",
+    "code": "En_30_30_58",
+    "name": "Oil processing structures",
+    "tokens": [
+      "structures",
+      "oil",
+      "processing"
+    ],
+    "table": "En",
+    "group": "30",
+    "subgroup": "30"
+  },
+  {
+    "id": "uc:En_30_30_59",
+    "code": "En_30_30_59",
+    "name": "Ore processing structures",
+    "tokens": [
+      "structures",
+      "ore",
+      "processing"
+    ],
+    "table": "En",
+    "group": "30",
+    "subgroup": "30"
+  },
+  {
+    "id": "uc:En_30_40",
+    "code": "En_30_40",
+    "name": "Animal and plant products processing entities",
+    "tokens": [
+      "entities",
+      "plant",
+      "products",
+      "processing",
+      "animal"
+    ],
+    "table": "En",
+    "group": "30",
+    "subgroup": "40"
+  },
+  {
+    "id": "uc:En_30_40_01",
+    "code": "En_30_40_01",
+    "name": "Animal processing buildings",
+    "tokens": [
+      "buildings",
+      "processing",
+      "animal"
+    ],
+    "table": "En",
+    "group": "30",
+    "subgroup": "40"
+  },
+  {
+    "id": "uc:En_30_40_20",
+    "code": "En_30_40_20",
+    "name": "Crop processing buildings",
+    "tokens": [
+      "buildings",
+      "processing",
+      "crop"
+    ],
+    "table": "En",
+    "group": "30",
+    "subgroup": "40"
+  },
+  {
+    "id": "uc:En_30_40_30",
+    "code": "En_30_40_30",
+    "name": "Fish processing buildings",
+    "tokens": [
+      "buildings",
+      "processing",
+      "fish"
+    ],
+    "table": "En",
+    "group": "30",
+    "subgroup": "40"
+  },
+  {
+    "id": "uc:En_30_40_40",
+    "code": "En_30_40_40",
+    "name": "Horticultural processing buildings",
+    "tokens": [
+      "buildings",
+      "processing",
+      "horticultural"
+    ],
+    "table": "En",
+    "group": "30",
+    "subgroup": "40"
+  },
+  {
+    "id": "uc:En_30_40_90",
+    "code": "En_30_40_90",
+    "name": "Timber processing buildings",
+    "tokens": [
+      "buildings",
+      "processing",
+      "timber"
+    ],
+    "table": "En",
+    "group": "30",
+    "subgroup": "40"
+  },
+  {
+    "id": "uc:En_30_50",
+    "code": "En_30_50",
+    "name": "Manufacturing entities",
+    "tokens": [
+      "entities",
+      "manufacturing"
+    ],
+    "table": "En",
+    "group": "30",
+    "subgroup": "50"
+  },
+  {
+    "id": "uc:En_30_50_15",
+    "code": "En_30_50_15",
+    "name": "Cranes",
+    "tokens": [
+      "cranes"
+    ],
+    "table": "En",
+    "group": "30",
+    "subgroup": "50"
+  },
+  {
+    "id": "uc:En_30_50_50",
+    "code": "En_30_50_50",
+    "name": "Manufacturing buildings",
+    "tokens": [
+      "buildings",
+      "manufacturing"
+    ],
+    "table": "En",
+    "group": "30",
+    "subgroup": "50"
+  },
+  {
+    "id": "uc:En_30_60",
+    "code": "En_30_60",
+    "name": "Cleaning and maintenance entities",
+    "tokens": [
+      "cleaning",
+      "maintenance",
+      "entities"
+    ],
+    "table": "En",
+    "group": "30",
+    "subgroup": "60"
+  },
+  {
+    "id": "uc:En_30_60_20",
+    "code": "En_30_60_20",
+    "name": "Decontamination laundry buildings",
+    "tokens": [
+      "buildings",
+      "laundry",
+      "decontamination"
+    ],
+    "table": "En",
+    "group": "30",
+    "subgroup": "60"
+  },
+  {
+    "id": "uc:En_30_60_40",
+    "code": "En_30_60_40",
+    "name": "Laundry buildings",
+    "tokens": [
+      "buildings",
+      "laundry"
+    ],
+    "table": "En",
+    "group": "30",
+    "subgroup": "60"
+  },
+  {
+    "id": "uc:En_30_60_50",
+    "code": "En_30_60_50",
+    "name": "Maintenance buildings",
+    "tokens": [
+      "maintenance",
+      "buildings"
+    ],
+    "table": "En",
+    "group": "30",
+    "subgroup": "60"
+  },
+  {
+    "id": "uc:En_30_60_94",
+    "code": "En_30_60_94",
+    "name": "Vehicle-cleaning buildings",
+    "tokens": [
+      "cleaning",
+      "vehicle",
+      "buildings"
+    ],
+    "table": "En",
+    "group": "30",
+    "subgroup": "60"
+  },
+  {
+    "id": "uc:En_30_70",
+    "code": "En_30_70",
+    "name": "Process entities",
+    "tokens": [
+      "entities",
+      "process"
+    ],
+    "table": "En",
+    "group": "30",
+    "subgroup": "70"
+  },
+  {
+    "id": "uc:En_30_70_13",
+    "code": "En_30_70_13",
+    "name": "Chimney stacks",
+    "tokens": [
+      "chimney",
+      "stacks"
+    ],
+    "table": "En",
+    "group": "30",
+    "subgroup": "70"
+  },
+  {
+    "id": "uc:En_30_70_15",
+    "code": "En_30_70_15",
+    "name": "Conveyors",
+    "tokens": [
+      "conveyors"
+    ],
+    "table": "En",
+    "group": "30",
+    "subgroup": "70"
+  },
+  {
+    "id": "uc:En_30_70_17",
+    "code": "En_30_70_17",
+    "name": "Cooling towers",
+    "tokens": [
+      "towers",
+      "cooling"
+    ],
+    "table": "En",
+    "group": "30",
+    "subgroup": "70"
+  },
+  {
+    "id": "uc:En_30_70_28",
+    "code": "En_30_70_28",
+    "name": "Equipment gantries",
+    "tokens": [
+      "gantries",
+      "equipment"
+    ],
+    "table": "En",
+    "group": "30",
+    "subgroup": "70"
+  },
+  {
+    "id": "uc:En_30_80",
+    "code": "En_30_80",
+    "name": "Mechanical power generation",
+    "tokens": [
+      "power",
+      "mechanical",
+      "generation"
+    ],
+    "table": "En",
+    "group": "30",
+    "subgroup": "80"
+  },
+  {
+    "id": "uc:En_30_80_96",
+    "code": "En_30_80_96",
+    "name": "Watermills",
+    "tokens": [
+      "watermills"
+    ],
+    "table": "En",
+    "group": "30",
+    "subgroup": "80"
+  },
+  {
+    "id": "uc:En_30_80_97",
+    "code": "En_30_80_97",
+    "name": "Windmills",
+    "tokens": [
+      "windmills"
+    ],
+    "table": "En",
+    "group": "30",
+    "subgroup": "80"
+  },
+  {
+    "id": "uc:En_30_85",
+    "code": "En_30_85",
+    "name": "Marine and water entities",
+    "tokens": [
+      "entities",
+      "water",
+      "marine"
+    ],
+    "table": "En",
+    "group": "30",
+    "subgroup": "85"
+  },
+  {
+    "id": "uc:En_30_85_07",
+    "code": "En_30_85_07",
+    "name": "Boathouse buildings",
+    "tokens": [
+      "boathouse",
+      "buildings"
+    ],
+    "table": "En",
+    "group": "30",
+    "subgroup": "85"
+  },
+  {
+    "id": "uc:En_30_85_08",
+    "code": "En_30_85_08",
+    "name": "Boatyard buildings",
+    "tokens": [
+      "buildings",
+      "boatyard"
+    ],
+    "table": "En",
+    "group": "30",
+    "subgroup": "85"
+  },
+  {
+    "id": "uc:En_30_85_24",
+    "code": "En_30_85_24",
+    "name": "Dry docks",
+    "tokens": [
+      "dry",
+      "docks"
+    ],
+    "table": "En",
+    "group": "30",
+    "subgroup": "85"
+  },
+  {
+    "id": "uc:En_30_85_80",
+    "code": "En_30_85_80",
+    "name": "Shipyard buildings",
+    "tokens": [
+      "buildings",
+      "shipyard"
+    ],
+    "table": "En",
+    "group": "30",
+    "subgroup": "85"
+  },
+  {
+    "id": "uc:En_30_85_97",
+    "code": "En_30_85_97",
+    "name": "Wet docks",
+    "tokens": [
+      "docks",
+      "wet"
+    ],
+    "table": "En",
+    "group": "30",
+    "subgroup": "85"
+  },
+  {
+    "id": "uc:En_30_90",
+    "code": "En_30_90",
+    "name": "Warehousing and distribution entities",
+    "tokens": [
+      "entities",
+      "warehousing",
+      "distribution"
+    ],
+    "table": "En",
+    "group": "30",
+    "subgroup": "90"
+  },
+  {
+    "id": "uc:En_30_90_33",
+    "code": "En_30_90_33",
+    "name": "Goods warehousing buildings",
+    "tokens": [
+      "goods",
+      "buildings",
+      "warehousing"
+    ],
+    "table": "En",
+    "group": "30",
+    "subgroup": "90"
+  },
+  {
+    "id": "uc:En_30_90_35",
+    "code": "En_30_90_35",
+    "name": "Goods distribution buildings",
+    "tokens": [
+      "goods",
+      "buildings",
+      "distribution"
+    ],
+    "table": "En",
+    "group": "30",
+    "subgroup": "90"
+  },
+  {
+    "id": "uc:En_32",
+    "code": "En_32",
+    "name": "Water and land management entities",
+    "tokens": [
+      "entities",
+      "water",
+      "management",
+      "land"
+    ],
+    "table": "En",
+    "group": "32",
+    "subgroup": ""
+  },
+  {
+    "id": "uc:En_32_10",
+    "code": "En_32_10",
+    "name": "Agricultural and horticultural entities",
+    "tokens": [
+      "entities",
+      "agricultural",
+      "horticultural"
+    ],
+    "table": "En",
+    "group": "32",
+    "subgroup": "10"
+  },
+  {
+    "id": "uc:En_32_10_02",
+    "code": "En_32_10_02",
+    "name": "Arable buildings",
+    "tokens": [
+      "buildings",
+      "arable"
+    ],
+    "table": "En",
+    "group": "32",
+    "subgroup": "10"
+  },
+  {
+    "id": "uc:En_32_10_04",
+    "code": "En_32_10_04",
+    "name": "Arable land",
+    "tokens": [
+      "arable",
+      "land"
+    ],
+    "table": "En",
+    "group": "32",
+    "subgroup": "10"
+  },
+  {
+    "id": "uc:En_32_10_06",
+    "code": "En_32_10_06",
+    "name": "Barns",
+    "tokens": [
+      "barns"
+    ],
+    "table": "En",
+    "group": "32",
+    "subgroup": "10"
+  },
+  {
+    "id": "uc:En_32_10_20",
+    "code": "En_32_10_20",
+    "name": "Coppices",
+    "tokens": [
+      "coppices"
+    ],
+    "table": "En",
+    "group": "32",
+    "subgroup": "10"
+  },
+  {
+    "id": "uc:En_32_10_28",
+    "code": "En_32_10_28",
+    "name": "Fishing buildings",
+    "tokens": [
+      "buildings",
+      "fishing"
+    ],
+    "table": "En",
+    "group": "32",
+    "subgroup": "10"
+  },
+  {
+    "id": "uc:En_32_10_29",
+    "code": "En_32_10_29",
+    "name": "Fishing cages",
+    "tokens": [
+      "cages",
+      "fishing"
+    ],
+    "table": "En",
+    "group": "32",
+    "subgroup": "10"
+  },
+  {
+    "id": "uc:En_32_10_30",
+    "code": "En_32_10_30",
+    "name": "Forestry buildings",
+    "tokens": [
+      "buildings",
+      "forestry"
+    ],
+    "table": "En",
+    "group": "32",
+    "subgroup": "10"
+  },
+  {
+    "id": "uc:En_32_10_31",
+    "code": "En_32_10_31",
+    "name": "Forestry plantations",
+    "tokens": [
+      "plantations",
+      "forestry"
+    ],
+    "table": "En",
+    "group": "32",
+    "subgroup": "10"
+  },
+  {
+    "id": "uc:En_32_10_37",
+    "code": "En_32_10_37",
+    "name": "Hedgerows",
+    "tokens": [
+      "hedgerows"
+    ],
+    "table": "En",
+    "group": "32",
+    "subgroup": "10"
+  },
+  {
+    "id": "uc:En_32_10_39",
+    "code": "En_32_10_39",
+    "name": "Horticultural buildings",
+    "tokens": [
+      "buildings",
+      "horticultural"
+    ],
+    "table": "En",
+    "group": "32",
+    "subgroup": "10"
+  },
+  {
+    "id": "uc:En_32_10_40",
+    "code": "En_32_10_40",
+    "name": "Horticultural land",
+    "tokens": [
+      "land",
+      "horticultural"
+    ],
+    "table": "En",
+    "group": "32",
+    "subgroup": "10"
+  },
+  {
+    "id": "uc:En_32_10_46",
+    "code": "En_32_10_46",
+    "name": "Livestock buildings",
+    "tokens": [
+      "buildings",
+      "livestock"
+    ],
+    "table": "En",
+    "group": "32",
+    "subgroup": "10"
+  },
+  {
+    "id": "uc:En_32_10_47",
+    "code": "En_32_10_47",
+    "name": "Livestock paddocks and fields",
+    "tokens": [
+      "paddocks",
+      "fields",
+      "livestock"
+    ],
+    "table": "En",
+    "group": "32",
+    "subgroup": "10"
+  },
+  {
+    "id": "uc:En_32_10_93",
+    "code": "En_32_10_93",
+    "name": "Vineyard and winery buildings",
+    "tokens": [
+      "vineyard",
+      "winery",
+      "buildings"
+    ],
+    "table": "En",
+    "group": "32",
+    "subgroup": "10"
+  },
+  {
+    "id": "uc:En_32_10_94",
+    "code": "En_32_10_94",
+    "name": "Vineyard plantations",
+    "tokens": [
+      "plantations",
+      "vineyard"
+    ],
+    "table": "En",
+    "group": "32",
+    "subgroup": "10"
+  },
+  {
+    "id": "uc:En_32_20",
+    "code": "En_32_20",
+    "name": "Designated land entities",
+    "tokens": [
+      "entities",
+      "designated",
+      "land"
+    ],
+    "table": "En",
+    "group": "32",
+    "subgroup": "20"
+  },
+  {
+    "id": "uc:En_32_20_65",
+    "code": "En_32_20_65",
+    "name": "Plots of land",
+    "tokens": [
+      "plots",
+      "land"
+    ],
+    "table": "En",
+    "group": "32",
+    "subgroup": "20"
+  },
+  {
+    "id": "uc:En_32_35",
+    "code": "En_32_35",
+    "name": "Grounds",
+    "tokens": [
+      "grounds"
+    ],
+    "table": "En",
+    "group": "32",
+    "subgroup": "35"
+  },
+  {
+    "id": "uc:En_32_35_05",
+    "code": "En_32_35_05",
+    "name": "Arboretums",
+    "tokens": [
+      "arboretums"
+    ],
+    "table": "En",
+    "group": "32",
+    "subgroup": "35"
+  },
+  {
+    "id": "uc:En_32_35_15",
+    "code": "En_32_35_15",
+    "name": "Community gardens",
+    "tokens": [
+      "community",
+      "gardens"
+    ],
+    "table": "En",
+    "group": "32",
+    "subgroup": "35"
+  },
+  {
+    "id": "uc:En_32_35_33",
+    "code": "En_32_35_33",
+    "name": "Gardens",
+    "tokens": [
+      "gardens"
+    ],
+    "table": "En",
+    "group": "32",
+    "subgroup": "35"
+  },
+  {
+    "id": "uc:En_32_35_36",
+    "code": "En_32_35_36",
+    "name": "Hard landscapes",
+    "tokens": [
+      "hard",
+      "landscapes"
+    ],
+    "table": "En",
+    "group": "32",
+    "subgroup": "35"
+  },
+  {
+    "id": "uc:En_32_35_80",
+    "code": "En_32_35_80",
+    "name": "Soft landscapes",
+    "tokens": [
+      "soft",
+      "landscapes"
+    ],
+    "table": "En",
+    "group": "32",
+    "subgroup": "35"
+  },
+  {
+    "id": "uc:En_32_40",
+    "code": "En_32_40",
+    "name": "Land managed entities",
+    "tokens": [
+      "entities",
+      "managed",
+      "land"
+    ],
+    "table": "En",
+    "group": "32",
+    "subgroup": "40"
+  },
+  {
+    "id": "uc:En_32_40_20",
+    "code": "En_32_40_20",
+    "name": "Cuttings",
+    "tokens": [
+      "cuttings"
+    ],
+    "table": "En",
+    "group": "32",
+    "subgroup": "40"
+  },
+  {
+    "id": "uc:En_32_40_26",
+    "code": "En_32_40_26",
+    "name": "Embankments",
+    "tokens": [
+      "embankments"
+    ],
+    "table": "En",
+    "group": "32",
+    "subgroup": "40"
+  },
+  {
+    "id": "uc:En_32_40_30",
+    "code": "En_32_40_30",
+    "name": "False cuttings",
+    "tokens": [
+      "false",
+      "cuttings"
+    ],
+    "table": "En",
+    "group": "32",
+    "subgroup": "40"
+  },
+  {
+    "id": "uc:En_32_40_37",
+    "code": "En_32_40_37",
+    "name": "High ground",
+    "tokens": [
+      "high",
+      "ground"
+    ],
+    "table": "En",
+    "group": "32",
+    "subgroup": "40"
+  },
+  {
+    "id": "uc:En_32_40_90",
+    "code": "En_32_40_90",
+    "name": "Trenches",
+    "tokens": [
+      "trenches"
+    ],
+    "table": "En",
+    "group": "32",
+    "subgroup": "40"
+  },
+  {
+    "id": "uc:En_32_50",
+    "code": "En_32_50",
+    "name": "Marine and waterside entities",
+    "tokens": [
+      "waterside",
+      "entities",
+      "marine"
+    ],
+    "table": "En",
+    "group": "32",
+    "subgroup": "50"
+  },
+  {
+    "id": "uc:En_32_50_20",
+    "code": "En_32_50_20",
+    "name": "Degaussing and acoustic ranges",
+    "tokens": [
+      "acoustic",
+      "degaussing",
+      "ranges"
+    ],
+    "table": "En",
+    "group": "32",
+    "subgroup": "50"
+  },
+  {
+    "id": "uc:En_32_50_22",
+    "code": "En_32_50_22",
+    "name": "Dock buildings",
+    "tokens": [
+      "dock",
+      "buildings"
+    ],
+    "table": "En",
+    "group": "32",
+    "subgroup": "50"
+  },
+  {
+    "id": "uc:En_32_50_44",
+    "code": "En_32_50_44",
+    "name": "Jetties",
+    "tokens": [
+      "jetties"
+    ],
+    "table": "En",
+    "group": "32",
+    "subgroup": "50"
+  },
+  {
+    "id": "uc:En_32_50_46",
+    "code": "En_32_50_46",
+    "name": "Landing stages",
+    "tokens": [
+      "landing",
+      "stages"
+    ],
+    "table": "En",
+    "group": "32",
+    "subgroup": "50"
+  },
+  {
+    "id": "uc:En_32_50_58",
+    "code": "En_32_50_58",
+    "name": "Offshore anchorages",
+    "tokens": [
+      "anchorages",
+      "offshore"
+    ],
+    "table": "En",
+    "group": "32",
+    "subgroup": "50"
+  },
+  {
+    "id": "uc:En_32_50_63",
+    "code": "En_32_50_63",
+    "name": "Piers",
+    "tokens": [
+      "piers"
+    ],
+    "table": "En",
+    "group": "32",
+    "subgroup": "50"
+  },
+  {
+    "id": "uc:En_32_50_65",
+    "code": "En_32_50_65",
+    "name": "Pontoons",
+    "tokens": [
+      "pontoons"
+    ],
+    "table": "En",
+    "group": "32",
+    "subgroup": "50"
+  },
+  {
+    "id": "uc:En_32_50_69",
+    "code": "En_32_50_69",
+    "name": "Quays",
+    "tokens": [
+      "quays"
+    ],
+    "table": "En",
+    "group": "32",
+    "subgroup": "50"
+  },
+  {
+    "id": "uc:En_32_50_96",
+    "code": "En_32_50_96",
+    "name": "Waterside platforms",
+    "tokens": [
+      "waterside",
+      "platforms"
+    ],
+    "table": "En",
+    "group": "32",
+    "subgroup": "50"
+  },
+  {
+    "id": "uc:En_32_50_98",
+    "code": "En_32_50_98",
+    "name": "Wharfs",
+    "tokens": [
+      "wharfs"
+    ],
+    "table": "En",
+    "group": "32",
+    "subgroup": "50"
+  },
+  {
+    "id": "uc:En_32_60",
+    "code": "En_32_60",
+    "name": "Pollution control entities",
+    "tokens": [
+      "entities",
+      "pollution",
+      "control"
+    ],
+    "table": "En",
+    "group": "32",
+    "subgroup": "60"
+  },
+  {
+    "id": "uc:En_32_60_60",
+    "code": "En_32_60_60",
+    "name": "Permeable reactive barriers",
+    "tokens": [
+      "permeable",
+      "reactive",
+      "barriers"
+    ],
+    "table": "En",
+    "group": "32",
+    "subgroup": "60"
+  },
+  {
+    "id": "uc:En_32_65",
+    "code": "En_32_65",
+    "name": "Natural entities",
+    "tokens": [
+      "entities",
+      "natural"
+    ],
+    "table": "En",
+    "group": "32",
+    "subgroup": "65"
+  },
+  {
+    "id": "uc:En_32_65_06",
+    "code": "En_32_65_06",
+    "name": "Beaches",
+    "tokens": [
+      "beaches"
+    ],
+    "table": "En",
+    "group": "32",
+    "subgroup": "65"
+  },
+  {
+    "id": "uc:En_32_65_13",
+    "code": "En_32_65_13",
+    "name": "Cliff faces",
+    "tokens": [
+      "faces",
+      "cliff"
+    ],
+    "table": "En",
+    "group": "32",
+    "subgroup": "65"
+  },
+  {
+    "id": "uc:En_32_65_14",
+    "code": "En_32_65_14",
+    "name": "Cliff toes",
+    "tokens": [
+      "toes",
+      "cliff"
+    ],
+    "table": "En",
+    "group": "32",
+    "subgroup": "65"
+  },
+  {
+    "id": "uc:En_32_65_15",
+    "code": "En_32_65_15",
+    "name": "Clifftops",
+    "tokens": [
+      "clifftops"
+    ],
+    "table": "En",
+    "group": "32",
+    "subgroup": "65"
+  },
+  {
+    "id": "uc:En_32_65_37",
+    "code": "En_32_65_37",
+    "name": "Heathlands",
+    "tokens": [
+      "heathlands"
+    ],
+    "table": "En",
+    "group": "32",
+    "subgroup": "65"
+  },
+  {
+    "id": "uc:En_32_65_50",
+    "code": "En_32_65_50",
+    "name": "Marshes and wet grasslands",
+    "tokens": [
+      "marshes",
+      "wet",
+      "grasslands"
+    ],
+    "table": "En",
+    "group": "32",
+    "subgroup": "65"
+  },
+  {
+    "id": "uc:En_32_65_51",
+    "code": "En_32_65_51",
+    "name": "Meadows",
+    "tokens": [
+      "meadows"
+    ],
+    "table": "En",
+    "group": "32",
+    "subgroup": "65"
+  },
+  {
+    "id": "uc:En_32_65_53",
+    "code": "En_32_65_53",
+    "name": "Moorlands",
+    "tokens": [
+      "moorlands"
+    ],
+    "table": "En",
+    "group": "32",
+    "subgroup": "65"
+  },
+  {
+    "id": "uc:En_32_65_55",
+    "code": "En_32_65_55",
+    "name": "Mudflats",
+    "tokens": [
+      "mudflats"
+    ],
+    "table": "En",
+    "group": "32",
+    "subgroup": "65"
+  },
+  {
+    "id": "uc:En_32_65_59",
+    "code": "En_32_65_59",
+    "name": "Open grasslands",
+    "tokens": [
+      "open",
+      "grasslands"
+    ],
+    "table": "En",
+    "group": "32",
+    "subgroup": "65"
+  },
+  {
+    "id": "uc:En_32_65_73",
+    "code": "En_32_65_73",
+    "name": "Rocks and screes",
+    "tokens": [
+      "screes",
+      "rocks"
+    ],
+    "table": "En",
+    "group": "32",
+    "subgroup": "65"
+  },
+  {
+    "id": "uc:En_32_65_75",
+    "code": "En_32_65_75",
+    "name": "Sand dunes",
+    "tokens": [
+      "sand",
+      "dunes"
+    ],
+    "table": "En",
+    "group": "32",
+    "subgroup": "65"
+  },
+  {
+    "id": "uc:En_32_65_76",
+    "code": "En_32_65_76",
+    "name": "Scrub",
+    "tokens": [
+      "scrub"
+    ],
+    "table": "En",
+    "group": "32",
+    "subgroup": "65"
+  },
+  {
+    "id": "uc:En_32_65_80",
+    "code": "En_32_65_80",
+    "name": "Shingle banks",
+    "tokens": [
+      "banks",
+      "shingle"
+    ],
+    "table": "En",
+    "group": "32",
+    "subgroup": "65"
+  },
+  {
+    "id": "uc:En_32_65_81",
+    "code": "En_32_65_81",
+    "name": "Shores",
+    "tokens": [
+      "shores"
+    ],
+    "table": "En",
+    "group": "32",
+    "subgroup": "65"
+  },
+  {
+    "id": "uc:En_32_65_82",
+    "code": "En_32_65_82",
+    "name": "Species-rich grassland",
+    "tokens": [
+      "rich",
+      "species",
+      "grassland"
+    ],
+    "table": "En",
+    "group": "32",
+    "subgroup": "65"
+  },
+  {
+    "id": "uc:En_32_65_95",
+    "code": "En_32_65_95",
+    "name": "Washland",
+    "tokens": [
+      "washland"
+    ],
+    "table": "En",
+    "group": "32",
+    "subgroup": "65"
+  },
+  {
+    "id": "uc:En_32_85",
+    "code": "En_32_85",
+    "name": "Water control and retaining entities",
+    "tokens": [
+      "entities",
+      "water",
+      "retaining",
+      "control"
+    ],
+    "table": "En",
+    "group": "32",
+    "subgroup": "85"
+  },
+  {
+    "id": "uc:En_32_85_06",
+    "code": "En_32_85_06",
+    "name": "Barrier beaches",
+    "tokens": [
+      "beaches",
+      "barrier"
+    ],
+    "table": "En",
+    "group": "32",
+    "subgroup": "85"
+  },
+  {
+    "id": "uc:En_32_85_10",
+    "code": "En_32_85_10",
+    "name": "Breakwaters",
+    "tokens": [
+      "breakwaters"
+    ],
+    "table": "En",
+    "group": "32",
+    "subgroup": "85"
+  },
+  {
+    "id": "uc:En_32_85_15",
+    "code": "En_32_85_15",
+    "name": "Control gates",
+    "tokens": [
+      "control",
+      "gates"
+    ],
+    "table": "En",
+    "group": "32",
+    "subgroup": "85"
+  },
+  {
+    "id": "uc:En_32_85_21",
+    "code": "En_32_85_21",
+    "name": "Dams",
+    "tokens": [
+      "dams"
+    ],
+    "table": "En",
+    "group": "32",
+    "subgroup": "85"
+  },
+  {
+    "id": "uc:En_32_85_23",
+    "code": "En_32_85_23",
+    "name": "Debris screens",
+    "tokens": [
+      "screens",
+      "debris"
+    ],
+    "table": "En",
+    "group": "32",
+    "subgroup": "85"
+  },
+  {
+    "id": "uc:En_32_85_24",
+    "code": "En_32_85_24",
+    "name": "Dolphins",
+    "tokens": [
+      "dolphins"
+    ],
+    "table": "En",
+    "group": "32",
+    "subgroup": "85"
+  },
+  {
+    "id": "uc:En_32_85_25",
+    "code": "En_32_85_25",
+    "name": "Draw-off towers",
+    "tokens": [
+      "off",
+      "draw",
+      "towers"
+    ],
+    "table": "En",
+    "group": "32",
+    "subgroup": "85"
+  },
+  {
+    "id": "uc:En_32_85_30",
+    "code": "En_32_85_30",
+    "name": "Flood prevention structures",
+    "tokens": [
+      "prevention",
+      "structures",
+      "flood"
+    ],
+    "table": "En",
+    "group": "32",
+    "subgroup": "85"
+  },
+  {
+    "id": "uc:En_32_85_31",
+    "code": "En_32_85_31",
+    "name": "Flumes",
+    "tokens": [
+      "flumes"
+    ],
+    "table": "En",
+    "group": "32",
+    "subgroup": "85"
+  },
+  {
+    "id": "uc:En_32_85_35",
+    "code": "En_32_85_35",
+    "name": "Groynes",
+    "tokens": [
+      "groynes"
+    ],
+    "table": "En",
+    "group": "32",
+    "subgroup": "85"
+  },
+  {
+    "id": "uc:En_32_85_45",
+    "code": "En_32_85_45",
+    "name": "Levees",
+    "tokens": [
+      "levees"
+    ],
+    "table": "En",
+    "group": "32",
+    "subgroup": "85"
+  },
+  {
+    "id": "uc:En_32_85_59",
+    "code": "En_32_85_59",
+    "name": "Outfalls",
+    "tokens": [
+      "outfalls"
+    ],
+    "table": "En",
+    "group": "32",
+    "subgroup": "85"
+  },
+  {
+    "id": "uc:En_32_85_72",
+    "code": "En_32_85_72",
+    "name": "Revetments",
+    "tokens": [
+      "revetments"
+    ],
+    "table": "En",
+    "group": "32",
+    "subgroup": "85"
+  },
+  {
+    "id": "uc:En_32_85_75",
+    "code": "En_32_85_75",
+    "name": "Sand traps",
+    "tokens": [
+      "sand",
+      "traps"
+    ],
+    "table": "En",
+    "group": "32",
+    "subgroup": "85"
+  },
+  {
+    "id": "uc:En_32_85_77",
+    "code": "En_32_85_77",
+    "name": "Sea dikes",
+    "tokens": [
+      "dikes",
+      "sea"
+    ],
+    "table": "En",
+    "group": "32",
+    "subgroup": "85"
+  },
+  {
+    "id": "uc:En_32_85_80",
+    "code": "En_32_85_80",
+    "name": "Sluices",
+    "tokens": [
+      "sluices"
+    ],
+    "table": "En",
+    "group": "32",
+    "subgroup": "85"
+  },
+  {
+    "id": "uc:En_32_85_82",
+    "code": "En_32_85_82",
+    "name": "Spillways",
+    "tokens": [
+      "spillways"
+    ],
+    "table": "En",
+    "group": "32",
+    "subgroup": "85"
+  },
+  {
+    "id": "uc:En_32_85_84",
+    "code": "En_32_85_84",
+    "name": "Stilling basins",
+    "tokens": [
+      "stilling",
+      "basins"
+    ],
+    "table": "En",
+    "group": "32",
+    "subgroup": "85"
+  },
+  {
+    "id": "uc:En_32_85_96",
+    "code": "En_32_85_96",
+    "name": "Water-retaining walls",
+    "tokens": [
+      "water",
+      "retaining",
+      "walls"
+    ],
+    "table": "En",
+    "group": "32",
+    "subgroup": "85"
+  },
+  {
+    "id": "uc:En_32_85_97",
+    "code": "En_32_85_97",
+    "name": "Weirs",
+    "tokens": [
+      "weirs"
+    ],
+    "table": "En",
+    "group": "32",
+    "subgroup": "85"
+  },
+  {
+    "id": "uc:En_32_85_98",
+    "code": "En_32_85_98",
+    "name": "Wells",
+    "tokens": [
+      "wells"
+    ],
+    "table": "En",
+    "group": "32",
+    "subgroup": "85"
+  },
+  {
+    "id": "uc:En_32_95",
+    "code": "En_32_95",
+    "name": "Waterways",
+    "tokens": [
+      "waterways"
+    ],
+    "table": "En",
+    "group": "32",
+    "subgroup": "95"
+  },
+  {
+    "id": "uc:En_32_95_14",
+    "code": "En_32_95_14",
+    "name": "Channels",
+    "tokens": [
+      "channels"
+    ],
+    "table": "En",
+    "group": "32",
+    "subgroup": "95"
+  },
+  {
+    "id": "uc:En_32_95_16",
+    "code": "En_32_95_16",
+    "name": "Complex culverts",
+    "tokens": [
+      "complex",
+      "culverts"
+    ],
+    "table": "En",
+    "group": "32",
+    "subgroup": "95"
+  },
+  {
+    "id": "uc:En_32_95_23",
+    "code": "En_32_95_23",
+    "name": "Ditches",
+    "tokens": [
+      "ditches"
+    ],
+    "table": "En",
+    "group": "32",
+    "subgroup": "95"
+  },
+  {
+    "id": "uc:En_32_95_30",
+    "code": "En_32_95_30",
+    "name": "Fish, eel and lamprey passes",
+    "tokens": [
+      "eel",
+      "passes",
+      "lamprey",
+      "fish"
+    ],
+    "table": "En",
+    "group": "32",
+    "subgroup": "95"
+  },
+  {
+    "id": "uc:En_32_95_59",
+    "code": "En_32_95_59",
+    "name": "Open channels",
+    "tokens": [
+      "channels",
+      "open"
+    ],
+    "table": "En",
+    "group": "32",
+    "subgroup": "95"
+  },
+  {
+    "id": "uc:En_32_95_80",
+    "code": "En_32_95_80",
+    "name": "Simple culverts",
+    "tokens": [
+      "culverts",
+      "simple"
+    ],
+    "table": "En",
+    "group": "32",
+    "subgroup": "95"
+  },
+  {
+    "id": "uc:En_32_95_85",
+    "code": "En_32_95_85",
+    "name": "Surface water channels",
+    "tokens": [
+      "water",
+      "channels",
+      "surface"
+    ],
+    "table": "En",
+    "group": "32",
+    "subgroup": "95"
+  },
+  {
+    "id": "uc:En_32_95_86",
+    "code": "En_32_95_86",
+    "name": "Swales",
+    "tokens": [
+      "swales"
+    ],
+    "table": "En",
+    "group": "32",
+    "subgroup": "95"
+  },
+  {
+    "id": "uc:En_35",
+    "code": "En_35",
+    "name": "Medical, health, welfare and sanitary entities",
+    "tokens": [
+      "entities",
+      "welfare",
+      "medical",
+      "health",
+      "sanitary"
+    ],
+    "table": "En",
+    "group": "35",
+    "subgroup": ""
+  },
+  {
+    "id": "uc:En_35_10",
+    "code": "En_35_10",
+    "name": "Medical entities",
+    "tokens": [
+      "entities",
+      "medical"
+    ],
+    "table": "En",
+    "group": "35",
+    "subgroup": "10"
+  },
+  {
+    "id": "uc:En_35_10_10",
+    "code": "En_35_10_10",
+    "name": "Medical buildings",
+    "tokens": [
+      "buildings",
+      "medical"
+    ],
+    "table": "En",
+    "group": "35",
+    "subgroup": "10"
+  },
+  {
+    "id": "uc:En_35_50",
+    "code": "En_35_50",
+    "name": "Welfare entities",
+    "tokens": [
+      "welfare",
+      "entities"
+    ],
+    "table": "En",
+    "group": "35",
+    "subgroup": "50"
+  },
+  {
+    "id": "uc:En_35_50_21",
+    "code": "En_35_50_21",
+    "name": "Day welfare buildings",
+    "tokens": [
+      "day",
+      "buildings",
+      "welfare"
+    ],
+    "table": "En",
+    "group": "35",
+    "subgroup": "50"
+  },
+  {
+    "id": "uc:En_35_50_70",
+    "code": "En_35_50_70",
+    "name": "Residential welfare buildings",
+    "tokens": [
+      "welfare",
+      "buildings",
+      "residential"
+    ],
+    "table": "En",
+    "group": "35",
+    "subgroup": "50"
+  },
+  {
+    "id": "uc:En_35_50_94",
+    "code": "En_35_50_94",
+    "name": "Visitor welfare buildings",
+    "tokens": [
+      "welfare",
+      "buildings",
+      "visitor"
+    ],
+    "table": "En",
+    "group": "35",
+    "subgroup": "50"
+  },
+  {
+    "id": "uc:En_35_70",
+    "code": "En_35_70",
+    "name": "Funerary entities",
+    "tokens": [
+      "entities",
+      "funerary"
+    ],
+    "table": "En",
+    "group": "35",
+    "subgroup": "70"
+  },
+  {
+    "id": "uc:En_35_70_06",
+    "code": "En_35_70_06",
+    "name": "Body storage buildings",
+    "tokens": [
+      "storage",
+      "buildings",
+      "body"
+    ],
+    "table": "En",
+    "group": "35",
+    "subgroup": "70"
+  },
+  {
+    "id": "uc:En_35_70_10",
+    "code": "En_35_70_10",
+    "name": "Burial buildings",
+    "tokens": [
+      "buildings",
+      "burial"
+    ],
+    "table": "En",
+    "group": "35",
+    "subgroup": "70"
+  },
+  {
+    "id": "uc:En_35_70_11",
+    "code": "En_35_70_11",
+    "name": "Burial grounds",
+    "tokens": [
+      "grounds",
+      "burial"
+    ],
+    "table": "En",
+    "group": "35",
+    "subgroup": "70"
+  },
+  {
+    "id": "uc:En_35_70_30",
+    "code": "En_35_70_30",
+    "name": "Funeral buildings",
+    "tokens": [
+      "funeral",
+      "buildings"
+    ],
+    "table": "En",
+    "group": "35",
+    "subgroup": "70"
+  },
+  {
+    "id": "uc:En_35_70_60",
+    "code": "En_35_70_60",
+    "name": "Medical chimney stacks",
+    "tokens": [
+      "medical",
+      "stacks",
+      "chimney"
+    ],
+    "table": "En",
+    "group": "35",
+    "subgroup": "70"
+  },
+  {
+    "id": "uc:En_35_80",
+    "code": "En_35_80",
+    "name": "Sanitary entities",
+    "tokens": [
+      "entities",
+      "sanitary"
+    ],
+    "table": "En",
+    "group": "35",
+    "subgroup": "80"
+  },
+  {
+    "id": "uc:En_35_80_10",
+    "code": "En_35_80_10",
+    "name": "Bathing buildings",
+    "tokens": [
+      "buildings",
+      "bathing"
+    ],
+    "table": "En",
+    "group": "35",
+    "subgroup": "80"
+  },
+  {
+    "id": "uc:En_35_80_90",
+    "code": "En_35_80_90",
+    "name": "Toilet buildings",
+    "tokens": [
+      "toilet",
+      "buildings"
+    ],
+    "table": "En",
+    "group": "35",
+    "subgroup": "80"
+  },
+  {
+    "id": "uc:En_35_85",
+    "code": "En_35_85",
+    "name": "Animal entities",
+    "tokens": [
+      "entities",
+      "animal"
+    ],
+    "table": "En",
+    "group": "35",
+    "subgroup": "85"
+  },
+  {
+    "id": "uc:En_35_85_02",
+    "code": "En_35_85_02",
+    "name": "Animal cage buildings",
+    "tokens": [
+      "cage",
+      "buildings",
+      "animal"
+    ],
+    "table": "En",
+    "group": "35",
+    "subgroup": "85"
+  },
+  {
+    "id": "uc:En_35_85_03",
+    "code": "En_35_85_03",
+    "name": "Animal pen buildings",
+    "tokens": [
+      "buildings",
+      "pen",
+      "animal"
+    ],
+    "table": "En",
+    "group": "35",
+    "subgroup": "85"
+  },
+  {
+    "id": "uc:En_35_85_84",
+    "code": "En_35_85_84",
+    "name": "Stable buildings",
+    "tokens": [
+      "stable",
+      "buildings"
+    ],
+    "table": "En",
+    "group": "35",
+    "subgroup": "85"
+  },
+  {
+    "id": "uc:En_35_90",
+    "code": "En_35_90",
+    "name": "Animal medical, health, welfare and funerary entities",
+    "tokens": [
+      "entities",
+      "welfare",
+      "medical",
+      "funerary",
+      "health",
+      "animal"
+    ],
+    "table": "En",
+    "group": "35",
+    "subgroup": "90"
+  },
+  {
+    "id": "uc:En_35_90_10",
+    "code": "En_35_90_10",
+    "name": "Animal cemeteries",
+    "tokens": [
+      "cemeteries",
+      "animal"
+    ],
+    "table": "En",
+    "group": "35",
+    "subgroup": "90"
+  },
+  {
+    "id": "uc:En_35_90_30",
+    "code": "En_35_90_30",
+    "name": "Animal funerary buildings",
+    "tokens": [
+      "buildings",
+      "funerary",
+      "animal"
+    ],
+    "table": "En",
+    "group": "35",
+    "subgroup": "90"
+  },
+  {
+    "id": "uc:En_35_90_50",
+    "code": "En_35_90_50",
+    "name": "Animal medical buildings",
+    "tokens": [
+      "buildings",
+      "medical",
+      "animal"
+    ],
+    "table": "En",
+    "group": "35",
+    "subgroup": "90"
+  },
+  {
+    "id": "uc:En_40",
+    "code": "En_40",
+    "name": "Recreational entities",
+    "tokens": [
+      "recreational",
+      "entities"
+    ],
+    "table": "En",
+    "group": "40",
+    "subgroup": ""
+  },
+  {
+    "id": "uc:En_40_05",
+    "code": "En_40_05",
+    "name": "Amusement entities",
+    "tokens": [
+      "entities",
+      "amusement"
+    ],
+    "table": "En",
+    "group": "40",
+    "subgroup": "05"
+  },
+  {
+    "id": "uc:En_40_05_03",
+    "code": "En_40_05_03",
+    "name": "Amusement buildings",
+    "tokens": [
+      "amusement",
+      "buildings"
+    ],
+    "table": "En",
+    "group": "40",
+    "subgroup": "05"
+  },
+  {
+    "id": "uc:En_40_05_13",
+    "code": "En_40_05_13",
+    "name": "Casinos",
+    "tokens": [
+      "casinos"
+    ],
+    "table": "En",
+    "group": "40",
+    "subgroup": "05"
+  },
+  {
+    "id": "uc:En_40_05_27",
+    "code": "En_40_05_27",
+    "name": "E-sport buildings",
+    "tokens": [
+      "buildings",
+      "e",
+      "sport"
+    ],
+    "table": "En",
+    "group": "40",
+    "subgroup": "05"
+  },
+  {
+    "id": "uc:En_40_05_42",
+    "code": "En_40_05_42",
+    "name": "Indoor fairgrounds",
+    "tokens": [
+      "fairgrounds",
+      "indoor"
+    ],
+    "table": "En",
+    "group": "40",
+    "subgroup": "05"
+  },
+  {
+    "id": "uc:En_40_05_60",
+    "code": "En_40_05_60",
+    "name": "Outdoor fairgrounds",
+    "tokens": [
+      "fairgrounds",
+      "outdoor"
+    ],
+    "table": "En",
+    "group": "40",
+    "subgroup": "05"
+  },
+  {
+    "id": "uc:En_40_05_68",
+    "code": "En_40_05_68",
+    "name": "Public amenities",
+    "tokens": [
+      "public",
+      "amenities"
+    ],
+    "table": "En",
+    "group": "40",
+    "subgroup": "05"
+  },
+  {
+    "id": "uc:En_40_20",
+    "code": "En_40_20",
+    "name": "Dining entities",
+    "tokens": [
+      "entities",
+      "dining"
+    ],
+    "table": "En",
+    "group": "40",
+    "subgroup": "20"
+  },
+  {
+    "id": "uc:En_40_20_23",
+    "code": "En_40_20_23",
+    "name": "Dining buildings",
+    "tokens": [
+      "buildings",
+      "dining"
+    ],
+    "table": "En",
+    "group": "40",
+    "subgroup": "20"
+  },
+  {
+    "id": "uc:En_40_35",
+    "code": "En_40_35",
+    "name": "Historic entities",
+    "tokens": [
+      "entities",
+      "historic"
+    ],
+    "table": "En",
+    "group": "40",
+    "subgroup": "35"
+  },
+  {
+    "id": "uc:En_40_35_10",
+    "code": "En_40_35_10",
+    "name": "Buildings of historic interest",
+    "tokens": [
+      "buildings",
+      "historic",
+      "interest"
+    ],
+    "table": "En",
+    "group": "40",
+    "subgroup": "35"
+  },
+  {
+    "id": "uc:En_40_35_36",
+    "code": "En_40_35_36",
+    "name": "Historic buildings",
+    "tokens": [
+      "buildings",
+      "historic"
+    ],
+    "table": "En",
+    "group": "40",
+    "subgroup": "35"
+  },
+  {
+    "id": "uc:En_40_60",
+    "code": "En_40_60",
+    "name": "Performing arts entities",
+    "tokens": [
+      "performing",
+      "arts",
+      "entities"
+    ],
+    "table": "En",
+    "group": "40",
+    "subgroup": "60"
+  },
+  {
+    "id": "uc:En_40_60_10",
+    "code": "En_40_60_10",
+    "name": "Multiple performing arts buildings",
+    "tokens": [
+      "performing",
+      "arts",
+      "buildings",
+      "multiple"
+    ],
+    "table": "En",
+    "group": "40",
+    "subgroup": "60"
+  },
+  {
+    "id": "uc:En_40_60_70",
+    "code": "En_40_60_70",
+    "name": "Single performing arts buildings",
+    "tokens": [
+      "performing",
+      "arts",
+      "buildings",
+      "single"
+    ],
+    "table": "En",
+    "group": "40",
+    "subgroup": "60"
+  },
+  {
+    "id": "uc:En_40_75",
+    "code": "En_40_75",
+    "name": "Social recreation entities",
+    "tokens": [
+      "entities",
+      "social",
+      "recreation"
+    ],
+    "table": "En",
+    "group": "40",
+    "subgroup": "75"
+  },
+  {
+    "id": "uc:En_40_75_10",
+    "code": "En_40_75_10",
+    "name": "Multiple social recreation buildings",
+    "tokens": [
+      "buildings",
+      "social",
+      "multiple",
+      "recreation"
+    ],
+    "table": "En",
+    "group": "40",
+    "subgroup": "75"
+  },
+  {
+    "id": "uc:En_40_75_15",
+    "code": "En_40_75_15",
+    "name": "Club houses",
+    "tokens": [
+      "club",
+      "houses"
+    ],
+    "table": "En",
+    "group": "40",
+    "subgroup": "75"
+  },
+  {
+    "id": "uc:En_40_75_70",
+    "code": "En_40_75_70",
+    "name": "Single social recreation buildings",
+    "tokens": [
+      "buildings",
+      "social",
+      "single",
+      "recreation"
+    ],
+    "table": "En",
+    "group": "40",
+    "subgroup": "75"
+  },
+  {
+    "id": "uc:En_40_75_94",
+    "code": "En_40_75_94",
+    "name": "Visitor centres",
+    "tokens": [
+      "centres",
+      "visitor"
+    ],
+    "table": "En",
+    "group": "40",
+    "subgroup": "75"
+  },
+  {
+    "id": "uc:En_42",
+    "code": "En_42",
+    "name": "Sport and activity entities",
+    "tokens": [
+      "entities",
+      "activity",
+      "sport"
+    ],
+    "table": "En",
+    "group": "42",
+    "subgroup": ""
+  },
+  {
+    "id": "uc:En_42_15",
+    "code": "En_42_15",
+    "name": "Courts, pitches and field sports entities",
+    "tokens": [
+      "entities",
+      "courts",
+      "field",
+      "pitches",
+      "sports"
+    ],
+    "table": "En",
+    "group": "42",
+    "subgroup": "15"
+  },
+  {
+    "id": "uc:En_42_15_04",
+    "code": "En_42_15_04",
+    "name": "Athletics facilities",
+    "tokens": [
+      "facilities",
+      "athletics"
+    ],
+    "table": "En",
+    "group": "42",
+    "subgroup": "15"
+  },
+  {
+    "id": "uc:En_42_15_06",
+    "code": "En_42_15_06",
+    "name": "Ball courts",
+    "tokens": [
+      "courts",
+      "ball"
+    ],
+    "table": "En",
+    "group": "42",
+    "subgroup": "15"
+  },
+  {
+    "id": "uc:En_42_15_81",
+    "code": "En_42_15_81",
+    "name": "Sports grounds",
+    "tokens": [
+      "sports",
+      "grounds"
+    ],
+    "table": "En",
+    "group": "42",
+    "subgroup": "15"
+  },
+  {
+    "id": "uc:En_42_15_82",
+    "code": "En_42_15_82",
+    "name": "Sports pitches",
+    "tokens": [
+      "sports",
+      "pitches"
+    ],
+    "table": "En",
+    "group": "42",
+    "subgroup": "15"
+  },
+  {
+    "id": "uc:En_42_40",
+    "code": "En_42_40",
+    "name": "Indoor activity entities",
+    "tokens": [
+      "entities",
+      "activity",
+      "indoor"
+    ],
+    "table": "En",
+    "group": "42",
+    "subgroup": "40"
+  },
+  {
+    "id": "uc:En_42_40_80",
+    "code": "En_42_40_80",
+    "name": "Sports buildings",
+    "tokens": [
+      "sports",
+      "buildings"
+    ],
+    "table": "En",
+    "group": "42",
+    "subgroup": "40"
+  },
+  {
+    "id": "uc:En_42_55",
+    "code": "En_42_55",
+    "name": "Outdoor activity entities",
+    "tokens": [
+      "entities",
+      "activity",
+      "outdoor"
+    ],
+    "table": "En",
+    "group": "42",
+    "subgroup": "55"
+  },
+  {
+    "id": "uc:En_42_55_01",
+    "code": "En_42_55_01",
+    "name": "Activity grounds",
+    "tokens": [
+      "grounds",
+      "activity"
+    ],
+    "table": "En",
+    "group": "42",
+    "subgroup": "55"
+  },
+  {
+    "id": "uc:En_42_55_18",
+    "code": "En_42_55_18",
+    "name": "Cricket pavilions",
+    "tokens": [
+      "pavilions",
+      "cricket"
+    ],
+    "table": "En",
+    "group": "42",
+    "subgroup": "55"
+  },
+  {
+    "id": "uc:En_42_55_34",
+    "code": "En_42_55_34",
+    "name": "Golf driving ranges",
+    "tokens": [
+      "golf",
+      "driving",
+      "ranges"
+    ],
+    "table": "En",
+    "group": "42",
+    "subgroup": "55"
+  },
+  {
+    "id": "uc:En_42_85",
+    "code": "En_42_85",
+    "name": "Swimming entities",
+    "tokens": [
+      "swimming",
+      "entities"
+    ],
+    "table": "En",
+    "group": "42",
+    "subgroup": "85"
+  },
+  {
+    "id": "uc:En_42_85_60",
+    "code": "En_42_85_60",
+    "name": "Outdoor swimming pools",
+    "tokens": [
+      "swimming",
+      "pools",
+      "outdoor"
+    ],
+    "table": "En",
+    "group": "42",
+    "subgroup": "85"
+  },
+  {
+    "id": "uc:En_42_85_83",
+    "code": "En_42_85_83",
+    "name": "Swimming pool buildings",
+    "tokens": [
+      "swimming",
+      "pool",
+      "buildings"
+    ],
+    "table": "En",
+    "group": "42",
+    "subgroup": "85"
+  },
+  {
+    "id": "uc:En_42_90",
+    "code": "En_42_90",
+    "name": "Water activity entities",
+    "tokens": [
+      "entities",
+      "water",
+      "activity"
+    ],
+    "table": "En",
+    "group": "42",
+    "subgroup": "90"
+  },
+  {
+    "id": "uc:En_42_95",
+    "code": "En_42_95",
+    "name": "Winter sports entities",
+    "tokens": [
+      "sports",
+      "entities",
+      "winter"
+    ],
+    "table": "En",
+    "group": "42",
+    "subgroup": "95"
+  },
+  {
+    "id": "uc:En_42_95_40",
+    "code": "En_42_95_40",
+    "name": "Ice rink buildings",
+    "tokens": [
+      "ice",
+      "buildings",
+      "rink"
+    ],
+    "table": "En",
+    "group": "42",
+    "subgroup": "95"
+  },
+  {
+    "id": "uc:En_42_95_80",
+    "code": "En_42_95_80",
+    "name": "Ski resort buildings",
+    "tokens": [
+      "buildings",
+      "resort",
+      "ski"
+    ],
+    "table": "En",
+    "group": "42",
+    "subgroup": "95"
+  },
+  {
+    "id": "uc:En_45",
+    "code": "En_45",
+    "name": "Residential entities",
+    "tokens": [
+      "entities",
+      "residential"
+    ],
+    "table": "En",
+    "group": "45",
+    "subgroup": ""
+  },
+  {
+    "id": "uc:En_45_10",
+    "code": "En_45_10",
+    "name": "Residential buildings",
+    "tokens": [
+      "buildings",
+      "residential"
+    ],
+    "table": "En",
+    "group": "45",
+    "subgroup": "10"
+  },
+  {
+    "id": "uc:En_45_10_39",
+    "code": "En_45_10_39",
+    "name": "Houses",
+    "tokens": [
+      "houses"
+    ],
+    "table": "En",
+    "group": "45",
+    "subgroup": "10"
+  },
+  {
+    "id": "uc:En_45_10_47",
+    "code": "En_45_10_47",
+    "name": "Long-term residential buildings",
+    "tokens": [
+      "buildings",
+      "long",
+      "term",
+      "residential"
+    ],
+    "table": "En",
+    "group": "45",
+    "subgroup": "10"
+  },
+  {
+    "id": "uc:En_45_10_70",
+    "code": "En_45_10_70",
+    "name": "Short-term residential buildings",
+    "tokens": [
+      "buildings",
+      "short",
+      "term",
+      "residential"
+    ],
+    "table": "En",
+    "group": "45",
+    "subgroup": "10"
+  },
+  {
+    "id": "uc:En_45_10_90",
+    "code": "En_45_10_90",
+    "name": "Temporary residential buildings",
+    "tokens": [
+      "temporary",
+      "buildings",
+      "residential"
+    ],
+    "table": "En",
+    "group": "45",
+    "subgroup": "10"
+  },
+  {
+    "id": "uc:En_50",
+    "code": "En_50",
+    "name": "Waste disposal entities",
+    "tokens": [
+      "disposal",
+      "entities",
+      "waste"
+    ],
+    "table": "En",
+    "group": "50",
+    "subgroup": ""
+  },
+  {
+    "id": "uc:En_50_10",
+    "code": "En_50_10",
+    "name": "Gas waste collection entities",
+    "tokens": [
+      "entities",
+      "collection",
+      "gas",
+      "waste"
+    ],
+    "table": "En",
+    "group": "50",
+    "subgroup": "10"
+  },
+  {
+    "id": "uc:En_50_20",
+    "code": "En_50_20",
+    "name": "Non-aqueous waste collection entities",
+    "tokens": [
+      "non",
+      "entities",
+      "collection",
+      "aqueous",
+      "waste"
+    ],
+    "table": "En",
+    "group": "50",
+    "subgroup": "20"
+  },
+  {
+    "id": "uc:En_50_20_10",
+    "code": "En_50_20_10",
+    "name": "Non-aqueous waste collection tanks",
+    "tokens": [
+      "non",
+      "collection",
+      "aqueous",
+      "tanks",
+      "waste"
+    ],
+    "table": "En",
+    "group": "50",
+    "subgroup": "20"
+  },
+  {
+    "id": "uc:En_50_30",
+    "code": "En_50_30",
+    "name": "Drainage collection entities",
+    "tokens": [
+      "entities",
+      "collection",
+      "drainage"
+    ],
+    "table": "En",
+    "group": "50",
+    "subgroup": "30"
+  },
+  {
+    "id": "uc:En_50_30_25",
+    "code": "En_50_30_25",
+    "name": "Drainage collection pipelines",
+    "tokens": [
+      "collection",
+      "pipelines",
+      "drainage"
+    ],
+    "table": "En",
+    "group": "50",
+    "subgroup": "30"
+  },
+  {
+    "id": "uc:En_50_35",
+    "code": "En_50_35",
+    "name": "Wastewater and surface water collection entities",
+    "tokens": [
+      "wastewater",
+      "entities",
+      "surface",
+      "collection",
+      "water"
+    ],
+    "table": "En",
+    "group": "50",
+    "subgroup": "35"
+  },
+  {
+    "id": "uc:En_50_35_15",
+    "code": "En_50_35_15",
+    "name": "Combined wastewater collection pipelines",
+    "tokens": [
+      "wastewater",
+      "combined",
+      "collection",
+      "pipelines"
+    ],
+    "table": "En",
+    "group": "50",
+    "subgroup": "35"
+  },
+  {
+    "id": "uc:En_50_35_83",
+    "code": "En_50_35_83",
+    "name": "Storm water pumping stations",
+    "tokens": [
+      "stations",
+      "water",
+      "pumping",
+      "storm"
+    ],
+    "table": "En",
+    "group": "50",
+    "subgroup": "35"
+  },
+  {
+    "id": "uc:En_50_35_85",
+    "code": "En_50_35_85",
+    "name": "Surface water collection pipelines",
+    "tokens": [
+      "water",
+      "collection",
+      "pipelines",
+      "surface"
+    ],
+    "table": "En",
+    "group": "50",
+    "subgroup": "35"
+  },
+  {
+    "id": "uc:En_50_35_87",
+    "code": "En_50_35_87",
+    "name": "Surface water pumping stations",
+    "tokens": [
+      "stations",
+      "water",
+      "pumping",
+      "surface"
+    ],
+    "table": "En",
+    "group": "50",
+    "subgroup": "35"
+  },
+  {
+    "id": "uc:En_50_35_93",
+    "code": "En_50_35_93",
+    "name": "Wastewater pumping stations",
+    "tokens": [
+      "wastewater",
+      "stations",
+      "pumping"
+    ],
+    "table": "En",
+    "group": "50",
+    "subgroup": "35"
+  },
+  {
+    "id": "uc:En_50_35_98",
+    "code": "En_50_35_98",
+    "name": "Wastewater collection pipelines",
+    "tokens": [
+      "wastewater",
+      "collection",
+      "pipelines"
+    ],
+    "table": "En",
+    "group": "50",
+    "subgroup": "35"
+  },
+  {
+    "id": "uc:En_50_35_99",
+    "code": "En_50_35_99",
+    "name": "Wastewater rising mains",
+    "tokens": [
+      "wastewater",
+      "rising",
+      "mains"
+    ],
+    "table": "En",
+    "group": "50",
+    "subgroup": "35"
+  },
+  {
+    "id": "uc:En_50_40",
+    "code": "En_50_40",
+    "name": "Dry waste collection and distribution",
+    "tokens": [
+      "dry",
+      "collection",
+      "distribution",
+      "waste"
+    ],
+    "table": "En",
+    "group": "50",
+    "subgroup": "40"
+  },
+  {
+    "id": "uc:En_50_40_10",
+    "code": "En_50_40_10",
+    "name": "Dry waste collection structures",
+    "tokens": [
+      "structures",
+      "dry",
+      "collection",
+      "waste"
+    ],
+    "table": "En",
+    "group": "50",
+    "subgroup": "40"
+  },
+  {
+    "id": "uc:En_50_40_11",
+    "code": "En_50_40_11",
+    "name": "Dry waste storage structures",
+    "tokens": [
+      "storage",
+      "dry",
+      "structures",
+      "waste"
+    ],
+    "table": "En",
+    "group": "50",
+    "subgroup": "40"
+  },
+  {
+    "id": "uc:En_50_40_12",
+    "code": "En_50_40_12",
+    "name": "Dry waste storage yards",
+    "tokens": [
+      "storage",
+      "dry",
+      "yards",
+      "waste"
+    ],
+    "table": "En",
+    "group": "50",
+    "subgroup": "40"
+  },
+  {
+    "id": "uc:En_50_40_50",
+    "code": "En_50_40_50",
+    "name": "Dry waste distribution structures",
+    "tokens": [
+      "structures",
+      "dry",
+      "distribution",
+      "waste"
+    ],
+    "table": "En",
+    "group": "50",
+    "subgroup": "40"
+  },
+  {
+    "id": "uc:En_50_50",
+    "code": "En_50_50",
+    "name": "Gas waste storage, treatment and disposal",
+    "tokens": [
+      "disposal",
+      "gas",
+      "treatment",
+      "storage",
+      "waste"
+    ],
+    "table": "En",
+    "group": "50",
+    "subgroup": "50"
+  },
+  {
+    "id": "uc:En_50_60",
+    "code": "En_50_60",
+    "name": "Non-aqueous waste storage, treatment and disposal",
+    "tokens": [
+      "disposal",
+      "non",
+      "treatment",
+      "storage",
+      "aqueous",
+      "waste"
+    ],
+    "table": "En",
+    "group": "50",
+    "subgroup": "60"
+  },
+  {
+    "id": "uc:En_50_70",
+    "code": "En_50_70",
+    "name": "Drainage storage, treatment and disposal",
+    "tokens": [
+      "disposal",
+      "storage",
+      "drainage",
+      "treatment"
+    ],
+    "table": "En",
+    "group": "50",
+    "subgroup": "70"
+  },
+  {
+    "id": "uc:En_50_75",
+    "code": "En_50_75",
+    "name": "Wastewater storage, treatment and disposal",
+    "tokens": [
+      "wastewater",
+      "storage",
+      "disposal",
+      "treatment"
+    ],
+    "table": "En",
+    "group": "50",
+    "subgroup": "75"
+  },
+  {
+    "id": "uc:En_50_75_20",
+    "code": "En_50_75_20",
+    "name": "Dewatering hubs",
+    "tokens": [
+      "dewatering",
+      "hubs"
+    ],
+    "table": "En",
+    "group": "50",
+    "subgroup": "75"
+  },
+  {
+    "id": "uc:En_50_75_26",
+    "code": "En_50_75_26",
+    "name": "Effluent tanks",
+    "tokens": [
+      "tanks",
+      "effluent"
+    ],
+    "table": "En",
+    "group": "50",
+    "subgroup": "75"
+  },
+  {
+    "id": "uc:En_50_75_30",
+    "code": "En_50_75_30",
+    "name": "Final effluent pumping stations",
+    "tokens": [
+      "stations",
+      "effluent",
+      "pumping",
+      "final"
+    ],
+    "table": "En",
+    "group": "50",
+    "subgroup": "75"
+  },
+  {
+    "id": "uc:En_50_75_42",
+    "code": "En_50_75_42",
+    "name": "Inter-stage effluent pumping stations",
+    "tokens": [
+      "effluent",
+      "stage",
+      "stations",
+      "inter",
+      "pumping"
+    ],
+    "table": "En",
+    "group": "50",
+    "subgroup": "75"
+  },
+  {
+    "id": "uc:En_50_75_68",
+    "code": "En_50_75_68",
+    "name": "Pumping stations",
+    "tokens": [
+      "stations",
+      "pumping"
+    ],
+    "table": "En",
+    "group": "50",
+    "subgroup": "75"
+  },
+  {
+    "id": "uc:En_50_75_80",
+    "code": "En_50_75_80",
+    "name": "Sludge treatment entities",
+    "tokens": [
+      "entities",
+      "sludge",
+      "treatment"
+    ],
+    "table": "En",
+    "group": "50",
+    "subgroup": "75"
+  },
+  {
+    "id": "uc:En_50_75_95",
+    "code": "En_50_75_95",
+    "name": "Wastewater treatment entities",
+    "tokens": [
+      "wastewater",
+      "entities",
+      "treatment"
+    ],
+    "table": "En",
+    "group": "50",
+    "subgroup": "75"
+  },
+  {
+    "id": "uc:En_50_75_96",
+    "code": "En_50_75_96",
+    "name": "Wastewater storage structures",
+    "tokens": [
+      "wastewater",
+      "storage",
+      "structures"
+    ],
+    "table": "En",
+    "group": "50",
+    "subgroup": "75"
+  },
+  {
+    "id": "uc:En_50_75_97",
+    "code": "En_50_75_97",
+    "name": "Wastewater treatment lagoons",
+    "tokens": [
+      "wastewater",
+      "lagoons",
+      "treatment"
+    ],
+    "table": "En",
+    "group": "50",
+    "subgroup": "75"
+  },
+  {
+    "id": "uc:En_50_80",
+    "code": "En_50_80",
+    "name": "Dry waste treatment and disposal",
+    "tokens": [
+      "disposal",
+      "waste",
+      "dry",
+      "treatment"
+    ],
+    "table": "En",
+    "group": "50",
+    "subgroup": "80"
+  },
+  {
+    "id": "uc:En_50_80_40",
+    "code": "En_50_80_40",
+    "name": "Dry waste treatment structures",
+    "tokens": [
+      "structures",
+      "waste",
+      "dry",
+      "treatment"
+    ],
+    "table": "En",
+    "group": "50",
+    "subgroup": "80"
+  },
+  {
+    "id": "uc:En_50_80_70",
+    "code": "En_50_80_70",
+    "name": "Dry waste disposal structures",
+    "tokens": [
+      "disposal",
+      "dry",
+      "structures",
+      "waste"
+    ],
+    "table": "En",
+    "group": "50",
+    "subgroup": "80"
+  },
+  {
+    "id": "uc:En_55",
+    "code": "En_55",
+    "name": "Piped supply entities",
+    "tokens": [
+      "entities",
+      "piped",
+      "supply"
+    ],
+    "table": "En",
+    "group": "55",
+    "subgroup": ""
+  },
+  {
+    "id": "uc:En_55_05",
+    "code": "En_55_05",
+    "name": "Gas extraction, treatment and storage",
+    "tokens": [
+      "storage",
+      "extraction",
+      "gas",
+      "treatment"
+    ],
+    "table": "En",
+    "group": "55",
+    "subgroup": "05"
+  },
+  {
+    "id": "uc:En_55_05_30",
+    "code": "En_55_05_30",
+    "name": "Gas extraction structures",
+    "tokens": [
+      "structures",
+      "extraction",
+      "gas"
+    ],
+    "table": "En",
+    "group": "55",
+    "subgroup": "05"
+  },
+  {
+    "id": "uc:En_55_05_35",
+    "code": "En_55_05_35",
+    "name": "Gas extraction vessels",
+    "tokens": [
+      "extraction",
+      "vessels",
+      "gas"
+    ],
+    "table": "En",
+    "group": "55",
+    "subgroup": "05"
+  },
+  {
+    "id": "uc:En_55_05_38",
+    "code": "En_55_05_38",
+    "name": "Gas extraction pipelines",
+    "tokens": [
+      "extraction",
+      "pipelines",
+      "gas"
+    ],
+    "table": "En",
+    "group": "55",
+    "subgroup": "05"
+  },
+  {
+    "id": "uc:En_55_05_40",
+    "code": "En_55_05_40",
+    "name": "Gas storage tanks",
+    "tokens": [
+      "storage",
+      "gas",
+      "tanks"
+    ],
+    "table": "En",
+    "group": "55",
+    "subgroup": "05"
+  },
+  {
+    "id": "uc:En_55_05_70",
+    "code": "En_55_05_70",
+    "name": "Gas treatment buildings",
+    "tokens": [
+      "buildings",
+      "gas",
+      "treatment"
+    ],
+    "table": "En",
+    "group": "55",
+    "subgroup": "05"
+  },
+  {
+    "id": "uc:En_55_05_75",
+    "code": "En_55_05_75",
+    "name": "Gas treatment plant",
+    "tokens": [
+      "plant",
+      "gas",
+      "treatment"
+    ],
+    "table": "En",
+    "group": "55",
+    "subgroup": "05"
+  },
+  {
+    "id": "uc:En_55_05_78",
+    "code": "En_55_05_78",
+    "name": "Gas treatment pipelines",
+    "tokens": [
+      "pipelines",
+      "gas",
+      "treatment"
+    ],
+    "table": "En",
+    "group": "55",
+    "subgroup": "05"
+  },
+  {
+    "id": "uc:En_55_10",
+    "code": "En_55_10",
+    "name": "Liquid fuel extraction and treatment entities",
+    "tokens": [
+      "entities",
+      "liquid",
+      "treatment",
+      "fuel",
+      "extraction"
+    ],
+    "table": "En",
+    "group": "55",
+    "subgroup": "10"
+  },
+  {
+    "id": "uc:En_55_10_10",
+    "code": "En_55_10_10",
+    "name": "Oil extraction structures",
+    "tokens": [
+      "structures",
+      "oil",
+      "extraction"
+    ],
+    "table": "En",
+    "group": "55",
+    "subgroup": "10"
+  },
+  {
+    "id": "uc:En_55_10_45",
+    "code": "En_55_10_45",
+    "name": "Oil storage tanks",
+    "tokens": [
+      "storage",
+      "oil",
+      "tanks"
+    ],
+    "table": "En",
+    "group": "55",
+    "subgroup": "10"
+  },
+  {
+    "id": "uc:En_55_10_50",
+    "code": "En_55_10_50",
+    "name": "Fuel treatment buildings",
+    "tokens": [
+      "buildings",
+      "fuel",
+      "treatment"
+    ],
+    "table": "En",
+    "group": "55",
+    "subgroup": "10"
+  },
+  {
+    "id": "uc:En_55_10_55",
+    "code": "En_55_10_55",
+    "name": "Fuel treatment tanks",
+    "tokens": [
+      "tanks",
+      "fuel",
+      "treatment"
+    ],
+    "table": "En",
+    "group": "55",
+    "subgroup": "10"
+  },
+  {
+    "id": "uc:En_55_10_58",
+    "code": "En_55_10_58",
+    "name": "Fuel treatment pipelines",
+    "tokens": [
+      "fuel",
+      "pipelines",
+      "treatment"
+    ],
+    "table": "En",
+    "group": "55",
+    "subgroup": "10"
+  },
+  {
+    "id": "uc:En_55_15",
+    "code": "En_55_15",
+    "name": "Water extraction and treatment entities",
+    "tokens": [
+      "entities",
+      "water",
+      "extraction",
+      "treatment"
+    ],
+    "table": "En",
+    "group": "55",
+    "subgroup": "15"
+  },
+  {
+    "id": "uc:En_55_15_50",
+    "code": "En_55_15_50",
+    "name": "Water treatment buildings",
+    "tokens": [
+      "water",
+      "buildings",
+      "treatment"
+    ],
+    "table": "En",
+    "group": "55",
+    "subgroup": "15"
+  },
+  {
+    "id": "uc:En_55_15_55",
+    "code": "En_55_15_55",
+    "name": "Water treatment tanks",
+    "tokens": [
+      "tanks",
+      "water",
+      "treatment"
+    ],
+    "table": "En",
+    "group": "55",
+    "subgroup": "15"
+  },
+  {
+    "id": "uc:En_55_15_72",
+    "code": "En_55_15_72",
+    "name": "Raw water pipelines",
+    "tokens": [
+      "water",
+      "pipelines",
+      "raw"
+    ],
+    "table": "En",
+    "group": "55",
+    "subgroup": "15"
+  },
+  {
+    "id": "uc:En_55_15_75",
+    "code": "En_55_15_75",
+    "name": "Raw water pumping stations",
+    "tokens": [
+      "stations",
+      "water",
+      "pumping",
+      "raw"
+    ],
+    "table": "En",
+    "group": "55",
+    "subgroup": "15"
+  },
+  {
+    "id": "uc:En_55_20",
+    "code": "En_55_20",
+    "name": "Gas supply entities",
+    "tokens": [
+      "entities",
+      "gas",
+      "supply"
+    ],
+    "table": "En",
+    "group": "55",
+    "subgroup": "20"
+  },
+  {
+    "id": "uc:En_55_20_50",
+    "code": "En_55_20_50",
+    "name": "Gas distribution structures",
+    "tokens": [
+      "structures",
+      "gas",
+      "distribution"
+    ],
+    "table": "En",
+    "group": "55",
+    "subgroup": "20"
+  },
+  {
+    "id": "uc:En_55_20_60",
+    "code": "En_55_20_60",
+    "name": "Gas distribution pipelines",
+    "tokens": [
+      "gas",
+      "pipelines",
+      "distribution"
+    ],
+    "table": "En",
+    "group": "55",
+    "subgroup": "20"
+  },
+  {
+    "id": "uc:En_55_30",
+    "code": "En_55_30",
+    "name": "Fire-extinguishing supply entities",
+    "tokens": [
+      "fire",
+      "entities",
+      "extinguishing",
+      "supply"
+    ],
+    "table": "En",
+    "group": "55",
+    "subgroup": "30"
+  },
+  {
+    "id": "uc:En_55_40",
+    "code": "En_55_40",
+    "name": "Steam supply entities",
+    "tokens": [
+      "steam",
+      "entities",
+      "supply"
+    ],
+    "table": "En",
+    "group": "55",
+    "subgroup": "40"
+  },
+  {
+    "id": "uc:En_55_50",
+    "code": "En_55_50",
+    "name": "Liquid fuel supply entities",
+    "tokens": [
+      "entities",
+      "liquid",
+      "fuel",
+      "supply"
+    ],
+    "table": "En",
+    "group": "55",
+    "subgroup": "50"
+  },
+  {
+    "id": "uc:En_55_50_20",
+    "code": "En_55_50_20",
+    "name": "Fuel distribution pipelines",
+    "tokens": [
+      "fuel",
+      "pipelines",
+      "distribution"
+    ],
+    "table": "En",
+    "group": "55",
+    "subgroup": "50"
+  },
+  {
+    "id": "uc:En_55_50_45",
+    "code": "En_55_50_45",
+    "name": "Liquid fuel distribution buildings",
+    "tokens": [
+      "buildings",
+      "liquid",
+      "fuel",
+      "distribution"
+    ],
+    "table": "En",
+    "group": "55",
+    "subgroup": "50"
+  },
+  {
+    "id": "uc:En_55_60",
+    "code": "En_55_60",
+    "name": "Process liquid supply entities",
+    "tokens": [
+      "entities",
+      "liquid",
+      "process",
+      "supply"
+    ],
+    "table": "En",
+    "group": "55",
+    "subgroup": "60"
+  },
+  {
+    "id": "uc:En_55_70",
+    "code": "En_55_70",
+    "name": "Water supply entities",
+    "tokens": [
+      "entities",
+      "water",
+      "supply"
+    ],
+    "table": "En",
+    "group": "55",
+    "subgroup": "70"
+  },
+  {
+    "id": "uc:En_55_70_85",
+    "code": "En_55_70_85",
+    "name": "Treated water distribution pipelines",
+    "tokens": [
+      "water",
+      "treated",
+      "pipelines",
+      "distribution"
+    ],
+    "table": "En",
+    "group": "55",
+    "subgroup": "70"
+  },
+  {
+    "id": "uc:En_55_70_87",
+    "code": "En_55_70_87",
+    "name": "Treated water pumping stations",
+    "tokens": [
+      "stations",
+      "water",
+      "treated",
+      "pumping"
+    ],
+    "table": "En",
+    "group": "55",
+    "subgroup": "70"
+  },
+  {
+    "id": "uc:En_55_70_89",
+    "code": "En_55_70_89",
+    "name": "Treated water reservoirs",
+    "tokens": [
+      "water",
+      "treated",
+      "reservoirs"
+    ],
+    "table": "En",
+    "group": "55",
+    "subgroup": "70"
+  },
+  {
+    "id": "uc:En_55_70_91",
+    "code": "En_55_70_91",
+    "name": "Treated water towers",
+    "tokens": [
+      "treated",
+      "water",
+      "towers"
+    ],
+    "table": "En",
+    "group": "55",
+    "subgroup": "70"
+  },
+  {
+    "id": "uc:En_55_90",
+    "code": "En_55_90",
+    "name": "Piped solids supply entities",
+    "tokens": [
+      "entities",
+      "piped",
+      "solids",
+      "supply"
+    ],
+    "table": "En",
+    "group": "55",
+    "subgroup": "90"
+  },
+  {
+    "id": "uc:En_60",
+    "code": "En_60",
+    "name": "Heating, cooling and refrigeration entities",
+    "tokens": [
+      "entities",
+      "refrigeration",
+      "cooling",
+      "heating"
+    ],
+    "table": "En",
+    "group": "60",
+    "subgroup": ""
+  },
+  {
+    "id": "uc:En_60_30",
+    "code": "En_60_30",
+    "name": "Rail and paving heating entities",
+    "tokens": [
+      "rail",
+      "entities",
+      "paving",
+      "heating"
+    ],
+    "table": "En",
+    "group": "60",
+    "subgroup": "30"
+  },
+  {
+    "id": "uc:En_60_40",
+    "code": "En_60_40",
+    "name": "Space heating and cooling entities",
+    "tokens": [
+      "space",
+      "entities",
+      "cooling",
+      "heating"
+    ],
+    "table": "En",
+    "group": "60",
+    "subgroup": "40"
+  },
+  {
+    "id": "uc:En_60_40_10",
+    "code": "En_60_40_10",
+    "name": "District heating buildings",
+    "tokens": [
+      "district",
+      "buildings",
+      "heating"
+    ],
+    "table": "En",
+    "group": "60",
+    "subgroup": "40"
+  },
+  {
+    "id": "uc:En_60_40_20",
+    "code": "En_60_40_20",
+    "name": "District heating pipelines",
+    "tokens": [
+      "district",
+      "pipelines",
+      "heating"
+    ],
+    "table": "En",
+    "group": "60",
+    "subgroup": "40"
+  },
+  {
+    "id": "uc:En_60_40_50",
+    "code": "En_60_40_50",
+    "name": "District cooling buildings",
+    "tokens": [
+      "district",
+      "buildings",
+      "cooling"
+    ],
+    "table": "En",
+    "group": "60",
+    "subgroup": "40"
+  },
+  {
+    "id": "uc:En_60_40_60",
+    "code": "En_60_40_60",
+    "name": "District cooling pipelines",
+    "tokens": [
+      "district",
+      "pipelines",
+      "cooling"
+    ],
+    "table": "En",
+    "group": "60",
+    "subgroup": "40"
+  },
+  {
+    "id": "uc:En_60_60",
+    "code": "En_60_60",
+    "name": "Refrigeration entities",
+    "tokens": [
+      "entities",
+      "refrigeration"
+    ],
+    "table": "En",
+    "group": "60",
+    "subgroup": "60"
+  },
+  {
+    "id": "uc:En_60_80",
+    "code": "En_60_80",
+    "name": "Drying entities",
+    "tokens": [
+      "drying",
+      "entities"
+    ],
+    "table": "En",
+    "group": "60",
+    "subgroup": "80"
+  },
+  {
+    "id": "uc:En_65",
+    "code": "En_65",
+    "name": "Ventilation and air conditioning entities",
+    "tokens": [
+      "entities",
+      "air",
+      "ventilation",
+      "conditioning"
+    ],
+    "table": "En",
+    "group": "65",
+    "subgroup": ""
+  },
+  {
+    "id": "uc:En_65_40",
+    "code": "En_65_40",
+    "name": "Ventilation entities",
+    "tokens": [
+      "entities",
+      "ventilation"
+    ],
+    "table": "En",
+    "group": "65",
+    "subgroup": "40"
+  },
+  {
+    "id": "uc:En_65_40_80",
+    "code": "En_65_40_80",
+    "name": "Shaft and tunnel ventilation plant building",
+    "tokens": [
+      "ventilation",
+      "shaft",
+      "plant",
+      "tunnel",
+      "building"
+    ],
+    "table": "En",
+    "group": "65",
+    "subgroup": "40"
+  },
+  {
+    "id": "uc:En_65_80",
+    "code": "En_65_80",
+    "name": "Air conditioning entities",
+    "tokens": [
+      "entities",
+      "air",
+      "conditioning"
+    ],
+    "table": "En",
+    "group": "65",
+    "subgroup": "80"
+  },
+  {
+    "id": "uc:En_70",
+    "code": "En_70",
+    "name": "Electrical power generation and distribution entities",
+    "tokens": [
+      "entities",
+      "distribution",
+      "generation",
+      "electrical",
+      "power"
+    ],
+    "table": "En",
+    "group": "70",
+    "subgroup": ""
+  },
+  {
+    "id": "uc:En_70_10",
+    "code": "En_70_10",
+    "name": "Electrical power generation entities",
+    "tokens": [
+      "entities",
+      "power",
+      "electrical",
+      "generation"
+    ],
+    "table": "En",
+    "group": "70",
+    "subgroup": "10"
+  },
+  {
+    "id": "uc:En_70_10_10",
+    "code": "En_70_10_10",
+    "name": "Electrical power generation buildings",
+    "tokens": [
+      "power",
+      "buildings",
+      "electrical",
+      "generation"
+    ],
+    "table": "En",
+    "group": "70",
+    "subgroup": "10"
+  },
+  {
+    "id": "uc:En_70_10_35",
+    "code": "En_70_10_35",
+    "name": "Generator transformer substations",
+    "tokens": [
+      "generator",
+      "substations",
+      "transformer"
+    ],
+    "table": "En",
+    "group": "70",
+    "subgroup": "10"
+  },
+  {
+    "id": "uc:En_70_10_80",
+    "code": "En_70_10_80",
+    "name": "Solar panel fields",
+    "tokens": [
+      "fields",
+      "panel",
+      "solar"
+    ],
+    "table": "En",
+    "group": "70",
+    "subgroup": "10"
+  },
+  {
+    "id": "uc:En_70_10_90",
+    "code": "En_70_10_90",
+    "name": "Wind turbines",
+    "tokens": [
+      "turbines",
+      "wind"
+    ],
+    "table": "En",
+    "group": "70",
+    "subgroup": "10"
+  },
+  {
+    "id": "uc:En_70_30",
+    "code": "En_70_30",
+    "name": "Electricity distribution and transmission entities",
+    "tokens": [
+      "entities",
+      "electricity",
+      "distribution",
+      "transmission"
+    ],
+    "table": "En",
+    "group": "70",
+    "subgroup": "30"
+  },
+  {
+    "id": "uc:En_70_30_18",
+    "code": "En_70_30_18",
+    "name": "Electricity transmission pylons and lines",
+    "tokens": [
+      "lines",
+      "pylons",
+      "electricity",
+      "transmission"
+    ],
+    "table": "En",
+    "group": "70",
+    "subgroup": "30"
+  },
+  {
+    "id": "uc:En_70_30_26",
+    "code": "En_70_30_26",
+    "name": "Extra-high-voltage sub-transmission substations",
+    "tokens": [
+      "transmission",
+      "extra",
+      "sub",
+      "voltage",
+      "substations",
+      "high"
+    ],
+    "table": "En",
+    "group": "70",
+    "subgroup": "30"
+  },
+  {
+    "id": "uc:En_70_30_28",
+    "code": "En_70_30_28",
+    "name": "Extra-high-voltage transmission substations",
+    "tokens": [
+      "transmission",
+      "extra",
+      "voltage",
+      "substations",
+      "high"
+    ],
+    "table": "En",
+    "group": "70",
+    "subgroup": "30"
+  },
+  {
+    "id": "uc:En_70_30_35",
+    "code": "En_70_30_35",
+    "name": "High-voltage distribution substations",
+    "tokens": [
+      "high",
+      "substations",
+      "voltage",
+      "distribution"
+    ],
+    "table": "En",
+    "group": "70",
+    "subgroup": "30"
+  },
+  {
+    "id": "uc:En_70_30_45",
+    "code": "En_70_30_45",
+    "name": "Low-voltage electricity substations",
+    "tokens": [
+      "low",
+      "substations",
+      "voltage",
+      "electricity"
+    ],
+    "table": "En",
+    "group": "70",
+    "subgroup": "30"
+  },
+  {
+    "id": "uc:En_70_30_60",
+    "code": "En_70_30_60",
+    "name": "Overhead power distribution lines",
+    "tokens": [
+      "lines",
+      "overhead",
+      "distribution",
+      "power"
+    ],
+    "table": "En",
+    "group": "70",
+    "subgroup": "30"
+  },
+  {
+    "id": "uc:En_70_30_90",
+    "code": "En_70_30_90",
+    "name": "Underground electricity transmission lines",
+    "tokens": [
+      "underground",
+      "lines",
+      "electricity",
+      "transmission"
+    ],
+    "table": "En",
+    "group": "70",
+    "subgroup": "30"
+  },
+  {
+    "id": "uc:En_75",
+    "code": "En_75",
+    "name": "Communications, security, safety and protection entities",
+    "tokens": [
+      "entities",
+      "protection",
+      "communications",
+      "safety",
+      "security"
+    ],
+    "table": "En",
+    "group": "75",
+    "subgroup": ""
+  },
+  {
+    "id": "uc:En_75_10",
+    "code": "En_75_10",
+    "name": "Communication entities",
+    "tokens": [
+      "communication",
+      "entities"
+    ],
+    "table": "En",
+    "group": "75",
+    "subgroup": "10"
+  },
+  {
+    "id": "uc:En_75_10_10",
+    "code": "En_75_10_10",
+    "name": "Broadcast communications buildings",
+    "tokens": [
+      "buildings",
+      "broadcast",
+      "communications"
+    ],
+    "table": "En",
+    "group": "75",
+    "subgroup": "10"
+  },
+  {
+    "id": "uc:En_75_10_16",
+    "code": "En_75_10_16",
+    "name": "Broadcast communications masts and towers",
+    "tokens": [
+      "broadcast",
+      "towers",
+      "communications",
+      "masts"
+    ],
+    "table": "En",
+    "group": "75",
+    "subgroup": "10"
+  },
+  {
+    "id": "uc:En_75_10_20",
+    "code": "En_75_10_20",
+    "name": "Data centres",
+    "tokens": [
+      "centres",
+      "data"
+    ],
+    "table": "En",
+    "group": "75",
+    "subgroup": "10"
+  },
+  {
+    "id": "uc:En_75_30",
+    "code": "En_75_30",
+    "name": "Signalling entities",
+    "tokens": [
+      "entities",
+      "signalling"
+    ],
+    "table": "En",
+    "group": "75",
+    "subgroup": "30"
+  },
+  {
+    "id": "uc:En_75_30_10",
+    "code": "En_75_30_10",
+    "name": "Peer-to-peer communications buildings",
+    "tokens": [
+      "buildings",
+      "peer",
+      "communications"
+    ],
+    "table": "En",
+    "group": "75",
+    "subgroup": "30"
+  },
+  {
+    "id": "uc:En_75_30_18",
+    "code": "En_75_30_18",
+    "name": "Peer-to-peer communications networks",
+    "tokens": [
+      "peer",
+      "communications",
+      "networks"
+    ],
+    "table": "En",
+    "group": "75",
+    "subgroup": "30"
+  },
+  {
+    "id": "uc:En_75_30_78",
+    "code": "En_75_30_78",
+    "name": "Signalling control centres",
+    "tokens": [
+      "centres",
+      "control",
+      "signalling"
+    ],
+    "table": "En",
+    "group": "75",
+    "subgroup": "30"
+  },
+  {
+    "id": "uc:En_75_40",
+    "code": "En_75_40",
+    "name": "Security systems entities",
+    "tokens": [
+      "entities",
+      "security",
+      "systems"
+    ],
+    "table": "En",
+    "group": "75",
+    "subgroup": "40"
+  },
+  {
+    "id": "uc:En_75_50",
+    "code": "En_75_50",
+    "name": "Safety and protection entities",
+    "tokens": [
+      "safety",
+      "protection",
+      "entities"
+    ],
+    "table": "En",
+    "group": "75",
+    "subgroup": "50"
+  },
+  {
+    "id": "uc:En_75_60",
+    "code": "En_75_60",
+    "name": "Environmental safety entities",
+    "tokens": [
+      "safety",
+      "environmental",
+      "entities"
+    ],
+    "table": "En",
+    "group": "75",
+    "subgroup": "60"
+  },
+  {
+    "id": "uc:En_75_70",
+    "code": "En_75_70",
+    "name": "Control and management entities",
+    "tokens": [
+      "entities",
+      "control",
+      "management"
+    ],
+    "table": "En",
+    "group": "75",
+    "subgroup": "70"
+  },
+  {
+    "id": "uc:En_75_70_60",
+    "code": "En_75_70_60",
+    "name": "Operational control centres",
+    "tokens": [
+      "centres",
+      "operational",
+      "control"
+    ],
+    "table": "En",
+    "group": "75",
+    "subgroup": "70"
+  },
+  {
+    "id": "uc:En_75_80",
+    "code": "En_75_80",
+    "name": "Protection entities",
+    "tokens": [
+      "entities",
+      "protection"
+    ],
+    "table": "En",
+    "group": "75",
+    "subgroup": "80"
+  },
+  {
+    "id": "uc:En_80",
+    "code": "En_80",
+    "name": "Transport entities",
+    "tokens": [
+      "transport",
+      "entities"
+    ],
+    "table": "En",
+    "group": "80",
+    "subgroup": ""
+  },
+  {
+    "id": "uc:En_80_05",
+    "code": "En_80_05",
+    "name": "Aerospace entities",
+    "tokens": [
+      "entities",
+      "aerospace"
+    ],
+    "table": "En",
+    "group": "80",
+    "subgroup": "05"
+  },
+  {
+    "id": "uc:En_80_05_01",
+    "code": "En_80_05_01",
+    "name": "Air traffic control towers",
+    "tokens": [
+      "air",
+      "towers",
+      "control",
+      "traffic"
+    ],
+    "table": "En",
+    "group": "80",
+    "subgroup": "05"
+  },
+  {
+    "id": "uc:En_80_05_02",
+    "code": "En_80_05_02",
+    "name": "Aircraft hangars",
+    "tokens": [
+      "aircraft",
+      "hangars"
+    ],
+    "table": "En",
+    "group": "80",
+    "subgroup": "05"
+  },
+  {
+    "id": "uc:En_80_05_60",
+    "code": "En_80_05_60",
+    "name": "Passenger terminal buildings",
+    "tokens": [
+      "terminal",
+      "buildings",
+      "passenger"
+    ],
+    "table": "En",
+    "group": "80",
+    "subgroup": "05"
+  },
+  {
+    "id": "uc:En_80_20",
+    "code": "En_80_20",
+    "name": "Cable transport entities",
+    "tokens": [
+      "transport",
+      "cable",
+      "entities"
+    ],
+    "table": "En",
+    "group": "80",
+    "subgroup": "20"
+  },
+  {
+    "id": "uc:En_80_20_11",
+    "code": "En_80_20_11",
+    "name": "Cable car entities",
+    "tokens": [
+      "car",
+      "entities",
+      "cable"
+    ],
+    "table": "En",
+    "group": "80",
+    "subgroup": "20"
+  },
+  {
+    "id": "uc:En_80_20_12",
+    "code": "En_80_20_12",
+    "name": "Cable car stations",
+    "tokens": [
+      "car",
+      "stations",
+      "cable"
+    ],
+    "table": "En",
+    "group": "80",
+    "subgroup": "20"
+  },
+  {
+    "id": "uc:En_80_20_86",
+    "code": "En_80_20_86",
+    "name": "Suspended cableways",
+    "tokens": [
+      "cableways",
+      "suspended"
+    ],
+    "table": "En",
+    "group": "80",
+    "subgroup": "20"
+  },
+  {
+    "id": "uc:En_80_35",
+    "code": "En_80_35",
+    "name": "Road entities",
+    "tokens": [
+      "entities",
+      "road"
+    ],
+    "table": "En",
+    "group": "80",
+    "subgroup": "35"
+  },
+  {
+    "id": "uc:En_80_35_01",
+    "code": "En_80_35_01",
+    "name": "Access roads",
+    "tokens": [
+      "access",
+      "roads"
+    ],
+    "table": "En",
+    "group": "80",
+    "subgroup": "35"
+  },
+  {
+    "id": "uc:En_80_35_05",
+    "code": "En_80_35_05",
+    "name": "Bus lanes",
+    "tokens": [
+      "lanes",
+      "bus"
+    ],
+    "table": "En",
+    "group": "80",
+    "subgroup": "35"
+  },
+  {
+    "id": "uc:En_80_35_07",
+    "code": "En_80_35_07",
+    "name": "Bus maintenance depots",
+    "tokens": [
+      "maintenance",
+      "bus",
+      "depots"
+    ],
+    "table": "En",
+    "group": "80",
+    "subgroup": "35"
+  },
+  {
+    "id": "uc:En_80_35_09",
+    "code": "En_80_35_09",
+    "name": "Bus and coach stations",
+    "tokens": [
+      "stations",
+      "bus",
+      "coach"
+    ],
+    "table": "En",
+    "group": "80",
+    "subgroup": "35"
+  },
+  {
+    "id": "uc:En_80_35_34",
+    "code": "En_80_35_34",
+    "name": "Guided bus lanes",
+    "tokens": [
+      "lanes",
+      "guided",
+      "bus"
+    ],
+    "table": "En",
+    "group": "80",
+    "subgroup": "35"
+  },
+  {
+    "id": "uc:En_80_35_35",
+    "code": "En_80_35_35",
+    "name": "Highway maintenance depots",
+    "tokens": [
+      "maintenance",
+      "highway",
+      "depots"
+    ],
+    "table": "En",
+    "group": "80",
+    "subgroup": "35"
+  },
+  {
+    "id": "uc:En_80_35_38",
+    "code": "En_80_35_38",
+    "name": "Highway service stations",
+    "tokens": [
+      "stations",
+      "highway",
+      "service"
+    ],
+    "table": "En",
+    "group": "80",
+    "subgroup": "35"
+  },
+  {
+    "id": "uc:En_80_35_56",
+    "code": "En_80_35_56",
+    "name": "Motorways",
+    "tokens": [
+      "motorways"
+    ],
+    "table": "En",
+    "group": "80",
+    "subgroup": "35"
+  },
+  {
+    "id": "uc:En_80_35_67",
+    "code": "En_80_35_67",
+    "name": "Private roads",
+    "tokens": [
+      "private",
+      "roads"
+    ],
+    "table": "En",
+    "group": "80",
+    "subgroup": "35"
+  },
+  {
+    "id": "uc:En_80_35_74",
+    "code": "En_80_35_74",
+    "name": "Roads",
+    "tokens": [
+      "roads"
+    ],
+    "table": "En",
+    "group": "80",
+    "subgroup": "35"
+  },
+  {
+    "id": "uc:En_80_35_77",
+    "code": "En_80_35_77",
+    "name": "Service area buildings",
+    "tokens": [
+      "buildings",
+      "area",
+      "service"
+    ],
+    "table": "En",
+    "group": "80",
+    "subgroup": "35"
+  },
+  {
+    "id": "uc:En_80_35_88",
+    "code": "En_80_35_88",
+    "name": "Tollgates",
+    "tokens": [
+      "tollgates"
+    ],
+    "table": "En",
+    "group": "80",
+    "subgroup": "35"
+  },
+  {
+    "id": "uc:En_80_35_89",
+    "code": "En_80_35_89",
+    "name": "Tracks",
+    "tokens": [
+      "tracks"
+    ],
+    "table": "En",
+    "group": "80",
+    "subgroup": "35"
+  },
+  {
+    "id": "uc:En_80_35_90",
+    "code": "En_80_35_90",
+    "name": "Truck maintenance depots",
+    "tokens": [
+      "maintenance",
+      "truck",
+      "depots"
+    ],
+    "table": "En",
+    "group": "80",
+    "subgroup": "35"
+  },
+  {
+    "id": "uc:En_80_40",
+    "code": "En_80_40",
+    "name": "Pathways",
+    "tokens": [
+      "pathways"
+    ],
+    "table": "En",
+    "group": "80",
+    "subgroup": "40"
+  },
+  {
+    "id": "uc:En_80_40_02",
+    "code": "En_80_40_02",
+    "name": "Active travel networks",
+    "tokens": [
+      "travel",
+      "active",
+      "networks"
+    ],
+    "table": "En",
+    "group": "80",
+    "subgroup": "40"
+  },
+  {
+    "id": "uc:En_80_40_08",
+    "code": "En_80_40_08",
+    "name": "Bridleways",
+    "tokens": [
+      "bridleways"
+    ],
+    "table": "En",
+    "group": "80",
+    "subgroup": "40"
+  },
+  {
+    "id": "uc:En_80_40_10",
+    "code": "En_80_40_10",
+    "name": "Byways",
+    "tokens": [
+      "byways"
+    ],
+    "table": "En",
+    "group": "80",
+    "subgroup": "40"
+  },
+  {
+    "id": "uc:En_80_40_20",
+    "code": "En_80_40_20",
+    "name": "Cycle pathways",
+    "tokens": [
+      "cycle",
+      "pathways"
+    ],
+    "table": "En",
+    "group": "80",
+    "subgroup": "40"
+  },
+  {
+    "id": "uc:En_80_40_30",
+    "code": "En_80_40_30",
+    "name": "Footpaths",
+    "tokens": [
+      "footpaths"
+    ],
+    "table": "En",
+    "group": "80",
+    "subgroup": "40"
+  },
+  {
+    "id": "uc:En_80_40_37",
+    "code": "En_80_40_37",
+    "name": "Hiking paths",
+    "tokens": [
+      "hiking",
+      "paths"
+    ],
+    "table": "En",
+    "group": "80",
+    "subgroup": "40"
+  },
+  {
+    "id": "uc:En_80_40_66",
+    "code": "En_80_40_66",
+    "name": "Promenades",
+    "tokens": [
+      "promenades"
+    ],
+    "table": "En",
+    "group": "80",
+    "subgroup": "40"
+  },
+  {
+    "id": "uc:En_80_40_70",
+    "code": "En_80_40_70",
+    "name": "Rambler ways",
+    "tokens": [
+      "ways",
+      "rambler"
+    ],
+    "table": "En",
+    "group": "80",
+    "subgroup": "40"
+  },
+  {
+    "id": "uc:En_80_40_90",
+    "code": "En_80_40_90",
+    "name": "Trails",
+    "tokens": [
+      "trails"
+    ],
+    "table": "En",
+    "group": "80",
+    "subgroup": "40"
+  },
+  {
+    "id": "uc:En_80_45",
+    "code": "En_80_45",
+    "name": "Vehicle storage entities",
+    "tokens": [
+      "storage",
+      "vehicle",
+      "entities"
+    ],
+    "table": "En",
+    "group": "80",
+    "subgroup": "45"
+  },
+  {
+    "id": "uc:En_80_45_08",
+    "code": "En_80_45_08",
+    "name": "Bus parks",
+    "tokens": [
+      "bus",
+      "parks"
+    ],
+    "table": "En",
+    "group": "80",
+    "subgroup": "45"
+  },
+  {
+    "id": "uc:En_80_45_11",
+    "code": "En_80_45_11",
+    "name": "Car garaging entities",
+    "tokens": [
+      "car",
+      "entities",
+      "garaging"
+    ],
+    "table": "En",
+    "group": "80",
+    "subgroup": "45"
+  },
+  {
+    "id": "uc:En_80_45_17",
+    "code": "En_80_45_17",
+    "name": "Coach parks",
+    "tokens": [
+      "coach",
+      "parks"
+    ],
+    "table": "En",
+    "group": "80",
+    "subgroup": "45"
+  },
+  {
+    "id": "uc:En_80_45_20",
+    "code": "En_80_45_20",
+    "name": "Cycle shelters",
+    "tokens": [
+      "cycle",
+      "shelters"
+    ],
+    "table": "En",
+    "group": "80",
+    "subgroup": "45"
+  },
+  {
+    "id": "uc:En_80_45_55",
+    "code": "En_80_45_55",
+    "name": "Multistorey vehicle parks",
+    "tokens": [
+      "multistorey",
+      "vehicle",
+      "parks"
+    ],
+    "table": "En",
+    "group": "80",
+    "subgroup": "45"
+  },
+  {
+    "id": "uc:En_80_45_85",
+    "code": "En_80_45_85",
+    "name": "Surface vehicle parks",
+    "tokens": [
+      "vehicle",
+      "parks",
+      "surface"
+    ],
+    "table": "En",
+    "group": "80",
+    "subgroup": "45"
+  },
+  {
+    "id": "uc:En_80_45_89",
+    "code": "En_80_45_89",
+    "name": "Truck parks",
+    "tokens": [
+      "parks",
+      "truck"
+    ],
+    "table": "En",
+    "group": "80",
+    "subgroup": "45"
+  },
+  {
+    "id": "uc:En_80_45_92",
+    "code": "En_80_45_92",
+    "name": "Underground vehicle parks",
+    "tokens": [
+      "underground",
+      "vehicle",
+      "parks"
+    ],
+    "table": "En",
+    "group": "80",
+    "subgroup": "45"
+  },
+  {
+    "id": "uc:En_80_50",
+    "code": "En_80_50",
+    "name": "Railway entities",
+    "tokens": [
+      "entities",
+      "railway"
+    ],
+    "table": "En",
+    "group": "80",
+    "subgroup": "50"
+  },
+  {
+    "id": "uc:En_80_50_53",
+    "code": "En_80_50_53",
+    "name": "Monorail entities",
+    "tokens": [
+      "entities",
+      "monorail"
+    ],
+    "table": "En",
+    "group": "80",
+    "subgroup": "50"
+  },
+  {
+    "id": "uc:En_80_50_58",
+    "code": "En_80_50_58",
+    "name": "Platforms",
+    "tokens": [
+      "platforms"
+    ],
+    "table": "En",
+    "group": "80",
+    "subgroup": "50"
+  },
+  {
+    "id": "uc:En_80_50_60",
+    "code": "En_80_50_60",
+    "name": "Rack rail maintenance buildings",
+    "tokens": [
+      "rail",
+      "rack",
+      "buildings",
+      "maintenance"
+    ],
+    "table": "En",
+    "group": "80",
+    "subgroup": "50"
+  },
+  {
+    "id": "uc:En_80_50_62",
+    "code": "En_80_50_62",
+    "name": "Rack railways track entities",
+    "tokens": [
+      "rack",
+      "track",
+      "railways",
+      "entities"
+    ],
+    "table": "En",
+    "group": "80",
+    "subgroup": "50"
+  },
+  {
+    "id": "uc:En_80_50_64",
+    "code": "En_80_50_64",
+    "name": "Rail distribution depots",
+    "tokens": [
+      "rail",
+      "distribution",
+      "depots"
+    ],
+    "table": "En",
+    "group": "80",
+    "subgroup": "50"
+  },
+  {
+    "id": "uc:En_80_50_68",
+    "code": "En_80_50_68",
+    "name": "Rail marshalling entities",
+    "tokens": [
+      "rail",
+      "entities",
+      "marshalling"
+    ],
+    "table": "En",
+    "group": "80",
+    "subgroup": "50"
+  },
+  {
+    "id": "uc:En_80_50_71",
+    "code": "En_80_50_71",
+    "name": "Railway corridors",
+    "tokens": [
+      "railway",
+      "corridors"
+    ],
+    "table": "En",
+    "group": "80",
+    "subgroup": "50"
+  },
+  {
+    "id": "uc:En_80_50_74",
+    "code": "En_80_50_74",
+    "name": "Railway stations",
+    "tokens": [
+      "stations",
+      "railway"
+    ],
+    "table": "En",
+    "group": "80",
+    "subgroup": "50"
+  },
+  {
+    "id": "uc:En_80_50_78",
+    "code": "En_80_50_78",
+    "name": "Rolling stock depots",
+    "tokens": [
+      "stock",
+      "rolling",
+      "depots"
+    ],
+    "table": "En",
+    "group": "80",
+    "subgroup": "50"
+  },
+  {
+    "id": "uc:En_80_50_83",
+    "code": "En_80_50_83",
+    "name": "Station buildings",
+    "tokens": [
+      "buildings",
+      "station"
+    ],
+    "table": "En",
+    "group": "80",
+    "subgroup": "50"
+  },
+  {
+    "id": "uc:En_80_50_86",
+    "code": "En_80_50_86",
+    "name": "Track maintenance depots",
+    "tokens": [
+      "maintenance",
+      "track",
+      "depots"
+    ],
+    "table": "En",
+    "group": "80",
+    "subgroup": "50"
+  },
+  {
+    "id": "uc:En_80_50_87",
+    "code": "En_80_50_87",
+    "name": "Trackside circuit breaker equipment buildings",
+    "tokens": [
+      "breaker",
+      "equipment",
+      "buildings",
+      "trackside",
+      "circuit"
+    ],
+    "table": "En",
+    "group": "80",
+    "subgroup": "50"
+  },
+  {
+    "id": "uc:En_80_50_88",
+    "code": "En_80_50_88",
+    "name": "Train maintenance depots",
+    "tokens": [
+      "maintenance",
+      "train",
+      "depots"
+    ],
+    "table": "En",
+    "group": "80",
+    "subgroup": "50"
+  },
+  {
+    "id": "uc:En_80_50_90",
+    "code": "En_80_50_90",
+    "name": "Tramways",
+    "tokens": [
+      "tramways"
+    ],
+    "table": "En",
+    "group": "80",
+    "subgroup": "50"
+  },
+  {
+    "id": "uc:En_80_50_94",
+    "code": "En_80_50_94",
+    "name": "Underground railway stations",
+    "tokens": [
+      "underground",
+      "stations",
+      "railway"
+    ],
+    "table": "En",
+    "group": "80",
+    "subgroup": "50"
+  },
+  {
+    "id": "uc:En_80_50_95",
+    "code": "En_80_50_95",
+    "name": "Wagon decontamination buildings",
+    "tokens": [
+      "wagon",
+      "buildings",
+      "decontamination"
+    ],
+    "table": "En",
+    "group": "80",
+    "subgroup": "50"
+  },
+  {
+    "id": "uc:En_80_50_97",
+    "code": "En_80_50_97",
+    "name": "Wagon maintenance buildings",
+    "tokens": [
+      "maintenance",
+      "wagon",
+      "buildings"
+    ],
+    "table": "En",
+    "group": "80",
+    "subgroup": "50"
+  },
+  {
+    "id": "uc:En_80_70",
+    "code": "En_80_70",
+    "name": "Marine and waterways transport entities",
+    "tokens": [
+      "transport",
+      "entities",
+      "waterways",
+      "marine"
+    ],
+    "table": "En",
+    "group": "80",
+    "subgroup": "70"
+  },
+  {
+    "id": "uc:En_80_70_06",
+    "code": "En_80_70_06",
+    "name": "Barge loading terminals",
+    "tokens": [
+      "loading",
+      "terminals",
+      "barge"
+    ],
+    "table": "En",
+    "group": "80",
+    "subgroup": "70"
+  },
+  {
+    "id": "uc:En_80_70_11",
+    "code": "En_80_70_11",
+    "name": "Canal channels",
+    "tokens": [
+      "channels",
+      "canal"
+    ],
+    "table": "En",
+    "group": "80",
+    "subgroup": "70"
+  },
+  {
+    "id": "uc:En_80_70_15",
+    "code": "En_80_70_15",
+    "name": "Canal locks",
+    "tokens": [
+      "canal",
+      "locks"
+    ],
+    "table": "En",
+    "group": "80",
+    "subgroup": "70"
+  },
+  {
+    "id": "uc:En_80_70_46",
+    "code": "En_80_70_46",
+    "name": "Lake passenger terminals",
+    "tokens": [
+      "lake",
+      "passenger",
+      "terminals"
+    ],
+    "table": "En",
+    "group": "80",
+    "subgroup": "70"
+  },
+  {
+    "id": "uc:En_80_70_50",
+    "code": "En_80_70_50",
+    "name": "Marinas",
+    "tokens": [
+      "marinas"
+    ],
+    "table": "En",
+    "group": "80",
+    "subgroup": "70"
+  },
+  {
+    "id": "uc:En_80_70_52",
+    "code": "En_80_70_52",
+    "name": "Marine and waterways passenger terminals",
+    "tokens": [
+      "passenger",
+      "waterways",
+      "marine",
+      "terminals"
+    ],
+    "table": "En",
+    "group": "80",
+    "subgroup": "70"
+  },
+  {
+    "id": "uc:En_80_70_71",
+    "code": "En_80_70_71",
+    "name": "River passenger terminals",
+    "tokens": [
+      "passenger",
+      "river",
+      "terminals"
+    ],
+    "table": "En",
+    "group": "80",
+    "subgroup": "70"
+  },
+  {
+    "id": "uc:En_80_90",
+    "code": "En_80_90",
+    "name": "Transport hub entities",
+    "tokens": [
+      "transport",
+      "hub",
+      "entities"
+    ],
+    "table": "En",
+    "group": "80",
+    "subgroup": "90"
+  },
+  {
+    "id": "uc:En_80_90_30",
+    "code": "En_80_90_30",
+    "name": "Freight depots",
+    "tokens": [
+      "freight",
+      "depots"
+    ],
+    "table": "En",
+    "group": "80",
+    "subgroup": "90"
+  },
+  {
+    "id": "uc:En_80_90_66",
+    "code": "En_80_90_66",
+    "name": "Rail freight entities",
+    "tokens": [
+      "rail",
+      "entities",
+      "freight"
+    ],
+    "table": "En",
+    "group": "80",
+    "subgroup": "90"
+  },
+  {
+    "id": "uc:En_80_90_73",
+    "code": "En_80_90_73",
+    "name": "Road freight depots",
+    "tokens": [
+      "freight",
+      "road",
+      "depots"
+    ],
+    "table": "En",
+    "group": "80",
+    "subgroup": "90"
+  },
+  {
+    "id": "uc:En_80_90_90",
+    "code": "En_80_90_90",
+    "name": "Transport interchanges",
+    "tokens": [
+      "transport",
+      "interchanges"
+    ],
+    "table": "En",
+    "group": "80",
+    "subgroup": "90"
+  },
+  {
+    "id": "uc:En_80_94",
+    "code": "En_80_94",
+    "name": "Bridges",
+    "tokens": [
+      "bridges"
+    ],
+    "table": "En",
+    "group": "80",
+    "subgroup": "94"
+  },
+  {
+    "id": "uc:En_80_94_05",
+    "code": "En_80_94_05",
+    "name": "Arch bridges",
+    "tokens": [
+      "bridges",
+      "arch"
+    ],
+    "table": "En",
+    "group": "80",
+    "subgroup": "94"
+  },
+  {
+    "id": "uc:En_80_94_08",
+    "code": "En_80_94_08",
+    "name": "Beam bridges",
+    "tokens": [
+      "bridges",
+      "beam"
+    ],
+    "table": "En",
+    "group": "80",
+    "subgroup": "94"
+  },
+  {
+    "id": "uc:En_80_94_11",
+    "code": "En_80_94_11",
+    "name": "Cable-stayed bridges",
+    "tokens": [
+      "bridges",
+      "cable",
+      "stayed"
+    ],
+    "table": "En",
+    "group": "80",
+    "subgroup": "94"
+  },
+  {
+    "id": "uc:En_80_94_13",
+    "code": "En_80_94_13",
+    "name": "Cantilever bridges",
+    "tokens": [
+      "cantilever",
+      "bridges"
+    ],
+    "table": "En",
+    "group": "80",
+    "subgroup": "94"
+  },
+  {
+    "id": "uc:En_80_94_30",
+    "code": "En_80_94_30",
+    "name": "Fixed bridges",
+    "tokens": [
+      "fixed",
+      "bridges"
+    ],
+    "table": "En",
+    "group": "80",
+    "subgroup": "94"
+  },
+  {
+    "id": "uc:En_80_94_50",
+    "code": "En_80_94_50",
+    "name": "Moveable bridges",
+    "tokens": [
+      "moveable",
+      "bridges"
+    ],
+    "table": "En",
+    "group": "80",
+    "subgroup": "94"
+  },
+  {
+    "id": "uc:En_80_94_85",
+    "code": "En_80_94_85",
+    "name": "Suspension bridges",
+    "tokens": [
+      "suspension",
+      "bridges"
+    ],
+    "table": "En",
+    "group": "80",
+    "subgroup": "94"
+  },
+  {
+    "id": "uc:En_80_94_90",
+    "code": "En_80_94_90",
+    "name": "Transporter bridges",
+    "tokens": [
+      "transporter",
+      "bridges"
+    ],
+    "table": "En",
+    "group": "80",
+    "subgroup": "94"
+  },
+  {
+    "id": "uc:En_80_94_92",
+    "code": "En_80_94_92",
+    "name": "Truss bridges",
+    "tokens": [
+      "bridges",
+      "truss"
+    ],
+    "table": "En",
+    "group": "80",
+    "subgroup": "94"
+  },
+  {
+    "id": "uc:En_80_96",
+    "code": "En_80_96",
+    "name": "Tunnels and shafts",
+    "tokens": [
+      "shafts",
+      "tunnels"
+    ],
+    "table": "En",
+    "group": "80",
+    "subgroup": "96"
+  },
+  {
+    "id": "uc:En_80_96_20",
+    "code": "En_80_96_20",
+    "name": "Drift tunnels",
+    "tokens": [
+      "tunnels",
+      "drift"
+    ],
+    "table": "En",
+    "group": "80",
+    "subgroup": "96"
+  },
+  {
+    "id": "uc:En_80_96_46",
+    "code": "En_80_96_46",
+    "name": "Lined drift tunnels",
+    "tokens": [
+      "lined",
+      "tunnels",
+      "drift"
+    ],
+    "table": "En",
+    "group": "80",
+    "subgroup": "96"
+  },
+  {
+    "id": "uc:En_80_96_49",
+    "code": "En_80_96_49",
+    "name": "Lined tunnels",
+    "tokens": [
+      "tunnels",
+      "lined"
+    ],
+    "table": "En",
+    "group": "80",
+    "subgroup": "96"
+  },
+  {
+    "id": "uc:En_80_96_58",
+    "code": "En_80_96_58",
+    "name": "Operational caverns",
+    "tokens": [
+      "caverns",
+      "operational"
+    ],
+    "table": "En",
+    "group": "80",
+    "subgroup": "96"
+  },
+  {
+    "id": "uc:En_80_96_70",
+    "code": "En_80_96_70",
+    "name": "Running tunnels",
+    "tokens": [
+      "tunnels",
+      "running"
+    ],
+    "table": "En",
+    "group": "80",
+    "subgroup": "96"
+  },
+  {
+    "id": "uc:En_80_96_80",
+    "code": "En_80_96_80",
+    "name": "Shafts",
+    "tokens": [
+      "shafts"
+    ],
+    "table": "En",
+    "group": "80",
+    "subgroup": "96"
+  },
+  {
+    "id": "uc:En_80_96_90",
+    "code": "En_80_96_90",
+    "name": "Tunnels",
+    "tokens": [
+      "tunnels"
+    ],
+    "table": "En",
+    "group": "80",
+    "subgroup": "96"
+  },
+  {
+    "id": "uc:En_80_96_91",
+    "code": "En_80_96_91",
+    "name": "Tunnel portals",
+    "tokens": [
+      "portals",
+      "tunnel"
+    ],
+    "table": "En",
+    "group": "80",
+    "subgroup": "96"
+  },
+  {
+    "id": "uc:En_80_96_92",
+    "code": "En_80_96_92",
+    "name": "Underpasses",
+    "tokens": [
+      "underpasses"
+    ],
+    "table": "En",
+    "group": "80",
+    "subgroup": "96"
+  },
+  {
+    "id": "uc:En_90",
+    "code": "En_90",
+    "name": "Circulation, storage and general entities",
+    "tokens": [
+      "storage",
+      "entities",
+      "circulation",
+      "general"
+    ],
+    "table": "En",
+    "group": "90",
+    "subgroup": ""
+  },
+  {
+    "id": "uc:En_90_10",
+    "code": "En_90_10",
+    "name": "Circulation entities",
+    "tokens": [
+      "entities",
+      "circulation"
+    ],
+    "table": "En",
+    "group": "90",
+    "subgroup": "10"
+  },
+  {
+    "id": "uc:En_90_10_02",
+    "code": "En_90_10_02",
+    "name": "Access stairways and walkways",
+    "tokens": [
+      "access",
+      "walkways",
+      "stairways"
+    ],
+    "table": "En",
+    "group": "90",
+    "subgroup": "10"
+  },
+  {
+    "id": "uc:En_90_10_62",
+    "code": "En_90_10_62",
+    "name": "Pedestrianized areas",
+    "tokens": [
+      "pedestrianized",
+      "areas"
+    ],
+    "table": "En",
+    "group": "90",
+    "subgroup": "10"
+  },
+  {
+    "id": "uc:En_90_10_77",
+    "code": "En_90_10_77",
+    "name": "External service areas",
+    "tokens": [
+      "areas",
+      "service",
+      "external"
+    ],
+    "table": "En",
+    "group": "90",
+    "subgroup": "10"
+  },
+  {
+    "id": "uc:En_90_30",
+    "code": "En_90_30",
+    "name": "Construction entities",
+    "tokens": [
+      "construction",
+      "entities"
+    ],
+    "table": "En",
+    "group": "90",
+    "subgroup": "30"
+  },
+  {
+    "id": "uc:En_90_30_15",
+    "code": "En_90_30_15",
+    "name": "Construction sites",
+    "tokens": [
+      "construction",
+      "sites"
+    ],
+    "table": "En",
+    "group": "90",
+    "subgroup": "30"
+  },
+  {
+    "id": "uc:En_90_30_95",
+    "code": "En_90_30_95",
+    "name": "Work areas",
+    "tokens": [
+      "areas",
+      "work"
+    ],
+    "table": "En",
+    "group": "90",
+    "subgroup": "30"
+  },
+  {
+    "id": "uc:En_90_50",
+    "code": "En_90_50",
+    "name": "Storage entities",
+    "tokens": [
+      "storage",
+      "entities"
+    ],
+    "table": "En",
+    "group": "90",
+    "subgroup": "50"
+  },
+  {
+    "id": "uc:En_90_50_02",
+    "code": "En_90_50_02",
+    "name": "Agricultural storage buildings",
+    "tokens": [
+      "storage",
+      "buildings",
+      "agricultural"
+    ],
+    "table": "En",
+    "group": "90",
+    "subgroup": "50"
+  },
+  {
+    "id": "uc:En_90_50_03",
+    "code": "En_90_50_03",
+    "name": "Agricultural storage silos",
+    "tokens": [
+      "storage",
+      "silos",
+      "agricultural"
+    ],
+    "table": "En",
+    "group": "90",
+    "subgroup": "50"
+  },
+  {
+    "id": "uc:En_90_50_28",
+    "code": "En_90_50_28",
+    "name": "Explosives stores",
+    "tokens": [
+      "stores",
+      "explosives"
+    ],
+    "table": "En",
+    "group": "90",
+    "subgroup": "50"
+  },
+  {
+    "id": "uc:En_90_50_50",
+    "code": "En_90_50_50",
+    "name": "Manufacturing tanks and silos",
+    "tokens": [
+      "tanks",
+      "silos",
+      "manufacturing"
+    ],
+    "table": "En",
+    "group": "90",
+    "subgroup": "50"
+  },
+  {
+    "id": "uc:En_90_50_53",
+    "code": "En_90_50_53",
+    "name": "Mineral storage silos",
+    "tokens": [
+      "storage",
+      "silos",
+      "mineral"
+    ],
+    "table": "En",
+    "group": "90",
+    "subgroup": "50"
+  },
+  {
+    "id": "uc:En_90_50_55",
+    "code": "En_90_50_55",
+    "name": "Motor vehicle storage entities",
+    "tokens": [
+      "storage",
+      "vehicle",
+      "motor",
+      "entities"
+    ],
+    "table": "En",
+    "group": "90",
+    "subgroup": "50"
+  },
+  {
+    "id": "uc:En_90_50_68",
+    "code": "En_90_50_68",
+    "name": "Refrigerated container storage entities",
+    "tokens": [
+      "refrigerated",
+      "container",
+      "storage",
+      "entities"
+    ],
+    "table": "En",
+    "group": "90",
+    "subgroup": "50"
+  },
+  {
+    "id": "uc:En_90_50_75",
+    "code": "En_90_50_75",
+    "name": "Salt storage barns",
+    "tokens": [
+      "storage",
+      "barns",
+      "salt"
+    ],
+    "table": "En",
+    "group": "90",
+    "subgroup": "50"
+  },
+  {
+    "id": "uc:En_90_50_80",
+    "code": "En_90_50_80",
+    "name": "Storage buildings",
+    "tokens": [
+      "storage",
+      "buildings"
+    ],
+    "table": "En",
+    "group": "90",
+    "subgroup": "50"
+  },
+  {
+    "id": "uc:En_90_90",
+    "code": "En_90_90",
+    "name": "Plant and control entities",
+    "tokens": [
+      "entities",
+      "plant",
+      "control"
+    ],
+    "table": "En",
+    "group": "90",
+    "subgroup": "90"
+  },
+  {
+    "id": "uc:En_90_90_09",
+    "code": "En_90_90_09",
+    "name": "Buried services routes",
+    "tokens": [
+      "services",
+      "routes",
+      "buried"
+    ],
+    "table": "En",
+    "group": "90",
+    "subgroup": "90"
+  },
+  {
+    "id": "uc:En_90_90_11",
+    "code": "En_90_90_11",
+    "name": "Cable routes",
+    "tokens": [
+      "cable",
+      "routes"
+    ],
+    "table": "En",
+    "group": "90",
+    "subgroup": "90"
+  },
+  {
+    "id": "uc:En_90_90_27",
+    "code": "En_90_90_27",
+    "name": "Environment monitoring buildings",
+    "tokens": [
+      "buildings",
+      "monitoring",
+      "environment"
+    ],
+    "table": "En",
+    "group": "90",
+    "subgroup": "90"
+  },
+  {
+    "id": "uc:En_90_90_33",
+    "code": "En_90_90_33",
+    "name": "Gauge houses",
+    "tokens": [
+      "gauge",
+      "houses"
+    ],
+    "table": "En",
+    "group": "90",
+    "subgroup": "90"
+  },
+  {
+    "id": "uc:En_90_90_35",
+    "code": "En_90_90_35",
+    "name": "Gauging station buildings",
+    "tokens": [
+      "gauging",
+      "station",
+      "buildings"
+    ],
+    "table": "En",
+    "group": "90",
+    "subgroup": "90"
+  },
+  {
+    "id": "uc:En_90_90_50",
+    "code": "En_90_90_50",
+    "name": "Mechanical services buildings",
+    "tokens": [
+      "services",
+      "buildings",
+      "mechanical"
+    ],
+    "table": "En",
+    "group": "90",
+    "subgroup": "90"
+  },
+  {
+    "id": "uc:En_90_90_64",
+    "code": "En_90_90_64",
+    "name": "Plant and equipment buildings",
+    "tokens": [
+      "plant",
+      "buildings",
+      "equipment"
+    ],
+    "table": "En",
+    "group": "90",
+    "subgroup": "90"
+  },
+  {
+    "id": "uc:En_90_90_68",
+    "code": "En_90_90_68",
+    "name": "Pump houses",
+    "tokens": [
+      "pump",
+      "houses"
+    ],
+    "table": "En",
+    "group": "90",
+    "subgroup": "90"
+  },
+  {
+    "id": "uc:En_90_90_80",
+    "code": "En_90_90_80",
+    "name": "Services routes",
+    "tokens": [
+      "services",
+      "routes"
+    ],
+    "table": "En",
+    "group": "90",
+    "subgroup": "90"
+  }
+]

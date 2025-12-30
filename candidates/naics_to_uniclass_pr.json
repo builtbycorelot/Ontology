@@ -1,0 +1,7699 @@
+[
+  {
+    "source_id": "naics:23",
+    "source_name": "Construction",
+    "source_tokens": [
+      "construction"
+    ],
+    "matches": [
+      {
+        "target_id": "uc:Pr_30_31_76_16",
+        "target_name": "Construction joint sealants",
+        "score": 0.333,
+        "shared_tokens": [
+          "construction"
+        ],
+        "relationship": "relatedTo",
+        "confidence": "B"
+      },
+      {
+        "target_id": "uc:Pr_30_31_76_02",
+        "target_name": "Acrylic construction joint sealants",
+        "score": 0.25,
+        "shared_tokens": [
+          "construction"
+        ],
+        "relationship": "relatedTo",
+        "confidence": "C"
+      },
+      {
+        "target_id": "uc:Pr_30_31_76_62",
+        "target_name": "Polysulfide construction joint sealants",
+        "score": 0.25,
+        "shared_tokens": [
+          "construction"
+        ],
+        "relationship": "relatedTo",
+        "confidence": "C"
+      },
+      {
+        "target_id": "uc:Pr_30_31_76_77",
+        "target_name": "Silicone construction joint sealants",
+        "score": 0.25,
+        "shared_tokens": [
+          "construction"
+        ],
+        "relationship": "relatedTo",
+        "confidence": "C"
+      },
+      {
+        "target_id": "uc:Pr_30_31_76_09",
+        "target_name": "Butyl rubber construction joint sealants",
+        "score": 0.2,
+        "shared_tokens": [
+          "construction"
+        ],
+        "relationship": "relatedTo",
+        "confidence": "C"
+      },
+      {
+        "target_id": "uc:Pr_30_31_76_65",
+        "target_name": "Polyurethane (PUR) construction joint sealants",
+        "score": 0.2,
+        "shared_tokens": [
+          "construction"
+        ],
+        "relationship": "relatedTo",
+        "confidence": "C"
+      },
+      {
+        "target_id": "uc:Pr_35_90_31_28",
+        "target_name": "Floor construction joint trims",
+        "score": 0.2,
+        "shared_tokens": [
+          "construction"
+        ],
+        "relationship": "relatedTo",
+        "confidence": "C"
+      },
+      {
+        "target_id": "uc:Pr_35_90_15",
+        "target_name": "Concrete construction joint accessories ",
+        "score": 0.167,
+        "shared_tokens": [
+          "construction"
+        ],
+        "relationship": "relatedTo",
+        "confidence": "D"
+      },
+      {
+        "target_id": "uc:Pr_35_90_53_42",
+        "target_name": "Insulated render system construction and movement joints",
+        "score": 0.167,
+        "shared_tokens": [
+          "construction"
+        ],
+        "relationship": "relatedTo",
+        "confidence": "D"
+      }
+    ]
+  },
+  {
+    "source_id": "naics:236",
+    "source_name": "Construction of Buildings",
+    "source_tokens": [
+      "construction",
+      "buildings"
+    ],
+    "matches": [
+      {
+        "target_id": "uc:Pr_20_65",
+        "target_name": "Prefabricated buildings and structures",
+        "score": 0.25,
+        "shared_tokens": [
+          "buildings"
+        ],
+        "relationship": "coordinates",
+        "confidence": "C"
+      },
+      {
+        "target_id": "uc:Pr_30_31_76_16",
+        "target_name": "Construction joint sealants",
+        "score": 0.25,
+        "shared_tokens": [
+          "construction"
+        ],
+        "relationship": "coordinates",
+        "confidence": "C"
+      },
+      {
+        "target_id": "uc:Pr_30_31_76_02",
+        "target_name": "Acrylic construction joint sealants",
+        "score": 0.2,
+        "shared_tokens": [
+          "construction"
+        ],
+        "relationship": "coordinates",
+        "confidence": "C"
+      },
+      {
+        "target_id": "uc:Pr_30_31_76_62",
+        "target_name": "Polysulfide construction joint sealants",
+        "score": 0.2,
+        "shared_tokens": [
+          "construction"
+        ],
+        "relationship": "coordinates",
+        "confidence": "C"
+      },
+      {
+        "target_id": "uc:Pr_30_31_76_77",
+        "target_name": "Silicone construction joint sealants",
+        "score": 0.2,
+        "shared_tokens": [
+          "construction"
+        ],
+        "relationship": "coordinates",
+        "confidence": "C"
+      },
+      {
+        "target_id": "uc:Pr_30_31_76_09",
+        "target_name": "Butyl rubber construction joint sealants",
+        "score": 0.167,
+        "shared_tokens": [
+          "construction"
+        ],
+        "relationship": "coordinates",
+        "confidence": "D"
+      },
+      {
+        "target_id": "uc:Pr_30_31_76_65",
+        "target_name": "Polyurethane (PUR) construction joint sealants",
+        "score": 0.167,
+        "shared_tokens": [
+          "construction"
+        ],
+        "relationship": "coordinates",
+        "confidence": "D"
+      },
+      {
+        "target_id": "uc:Pr_35_90_31_28",
+        "target_name": "Floor construction joint trims",
+        "score": 0.167,
+        "shared_tokens": [
+          "construction"
+        ],
+        "relationship": "coordinates",
+        "confidence": "D"
+      }
+    ]
+  },
+  {
+    "source_id": "naics:2361",
+    "source_name": "Residential Building Construction",
+    "source_tokens": [
+      "dwelling",
+      "construction",
+      "building",
+      "housing",
+      "home",
+      "residential"
+    ],
+    "matches": [
+      {
+        "target_id": "uc:Pr_40_30_04",
+        "target_name": "Animal housing",
+        "score": 0.571,
+        "shared_tokens": [
+          "residential",
+          "dwelling",
+          "home",
+          "housing"
+        ],
+        "relationship": "coordinates",
+        "confidence": "A"
+      },
+      {
+        "target_id": "uc:Pr_65_70_50_37",
+        "target_name": "Home run cables",
+        "score": 0.5,
+        "shared_tokens": [
+          "residential",
+          "dwelling",
+          "home",
+          "housing"
+        ],
+        "relationship": "coordinates",
+        "confidence": "A"
+      },
+      {
+        "target_id": "uc:Pr_65_67_29_96",
+        "target_name": "Whole dwelling fan units",
+        "score": 0.444,
+        "shared_tokens": [
+          "residential",
+          "dwelling",
+          "home",
+          "housing"
+        ],
+        "relationship": "coordinates",
+        "confidence": "B"
+      },
+      {
+        "target_id": "uc:Pr_40_30_75_38",
+        "target_name": "Home and office safes",
+        "score": 0.364,
+        "shared_tokens": [
+          "residential",
+          "dwelling",
+          "home",
+          "housing"
+        ],
+        "relationship": "coordinates",
+        "confidence": "B"
+      }
+    ]
+  },
+  {
+    "source_id": "naics:23611",
+    "source_name": "Residential Building Construction",
+    "source_tokens": [
+      "dwelling",
+      "construction",
+      "building",
+      "housing",
+      "home",
+      "residential"
+    ],
+    "matches": [
+      {
+        "target_id": "uc:Pr_40_30_04",
+        "target_name": "Animal housing",
+        "score": 0.571,
+        "shared_tokens": [
+          "residential",
+          "dwelling",
+          "home",
+          "housing"
+        ],
+        "relationship": "coordinates",
+        "confidence": "A"
+      },
+      {
+        "target_id": "uc:Pr_65_70_50_37",
+        "target_name": "Home run cables",
+        "score": 0.5,
+        "shared_tokens": [
+          "residential",
+          "dwelling",
+          "home",
+          "housing"
+        ],
+        "relationship": "coordinates",
+        "confidence": "A"
+      },
+      {
+        "target_id": "uc:Pr_65_67_29_96",
+        "target_name": "Whole dwelling fan units",
+        "score": 0.444,
+        "shared_tokens": [
+          "residential",
+          "dwelling",
+          "home",
+          "housing"
+        ],
+        "relationship": "coordinates",
+        "confidence": "B"
+      },
+      {
+        "target_id": "uc:Pr_40_30_75_38",
+        "target_name": "Home and office safes",
+        "score": 0.364,
+        "shared_tokens": [
+          "residential",
+          "dwelling",
+          "home",
+          "housing"
+        ],
+        "relationship": "coordinates",
+        "confidence": "B"
+      }
+    ]
+  },
+  {
+    "source_id": "naics:236115",
+    "source_name": "New Single-Family Housing Construction (except For-Sale Builders)",
+    "source_tokens": [
+      "residential",
+      "single",
+      "new",
+      "family",
+      "except",
+      "dwelling",
+      "construction",
+      "housing",
+      "builders",
+      "home",
+      "sale"
+    ],
+    "matches": [
+      {
+        "target_id": "uc:Pr_40_30_04",
+        "target_name": "Animal housing",
+        "score": 0.333,
+        "shared_tokens": [
+          "residential",
+          "dwelling",
+          "home",
+          "housing"
+        ],
+        "relationship": "coordinates",
+        "confidence": "B"
+      },
+      {
+        "target_id": "uc:Pr_65_70_50_37",
+        "target_name": "Home run cables",
+        "score": 0.308,
+        "shared_tokens": [
+          "residential",
+          "dwelling",
+          "home",
+          "housing"
+        ],
+        "relationship": "coordinates",
+        "confidence": "B"
+      },
+      {
+        "target_id": "uc:Pr_65_67_29_96",
+        "target_name": "Whole dwelling fan units",
+        "score": 0.286,
+        "shared_tokens": [
+          "residential",
+          "dwelling",
+          "home",
+          "housing"
+        ],
+        "relationship": "coordinates",
+        "confidence": "C"
+      },
+      {
+        "target_id": "uc:Pr_40_30_75_38",
+        "target_name": "Home and office safes",
+        "score": 0.25,
+        "shared_tokens": [
+          "residential",
+          "dwelling",
+          "home",
+          "housing"
+        ],
+        "relationship": "coordinates",
+        "confidence": "C"
+      }
+    ]
+  },
+  {
+    "source_id": "naics:236116",
+    "source_name": "New Multifamily Housing Construction (except For-Sale Builders)",
+    "source_tokens": [
+      "except",
+      "dwelling",
+      "multifamily",
+      "sale",
+      "new",
+      "construction",
+      "housing",
+      "builders",
+      "home",
+      "residential"
+    ],
+    "matches": [
+      {
+        "target_id": "uc:Pr_40_30_04",
+        "target_name": "Animal housing",
+        "score": 0.364,
+        "shared_tokens": [
+          "residential",
+          "dwelling",
+          "home",
+          "housing"
+        ],
+        "relationship": "coordinates",
+        "confidence": "B"
+      },
+      {
+        "target_id": "uc:Pr_65_70_50_37",
+        "target_name": "Home run cables",
+        "score": 0.333,
+        "shared_tokens": [
+          "residential",
+          "dwelling",
+          "home",
+          "housing"
+        ],
+        "relationship": "coordinates",
+        "confidence": "B"
+      },
+      {
+        "target_id": "uc:Pr_65_67_29_96",
+        "target_name": "Whole dwelling fan units",
+        "score": 0.308,
+        "shared_tokens": [
+          "residential",
+          "dwelling",
+          "home",
+          "housing"
+        ],
+        "relationship": "coordinates",
+        "confidence": "B"
+      },
+      {
+        "target_id": "uc:Pr_40_30_75_38",
+        "target_name": "Home and office safes",
+        "score": 0.267,
+        "shared_tokens": [
+          "residential",
+          "dwelling",
+          "home",
+          "housing"
+        ],
+        "relationship": "coordinates",
+        "confidence": "C"
+      }
+    ]
+  },
+  {
+    "source_id": "naics:236117",
+    "source_name": "New Housing For-Sale Builders",
+    "source_tokens": [
+      "new",
+      "dwelling",
+      "sale",
+      "housing",
+      "builders",
+      "home",
+      "residential"
+    ],
+    "matches": [
+      {
+        "target_id": "uc:Pr_40_30_04",
+        "target_name": "Animal housing",
+        "score": 0.5,
+        "shared_tokens": [
+          "residential",
+          "dwelling",
+          "home",
+          "housing"
+        ],
+        "relationship": "coordinates",
+        "confidence": "A"
+      },
+      {
+        "target_id": "uc:Pr_65_70_50_37",
+        "target_name": "Home run cables",
+        "score": 0.444,
+        "shared_tokens": [
+          "residential",
+          "dwelling",
+          "home",
+          "housing"
+        ],
+        "relationship": "coordinates",
+        "confidence": "B"
+      },
+      {
+        "target_id": "uc:Pr_65_67_29_96",
+        "target_name": "Whole dwelling fan units",
+        "score": 0.4,
+        "shared_tokens": [
+          "residential",
+          "dwelling",
+          "home",
+          "housing"
+        ],
+        "relationship": "coordinates",
+        "confidence": "B"
+      },
+      {
+        "target_id": "uc:Pr_40_30_75_38",
+        "target_name": "Home and office safes",
+        "score": 0.333,
+        "shared_tokens": [
+          "residential",
+          "dwelling",
+          "home",
+          "housing"
+        ],
+        "relationship": "coordinates",
+        "confidence": "B"
+      }
+    ]
+  },
+  {
+    "source_id": "naics:236118",
+    "source_name": "Residential Remodelers",
+    "source_tokens": [
+      "dwelling",
+      "housing",
+      "home",
+      "residential",
+      "remodelers"
+    ],
+    "matches": [
+      {
+        "target_id": "uc:Pr_40_30_04",
+        "target_name": "Animal housing",
+        "score": 0.667,
+        "shared_tokens": [
+          "residential",
+          "dwelling",
+          "home",
+          "housing"
+        ],
+        "relationship": "coordinates",
+        "confidence": "A"
+      },
+      {
+        "target_id": "uc:Pr_65_70_50_37",
+        "target_name": "Home run cables",
+        "score": 0.571,
+        "shared_tokens": [
+          "residential",
+          "dwelling",
+          "home",
+          "housing"
+        ],
+        "relationship": "coordinates",
+        "confidence": "A"
+      },
+      {
+        "target_id": "uc:Pr_65_67_29_96",
+        "target_name": "Whole dwelling fan units",
+        "score": 0.5,
+        "shared_tokens": [
+          "residential",
+          "dwelling",
+          "home",
+          "housing"
+        ],
+        "relationship": "coordinates",
+        "confidence": "A"
+      },
+      {
+        "target_id": "uc:Pr_40_30_75_38",
+        "target_name": "Home and office safes",
+        "score": 0.4,
+        "shared_tokens": [
+          "residential",
+          "dwelling",
+          "home",
+          "housing"
+        ],
+        "relationship": "coordinates",
+        "confidence": "B"
+      }
+    ]
+  },
+  {
+    "source_id": "naics:2362",
+    "source_name": "Nonresidential Building Construction",
+    "source_tokens": [
+      "construction",
+      "building",
+      "nonresidential"
+    ],
+    "matches": [
+      {
+        "target_id": "uc:Pr_25_57_10_09",
+        "target_name": "Building papers",
+        "score": 0.25,
+        "shared_tokens": [
+          "building"
+        ],
+        "relationship": "coordinates",
+        "confidence": "C"
+      },
+      {
+        "target_id": "uc:Pr_30_31_76_16",
+        "target_name": "Construction joint sealants",
+        "score": 0.2,
+        "shared_tokens": [
+          "construction"
+        ],
+        "relationship": "coordinates",
+        "confidence": "C"
+      },
+      {
+        "target_id": "uc:Pr_25_57_10_12",
+        "target_name": "Cellulose based building papers",
+        "score": 0.167,
+        "shared_tokens": [
+          "building"
+        ],
+        "relationship": "coordinates",
+        "confidence": "D"
+      },
+      {
+        "target_id": "uc:Pr_30_31_76_02",
+        "target_name": "Acrylic construction joint sealants",
+        "score": 0.167,
+        "shared_tokens": [
+          "construction"
+        ],
+        "relationship": "coordinates",
+        "confidence": "D"
+      },
+      {
+        "target_id": "uc:Pr_30_31_76_62",
+        "target_name": "Polysulfide construction joint sealants",
+        "score": 0.167,
+        "shared_tokens": [
+          "construction"
+        ],
+        "relationship": "coordinates",
+        "confidence": "D"
+      },
+      {
+        "target_id": "uc:Pr_30_31_76_77",
+        "target_name": "Silicone construction joint sealants",
+        "score": 0.167,
+        "shared_tokens": [
+          "construction"
+        ],
+        "relationship": "coordinates",
+        "confidence": "D"
+      }
+    ]
+  },
+  {
+    "source_id": "naics:23621",
+    "source_name": "Industrial Building Construction",
+    "source_tokens": [
+      "manufacturing",
+      "factory",
+      "construction",
+      "building",
+      "industrial",
+      "warehouse"
+    ],
+    "matches": [
+      {
+        "target_id": "uc:Pr_40_70_99_42",
+        "target_name": "Industrial scales",
+        "score": 0.571,
+        "shared_tokens": [
+          "warehouse",
+          "manufacturing",
+          "factory",
+          "industrial"
+        ],
+        "relationship": "coordinates",
+        "confidence": "A"
+      },
+      {
+        "target_id": "uc:Pr_65_72_97_40",
+        "target_name": "Industrial plugs",
+        "score": 0.571,
+        "shared_tokens": [
+          "warehouse",
+          "manufacturing",
+          "factory",
+          "industrial"
+        ],
+        "relationship": "coordinates",
+        "confidence": "A"
+      },
+      {
+        "target_id": "uc:Pr_70_75_94_42",
+        "target_name": "Industrial bells",
+        "score": 0.571,
+        "shared_tokens": [
+          "warehouse",
+          "manufacturing",
+          "factory",
+          "industrial"
+        ],
+        "relationship": "coordinates",
+        "confidence": "A"
+      },
+      {
+        "target_id": "uc:Pr_35_31_64_29",
+        "target_name": "Factory-mixed plasters",
+        "score": 0.5,
+        "shared_tokens": [
+          "warehouse",
+          "manufacturing",
+          "factory",
+          "industrial"
+        ],
+        "relationship": "coordinates",
+        "confidence": "A"
+      },
+      {
+        "target_id": "uc:Pr_40_30_30_42",
+        "target_name": "Industrial work benches",
+        "score": 0.5,
+        "shared_tokens": [
+          "warehouse",
+          "manufacturing",
+          "factory",
+          "industrial"
+        ],
+        "relationship": "coordinates",
+        "confidence": "A"
+      },
+      {
+        "target_id": "uc:Pr_65_72_97_41",
+        "target_name": "Industrial socket outlets",
+        "score": 0.5,
+        "shared_tokens": [
+          "warehouse",
+          "manufacturing",
+          "factory",
+          "industrial"
+        ],
+        "relationship": "coordinates",
+        "confidence": "A"
+      },
+      {
+        "target_id": "uc:Pr_45_31_89_81",
+        "target_name": "Soil amelioration industrial by-products",
+        "score": 0.444,
+        "shared_tokens": [
+          "warehouse",
+          "manufacturing",
+          "factory",
+          "industrial"
+        ],
+        "relationship": "coordinates",
+        "confidence": "B"
+      },
+      {
+        "target_id": "uc:Pr_65_54_33_43",
+        "target_name": "Industrial vacuum flow regulating valves",
+        "score": 0.4,
+        "shared_tokens": [
+          "warehouse",
+          "manufacturing",
+          "factory",
+          "industrial"
+        ],
+        "relationship": "coordinates",
+        "confidence": "B"
+      },
+      {
+        "target_id": "uc:Pr_30_59_72_30",
+        "target_name": "Factory-assembled insulating rooflights (FAIRs)",
+        "score": 0.333,
+        "shared_tokens": [
+          "warehouse",
+          "manufacturing",
+          "factory",
+          "industrial"
+        ],
+        "relationship": "coordinates",
+        "confidence": "B"
+      }
+    ]
+  },
+  {
+    "source_id": "naics:236210",
+    "source_name": "Industrial Building Construction",
+    "source_tokens": [
+      "manufacturing",
+      "factory",
+      "construction",
+      "building",
+      "industrial",
+      "warehouse"
+    ],
+    "matches": [
+      {
+        "target_id": "uc:Pr_40_70_99_42",
+        "target_name": "Industrial scales",
+        "score": 0.571,
+        "shared_tokens": [
+          "warehouse",
+          "manufacturing",
+          "factory",
+          "industrial"
+        ],
+        "relationship": "coordinates",
+        "confidence": "A"
+      },
+      {
+        "target_id": "uc:Pr_65_72_97_40",
+        "target_name": "Industrial plugs",
+        "score": 0.571,
+        "shared_tokens": [
+          "warehouse",
+          "manufacturing",
+          "factory",
+          "industrial"
+        ],
+        "relationship": "coordinates",
+        "confidence": "A"
+      },
+      {
+        "target_id": "uc:Pr_70_75_94_42",
+        "target_name": "Industrial bells",
+        "score": 0.571,
+        "shared_tokens": [
+          "warehouse",
+          "manufacturing",
+          "factory",
+          "industrial"
+        ],
+        "relationship": "coordinates",
+        "confidence": "A"
+      },
+      {
+        "target_id": "uc:Pr_35_31_64_29",
+        "target_name": "Factory-mixed plasters",
+        "score": 0.5,
+        "shared_tokens": [
+          "warehouse",
+          "manufacturing",
+          "factory",
+          "industrial"
+        ],
+        "relationship": "coordinates",
+        "confidence": "A"
+      },
+      {
+        "target_id": "uc:Pr_40_30_30_42",
+        "target_name": "Industrial work benches",
+        "score": 0.5,
+        "shared_tokens": [
+          "warehouse",
+          "manufacturing",
+          "factory",
+          "industrial"
+        ],
+        "relationship": "coordinates",
+        "confidence": "A"
+      },
+      {
+        "target_id": "uc:Pr_65_72_97_41",
+        "target_name": "Industrial socket outlets",
+        "score": 0.5,
+        "shared_tokens": [
+          "warehouse",
+          "manufacturing",
+          "factory",
+          "industrial"
+        ],
+        "relationship": "coordinates",
+        "confidence": "A"
+      },
+      {
+        "target_id": "uc:Pr_45_31_89_81",
+        "target_name": "Soil amelioration industrial by-products",
+        "score": 0.444,
+        "shared_tokens": [
+          "warehouse",
+          "manufacturing",
+          "factory",
+          "industrial"
+        ],
+        "relationship": "coordinates",
+        "confidence": "B"
+      },
+      {
+        "target_id": "uc:Pr_65_54_33_43",
+        "target_name": "Industrial vacuum flow regulating valves",
+        "score": 0.4,
+        "shared_tokens": [
+          "warehouse",
+          "manufacturing",
+          "factory",
+          "industrial"
+        ],
+        "relationship": "coordinates",
+        "confidence": "B"
+      },
+      {
+        "target_id": "uc:Pr_30_59_72_30",
+        "target_name": "Factory-assembled insulating rooflights (FAIRs)",
+        "score": 0.333,
+        "shared_tokens": [
+          "warehouse",
+          "manufacturing",
+          "factory",
+          "industrial"
+        ],
+        "relationship": "coordinates",
+        "confidence": "B"
+      }
+    ]
+  },
+  {
+    "source_id": "naics:23622",
+    "source_name": "Commercial and Institutional Building Construction",
+    "source_tokens": [
+      "office",
+      "institutional",
+      "business",
+      "construction",
+      "building",
+      "retail",
+      "commercial"
+    ],
+    "matches": [
+      {
+        "target_id": "uc:Pr_40_50_12_57",
+        "target_name": "Office chairs",
+        "score": 0.5,
+        "shared_tokens": [
+          "retail",
+          "office",
+          "commercial",
+          "business"
+        ],
+        "relationship": "coordinates",
+        "confidence": "A"
+      },
+      {
+        "target_id": "uc:Pr_40_50_21_59",
+        "target_name": "Office desks",
+        "score": 0.5,
+        "shared_tokens": [
+          "retail",
+          "office",
+          "commercial",
+          "business"
+        ],
+        "relationship": "coordinates",
+        "confidence": "A"
+      },
+      {
+        "target_id": "uc:Pr_40_50_21_60",
+        "target_name": "Office tables",
+        "score": 0.5,
+        "shared_tokens": [
+          "retail",
+          "office",
+          "commercial",
+          "business"
+        ],
+        "relationship": "coordinates",
+        "confidence": "A"
+      },
+      {
+        "target_id": "uc:Pr_40_70_58",
+        "target_name": "Office equipment",
+        "score": 0.5,
+        "shared_tokens": [
+          "retail",
+          "office",
+          "commercial",
+          "business"
+        ],
+        "relationship": "coordinates",
+        "confidence": "A"
+      },
+      {
+        "target_id": "uc:Pr_40_30_25_71",
+        "target_name": "Retail display fittings",
+        "score": 0.444,
+        "shared_tokens": [
+          "retail",
+          "office",
+          "commercial",
+          "business"
+        ],
+        "relationship": "coordinates",
+        "confidence": "B"
+      },
+      {
+        "target_id": "uc:Pr_40_30_78_71",
+        "target_name": "Retail shelf units",
+        "score": 0.444,
+        "shared_tokens": [
+          "retail",
+          "office",
+          "commercial",
+          "business"
+        ],
+        "relationship": "coordinates",
+        "confidence": "B"
+      },
+      {
+        "target_id": "uc:Pr_40_30_87_57",
+        "target_name": "Office storage units",
+        "score": 0.444,
+        "shared_tokens": [
+          "retail",
+          "office",
+          "commercial",
+          "business"
+        ],
+        "relationship": "coordinates",
+        "confidence": "B"
+      },
+      {
+        "target_id": "uc:Pr_40_30_87_72",
+        "target_name": "Retail storage units",
+        "score": 0.444,
+        "shared_tokens": [
+          "retail",
+          "office",
+          "commercial",
+          "business"
+        ],
+        "relationship": "coordinates",
+        "confidence": "B"
+      },
+      {
+        "target_id": "uc:Pr_40_70_17",
+        "target_name": "Commercial cooking equipment",
+        "score": 0.444,
+        "shared_tokens": [
+          "retail",
+          "office",
+          "commercial",
+          "business"
+        ],
+        "relationship": "coordinates",
+        "confidence": "B"
+      },
+      {
+        "target_id": "uc:Pr_40_70_17_16",
+        "target_name": "Commercial conveyor toasters",
+        "score": 0.444,
+        "shared_tokens": [
+          "retail",
+          "office",
+          "commercial",
+          "business"
+        ],
+        "relationship": "coordinates",
+        "confidence": "B"
+      }
+    ]
+  },
+  {
+    "source_id": "naics:236220",
+    "source_name": "Commercial and Institutional Building Construction",
+    "source_tokens": [
+      "office",
+      "institutional",
+      "business",
+      "construction",
+      "building",
+      "retail",
+      "commercial"
+    ],
+    "matches": [
+      {
+        "target_id": "uc:Pr_40_50_12_57",
+        "target_name": "Office chairs",
+        "score": 0.5,
+        "shared_tokens": [
+          "retail",
+          "office",
+          "commercial",
+          "business"
+        ],
+        "relationship": "coordinates",
+        "confidence": "A"
+      },
+      {
+        "target_id": "uc:Pr_40_50_21_59",
+        "target_name": "Office desks",
+        "score": 0.5,
+        "shared_tokens": [
+          "retail",
+          "office",
+          "commercial",
+          "business"
+        ],
+        "relationship": "coordinates",
+        "confidence": "A"
+      },
+      {
+        "target_id": "uc:Pr_40_50_21_60",
+        "target_name": "Office tables",
+        "score": 0.5,
+        "shared_tokens": [
+          "retail",
+          "office",
+          "commercial",
+          "business"
+        ],
+        "relationship": "coordinates",
+        "confidence": "A"
+      },
+      {
+        "target_id": "uc:Pr_40_70_58",
+        "target_name": "Office equipment",
+        "score": 0.5,
+        "shared_tokens": [
+          "retail",
+          "office",
+          "commercial",
+          "business"
+        ],
+        "relationship": "coordinates",
+        "confidence": "A"
+      },
+      {
+        "target_id": "uc:Pr_40_30_25_71",
+        "target_name": "Retail display fittings",
+        "score": 0.444,
+        "shared_tokens": [
+          "retail",
+          "office",
+          "commercial",
+          "business"
+        ],
+        "relationship": "coordinates",
+        "confidence": "B"
+      },
+      {
+        "target_id": "uc:Pr_40_30_78_71",
+        "target_name": "Retail shelf units",
+        "score": 0.444,
+        "shared_tokens": [
+          "retail",
+          "office",
+          "commercial",
+          "business"
+        ],
+        "relationship": "coordinates",
+        "confidence": "B"
+      },
+      {
+        "target_id": "uc:Pr_40_30_87_57",
+        "target_name": "Office storage units",
+        "score": 0.444,
+        "shared_tokens": [
+          "retail",
+          "office",
+          "commercial",
+          "business"
+        ],
+        "relationship": "coordinates",
+        "confidence": "B"
+      },
+      {
+        "target_id": "uc:Pr_40_30_87_72",
+        "target_name": "Retail storage units",
+        "score": 0.444,
+        "shared_tokens": [
+          "retail",
+          "office",
+          "commercial",
+          "business"
+        ],
+        "relationship": "coordinates",
+        "confidence": "B"
+      },
+      {
+        "target_id": "uc:Pr_40_70_17",
+        "target_name": "Commercial cooking equipment",
+        "score": 0.444,
+        "shared_tokens": [
+          "retail",
+          "office",
+          "commercial",
+          "business"
+        ],
+        "relationship": "coordinates",
+        "confidence": "B"
+      },
+      {
+        "target_id": "uc:Pr_40_70_17_16",
+        "target_name": "Commercial conveyor toasters",
+        "score": 0.444,
+        "shared_tokens": [
+          "retail",
+          "office",
+          "commercial",
+          "business"
+        ],
+        "relationship": "coordinates",
+        "confidence": "B"
+      }
+    ]
+  },
+  {
+    "source_id": "naics:237",
+    "source_name": "Heavy and Civil Engineering Construction",
+    "source_tokens": [
+      "construction",
+      "engineering",
+      "civil",
+      "heavy"
+    ],
+    "matches": [
+      {
+        "target_id": "uc:Pr_20_93_52_27",
+        "target_name": "Engineering bricks",
+        "score": 0.2,
+        "shared_tokens": [
+          "engineering"
+        ],
+        "relationship": "produces",
+        "confidence": "C"
+      },
+      {
+        "target_id": "uc:Pr_20_29_57_37",
+        "target_name": "Heavy hex nuts",
+        "score": 0.167,
+        "shared_tokens": [
+          "heavy"
+        ],
+        "relationship": "produces",
+        "confidence": "D"
+      },
+      {
+        "target_id": "uc:Pr_20_31_02_36",
+        "target_name": "Heavy-duty pastes",
+        "score": 0.167,
+        "shared_tokens": [
+          "heavy"
+        ],
+        "relationship": "produces",
+        "confidence": "D"
+      },
+      {
+        "target_id": "uc:Pr_30_31_76_16",
+        "target_name": "Construction joint sealants",
+        "score": 0.167,
+        "shared_tokens": [
+          "construction"
+        ],
+        "relationship": "produces",
+        "confidence": "D"
+      },
+      {
+        "target_id": "uc:Pr_85",
+        "target_name": "Process engineering products",
+        "score": 0.167,
+        "shared_tokens": [
+          "engineering"
+        ],
+        "relationship": "produces",
+        "confidence": "D"
+      }
+    ]
+  },
+  {
+    "source_id": "naics:2371",
+    "source_name": "Utility System Construction",
+    "source_tokens": [
+      "utility",
+      "construction",
+      "system"
+    ],
+    "matches": [
+      {
+        "target_id": "uc:Pr_35_90_53_42",
+        "target_name": "Insulated render system construction and movement joints",
+        "score": 0.286,
+        "shared_tokens": [
+          "construction",
+          "system"
+        ],
+        "relationship": "produces",
+        "confidence": "C"
+      },
+      {
+        "target_id": "uc:Pr_30_31_76_16",
+        "target_name": "Construction joint sealants",
+        "score": 0.2,
+        "shared_tokens": [
+          "construction"
+        ],
+        "relationship": "produces",
+        "confidence": "C"
+      },
+      {
+        "target_id": "uc:Pr_40_10_57_86",
+        "target_name": "Surveillance system signs",
+        "score": 0.2,
+        "shared_tokens": [
+          "system"
+        ],
+        "relationship": "produces",
+        "confidence": "C"
+      },
+      {
+        "target_id": "uc:Pr_40_50_12_94",
+        "target_name": "Utility weight benches",
+        "score": 0.2,
+        "shared_tokens": [
+          "utility"
+        ],
+        "relationship": "produces",
+        "confidence": "C"
+      },
+      {
+        "target_id": "uc:Pr_70_75_88_83",
+        "target_name": "Telecommunications system controllers",
+        "score": 0.2,
+        "shared_tokens": [
+          "system"
+        ],
+        "relationship": "produces",
+        "confidence": "C"
+      },
+      {
+        "target_id": "uc:Pr_25_71_97_33",
+        "target_name": "General and utility veneer plywoods",
+        "score": 0.167,
+        "shared_tokens": [
+          "utility"
+        ],
+        "relationship": "produces",
+        "confidence": "D"
+      },
+      {
+        "target_id": "uc:Pr_30_31_76_02",
+        "target_name": "Acrylic construction joint sealants",
+        "score": 0.167,
+        "shared_tokens": [
+          "construction"
+        ],
+        "relationship": "produces",
+        "confidence": "D"
+      },
+      {
+        "target_id": "uc:Pr_30_31_76_62",
+        "target_name": "Polysulfide construction joint sealants",
+        "score": 0.167,
+        "shared_tokens": [
+          "construction"
+        ],
+        "relationship": "produces",
+        "confidence": "D"
+      },
+      {
+        "target_id": "uc:Pr_30_31_76_77",
+        "target_name": "Silicone construction joint sealants",
+        "score": 0.167,
+        "shared_tokens": [
+          "construction"
+        ],
+        "relationship": "produces",
+        "confidence": "D"
+      },
+      {
+        "target_id": "uc:Pr_40_10_57_43",
+        "target_name": "Induction loop system signs",
+        "score": 0.167,
+        "shared_tokens": [
+          "system"
+        ],
+        "relationship": "produces",
+        "confidence": "D"
+      }
+    ]
+  },
+  {
+    "source_id": "naics:23711",
+    "source_name": "Water and Sewer Line and Related Structures Construction",
+    "source_tokens": [
+      "sewer",
+      "related",
+      "pipe",
+      "plumb",
+      "drainage",
+      "structures",
+      "piping",
+      "line",
+      "water",
+      "wastewater",
+      "construction",
+      "sanitary",
+      "plumbing"
+    ],
+    "matches": [
+      {
+        "target_id": "uc:Pr_20_29_14_24",
+        "target_name": "Drainage pipe clips",
+        "score": 0.643,
+        "shared_tokens": [
+          "sewer",
+          "water",
+          "wastewater",
+          "plumb",
+          "drainage",
+          "pipe",
+          "sanitary",
+          "piping",
+          "plumbing"
+        ],
+        "relationship": "produces",
+        "confidence": "A"
+      },
+      {
+        "target_id": "uc:Pr_60_45_90",
+        "target_name": "Wastewater and water mixer products",
+        "score": 0.6,
+        "shared_tokens": [
+          "sewer",
+          "water",
+          "wastewater",
+          "plumb",
+          "pipe",
+          "piping",
+          "sanitary",
+          "drainage",
+          "plumbing"
+        ],
+        "relationship": "produces",
+        "confidence": "A"
+      },
+      {
+        "target_id": "uc:Pr_65_53_96",
+        "target_name": "Water supply and wastewater pumps",
+        "score": 0.6,
+        "shared_tokens": [
+          "sewer",
+          "water",
+          "wastewater",
+          "plumb",
+          "pipe",
+          "piping",
+          "sanitary",
+          "drainage",
+          "plumbing"
+        ],
+        "relationship": "produces",
+        "confidence": "A"
+      },
+      {
+        "target_id": "uc:Pr_65_54_94",
+        "target_name": "Water supply and wastewater valves",
+        "score": 0.6,
+        "shared_tokens": [
+          "sewer",
+          "water",
+          "wastewater",
+          "plumb",
+          "pipe",
+          "piping",
+          "sanitary",
+          "drainage",
+          "plumbing"
+        ],
+        "relationship": "produces",
+        "confidence": "A"
+      },
+      {
+        "target_id": "uc:Pr_20_85_09_01",
+        "target_name": "Above-ground drainage pipe brackets",
+        "score": 0.562,
+        "shared_tokens": [
+          "sewer",
+          "sanitary",
+          "water",
+          "wastewater",
+          "pipe",
+          "piping",
+          "plumb",
+          "drainage",
+          "plumbing"
+        ],
+        "relationship": "produces",
+        "confidence": "A"
+      },
+      {
+        "target_id": "uc:Pr_60_45_94",
+        "target_name": "Wastewater screening and water abstraction products",
+        "score": 0.562,
+        "shared_tokens": [
+          "sewer",
+          "sanitary",
+          "water",
+          "wastewater",
+          "pipe",
+          "piping",
+          "plumb",
+          "drainage",
+          "plumbing"
+        ],
+        "relationship": "produces",
+        "confidence": "A"
+      },
+      {
+        "target_id": "uc:Pr_65_52_07_02",
+        "target_name": "Adaptors for above-ground pipe connections to clay drainage pipelines",
+        "score": 0.474,
+        "shared_tokens": [
+          "sewer",
+          "sanitary",
+          "water",
+          "wastewater",
+          "drainage",
+          "pipe",
+          "plumb",
+          "piping",
+          "plumbing"
+        ],
+        "relationship": "produces",
+        "confidence": "B"
+      },
+      {
+        "target_id": "uc:Pr_65_52_07_03",
+        "target_name": "Adaptors for above-ground pipe connections to plastics drainage pipelines",
+        "score": 0.474,
+        "shared_tokens": [
+          "sewer",
+          "sanitary",
+          "water",
+          "wastewater",
+          "drainage",
+          "pipe",
+          "plumb",
+          "piping",
+          "plumbing"
+        ],
+        "relationship": "produces",
+        "confidence": "B"
+      },
+      {
+        "target_id": "uc:Pr_40_30_61_97",
+        "target_name": "Water play structures",
+        "score": 0.429,
+        "shared_tokens": [
+          "water",
+          "pipe",
+          "plumbing",
+          "plumb",
+          "piping",
+          "structures"
+        ],
+        "relationship": "produces",
+        "confidence": "B"
+      },
+      {
+        "target_id": "uc:Pr_65_57_95_42",
+        "target_name": "In-line water filters",
+        "score": 0.429,
+        "shared_tokens": [
+          "line",
+          "water",
+          "pipe",
+          "plumb",
+          "piping",
+          "plumbing"
+        ],
+        "relationship": "produces",
+        "confidence": "B"
+      }
+    ]
+  },
+  {
+    "source_id": "naics:237110",
+    "source_name": "Water and Sewer Line and Related Structures Construction",
+    "source_tokens": [
+      "sewer",
+      "related",
+      "pipe",
+      "plumb",
+      "drainage",
+      "structures",
+      "piping",
+      "line",
+      "water",
+      "wastewater",
+      "construction",
+      "sanitary",
+      "plumbing"
+    ],
+    "matches": [
+      {
+        "target_id": "uc:Pr_20_29_14_24",
+        "target_name": "Drainage pipe clips",
+        "score": 0.643,
+        "shared_tokens": [
+          "sewer",
+          "water",
+          "wastewater",
+          "plumb",
+          "drainage",
+          "pipe",
+          "sanitary",
+          "piping",
+          "plumbing"
+        ],
+        "relationship": "produces",
+        "confidence": "A"
+      },
+      {
+        "target_id": "uc:Pr_60_45_90",
+        "target_name": "Wastewater and water mixer products",
+        "score": 0.6,
+        "shared_tokens": [
+          "sewer",
+          "water",
+          "wastewater",
+          "plumb",
+          "pipe",
+          "piping",
+          "sanitary",
+          "drainage",
+          "plumbing"
+        ],
+        "relationship": "produces",
+        "confidence": "A"
+      },
+      {
+        "target_id": "uc:Pr_65_53_96",
+        "target_name": "Water supply and wastewater pumps",
+        "score": 0.6,
+        "shared_tokens": [
+          "sewer",
+          "water",
+          "wastewater",
+          "plumb",
+          "pipe",
+          "piping",
+          "sanitary",
+          "drainage",
+          "plumbing"
+        ],
+        "relationship": "produces",
+        "confidence": "A"
+      },
+      {
+        "target_id": "uc:Pr_65_54_94",
+        "target_name": "Water supply and wastewater valves",
+        "score": 0.6,
+        "shared_tokens": [
+          "sewer",
+          "water",
+          "wastewater",
+          "plumb",
+          "pipe",
+          "piping",
+          "sanitary",
+          "drainage",
+          "plumbing"
+        ],
+        "relationship": "produces",
+        "confidence": "A"
+      },
+      {
+        "target_id": "uc:Pr_20_85_09_01",
+        "target_name": "Above-ground drainage pipe brackets",
+        "score": 0.562,
+        "shared_tokens": [
+          "sewer",
+          "sanitary",
+          "water",
+          "wastewater",
+          "pipe",
+          "piping",
+          "plumb",
+          "drainage",
+          "plumbing"
+        ],
+        "relationship": "produces",
+        "confidence": "A"
+      },
+      {
+        "target_id": "uc:Pr_60_45_94",
+        "target_name": "Wastewater screening and water abstraction products",
+        "score": 0.562,
+        "shared_tokens": [
+          "sewer",
+          "sanitary",
+          "water",
+          "wastewater",
+          "pipe",
+          "piping",
+          "plumb",
+          "drainage",
+          "plumbing"
+        ],
+        "relationship": "produces",
+        "confidence": "A"
+      },
+      {
+        "target_id": "uc:Pr_65_52_07_02",
+        "target_name": "Adaptors for above-ground pipe connections to clay drainage pipelines",
+        "score": 0.474,
+        "shared_tokens": [
+          "sewer",
+          "sanitary",
+          "water",
+          "wastewater",
+          "drainage",
+          "pipe",
+          "plumb",
+          "piping",
+          "plumbing"
+        ],
+        "relationship": "produces",
+        "confidence": "B"
+      },
+      {
+        "target_id": "uc:Pr_65_52_07_03",
+        "target_name": "Adaptors for above-ground pipe connections to plastics drainage pipelines",
+        "score": 0.474,
+        "shared_tokens": [
+          "sewer",
+          "sanitary",
+          "water",
+          "wastewater",
+          "drainage",
+          "pipe",
+          "plumb",
+          "piping",
+          "plumbing"
+        ],
+        "relationship": "produces",
+        "confidence": "B"
+      },
+      {
+        "target_id": "uc:Pr_40_30_61_97",
+        "target_name": "Water play structures",
+        "score": 0.429,
+        "shared_tokens": [
+          "water",
+          "pipe",
+          "plumbing",
+          "plumb",
+          "piping",
+          "structures"
+        ],
+        "relationship": "produces",
+        "confidence": "B"
+      },
+      {
+        "target_id": "uc:Pr_65_57_95_42",
+        "target_name": "In-line water filters",
+        "score": 0.429,
+        "shared_tokens": [
+          "line",
+          "water",
+          "pipe",
+          "plumb",
+          "piping",
+          "plumbing"
+        ],
+        "relationship": "produces",
+        "confidence": "B"
+      }
+    ]
+  },
+  {
+    "source_id": "naics:23713",
+    "source_name": "Power and Communication Line and Related Structures Construction",
+    "source_tokens": [
+      "power",
+      "related",
+      "communication",
+      "electric",
+      "structures",
+      "line",
+      "wiring",
+      "construction",
+      "electrical"
+    ],
+    "matches": [
+      {
+        "target_id": "uc:Pr_65_72_59",
+        "target_name": "Overhead power supply line products",
+        "score": 0.417,
+        "shared_tokens": [
+          "line",
+          "power",
+          "wiring",
+          "electrical",
+          "electric"
+        ],
+        "relationship": "produces",
+        "confidence": "B"
+      },
+      {
+        "target_id": "uc:Pr_30_36_08_27",
+        "target_name": "Electric locks",
+        "score": 0.4,
+        "shared_tokens": [
+          "electric",
+          "electrical",
+          "power",
+          "wiring"
+        ],
+        "relationship": "produces",
+        "confidence": "B"
+      },
+      {
+        "target_id": "uc:Pr_40_10_57_23",
+        "target_name": "Electrical diagrams",
+        "score": 0.4,
+        "shared_tokens": [
+          "electric",
+          "electrical",
+          "power",
+          "wiring"
+        ],
+        "relationship": "produces",
+        "confidence": "B"
+      },
+      {
+        "target_id": "uc:Pr_40_50_13_26",
+        "target_name": "Electric clocks",
+        "score": 0.4,
+        "shared_tokens": [
+          "electric",
+          "electrical",
+          "power",
+          "wiring"
+        ],
+        "relationship": "produces",
+        "confidence": "B"
+      },
+      {
+        "target_id": "uc:Pr_40_70_17_27",
+        "target_name": "Electric ovens",
+        "score": 0.4,
+        "shared_tokens": [
+          "electric",
+          "electrical",
+          "power",
+          "wiring"
+        ],
+        "relationship": "produces",
+        "confidence": "B"
+      },
+      {
+        "target_id": "uc:Pr_40_70_24_26",
+        "target_name": "Electric barbecues",
+        "score": 0.4,
+        "shared_tokens": [
+          "electric",
+          "electrical",
+          "power",
+          "wiring"
+        ],
+        "relationship": "produces",
+        "confidence": "B"
+      },
+      {
+        "target_id": "uc:Pr_40_70_35_27",
+        "target_name": "Electric kilns",
+        "score": 0.4,
+        "shared_tokens": [
+          "electric",
+          "electrical",
+          "power",
+          "wiring"
+        ],
+        "relationship": "produces",
+        "confidence": "B"
+      },
+      {
+        "target_id": "uc:Pr_40_70_84_67",
+        "target_name": "Power plates",
+        "score": 0.4,
+        "shared_tokens": [
+          "electric",
+          "electrical",
+          "power",
+          "wiring"
+        ],
+        "relationship": "produces",
+        "confidence": "B"
+      },
+      {
+        "target_id": "uc:Pr_60_60_08_27",
+        "target_name": "Electric boilers",
+        "score": 0.4,
+        "shared_tokens": [
+          "electric",
+          "electrical",
+          "power",
+          "wiring"
+        ],
+        "relationship": "produces",
+        "confidence": "B"
+      },
+      {
+        "target_id": "uc:Pr_65_72_97",
+        "target_name": "Wiring accessories",
+        "score": 0.4,
+        "shared_tokens": [
+          "electric",
+          "electrical",
+          "power",
+          "wiring"
+        ],
+        "relationship": "produces",
+        "confidence": "B"
+      }
+    ]
+  },
+  {
+    "source_id": "naics:237130",
+    "source_name": "Power and Communication Line and Related Structures Construction",
+    "source_tokens": [
+      "power",
+      "related",
+      "communication",
+      "electric",
+      "structures",
+      "line",
+      "wiring",
+      "construction",
+      "electrical"
+    ],
+    "matches": [
+      {
+        "target_id": "uc:Pr_65_72_59",
+        "target_name": "Overhead power supply line products",
+        "score": 0.417,
+        "shared_tokens": [
+          "line",
+          "power",
+          "wiring",
+          "electrical",
+          "electric"
+        ],
+        "relationship": "produces",
+        "confidence": "B"
+      },
+      {
+        "target_id": "uc:Pr_30_36_08_27",
+        "target_name": "Electric locks",
+        "score": 0.4,
+        "shared_tokens": [
+          "electric",
+          "electrical",
+          "power",
+          "wiring"
+        ],
+        "relationship": "produces",
+        "confidence": "B"
+      },
+      {
+        "target_id": "uc:Pr_40_10_57_23",
+        "target_name": "Electrical diagrams",
+        "score": 0.4,
+        "shared_tokens": [
+          "electric",
+          "electrical",
+          "power",
+          "wiring"
+        ],
+        "relationship": "produces",
+        "confidence": "B"
+      },
+      {
+        "target_id": "uc:Pr_40_50_13_26",
+        "target_name": "Electric clocks",
+        "score": 0.4,
+        "shared_tokens": [
+          "electric",
+          "electrical",
+          "power",
+          "wiring"
+        ],
+        "relationship": "produces",
+        "confidence": "B"
+      },
+      {
+        "target_id": "uc:Pr_40_70_17_27",
+        "target_name": "Electric ovens",
+        "score": 0.4,
+        "shared_tokens": [
+          "electric",
+          "electrical",
+          "power",
+          "wiring"
+        ],
+        "relationship": "produces",
+        "confidence": "B"
+      },
+      {
+        "target_id": "uc:Pr_40_70_24_26",
+        "target_name": "Electric barbecues",
+        "score": 0.4,
+        "shared_tokens": [
+          "electric",
+          "electrical",
+          "power",
+          "wiring"
+        ],
+        "relationship": "produces",
+        "confidence": "B"
+      },
+      {
+        "target_id": "uc:Pr_40_70_35_27",
+        "target_name": "Electric kilns",
+        "score": 0.4,
+        "shared_tokens": [
+          "electric",
+          "electrical",
+          "power",
+          "wiring"
+        ],
+        "relationship": "produces",
+        "confidence": "B"
+      },
+      {
+        "target_id": "uc:Pr_40_70_84_67",
+        "target_name": "Power plates",
+        "score": 0.4,
+        "shared_tokens": [
+          "electric",
+          "electrical",
+          "power",
+          "wiring"
+        ],
+        "relationship": "produces",
+        "confidence": "B"
+      },
+      {
+        "target_id": "uc:Pr_60_60_08_27",
+        "target_name": "Electric boilers",
+        "score": 0.4,
+        "shared_tokens": [
+          "electric",
+          "electrical",
+          "power",
+          "wiring"
+        ],
+        "relationship": "produces",
+        "confidence": "B"
+      },
+      {
+        "target_id": "uc:Pr_65_72_97",
+        "target_name": "Wiring accessories",
+        "score": 0.4,
+        "shared_tokens": [
+          "electric",
+          "electrical",
+          "power",
+          "wiring"
+        ],
+        "relationship": "produces",
+        "confidence": "B"
+      }
+    ]
+  },
+  {
+    "source_id": "naics:2373",
+    "source_name": "Highway, Street, and Bridge Construction",
+    "source_tokens": [
+      "road",
+      "paving",
+      "span",
+      "highway",
+      "pavement",
+      "construction",
+      "overpass",
+      "street",
+      "bridge"
+    ],
+    "matches": [
+      {
+        "target_id": "uc:Pr_25_30_86_60",
+        "target_name": "Pavement extenders",
+        "score": 0.5,
+        "shared_tokens": [
+          "road",
+          "paving",
+          "highway",
+          "pavement",
+          "street"
+        ],
+        "relationship": "produces",
+        "confidence": "A"
+      },
+      {
+        "target_id": "uc:Pr_25_93_60",
+        "target_name": "Paving units",
+        "score": 0.5,
+        "shared_tokens": [
+          "road",
+          "paving",
+          "highway",
+          "pavement",
+          "street"
+        ],
+        "relationship": "produces",
+        "confidence": "A"
+      },
+      {
+        "target_id": "uc:Pr_35_31_66_60",
+        "target_name": "Paving primers",
+        "score": 0.5,
+        "shared_tokens": [
+          "road",
+          "paving",
+          "highway",
+          "pavement",
+          "street"
+        ],
+        "relationship": "produces",
+        "confidence": "A"
+      },
+      {
+        "target_id": "uc:Pr_40_10_77_85",
+        "target_name": "Street signs",
+        "score": 0.5,
+        "shared_tokens": [
+          "road",
+          "paving",
+          "highway",
+          "pavement",
+          "street"
+        ],
+        "relationship": "produces",
+        "confidence": "A"
+      },
+      {
+        "target_id": "uc:Pr_40_30_53_73",
+        "target_name": "Road mirrors",
+        "score": 0.5,
+        "shared_tokens": [
+          "road",
+          "paving",
+          "highway",
+          "pavement",
+          "street"
+        ],
+        "relationship": "produces",
+        "confidence": "A"
+      },
+      {
+        "target_id": "uc:Pr_20_31_01_39",
+        "target_name": "Hydraulic road binders",
+        "score": 0.455,
+        "shared_tokens": [
+          "road",
+          "paving",
+          "highway",
+          "pavement",
+          "street"
+        ],
+        "relationship": "produces",
+        "confidence": "B"
+      },
+      {
+        "target_id": "uc:Pr_20_31_53_60",
+        "target_name": "Paving jointing mortars",
+        "score": 0.455,
+        "shared_tokens": [
+          "road",
+          "paving",
+          "highway",
+          "pavement",
+          "street"
+        ],
+        "relationship": "produces",
+        "confidence": "B"
+      },
+      {
+        "target_id": "uc:Pr_20_85_47_22",
+        "target_name": "Decking and paving pedestals",
+        "score": 0.455,
+        "shared_tokens": [
+          "road",
+          "paving",
+          "highway",
+          "pavement",
+          "street"
+        ],
+        "relationship": "produces",
+        "confidence": "B"
+      },
+      {
+        "target_id": "uc:Pr_25_93_60_10",
+        "target_name": "Clay paving tiles",
+        "score": 0.455,
+        "shared_tokens": [
+          "road",
+          "paving",
+          "highway",
+          "pavement",
+          "street"
+        ],
+        "relationship": "produces",
+        "confidence": "B"
+      },
+      {
+        "target_id": "uc:Pr_25_93_70",
+        "target_name": "Rail track paving",
+        "score": 0.455,
+        "shared_tokens": [
+          "road",
+          "paving",
+          "highway",
+          "pavement",
+          "street"
+        ],
+        "relationship": "produces",
+        "confidence": "B"
+      }
+    ]
+  },
+  {
+    "source_id": "naics:23731",
+    "source_name": "Highway, Street, and Bridge Construction",
+    "source_tokens": [
+      "road",
+      "paving",
+      "span",
+      "highway",
+      "pavement",
+      "construction",
+      "overpass",
+      "street",
+      "bridge"
+    ],
+    "matches": [
+      {
+        "target_id": "uc:Pr_25_30_86_60",
+        "target_name": "Pavement extenders",
+        "score": 0.5,
+        "shared_tokens": [
+          "road",
+          "paving",
+          "highway",
+          "pavement",
+          "street"
+        ],
+        "relationship": "produces",
+        "confidence": "A"
+      },
+      {
+        "target_id": "uc:Pr_25_93_60",
+        "target_name": "Paving units",
+        "score": 0.5,
+        "shared_tokens": [
+          "road",
+          "paving",
+          "highway",
+          "pavement",
+          "street"
+        ],
+        "relationship": "produces",
+        "confidence": "A"
+      },
+      {
+        "target_id": "uc:Pr_35_31_66_60",
+        "target_name": "Paving primers",
+        "score": 0.5,
+        "shared_tokens": [
+          "road",
+          "paving",
+          "highway",
+          "pavement",
+          "street"
+        ],
+        "relationship": "produces",
+        "confidence": "A"
+      },
+      {
+        "target_id": "uc:Pr_40_10_77_85",
+        "target_name": "Street signs",
+        "score": 0.5,
+        "shared_tokens": [
+          "road",
+          "paving",
+          "highway",
+          "pavement",
+          "street"
+        ],
+        "relationship": "produces",
+        "confidence": "A"
+      },
+      {
+        "target_id": "uc:Pr_40_30_53_73",
+        "target_name": "Road mirrors",
+        "score": 0.5,
+        "shared_tokens": [
+          "road",
+          "paving",
+          "highway",
+          "pavement",
+          "street"
+        ],
+        "relationship": "produces",
+        "confidence": "A"
+      },
+      {
+        "target_id": "uc:Pr_20_31_01_39",
+        "target_name": "Hydraulic road binders",
+        "score": 0.455,
+        "shared_tokens": [
+          "road",
+          "paving",
+          "highway",
+          "pavement",
+          "street"
+        ],
+        "relationship": "produces",
+        "confidence": "B"
+      },
+      {
+        "target_id": "uc:Pr_20_31_53_60",
+        "target_name": "Paving jointing mortars",
+        "score": 0.455,
+        "shared_tokens": [
+          "road",
+          "paving",
+          "highway",
+          "pavement",
+          "street"
+        ],
+        "relationship": "produces",
+        "confidence": "B"
+      },
+      {
+        "target_id": "uc:Pr_20_85_47_22",
+        "target_name": "Decking and paving pedestals",
+        "score": 0.455,
+        "shared_tokens": [
+          "road",
+          "paving",
+          "highway",
+          "pavement",
+          "street"
+        ],
+        "relationship": "produces",
+        "confidence": "B"
+      },
+      {
+        "target_id": "uc:Pr_25_93_60_10",
+        "target_name": "Clay paving tiles",
+        "score": 0.455,
+        "shared_tokens": [
+          "road",
+          "paving",
+          "highway",
+          "pavement",
+          "street"
+        ],
+        "relationship": "produces",
+        "confidence": "B"
+      },
+      {
+        "target_id": "uc:Pr_25_93_70",
+        "target_name": "Rail track paving",
+        "score": 0.455,
+        "shared_tokens": [
+          "road",
+          "paving",
+          "highway",
+          "pavement",
+          "street"
+        ],
+        "relationship": "produces",
+        "confidence": "B"
+      }
+    ]
+  },
+  {
+    "source_id": "naics:237310",
+    "source_name": "Highway, Street, and Bridge Construction",
+    "source_tokens": [
+      "road",
+      "paving",
+      "span",
+      "highway",
+      "pavement",
+      "construction",
+      "overpass",
+      "street",
+      "bridge"
+    ],
+    "matches": [
+      {
+        "target_id": "uc:Pr_25_30_86_60",
+        "target_name": "Pavement extenders",
+        "score": 0.5,
+        "shared_tokens": [
+          "road",
+          "paving",
+          "highway",
+          "pavement",
+          "street"
+        ],
+        "relationship": "produces",
+        "confidence": "A"
+      },
+      {
+        "target_id": "uc:Pr_25_93_60",
+        "target_name": "Paving units",
+        "score": 0.5,
+        "shared_tokens": [
+          "road",
+          "paving",
+          "highway",
+          "pavement",
+          "street"
+        ],
+        "relationship": "produces",
+        "confidence": "A"
+      },
+      {
+        "target_id": "uc:Pr_35_31_66_60",
+        "target_name": "Paving primers",
+        "score": 0.5,
+        "shared_tokens": [
+          "road",
+          "paving",
+          "highway",
+          "pavement",
+          "street"
+        ],
+        "relationship": "produces",
+        "confidence": "A"
+      },
+      {
+        "target_id": "uc:Pr_40_10_77_85",
+        "target_name": "Street signs",
+        "score": 0.5,
+        "shared_tokens": [
+          "road",
+          "paving",
+          "highway",
+          "pavement",
+          "street"
+        ],
+        "relationship": "produces",
+        "confidence": "A"
+      },
+      {
+        "target_id": "uc:Pr_40_30_53_73",
+        "target_name": "Road mirrors",
+        "score": 0.5,
+        "shared_tokens": [
+          "road",
+          "paving",
+          "highway",
+          "pavement",
+          "street"
+        ],
+        "relationship": "produces",
+        "confidence": "A"
+      },
+      {
+        "target_id": "uc:Pr_20_31_01_39",
+        "target_name": "Hydraulic road binders",
+        "score": 0.455,
+        "shared_tokens": [
+          "road",
+          "paving",
+          "highway",
+          "pavement",
+          "street"
+        ],
+        "relationship": "produces",
+        "confidence": "B"
+      },
+      {
+        "target_id": "uc:Pr_20_31_53_60",
+        "target_name": "Paving jointing mortars",
+        "score": 0.455,
+        "shared_tokens": [
+          "road",
+          "paving",
+          "highway",
+          "pavement",
+          "street"
+        ],
+        "relationship": "produces",
+        "confidence": "B"
+      },
+      {
+        "target_id": "uc:Pr_20_85_47_22",
+        "target_name": "Decking and paving pedestals",
+        "score": 0.455,
+        "shared_tokens": [
+          "road",
+          "paving",
+          "highway",
+          "pavement",
+          "street"
+        ],
+        "relationship": "produces",
+        "confidence": "B"
+      },
+      {
+        "target_id": "uc:Pr_25_93_60_10",
+        "target_name": "Clay paving tiles",
+        "score": 0.455,
+        "shared_tokens": [
+          "road",
+          "paving",
+          "highway",
+          "pavement",
+          "street"
+        ],
+        "relationship": "produces",
+        "confidence": "B"
+      },
+      {
+        "target_id": "uc:Pr_25_93_70",
+        "target_name": "Rail track paving",
+        "score": 0.455,
+        "shared_tokens": [
+          "road",
+          "paving",
+          "highway",
+          "pavement",
+          "street"
+        ],
+        "relationship": "produces",
+        "confidence": "B"
+      }
+    ]
+  },
+  {
+    "source_id": "naics:2379",
+    "source_name": "Other Heavy and Civil Engineering Construction",
+    "source_tokens": [
+      "other",
+      "construction",
+      "engineering",
+      "civil",
+      "heavy"
+    ],
+    "matches": [
+      {
+        "target_id": "uc:Pr_20_93_52_27",
+        "target_name": "Engineering bricks",
+        "score": 0.167,
+        "shared_tokens": [
+          "engineering"
+        ],
+        "relationship": "produces",
+        "confidence": "D"
+      }
+    ]
+  },
+  {
+    "source_id": "naics:23799",
+    "source_name": "Other Heavy and Civil Engineering Construction",
+    "source_tokens": [
+      "other",
+      "construction",
+      "engineering",
+      "civil",
+      "heavy"
+    ],
+    "matches": [
+      {
+        "target_id": "uc:Pr_20_93_52_27",
+        "target_name": "Engineering bricks",
+        "score": 0.167,
+        "shared_tokens": [
+          "engineering"
+        ],
+        "relationship": "produces",
+        "confidence": "D"
+      }
+    ]
+  },
+  {
+    "source_id": "naics:237990",
+    "source_name": "Other Heavy and Civil Engineering Construction",
+    "source_tokens": [
+      "other",
+      "construction",
+      "engineering",
+      "civil",
+      "heavy"
+    ],
+    "matches": [
+      {
+        "target_id": "uc:Pr_20_93_52_27",
+        "target_name": "Engineering bricks",
+        "score": 0.167,
+        "shared_tokens": [
+          "engineering"
+        ],
+        "relationship": "produces",
+        "confidence": "D"
+      }
+    ]
+  },
+  {
+    "source_id": "naics:2381",
+    "source_name": "Foundation, Structure, and Building Exterior Contractors",
+    "source_tokens": [
+      "foundation",
+      "contractors",
+      "frame",
+      "substructure",
+      "footing",
+      "framing",
+      "structural",
+      "exterior",
+      "structure",
+      "building"
+    ],
+    "matches": [
+      {
+        "target_id": "uc:Pr_20_29_03_31",
+        "target_name": "Framing anchors",
+        "score": 0.364,
+        "shared_tokens": [
+          "frame",
+          "framing",
+          "structure",
+          "structural"
+        ],
+        "relationship": "uses",
+        "confidence": "B"
+      },
+      {
+        "target_id": "uc:Pr_20_29_03_32",
+        "target_name": "Framing fasteners",
+        "score": 0.364,
+        "shared_tokens": [
+          "frame",
+          "framing",
+          "structure",
+          "structural"
+        ],
+        "relationship": "uses",
+        "confidence": "B"
+      },
+      {
+        "target_id": "uc:Pr_20_29_03_86",
+        "target_name": "Structural anchors",
+        "score": 0.364,
+        "shared_tokens": [
+          "frame",
+          "framing",
+          "structure",
+          "structural"
+        ],
+        "relationship": "uses",
+        "confidence": "B"
+      },
+      {
+        "target_id": "uc:Pr_20_29_14_32",
+        "target_name": "Frame cramps",
+        "score": 0.364,
+        "shared_tokens": [
+          "frame",
+          "framing",
+          "structure",
+          "structural"
+        ],
+        "relationship": "uses",
+        "confidence": "B"
+      },
+      {
+        "target_id": "uc:Pr_20_85_85",
+        "target_name": "Structural bearings",
+        "score": 0.364,
+        "shared_tokens": [
+          "frame",
+          "framing",
+          "structure",
+          "structural"
+        ],
+        "relationship": "uses",
+        "confidence": "B"
+      },
+      {
+        "target_id": "uc:Pr_20_93_85",
+        "target_name": "Structural units",
+        "score": 0.364,
+        "shared_tokens": [
+          "frame",
+          "framing",
+          "structure",
+          "structural"
+        ],
+        "relationship": "uses",
+        "confidence": "B"
+      },
+      {
+        "target_id": "uc:Pr_20",
+        "target_name": "Structure and general products",
+        "score": 0.333,
+        "shared_tokens": [
+          "frame",
+          "framing",
+          "structure",
+          "structural"
+        ],
+        "relationship": "uses",
+        "confidence": "B"
+      },
+      {
+        "target_id": "uc:Pr_20_76_51_07",
+        "target_name": "Aluminium structural sections",
+        "score": 0.333,
+        "shared_tokens": [
+          "frame",
+          "framing",
+          "structure",
+          "structural"
+        ],
+        "relationship": "uses",
+        "confidence": "B"
+      },
+      {
+        "target_id": "uc:Pr_20_76_63_85",
+        "target_name": "Structural plastics sections",
+        "score": 0.333,
+        "shared_tokens": [
+          "frame",
+          "framing",
+          "structure",
+          "structural"
+        ],
+        "relationship": "uses",
+        "confidence": "B"
+      },
+      {
+        "target_id": "uc:Pr_20_76_78",
+        "target_name": "Shaft structure products",
+        "score": 0.333,
+        "shared_tokens": [
+          "frame",
+          "framing",
+          "structure",
+          "structural"
+        ],
+        "relationship": "uses",
+        "confidence": "B"
+      }
+    ]
+  },
+  {
+    "source_id": "naics:23811",
+    "source_name": "Poured Concrete Foundation and Structure Contractors",
+    "source_tokens": [
+      "foundation",
+      "contractors",
+      "concrete",
+      "frame",
+      "substructure",
+      "footing",
+      "framing",
+      "masonry",
+      "structural",
+      "structure",
+      "cement",
+      "poured"
+    ],
+    "matches": [
+      {
+        "target_id": "uc:Pr_20_93_85_16",
+        "target_name": "Concrete structural insulated panels (SIPs)",
+        "score": 0.467,
+        "shared_tokens": [
+          "framing",
+          "masonry",
+          "structural",
+          "concrete",
+          "frame",
+          "structure",
+          "cement"
+        ],
+        "relationship": "uses",
+        "confidence": "B"
+      },
+      {
+        "target_id": "uc:Pr_20_85_13_32",
+        "target_name": "Concrete foundation pads",
+        "score": 0.462,
+        "shared_tokens": [
+          "foundation",
+          "masonry",
+          "concrete",
+          "substructure",
+          "footing",
+          "cement"
+        ],
+        "relationship": "uses",
+        "confidence": "B"
+      },
+      {
+        "target_id": "uc:Pr_20_85_13",
+        "target_name": "Concrete base and foundation products",
+        "score": 0.429,
+        "shared_tokens": [
+          "foundation",
+          "masonry",
+          "concrete",
+          "substructure",
+          "footing",
+          "cement"
+        ],
+        "relationship": "uses",
+        "confidence": "B"
+      },
+      {
+        "target_id": "uc:Pr_20_29_03_31",
+        "target_name": "Framing anchors",
+        "score": 0.308,
+        "shared_tokens": [
+          "frame",
+          "framing",
+          "structure",
+          "structural"
+        ],
+        "relationship": "uses",
+        "confidence": "B"
+      },
+      {
+        "target_id": "uc:Pr_20_29_03_32",
+        "target_name": "Framing fasteners",
+        "score": 0.308,
+        "shared_tokens": [
+          "frame",
+          "framing",
+          "structure",
+          "structural"
+        ],
+        "relationship": "uses",
+        "confidence": "B"
+      },
+      {
+        "target_id": "uc:Pr_20_29_03_86",
+        "target_name": "Structural anchors",
+        "score": 0.308,
+        "shared_tokens": [
+          "frame",
+          "framing",
+          "structure",
+          "structural"
+        ],
+        "relationship": "uses",
+        "confidence": "B"
+      },
+      {
+        "target_id": "uc:Pr_20_29_14_32",
+        "target_name": "Frame cramps",
+        "score": 0.308,
+        "shared_tokens": [
+          "frame",
+          "framing",
+          "structure",
+          "structural"
+        ],
+        "relationship": "uses",
+        "confidence": "B"
+      },
+      {
+        "target_id": "uc:Pr_20_85_85",
+        "target_name": "Structural bearings",
+        "score": 0.308,
+        "shared_tokens": [
+          "frame",
+          "framing",
+          "structure",
+          "structural"
+        ],
+        "relationship": "uses",
+        "confidence": "B"
+      },
+      {
+        "target_id": "uc:Pr_20_93_85",
+        "target_name": "Structural units",
+        "score": 0.308,
+        "shared_tokens": [
+          "frame",
+          "framing",
+          "structure",
+          "structural"
+        ],
+        "relationship": "uses",
+        "confidence": "B"
+      },
+      {
+        "target_id": "uc:Pr_20",
+        "target_name": "Structure and general products",
+        "score": 0.286,
+        "shared_tokens": [
+          "frame",
+          "framing",
+          "structure",
+          "structural"
+        ],
+        "relationship": "uses",
+        "confidence": "C"
+      }
+    ]
+  },
+  {
+    "source_id": "naics:238110",
+    "source_name": "Poured Concrete Foundation and Structure Contractors",
+    "source_tokens": [
+      "foundation",
+      "contractors",
+      "concrete",
+      "frame",
+      "substructure",
+      "footing",
+      "framing",
+      "masonry",
+      "structural",
+      "structure",
+      "cement",
+      "poured"
+    ],
+    "matches": [
+      {
+        "target_id": "uc:Pr_20_93_85_16",
+        "target_name": "Concrete structural insulated panels (SIPs)",
+        "score": 0.467,
+        "shared_tokens": [
+          "framing",
+          "masonry",
+          "structural",
+          "concrete",
+          "frame",
+          "structure",
+          "cement"
+        ],
+        "relationship": "uses",
+        "confidence": "B"
+      },
+      {
+        "target_id": "uc:Pr_20_85_13_32",
+        "target_name": "Concrete foundation pads",
+        "score": 0.462,
+        "shared_tokens": [
+          "foundation",
+          "masonry",
+          "concrete",
+          "substructure",
+          "footing",
+          "cement"
+        ],
+        "relationship": "uses",
+        "confidence": "B"
+      },
+      {
+        "target_id": "uc:Pr_20_85_13",
+        "target_name": "Concrete base and foundation products",
+        "score": 0.429,
+        "shared_tokens": [
+          "foundation",
+          "masonry",
+          "concrete",
+          "substructure",
+          "footing",
+          "cement"
+        ],
+        "relationship": "uses",
+        "confidence": "B"
+      },
+      {
+        "target_id": "uc:Pr_20_29_03_31",
+        "target_name": "Framing anchors",
+        "score": 0.308,
+        "shared_tokens": [
+          "frame",
+          "framing",
+          "structure",
+          "structural"
+        ],
+        "relationship": "uses",
+        "confidence": "B"
+      },
+      {
+        "target_id": "uc:Pr_20_29_03_32",
+        "target_name": "Framing fasteners",
+        "score": 0.308,
+        "shared_tokens": [
+          "frame",
+          "framing",
+          "structure",
+          "structural"
+        ],
+        "relationship": "uses",
+        "confidence": "B"
+      },
+      {
+        "target_id": "uc:Pr_20_29_03_86",
+        "target_name": "Structural anchors",
+        "score": 0.308,
+        "shared_tokens": [
+          "frame",
+          "framing",
+          "structure",
+          "structural"
+        ],
+        "relationship": "uses",
+        "confidence": "B"
+      },
+      {
+        "target_id": "uc:Pr_20_29_14_32",
+        "target_name": "Frame cramps",
+        "score": 0.308,
+        "shared_tokens": [
+          "frame",
+          "framing",
+          "structure",
+          "structural"
+        ],
+        "relationship": "uses",
+        "confidence": "B"
+      },
+      {
+        "target_id": "uc:Pr_20_85_85",
+        "target_name": "Structural bearings",
+        "score": 0.308,
+        "shared_tokens": [
+          "frame",
+          "framing",
+          "structure",
+          "structural"
+        ],
+        "relationship": "uses",
+        "confidence": "B"
+      },
+      {
+        "target_id": "uc:Pr_20_93_85",
+        "target_name": "Structural units",
+        "score": 0.308,
+        "shared_tokens": [
+          "frame",
+          "framing",
+          "structure",
+          "structural"
+        ],
+        "relationship": "uses",
+        "confidence": "B"
+      },
+      {
+        "target_id": "uc:Pr_20",
+        "target_name": "Structure and general products",
+        "score": 0.286,
+        "shared_tokens": [
+          "frame",
+          "framing",
+          "structure",
+          "structural"
+        ],
+        "relationship": "uses",
+        "confidence": "C"
+      }
+    ]
+  },
+  {
+    "source_id": "naics:23812",
+    "source_name": "Structural Steel and Precast Concrete Contractors",
+    "source_tokens": [
+      "contractors",
+      "concrete",
+      "frame",
+      "metal",
+      "precast",
+      "iron",
+      "framing",
+      "masonry",
+      "structural",
+      "steel",
+      "structure",
+      "cement"
+    ],
+    "matches": [
+      {
+        "target_id": "uc:Pr_20_85_08_83",
+        "target_name": "Stainless steel structural beams",
+        "score": 0.5,
+        "shared_tokens": [
+          "iron",
+          "framing",
+          "structural",
+          "steel",
+          "metal",
+          "frame",
+          "structure"
+        ],
+        "relationship": "uses",
+        "confidence": "A"
+      },
+      {
+        "target_id": "uc:Pr_20_85_16_84",
+        "target_name": "Stainless steel structural columns",
+        "score": 0.5,
+        "shared_tokens": [
+          "iron",
+          "framing",
+          "structural",
+          "steel",
+          "metal",
+          "frame",
+          "structure"
+        ],
+        "relationship": "uses",
+        "confidence": "A"
+      },
+      {
+        "target_id": "uc:Pr_20_85_32_12",
+        "target_name": "Carbon steel frame fasteners",
+        "score": 0.5,
+        "shared_tokens": [
+          "iron",
+          "framing",
+          "structural",
+          "steel",
+          "metal",
+          "frame",
+          "structure"
+        ],
+        "relationship": "uses",
+        "confidence": "A"
+      },
+      {
+        "target_id": "uc:Pr_20_85_32_85",
+        "target_name": "Stainless steel frame fasteners",
+        "score": 0.5,
+        "shared_tokens": [
+          "iron",
+          "framing",
+          "structural",
+          "steel",
+          "metal",
+          "frame",
+          "structure"
+        ],
+        "relationship": "uses",
+        "confidence": "A"
+      },
+      {
+        "target_id": "uc:Pr_20_65_60_48",
+        "target_name": "Light-gauge steel frame panels",
+        "score": 0.467,
+        "shared_tokens": [
+          "iron",
+          "framing",
+          "structural",
+          "steel",
+          "metal",
+          "frame",
+          "structure"
+        ],
+        "relationship": "uses",
+        "confidence": "B"
+      },
+      {
+        "target_id": "uc:Pr_20_93_85_16",
+        "target_name": "Concrete structural insulated panels (SIPs)",
+        "score": 0.467,
+        "shared_tokens": [
+          "framing",
+          "masonry",
+          "structural",
+          "concrete",
+          "frame",
+          "structure",
+          "cement"
+        ],
+        "relationship": "uses",
+        "confidence": "B"
+      },
+      {
+        "target_id": "uc:Pr_20_93_85_52",
+        "target_name": "Metal structural insulated panels (SIPs)",
+        "score": 0.467,
+        "shared_tokens": [
+          "iron",
+          "framing",
+          "structural",
+          "steel",
+          "metal",
+          "frame",
+          "structure"
+        ],
+        "relationship": "uses",
+        "confidence": "B"
+      },
+      {
+        "target_id": "uc:Pr_20_85_09_16",
+        "target_name": "Carbon steel masonry brackets",
+        "score": 0.429,
+        "shared_tokens": [
+          "iron",
+          "masonry",
+          "steel",
+          "metal",
+          "concrete",
+          "cement"
+        ],
+        "relationship": "uses",
+        "confidence": "B"
+      },
+      {
+        "target_id": "uc:Pr_20_85_09_87",
+        "target_name": "Stainless steel masonry brackets",
+        "score": 0.429,
+        "shared_tokens": [
+          "iron",
+          "masonry",
+          "steel",
+          "metal",
+          "concrete",
+          "cement"
+        ],
+        "relationship": "uses",
+        "confidence": "B"
+      },
+      {
+        "target_id": "uc:Pr_20_85_16_16",
+        "target_name": "Composite steel and concrete columns",
+        "score": 0.429,
+        "shared_tokens": [
+          "iron",
+          "masonry",
+          "steel",
+          "metal",
+          "concrete",
+          "cement"
+        ],
+        "relationship": "uses",
+        "confidence": "B"
+      }
+    ]
+  },
+  {
+    "source_id": "naics:238120",
+    "source_name": "Structural Steel and Precast Concrete Contractors",
+    "source_tokens": [
+      "contractors",
+      "concrete",
+      "frame",
+      "metal",
+      "precast",
+      "iron",
+      "framing",
+      "masonry",
+      "structural",
+      "steel",
+      "structure",
+      "cement"
+    ],
+    "matches": [
+      {
+        "target_id": "uc:Pr_20_85_08_83",
+        "target_name": "Stainless steel structural beams",
+        "score": 0.5,
+        "shared_tokens": [
+          "iron",
+          "framing",
+          "structural",
+          "steel",
+          "metal",
+          "frame",
+          "structure"
+        ],
+        "relationship": "uses",
+        "confidence": "A"
+      },
+      {
+        "target_id": "uc:Pr_20_85_16_84",
+        "target_name": "Stainless steel structural columns",
+        "score": 0.5,
+        "shared_tokens": [
+          "iron",
+          "framing",
+          "structural",
+          "steel",
+          "metal",
+          "frame",
+          "structure"
+        ],
+        "relationship": "uses",
+        "confidence": "A"
+      },
+      {
+        "target_id": "uc:Pr_20_85_32_12",
+        "target_name": "Carbon steel frame fasteners",
+        "score": 0.5,
+        "shared_tokens": [
+          "iron",
+          "framing",
+          "structural",
+          "steel",
+          "metal",
+          "frame",
+          "structure"
+        ],
+        "relationship": "uses",
+        "confidence": "A"
+      },
+      {
+        "target_id": "uc:Pr_20_85_32_85",
+        "target_name": "Stainless steel frame fasteners",
+        "score": 0.5,
+        "shared_tokens": [
+          "iron",
+          "framing",
+          "structural",
+          "steel",
+          "metal",
+          "frame",
+          "structure"
+        ],
+        "relationship": "uses",
+        "confidence": "A"
+      },
+      {
+        "target_id": "uc:Pr_20_65_60_48",
+        "target_name": "Light-gauge steel frame panels",
+        "score": 0.467,
+        "shared_tokens": [
+          "iron",
+          "framing",
+          "structural",
+          "steel",
+          "metal",
+          "frame",
+          "structure"
+        ],
+        "relationship": "uses",
+        "confidence": "B"
+      },
+      {
+        "target_id": "uc:Pr_20_93_85_16",
+        "target_name": "Concrete structural insulated panels (SIPs)",
+        "score": 0.467,
+        "shared_tokens": [
+          "framing",
+          "masonry",
+          "structural",
+          "concrete",
+          "frame",
+          "structure",
+          "cement"
+        ],
+        "relationship": "uses",
+        "confidence": "B"
+      },
+      {
+        "target_id": "uc:Pr_20_93_85_52",
+        "target_name": "Metal structural insulated panels (SIPs)",
+        "score": 0.467,
+        "shared_tokens": [
+          "iron",
+          "framing",
+          "structural",
+          "steel",
+          "metal",
+          "frame",
+          "structure"
+        ],
+        "relationship": "uses",
+        "confidence": "B"
+      },
+      {
+        "target_id": "uc:Pr_20_85_09_16",
+        "target_name": "Carbon steel masonry brackets",
+        "score": 0.429,
+        "shared_tokens": [
+          "iron",
+          "masonry",
+          "steel",
+          "metal",
+          "concrete",
+          "cement"
+        ],
+        "relationship": "uses",
+        "confidence": "B"
+      },
+      {
+        "target_id": "uc:Pr_20_85_09_87",
+        "target_name": "Stainless steel masonry brackets",
+        "score": 0.429,
+        "shared_tokens": [
+          "iron",
+          "masonry",
+          "steel",
+          "metal",
+          "concrete",
+          "cement"
+        ],
+        "relationship": "uses",
+        "confidence": "B"
+      },
+      {
+        "target_id": "uc:Pr_20_85_16_16",
+        "target_name": "Composite steel and concrete columns",
+        "score": 0.429,
+        "shared_tokens": [
+          "iron",
+          "masonry",
+          "steel",
+          "metal",
+          "concrete",
+          "cement"
+        ],
+        "relationship": "uses",
+        "confidence": "B"
+      }
+    ]
+  },
+  {
+    "source_id": "naics:23813",
+    "source_name": "Framing Contractors",
+    "source_tokens": [
+      "framing",
+      "structural",
+      "contractors",
+      "frame",
+      "structure"
+    ],
+    "matches": [
+      {
+        "target_id": "uc:Pr_20_29_03_31",
+        "target_name": "Framing anchors",
+        "score": 0.667,
+        "shared_tokens": [
+          "frame",
+          "framing",
+          "structure",
+          "structural"
+        ],
+        "relationship": "uses",
+        "confidence": "A"
+      },
+      {
+        "target_id": "uc:Pr_20_29_03_32",
+        "target_name": "Framing fasteners",
+        "score": 0.667,
+        "shared_tokens": [
+          "frame",
+          "framing",
+          "structure",
+          "structural"
+        ],
+        "relationship": "uses",
+        "confidence": "A"
+      },
+      {
+        "target_id": "uc:Pr_20_29_03_86",
+        "target_name": "Structural anchors",
+        "score": 0.667,
+        "shared_tokens": [
+          "frame",
+          "framing",
+          "structure",
+          "structural"
+        ],
+        "relationship": "uses",
+        "confidence": "A"
+      },
+      {
+        "target_id": "uc:Pr_20_29_14_32",
+        "target_name": "Frame cramps",
+        "score": 0.667,
+        "shared_tokens": [
+          "frame",
+          "framing",
+          "structure",
+          "structural"
+        ],
+        "relationship": "uses",
+        "confidence": "A"
+      },
+      {
+        "target_id": "uc:Pr_20_85_85",
+        "target_name": "Structural bearings",
+        "score": 0.667,
+        "shared_tokens": [
+          "frame",
+          "framing",
+          "structure",
+          "structural"
+        ],
+        "relationship": "uses",
+        "confidence": "A"
+      },
+      {
+        "target_id": "uc:Pr_20_93_85",
+        "target_name": "Structural units",
+        "score": 0.667,
+        "shared_tokens": [
+          "frame",
+          "framing",
+          "structure",
+          "structural"
+        ],
+        "relationship": "uses",
+        "confidence": "A"
+      },
+      {
+        "target_id": "uc:Pr_20",
+        "target_name": "Structure and general products",
+        "score": 0.571,
+        "shared_tokens": [
+          "frame",
+          "framing",
+          "structure",
+          "structural"
+        ],
+        "relationship": "uses",
+        "confidence": "A"
+      },
+      {
+        "target_id": "uc:Pr_20_76_51_07",
+        "target_name": "Aluminium structural sections",
+        "score": 0.571,
+        "shared_tokens": [
+          "frame",
+          "framing",
+          "structure",
+          "structural"
+        ],
+        "relationship": "uses",
+        "confidence": "A"
+      },
+      {
+        "target_id": "uc:Pr_20_76_63_85",
+        "target_name": "Structural plastics sections",
+        "score": 0.571,
+        "shared_tokens": [
+          "frame",
+          "framing",
+          "structure",
+          "structural"
+        ],
+        "relationship": "uses",
+        "confidence": "A"
+      },
+      {
+        "target_id": "uc:Pr_20_76_78",
+        "target_name": "Shaft structure products",
+        "score": 0.571,
+        "shared_tokens": [
+          "frame",
+          "framing",
+          "structure",
+          "structural"
+        ],
+        "relationship": "uses",
+        "confidence": "A"
+      }
+    ]
+  },
+  {
+    "source_id": "naics:238130",
+    "source_name": "Framing Contractors",
+    "source_tokens": [
+      "framing",
+      "structural",
+      "contractors",
+      "frame",
+      "structure"
+    ],
+    "matches": [
+      {
+        "target_id": "uc:Pr_20_29_03_31",
+        "target_name": "Framing anchors",
+        "score": 0.667,
+        "shared_tokens": [
+          "frame",
+          "framing",
+          "structure",
+          "structural"
+        ],
+        "relationship": "uses",
+        "confidence": "A"
+      },
+      {
+        "target_id": "uc:Pr_20_29_03_32",
+        "target_name": "Framing fasteners",
+        "score": 0.667,
+        "shared_tokens": [
+          "frame",
+          "framing",
+          "structure",
+          "structural"
+        ],
+        "relationship": "uses",
+        "confidence": "A"
+      },
+      {
+        "target_id": "uc:Pr_20_29_03_86",
+        "target_name": "Structural anchors",
+        "score": 0.667,
+        "shared_tokens": [
+          "frame",
+          "framing",
+          "structure",
+          "structural"
+        ],
+        "relationship": "uses",
+        "confidence": "A"
+      },
+      {
+        "target_id": "uc:Pr_20_29_14_32",
+        "target_name": "Frame cramps",
+        "score": 0.667,
+        "shared_tokens": [
+          "frame",
+          "framing",
+          "structure",
+          "structural"
+        ],
+        "relationship": "uses",
+        "confidence": "A"
+      },
+      {
+        "target_id": "uc:Pr_20_85_85",
+        "target_name": "Structural bearings",
+        "score": 0.667,
+        "shared_tokens": [
+          "frame",
+          "framing",
+          "structure",
+          "structural"
+        ],
+        "relationship": "uses",
+        "confidence": "A"
+      },
+      {
+        "target_id": "uc:Pr_20_93_85",
+        "target_name": "Structural units",
+        "score": 0.667,
+        "shared_tokens": [
+          "frame",
+          "framing",
+          "structure",
+          "structural"
+        ],
+        "relationship": "uses",
+        "confidence": "A"
+      },
+      {
+        "target_id": "uc:Pr_20",
+        "target_name": "Structure and general products",
+        "score": 0.571,
+        "shared_tokens": [
+          "frame",
+          "framing",
+          "structure",
+          "structural"
+        ],
+        "relationship": "uses",
+        "confidence": "A"
+      },
+      {
+        "target_id": "uc:Pr_20_76_51_07",
+        "target_name": "Aluminium structural sections",
+        "score": 0.571,
+        "shared_tokens": [
+          "frame",
+          "framing",
+          "structure",
+          "structural"
+        ],
+        "relationship": "uses",
+        "confidence": "A"
+      },
+      {
+        "target_id": "uc:Pr_20_76_63_85",
+        "target_name": "Structural plastics sections",
+        "score": 0.571,
+        "shared_tokens": [
+          "frame",
+          "framing",
+          "structure",
+          "structural"
+        ],
+        "relationship": "uses",
+        "confidence": "A"
+      },
+      {
+        "target_id": "uc:Pr_20_76_78",
+        "target_name": "Shaft structure products",
+        "score": 0.571,
+        "shared_tokens": [
+          "frame",
+          "framing",
+          "structure",
+          "structural"
+        ],
+        "relationship": "uses",
+        "confidence": "A"
+      }
+    ]
+  },
+  {
+    "source_id": "naics:23814",
+    "source_name": "Masonry Contractors",
+    "source_tokens": [
+      "concrete",
+      "masonry",
+      "cement",
+      "contractors"
+    ],
+    "matches": [
+      {
+        "target_id": "uc:Pr_20_29_14_50",
+        "target_name": "Masonry cramps",
+        "score": 0.6,
+        "shared_tokens": [
+          "concrete",
+          "masonry",
+          "cement"
+        ],
+        "relationship": "uses",
+        "confidence": "A"
+      },
+      {
+        "target_id": "uc:Pr_20_29_23_50",
+        "target_name": "Masonry dowels",
+        "score": 0.6,
+        "shared_tokens": [
+          "concrete",
+          "masonry",
+          "cement"
+        ],
+        "relationship": "uses",
+        "confidence": "A"
+      },
+      {
+        "target_id": "uc:Pr_20_29_56_50",
+        "target_name": "Masonry nails",
+        "score": 0.6,
+        "shared_tokens": [
+          "concrete",
+          "masonry",
+          "cement"
+        ],
+        "relationship": "uses",
+        "confidence": "A"
+      },
+      {
+        "target_id": "uc:Pr_20_29_63_50",
+        "target_name": "Masonry plugs",
+        "score": 0.6,
+        "shared_tokens": [
+          "concrete",
+          "masonry",
+          "cement"
+        ],
+        "relationship": "uses",
+        "confidence": "A"
+      },
+      {
+        "target_id": "uc:Pr_20_31_12_50",
+        "target_name": "Masonry cements",
+        "score": 0.6,
+        "shared_tokens": [
+          "concrete",
+          "masonry",
+          "cement"
+        ],
+        "relationship": "uses",
+        "confidence": "A"
+      },
+      {
+        "target_id": "uc:Pr_20_31_16_21",
+        "target_name": "Designated concrete",
+        "score": 0.6,
+        "shared_tokens": [
+          "concrete",
+          "masonry",
+          "cement"
+        ],
+        "relationship": "uses",
+        "confidence": "A"
+      },
+      {
+        "target_id": "uc:Pr_20_31_16_22",
+        "target_name": "Designed concrete",
+        "score": 0.6,
+        "shared_tokens": [
+          "concrete",
+          "masonry",
+          "cement"
+        ],
+        "relationship": "uses",
+        "confidence": "A"
+      },
+      {
+        "target_id": "uc:Pr_20_31_16_31",
+        "target_name": "Foamed concrete",
+        "score": 0.6,
+        "shared_tokens": [
+          "concrete",
+          "masonry",
+          "cement"
+        ],
+        "relationship": "uses",
+        "confidence": "A"
+      },
+      {
+        "target_id": "uc:Pr_20_31_16_67",
+        "target_name": "Prescribed concrete",
+        "score": 0.6,
+        "shared_tokens": [
+          "concrete",
+          "masonry",
+          "cement"
+        ],
+        "relationship": "uses",
+        "confidence": "A"
+      },
+      {
+        "target_id": "uc:Pr_20_31_53_50",
+        "target_name": "Masonry grout",
+        "score": 0.6,
+        "shared_tokens": [
+          "concrete",
+          "masonry",
+          "cement"
+        ],
+        "relationship": "uses",
+        "confidence": "A"
+      }
+    ]
+  },
+  {
+    "source_id": "naics:238140",
+    "source_name": "Masonry Contractors",
+    "source_tokens": [
+      "concrete",
+      "masonry",
+      "cement",
+      "contractors"
+    ],
+    "matches": [
+      {
+        "target_id": "uc:Pr_20_29_14_50",
+        "target_name": "Masonry cramps",
+        "score": 0.6,
+        "shared_tokens": [
+          "concrete",
+          "masonry",
+          "cement"
+        ],
+        "relationship": "uses",
+        "confidence": "A"
+      },
+      {
+        "target_id": "uc:Pr_20_29_23_50",
+        "target_name": "Masonry dowels",
+        "score": 0.6,
+        "shared_tokens": [
+          "concrete",
+          "masonry",
+          "cement"
+        ],
+        "relationship": "uses",
+        "confidence": "A"
+      },
+      {
+        "target_id": "uc:Pr_20_29_56_50",
+        "target_name": "Masonry nails",
+        "score": 0.6,
+        "shared_tokens": [
+          "concrete",
+          "masonry",
+          "cement"
+        ],
+        "relationship": "uses",
+        "confidence": "A"
+      },
+      {
+        "target_id": "uc:Pr_20_29_63_50",
+        "target_name": "Masonry plugs",
+        "score": 0.6,
+        "shared_tokens": [
+          "concrete",
+          "masonry",
+          "cement"
+        ],
+        "relationship": "uses",
+        "confidence": "A"
+      },
+      {
+        "target_id": "uc:Pr_20_31_12_50",
+        "target_name": "Masonry cements",
+        "score": 0.6,
+        "shared_tokens": [
+          "concrete",
+          "masonry",
+          "cement"
+        ],
+        "relationship": "uses",
+        "confidence": "A"
+      },
+      {
+        "target_id": "uc:Pr_20_31_16_21",
+        "target_name": "Designated concrete",
+        "score": 0.6,
+        "shared_tokens": [
+          "concrete",
+          "masonry",
+          "cement"
+        ],
+        "relationship": "uses",
+        "confidence": "A"
+      },
+      {
+        "target_id": "uc:Pr_20_31_16_22",
+        "target_name": "Designed concrete",
+        "score": 0.6,
+        "shared_tokens": [
+          "concrete",
+          "masonry",
+          "cement"
+        ],
+        "relationship": "uses",
+        "confidence": "A"
+      },
+      {
+        "target_id": "uc:Pr_20_31_16_31",
+        "target_name": "Foamed concrete",
+        "score": 0.6,
+        "shared_tokens": [
+          "concrete",
+          "masonry",
+          "cement"
+        ],
+        "relationship": "uses",
+        "confidence": "A"
+      },
+      {
+        "target_id": "uc:Pr_20_31_16_67",
+        "target_name": "Prescribed concrete",
+        "score": 0.6,
+        "shared_tokens": [
+          "concrete",
+          "masonry",
+          "cement"
+        ],
+        "relationship": "uses",
+        "confidence": "A"
+      },
+      {
+        "target_id": "uc:Pr_20_31_53_50",
+        "target_name": "Masonry grout",
+        "score": 0.6,
+        "shared_tokens": [
+          "concrete",
+          "masonry",
+          "cement"
+        ],
+        "relationship": "uses",
+        "confidence": "A"
+      }
+    ]
+  },
+  {
+    "source_id": "naics:23815",
+    "source_name": "Glass and Glazing Contractors",
+    "source_tokens": [
+      "window",
+      "glazed",
+      "contractors",
+      "glazing",
+      "glass"
+    ],
+    "matches": [
+      {
+        "target_id": "uc:Pr_15_31_26_31",
+        "target_name": "Glass bottles",
+        "score": 0.667,
+        "shared_tokens": [
+          "glazing",
+          "window",
+          "glazed",
+          "glass"
+        ],
+        "relationship": "uses",
+        "confidence": "A"
+      },
+      {
+        "target_id": "uc:Pr_20_29_14_34",
+        "target_name": "Glass-to-glass clips",
+        "score": 0.667,
+        "shared_tokens": [
+          "glazing",
+          "window",
+          "glazed",
+          "glass"
+        ],
+        "relationship": "uses",
+        "confidence": "A"
+      },
+      {
+        "target_id": "uc:Pr_20_31_01_32",
+        "target_name": "Glass fibres",
+        "score": 0.667,
+        "shared_tokens": [
+          "glazing",
+          "window",
+          "glazed",
+          "glass"
+        ],
+        "relationship": "uses",
+        "confidence": "A"
+      },
+      {
+        "target_id": "uc:Pr_20_65_34",
+        "target_name": "Glazed structures",
+        "score": 0.667,
+        "shared_tokens": [
+          "glazing",
+          "window",
+          "glazed",
+          "glass"
+        ],
+        "relationship": "uses",
+        "confidence": "A"
+      },
+      {
+        "target_id": "uc:Pr_20_65_34_34",
+        "target_name": "Glazed enclosures",
+        "score": 0.667,
+        "shared_tokens": [
+          "glazing",
+          "window",
+          "glazed",
+          "glass"
+        ],
+        "relationship": "uses",
+        "confidence": "A"
+      },
+      {
+        "target_id": "uc:Pr_20_65_78_34",
+        "target_name": "Glazed shelters",
+        "score": 0.667,
+        "shared_tokens": [
+          "glazing",
+          "window",
+          "glazed",
+          "glass"
+        ],
+        "relationship": "uses",
+        "confidence": "A"
+      },
+      {
+        "target_id": "uc:Pr_20_93_33_34",
+        "target_name": "Glass blocks",
+        "score": 0.667,
+        "shared_tokens": [
+          "glazing",
+          "window",
+          "glazed",
+          "glass"
+        ],
+        "relationship": "uses",
+        "confidence": "A"
+      },
+      {
+        "target_id": "uc:Pr_25_71_33_03",
+        "target_name": "Antique glass",
+        "score": 0.667,
+        "shared_tokens": [
+          "glazing",
+          "window",
+          "glazed",
+          "glass"
+        ],
+        "relationship": "uses",
+        "confidence": "A"
+      },
+      {
+        "target_id": "uc:Pr_25_71_33_27",
+        "target_name": "Electrochromic glass",
+        "score": 0.667,
+        "shared_tokens": [
+          "glazing",
+          "window",
+          "glazed",
+          "glass"
+        ],
+        "relationship": "uses",
+        "confidence": "A"
+      },
+      {
+        "target_id": "uc:Pr_25_71_33_33",
+        "target_name": "Glass beams",
+        "score": 0.667,
+        "shared_tokens": [
+          "glazing",
+          "window",
+          "glazed",
+          "glass"
+        ],
+        "relationship": "uses",
+        "confidence": "A"
+      }
+    ]
+  },
+  {
+    "source_id": "naics:238150",
+    "source_name": "Glass and Glazing Contractors",
+    "source_tokens": [
+      "window",
+      "glazed",
+      "contractors",
+      "glazing",
+      "glass"
+    ],
+    "matches": [
+      {
+        "target_id": "uc:Pr_15_31_26_31",
+        "target_name": "Glass bottles",
+        "score": 0.667,
+        "shared_tokens": [
+          "glazing",
+          "window",
+          "glazed",
+          "glass"
+        ],
+        "relationship": "uses",
+        "confidence": "A"
+      },
+      {
+        "target_id": "uc:Pr_20_29_14_34",
+        "target_name": "Glass-to-glass clips",
+        "score": 0.667,
+        "shared_tokens": [
+          "glazing",
+          "window",
+          "glazed",
+          "glass"
+        ],
+        "relationship": "uses",
+        "confidence": "A"
+      },
+      {
+        "target_id": "uc:Pr_20_31_01_32",
+        "target_name": "Glass fibres",
+        "score": 0.667,
+        "shared_tokens": [
+          "glazing",
+          "window",
+          "glazed",
+          "glass"
+        ],
+        "relationship": "uses",
+        "confidence": "A"
+      },
+      {
+        "target_id": "uc:Pr_20_65_34",
+        "target_name": "Glazed structures",
+        "score": 0.667,
+        "shared_tokens": [
+          "glazing",
+          "window",
+          "glazed",
+          "glass"
+        ],
+        "relationship": "uses",
+        "confidence": "A"
+      },
+      {
+        "target_id": "uc:Pr_20_65_34_34",
+        "target_name": "Glazed enclosures",
+        "score": 0.667,
+        "shared_tokens": [
+          "glazing",
+          "window",
+          "glazed",
+          "glass"
+        ],
+        "relationship": "uses",
+        "confidence": "A"
+      },
+      {
+        "target_id": "uc:Pr_20_65_78_34",
+        "target_name": "Glazed shelters",
+        "score": 0.667,
+        "shared_tokens": [
+          "glazing",
+          "window",
+          "glazed",
+          "glass"
+        ],
+        "relationship": "uses",
+        "confidence": "A"
+      },
+      {
+        "target_id": "uc:Pr_20_93_33_34",
+        "target_name": "Glass blocks",
+        "score": 0.667,
+        "shared_tokens": [
+          "glazing",
+          "window",
+          "glazed",
+          "glass"
+        ],
+        "relationship": "uses",
+        "confidence": "A"
+      },
+      {
+        "target_id": "uc:Pr_25_71_33_03",
+        "target_name": "Antique glass",
+        "score": 0.667,
+        "shared_tokens": [
+          "glazing",
+          "window",
+          "glazed",
+          "glass"
+        ],
+        "relationship": "uses",
+        "confidence": "A"
+      },
+      {
+        "target_id": "uc:Pr_25_71_33_27",
+        "target_name": "Electrochromic glass",
+        "score": 0.667,
+        "shared_tokens": [
+          "glazing",
+          "window",
+          "glazed",
+          "glass"
+        ],
+        "relationship": "uses",
+        "confidence": "A"
+      },
+      {
+        "target_id": "uc:Pr_25_71_33_33",
+        "target_name": "Glass beams",
+        "score": 0.667,
+        "shared_tokens": [
+          "glazing",
+          "window",
+          "glazed",
+          "glass"
+        ],
+        "relationship": "uses",
+        "confidence": "A"
+      }
+    ]
+  },
+  {
+    "source_id": "naics:23816",
+    "source_name": "Roofing Contractors",
+    "source_tokens": [
+      "roofing",
+      "contractors",
+      "roof"
+    ],
+    "matches": [
+      {
+        "target_id": "uc:Pr_20_29_88_70",
+        "target_name": "Roofing belts",
+        "score": 0.5,
+        "shared_tokens": [
+          "roofing",
+          "roof"
+        ],
+        "relationship": "uses",
+        "confidence": "A"
+      },
+      {
+        "target_id": "uc:Pr_20_29_88_71",
+        "target_name": "Roofing clamps",
+        "score": 0.5,
+        "shared_tokens": [
+          "roofing",
+          "roof"
+        ],
+        "relationship": "uses",
+        "confidence": "A"
+      },
+      {
+        "target_id": "uc:Pr_20_29_88_74",
+        "target_name": "Roofing straps",
+        "score": 0.5,
+        "shared_tokens": [
+          "roofing",
+          "roof"
+        ],
+        "relationship": "uses",
+        "confidence": "A"
+      },
+      {
+        "target_id": "uc:Pr_20_29_88_75",
+        "target_name": "Roofing swags",
+        "score": 0.5,
+        "shared_tokens": [
+          "roofing",
+          "roof"
+        ],
+        "relationship": "uses",
+        "confidence": "A"
+      },
+      {
+        "target_id": "uc:Pr_20_65_34_72",
+        "target_name": "Roof lanterns",
+        "score": 0.5,
+        "shared_tokens": [
+          "roofing",
+          "roof"
+        ],
+        "relationship": "uses",
+        "confidence": "A"
+      },
+      {
+        "target_id": "uc:Pr_30_59_29_74",
+        "target_name": "Roof terminals",
+        "score": 0.5,
+        "shared_tokens": [
+          "roofing",
+          "roof"
+        ],
+        "relationship": "uses",
+        "confidence": "A"
+      },
+      {
+        "target_id": "uc:Pr_30_59_36_74",
+        "target_name": "Roof hatches",
+        "score": 0.5,
+        "shared_tokens": [
+          "roofing",
+          "roof"
+        ],
+        "relationship": "uses",
+        "confidence": "A"
+      },
+      {
+        "target_id": "uc:Pr_65_80_15_71",
+        "target_name": "Roof trolleys",
+        "score": 0.5,
+        "shared_tokens": [
+          "roofing",
+          "roof"
+        ],
+        "relationship": "uses",
+        "confidence": "A"
+      },
+      {
+        "target_id": "uc:Pr_20_29_56_83",
+        "target_name": "Springhead roofing nails",
+        "score": 0.4,
+        "shared_tokens": [
+          "roofing",
+          "roof"
+        ],
+        "relationship": "uses",
+        "confidence": "B"
+      },
+      {
+        "target_id": "uc:Pr_20_29_87",
+        "target_name": "Thatch roofing fasteners",
+        "score": 0.4,
+        "shared_tokens": [
+          "roofing",
+          "roof"
+        ],
+        "relationship": "uses",
+        "confidence": "B"
+      }
+    ]
+  },
+  {
+    "source_id": "naics:238160",
+    "source_name": "Roofing Contractors",
+    "source_tokens": [
+      "roofing",
+      "contractors",
+      "roof"
+    ],
+    "matches": [
+      {
+        "target_id": "uc:Pr_20_29_88_70",
+        "target_name": "Roofing belts",
+        "score": 0.5,
+        "shared_tokens": [
+          "roofing",
+          "roof"
+        ],
+        "relationship": "uses",
+        "confidence": "A"
+      },
+      {
+        "target_id": "uc:Pr_20_29_88_71",
+        "target_name": "Roofing clamps",
+        "score": 0.5,
+        "shared_tokens": [
+          "roofing",
+          "roof"
+        ],
+        "relationship": "uses",
+        "confidence": "A"
+      },
+      {
+        "target_id": "uc:Pr_20_29_88_74",
+        "target_name": "Roofing straps",
+        "score": 0.5,
+        "shared_tokens": [
+          "roofing",
+          "roof"
+        ],
+        "relationship": "uses",
+        "confidence": "A"
+      },
+      {
+        "target_id": "uc:Pr_20_29_88_75",
+        "target_name": "Roofing swags",
+        "score": 0.5,
+        "shared_tokens": [
+          "roofing",
+          "roof"
+        ],
+        "relationship": "uses",
+        "confidence": "A"
+      },
+      {
+        "target_id": "uc:Pr_20_65_34_72",
+        "target_name": "Roof lanterns",
+        "score": 0.5,
+        "shared_tokens": [
+          "roofing",
+          "roof"
+        ],
+        "relationship": "uses",
+        "confidence": "A"
+      },
+      {
+        "target_id": "uc:Pr_30_59_29_74",
+        "target_name": "Roof terminals",
+        "score": 0.5,
+        "shared_tokens": [
+          "roofing",
+          "roof"
+        ],
+        "relationship": "uses",
+        "confidence": "A"
+      },
+      {
+        "target_id": "uc:Pr_30_59_36_74",
+        "target_name": "Roof hatches",
+        "score": 0.5,
+        "shared_tokens": [
+          "roofing",
+          "roof"
+        ],
+        "relationship": "uses",
+        "confidence": "A"
+      },
+      {
+        "target_id": "uc:Pr_65_80_15_71",
+        "target_name": "Roof trolleys",
+        "score": 0.5,
+        "shared_tokens": [
+          "roofing",
+          "roof"
+        ],
+        "relationship": "uses",
+        "confidence": "A"
+      },
+      {
+        "target_id": "uc:Pr_20_29_56_83",
+        "target_name": "Springhead roofing nails",
+        "score": 0.4,
+        "shared_tokens": [
+          "roofing",
+          "roof"
+        ],
+        "relationship": "uses",
+        "confidence": "B"
+      },
+      {
+        "target_id": "uc:Pr_20_29_87",
+        "target_name": "Thatch roofing fasteners",
+        "score": 0.4,
+        "shared_tokens": [
+          "roofing",
+          "roof"
+        ],
+        "relationship": "uses",
+        "confidence": "B"
+      }
+    ]
+  },
+  {
+    "source_id": "naics:23819",
+    "source_name": "Other Foundation, Structure, and Building Exterior Contractors",
+    "source_tokens": [
+      "foundation",
+      "contractors",
+      "frame",
+      "substructure",
+      "footing",
+      "framing",
+      "structural",
+      "exterior",
+      "other",
+      "structure",
+      "building"
+    ],
+    "matches": [
+      {
+        "target_id": "uc:Pr_20_29_03_31",
+        "target_name": "Framing anchors",
+        "score": 0.333,
+        "shared_tokens": [
+          "frame",
+          "framing",
+          "structure",
+          "structural"
+        ],
+        "relationship": "uses",
+        "confidence": "B"
+      },
+      {
+        "target_id": "uc:Pr_20_29_03_32",
+        "target_name": "Framing fasteners",
+        "score": 0.333,
+        "shared_tokens": [
+          "frame",
+          "framing",
+          "structure",
+          "structural"
+        ],
+        "relationship": "uses",
+        "confidence": "B"
+      },
+      {
+        "target_id": "uc:Pr_20_29_03_86",
+        "target_name": "Structural anchors",
+        "score": 0.333,
+        "shared_tokens": [
+          "frame",
+          "framing",
+          "structure",
+          "structural"
+        ],
+        "relationship": "uses",
+        "confidence": "B"
+      },
+      {
+        "target_id": "uc:Pr_20_29_14_32",
+        "target_name": "Frame cramps",
+        "score": 0.333,
+        "shared_tokens": [
+          "frame",
+          "framing",
+          "structure",
+          "structural"
+        ],
+        "relationship": "uses",
+        "confidence": "B"
+      },
+      {
+        "target_id": "uc:Pr_20_85_85",
+        "target_name": "Structural bearings",
+        "score": 0.333,
+        "shared_tokens": [
+          "frame",
+          "framing",
+          "structure",
+          "structural"
+        ],
+        "relationship": "uses",
+        "confidence": "B"
+      },
+      {
+        "target_id": "uc:Pr_20_93_85",
+        "target_name": "Structural units",
+        "score": 0.333,
+        "shared_tokens": [
+          "frame",
+          "framing",
+          "structure",
+          "structural"
+        ],
+        "relationship": "uses",
+        "confidence": "B"
+      },
+      {
+        "target_id": "uc:Pr_20",
+        "target_name": "Structure and general products",
+        "score": 0.308,
+        "shared_tokens": [
+          "frame",
+          "framing",
+          "structure",
+          "structural"
+        ],
+        "relationship": "uses",
+        "confidence": "B"
+      },
+      {
+        "target_id": "uc:Pr_20_76_51_07",
+        "target_name": "Aluminium structural sections",
+        "score": 0.308,
+        "shared_tokens": [
+          "frame",
+          "framing",
+          "structure",
+          "structural"
+        ],
+        "relationship": "uses",
+        "confidence": "B"
+      },
+      {
+        "target_id": "uc:Pr_20_76_63_85",
+        "target_name": "Structural plastics sections",
+        "score": 0.308,
+        "shared_tokens": [
+          "frame",
+          "framing",
+          "structure",
+          "structural"
+        ],
+        "relationship": "uses",
+        "confidence": "B"
+      },
+      {
+        "target_id": "uc:Pr_20_76_78",
+        "target_name": "Shaft structure products",
+        "score": 0.308,
+        "shared_tokens": [
+          "frame",
+          "framing",
+          "structure",
+          "structural"
+        ],
+        "relationship": "uses",
+        "confidence": "B"
+      }
+    ]
+  },
+  {
+    "source_id": "naics:238190",
+    "source_name": "Other Foundation, Structure, and Building Exterior Contractors",
+    "source_tokens": [
+      "foundation",
+      "contractors",
+      "frame",
+      "substructure",
+      "footing",
+      "framing",
+      "structural",
+      "exterior",
+      "other",
+      "structure",
+      "building"
+    ],
+    "matches": [
+      {
+        "target_id": "uc:Pr_20_29_03_31",
+        "target_name": "Framing anchors",
+        "score": 0.333,
+        "shared_tokens": [
+          "frame",
+          "framing",
+          "structure",
+          "structural"
+        ],
+        "relationship": "uses",
+        "confidence": "B"
+      },
+      {
+        "target_id": "uc:Pr_20_29_03_32",
+        "target_name": "Framing fasteners",
+        "score": 0.333,
+        "shared_tokens": [
+          "frame",
+          "framing",
+          "structure",
+          "structural"
+        ],
+        "relationship": "uses",
+        "confidence": "B"
+      },
+      {
+        "target_id": "uc:Pr_20_29_03_86",
+        "target_name": "Structural anchors",
+        "score": 0.333,
+        "shared_tokens": [
+          "frame",
+          "framing",
+          "structure",
+          "structural"
+        ],
+        "relationship": "uses",
+        "confidence": "B"
+      },
+      {
+        "target_id": "uc:Pr_20_29_14_32",
+        "target_name": "Frame cramps",
+        "score": 0.333,
+        "shared_tokens": [
+          "frame",
+          "framing",
+          "structure",
+          "structural"
+        ],
+        "relationship": "uses",
+        "confidence": "B"
+      },
+      {
+        "target_id": "uc:Pr_20_85_85",
+        "target_name": "Structural bearings",
+        "score": 0.333,
+        "shared_tokens": [
+          "frame",
+          "framing",
+          "structure",
+          "structural"
+        ],
+        "relationship": "uses",
+        "confidence": "B"
+      },
+      {
+        "target_id": "uc:Pr_20_93_85",
+        "target_name": "Structural units",
+        "score": 0.333,
+        "shared_tokens": [
+          "frame",
+          "framing",
+          "structure",
+          "structural"
+        ],
+        "relationship": "uses",
+        "confidence": "B"
+      },
+      {
+        "target_id": "uc:Pr_20",
+        "target_name": "Structure and general products",
+        "score": 0.308,
+        "shared_tokens": [
+          "frame",
+          "framing",
+          "structure",
+          "structural"
+        ],
+        "relationship": "uses",
+        "confidence": "B"
+      },
+      {
+        "target_id": "uc:Pr_20_76_51_07",
+        "target_name": "Aluminium structural sections",
+        "score": 0.308,
+        "shared_tokens": [
+          "frame",
+          "framing",
+          "structure",
+          "structural"
+        ],
+        "relationship": "uses",
+        "confidence": "B"
+      },
+      {
+        "target_id": "uc:Pr_20_76_63_85",
+        "target_name": "Structural plastics sections",
+        "score": 0.308,
+        "shared_tokens": [
+          "frame",
+          "framing",
+          "structure",
+          "structural"
+        ],
+        "relationship": "uses",
+        "confidence": "B"
+      },
+      {
+        "target_id": "uc:Pr_20_76_78",
+        "target_name": "Shaft structure products",
+        "score": 0.308,
+        "shared_tokens": [
+          "frame",
+          "framing",
+          "structure",
+          "structural"
+        ],
+        "relationship": "uses",
+        "confidence": "B"
+      }
+    ]
+  },
+  {
+    "source_id": "naics:2382",
+    "source_name": "Building Equipment Contractors",
+    "source_tokens": [
+      "building",
+      "equipment",
+      "contractors"
+    ],
+    "matches": [
+      {
+        "target_id": "uc:Pr_40_70",
+        "target_name": "Equipment",
+        "score": 0.333,
+        "shared_tokens": [
+          "equipment"
+        ],
+        "relationship": "uses",
+        "confidence": "B"
+      },
+      {
+        "target_id": "uc:Pr_20_29_04_27",
+        "target_name": "Equipment fasteners",
+        "score": 0.25,
+        "shared_tokens": [
+          "equipment"
+        ],
+        "relationship": "uses",
+        "confidence": "C"
+      },
+      {
+        "target_id": "uc:Pr_25_57_10_09",
+        "target_name": "Building papers",
+        "score": 0.25,
+        "shared_tokens": [
+          "building"
+        ],
+        "relationship": "uses",
+        "confidence": "C"
+      },
+      {
+        "target_id": "uc:Pr_40_30_61",
+        "target_name": "Play equipment",
+        "score": 0.25,
+        "shared_tokens": [
+          "equipment"
+        ],
+        "relationship": "uses",
+        "confidence": "C"
+      },
+      {
+        "target_id": "uc:Pr_40_50_83_06",
+        "target_name": "Balancing equipment",
+        "score": 0.25,
+        "shared_tokens": [
+          "equipment"
+        ],
+        "relationship": "uses",
+        "confidence": "C"
+      },
+      {
+        "target_id": "uc:Pr_40_50_83_44",
+        "target_name": "Jumping equipment",
+        "score": 0.25,
+        "shared_tokens": [
+          "equipment"
+        ],
+        "relationship": "uses",
+        "confidence": "C"
+      },
+      {
+        "target_id": "uc:Pr_40_70_13",
+        "target_name": "Cleaning equipment",
+        "score": 0.25,
+        "shared_tokens": [
+          "equipment"
+        ],
+        "relationship": "uses",
+        "confidence": "C"
+      },
+      {
+        "target_id": "uc:Pr_40_70_50",
+        "target_name": "Mail equipment",
+        "score": 0.25,
+        "shared_tokens": [
+          "equipment"
+        ],
+        "relationship": "uses",
+        "confidence": "C"
+      },
+      {
+        "target_id": "uc:Pr_40_70_51_84",
+        "target_name": "Sterilization equipment",
+        "score": 0.25,
+        "shared_tokens": [
+          "equipment"
+        ],
+        "relationship": "uses",
+        "confidence": "C"
+      },
+      {
+        "target_id": "uc:Pr_40_70_63",
+        "target_name": "Photographic equipment",
+        "score": 0.25,
+        "shared_tokens": [
+          "equipment"
+        ],
+        "relationship": "uses",
+        "confidence": "C"
+      }
+    ]
+  },
+  {
+    "source_id": "naics:23821",
+    "source_name": "Electrical Contractors and Other Wiring Installation Contractors",
+    "source_tokens": [
+      "other",
+      "electrical",
+      "installation",
+      "electric",
+      "power",
+      "contractors",
+      "wiring"
+    ],
+    "matches": [
+      {
+        "target_id": "uc:Pr_30_36_08_27",
+        "target_name": "Electric locks",
+        "score": 0.5,
+        "shared_tokens": [
+          "electric",
+          "electrical",
+          "power",
+          "wiring"
+        ],
+        "relationship": "uses",
+        "confidence": "A"
+      },
+      {
+        "target_id": "uc:Pr_40_10_57_23",
+        "target_name": "Electrical diagrams",
+        "score": 0.5,
+        "shared_tokens": [
+          "electric",
+          "electrical",
+          "power",
+          "wiring"
+        ],
+        "relationship": "uses",
+        "confidence": "A"
+      },
+      {
+        "target_id": "uc:Pr_40_50_13_26",
+        "target_name": "Electric clocks",
+        "score": 0.5,
+        "shared_tokens": [
+          "electric",
+          "electrical",
+          "power",
+          "wiring"
+        ],
+        "relationship": "uses",
+        "confidence": "A"
+      },
+      {
+        "target_id": "uc:Pr_40_70_17_27",
+        "target_name": "Electric ovens",
+        "score": 0.5,
+        "shared_tokens": [
+          "electric",
+          "electrical",
+          "power",
+          "wiring"
+        ],
+        "relationship": "uses",
+        "confidence": "A"
+      },
+      {
+        "target_id": "uc:Pr_40_70_24_26",
+        "target_name": "Electric barbecues",
+        "score": 0.5,
+        "shared_tokens": [
+          "electric",
+          "electrical",
+          "power",
+          "wiring"
+        ],
+        "relationship": "uses",
+        "confidence": "A"
+      },
+      {
+        "target_id": "uc:Pr_40_70_35_27",
+        "target_name": "Electric kilns",
+        "score": 0.5,
+        "shared_tokens": [
+          "electric",
+          "electrical",
+          "power",
+          "wiring"
+        ],
+        "relationship": "uses",
+        "confidence": "A"
+      },
+      {
+        "target_id": "uc:Pr_40_70_84_67",
+        "target_name": "Power plates",
+        "score": 0.5,
+        "shared_tokens": [
+          "electric",
+          "electrical",
+          "power",
+          "wiring"
+        ],
+        "relationship": "uses",
+        "confidence": "A"
+      },
+      {
+        "target_id": "uc:Pr_60_60_08_27",
+        "target_name": "Electric boilers",
+        "score": 0.5,
+        "shared_tokens": [
+          "electric",
+          "electrical",
+          "power",
+          "wiring"
+        ],
+        "relationship": "uses",
+        "confidence": "A"
+      },
+      {
+        "target_id": "uc:Pr_65_72_97",
+        "target_name": "Wiring accessories",
+        "score": 0.5,
+        "shared_tokens": [
+          "electric",
+          "electrical",
+          "power",
+          "wiring"
+        ],
+        "relationship": "uses",
+        "confidence": "A"
+      },
+      {
+        "target_id": "uc:Pr_70_75_94_27",
+        "target_name": "Electric doorbells",
+        "score": 0.5,
+        "shared_tokens": [
+          "electric",
+          "electrical",
+          "power",
+          "wiring"
+        ],
+        "relationship": "uses",
+        "confidence": "A"
+      }
+    ]
+  },
+  {
+    "source_id": "naics:238210",
+    "source_name": "Electrical Contractors and Other Wiring Installation Contractors",
+    "source_tokens": [
+      "other",
+      "electrical",
+      "installation",
+      "electric",
+      "power",
+      "contractors",
+      "wiring"
+    ],
+    "matches": [
+      {
+        "target_id": "uc:Pr_30_36_08_27",
+        "target_name": "Electric locks",
+        "score": 0.5,
+        "shared_tokens": [
+          "electric",
+          "electrical",
+          "power",
+          "wiring"
+        ],
+        "relationship": "uses",
+        "confidence": "A"
+      },
+      {
+        "target_id": "uc:Pr_40_10_57_23",
+        "target_name": "Electrical diagrams",
+        "score": 0.5,
+        "shared_tokens": [
+          "electric",
+          "electrical",
+          "power",
+          "wiring"
+        ],
+        "relationship": "uses",
+        "confidence": "A"
+      },
+      {
+        "target_id": "uc:Pr_40_50_13_26",
+        "target_name": "Electric clocks",
+        "score": 0.5,
+        "shared_tokens": [
+          "electric",
+          "electrical",
+          "power",
+          "wiring"
+        ],
+        "relationship": "uses",
+        "confidence": "A"
+      },
+      {
+        "target_id": "uc:Pr_40_70_17_27",
+        "target_name": "Electric ovens",
+        "score": 0.5,
+        "shared_tokens": [
+          "electric",
+          "electrical",
+          "power",
+          "wiring"
+        ],
+        "relationship": "uses",
+        "confidence": "A"
+      },
+      {
+        "target_id": "uc:Pr_40_70_24_26",
+        "target_name": "Electric barbecues",
+        "score": 0.5,
+        "shared_tokens": [
+          "electric",
+          "electrical",
+          "power",
+          "wiring"
+        ],
+        "relationship": "uses",
+        "confidence": "A"
+      },
+      {
+        "target_id": "uc:Pr_40_70_35_27",
+        "target_name": "Electric kilns",
+        "score": 0.5,
+        "shared_tokens": [
+          "electric",
+          "electrical",
+          "power",
+          "wiring"
+        ],
+        "relationship": "uses",
+        "confidence": "A"
+      },
+      {
+        "target_id": "uc:Pr_40_70_84_67",
+        "target_name": "Power plates",
+        "score": 0.5,
+        "shared_tokens": [
+          "electric",
+          "electrical",
+          "power",
+          "wiring"
+        ],
+        "relationship": "uses",
+        "confidence": "A"
+      },
+      {
+        "target_id": "uc:Pr_60_60_08_27",
+        "target_name": "Electric boilers",
+        "score": 0.5,
+        "shared_tokens": [
+          "electric",
+          "electrical",
+          "power",
+          "wiring"
+        ],
+        "relationship": "uses",
+        "confidence": "A"
+      },
+      {
+        "target_id": "uc:Pr_65_72_97",
+        "target_name": "Wiring accessories",
+        "score": 0.5,
+        "shared_tokens": [
+          "electric",
+          "electrical",
+          "power",
+          "wiring"
+        ],
+        "relationship": "uses",
+        "confidence": "A"
+      },
+      {
+        "target_id": "uc:Pr_70_75_94_27",
+        "target_name": "Electric doorbells",
+        "score": 0.5,
+        "shared_tokens": [
+          "electric",
+          "electrical",
+          "power",
+          "wiring"
+        ],
+        "relationship": "uses",
+        "confidence": "A"
+      }
+    ]
+  },
+  {
+    "source_id": "naics:23822",
+    "source_name": "Plumbing, Heating, and Air-Conditioning Contractors",
+    "source_tokens": [
+      "contractors",
+      "pipe",
+      "heating",
+      "hvac",
+      "plumb",
+      "piping",
+      "conditioning",
+      "air",
+      "water",
+      "cooling",
+      "ventilation",
+      "plumbing"
+    ],
+    "matches": [
+      {
+        "target_id": "uc:Pr_60_65_37_12",
+        "target_name": "Chilled water cooling coils",
+        "score": 0.714,
+        "shared_tokens": [
+          "air",
+          "water",
+          "cooling",
+          "pipe",
+          "heating",
+          "hvac",
+          "plumb",
+          "ventilation",
+          "piping",
+          "plumbing"
+        ],
+        "relationship": "uses",
+        "confidence": "A"
+      },
+      {
+        "target_id": "uc:Pr_70_60_37_04",
+        "target_name": "Air-to-water heat pumps",
+        "score": 0.714,
+        "shared_tokens": [
+          "air",
+          "water",
+          "plumb",
+          "pipe",
+          "heating",
+          "hvac",
+          "cooling",
+          "ventilation",
+          "piping",
+          "plumbing"
+        ],
+        "relationship": "uses",
+        "confidence": "A"
+      },
+      {
+        "target_id": "uc:Pr_70_60_37_96",
+        "target_name": "Water-to-air heat pumps",
+        "score": 0.714,
+        "shared_tokens": [
+          "air",
+          "water",
+          "plumb",
+          "pipe",
+          "heating",
+          "hvac",
+          "cooling",
+          "ventilation",
+          "piping",
+          "plumbing"
+        ],
+        "relationship": "uses",
+        "confidence": "A"
+      },
+      {
+        "target_id": "uc:Pr_65_57_02_96",
+        "target_name": "Water wash grease air filters",
+        "score": 0.667,
+        "shared_tokens": [
+          "air",
+          "water",
+          "cooling",
+          "pipe",
+          "heating",
+          "hvac",
+          "plumb",
+          "ventilation",
+          "piping",
+          "plumbing"
+        ],
+        "relationship": "uses",
+        "confidence": "A"
+      },
+      {
+        "target_id": "uc:Pr_60_65_37_47",
+        "target_name": "Low-temperature hot water heating coils",
+        "score": 0.625,
+        "shared_tokens": [
+          "air",
+          "water",
+          "cooling",
+          "pipe",
+          "heating",
+          "hvac",
+          "plumb",
+          "ventilation",
+          "piping",
+          "plumbing"
+        ],
+        "relationship": "uses",
+        "confidence": "A"
+      },
+      {
+        "target_id": "uc:Pr_65_57_02_15",
+        "target_name": "Cold water mist grease air filters",
+        "score": 0.625,
+        "shared_tokens": [
+          "air",
+          "water",
+          "cooling",
+          "pipe",
+          "heating",
+          "hvac",
+          "plumb",
+          "ventilation",
+          "piping",
+          "plumbing"
+        ],
+        "relationship": "uses",
+        "confidence": "A"
+      },
+      {
+        "target_id": "uc:Pr_70_60_36_49",
+        "target_name": "Low-temperature hot water underfloor heating",
+        "score": 0.625,
+        "shared_tokens": [
+          "air",
+          "water",
+          "cooling",
+          "pipe",
+          "heating",
+          "hvac",
+          "plumb",
+          "ventilation",
+          "piping",
+          "plumbing"
+        ],
+        "relationship": "uses",
+        "confidence": "A"
+      },
+      {
+        "target_id": "uc:Pr_70_60_37_47",
+        "target_name": "Low-temperature air-to-water heat pumps",
+        "score": 0.625,
+        "shared_tokens": [
+          "air",
+          "water",
+          "cooling",
+          "pipe",
+          "heating",
+          "hvac",
+          "plumb",
+          "ventilation",
+          "piping",
+          "plumbing"
+        ],
+        "relationship": "uses",
+        "confidence": "A"
+      },
+      {
+        "target_id": "uc:Pr_70_60_37_82",
+        "target_name": "Single-split water-to-air heat pumps",
+        "score": 0.625,
+        "shared_tokens": [
+          "air",
+          "water",
+          "cooling",
+          "pipe",
+          "heating",
+          "hvac",
+          "plumb",
+          "ventilation",
+          "piping",
+          "plumbing"
+        ],
+        "relationship": "uses",
+        "confidence": "A"
+      },
+      {
+        "target_id": "uc:Pr_70_60_37_50",
+        "target_name": "Medium or high-temperature air-to-water heat pumps",
+        "score": 0.588,
+        "shared_tokens": [
+          "air",
+          "water",
+          "cooling",
+          "pipe",
+          "heating",
+          "hvac",
+          "plumb",
+          "ventilation",
+          "piping",
+          "plumbing"
+        ],
+        "relationship": "uses",
+        "confidence": "A"
+      }
+    ]
+  },
+  {
+    "source_id": "naics:238220",
+    "source_name": "Plumbing, Heating, and Air-Conditioning Contractors",
+    "source_tokens": [
+      "contractors",
+      "pipe",
+      "heating",
+      "hvac",
+      "plumb",
+      "piping",
+      "conditioning",
+      "air",
+      "water",
+      "cooling",
+      "ventilation",
+      "plumbing"
+    ],
+    "matches": [
+      {
+        "target_id": "uc:Pr_60_65_37_12",
+        "target_name": "Chilled water cooling coils",
+        "score": 0.714,
+        "shared_tokens": [
+          "air",
+          "water",
+          "cooling",
+          "pipe",
+          "heating",
+          "hvac",
+          "plumb",
+          "ventilation",
+          "piping",
+          "plumbing"
+        ],
+        "relationship": "uses",
+        "confidence": "A"
+      },
+      {
+        "target_id": "uc:Pr_70_60_37_04",
+        "target_name": "Air-to-water heat pumps",
+        "score": 0.714,
+        "shared_tokens": [
+          "air",
+          "water",
+          "plumb",
+          "pipe",
+          "heating",
+          "hvac",
+          "cooling",
+          "ventilation",
+          "piping",
+          "plumbing"
+        ],
+        "relationship": "uses",
+        "confidence": "A"
+      },
+      {
+        "target_id": "uc:Pr_70_60_37_96",
+        "target_name": "Water-to-air heat pumps",
+        "score": 0.714,
+        "shared_tokens": [
+          "air",
+          "water",
+          "plumb",
+          "pipe",
+          "heating",
+          "hvac",
+          "cooling",
+          "ventilation",
+          "piping",
+          "plumbing"
+        ],
+        "relationship": "uses",
+        "confidence": "A"
+      },
+      {
+        "target_id": "uc:Pr_65_57_02_96",
+        "target_name": "Water wash grease air filters",
+        "score": 0.667,
+        "shared_tokens": [
+          "air",
+          "water",
+          "cooling",
+          "pipe",
+          "heating",
+          "hvac",
+          "plumb",
+          "ventilation",
+          "piping",
+          "plumbing"
+        ],
+        "relationship": "uses",
+        "confidence": "A"
+      },
+      {
+        "target_id": "uc:Pr_60_65_37_47",
+        "target_name": "Low-temperature hot water heating coils",
+        "score": 0.625,
+        "shared_tokens": [
+          "air",
+          "water",
+          "cooling",
+          "pipe",
+          "heating",
+          "hvac",
+          "plumb",
+          "ventilation",
+          "piping",
+          "plumbing"
+        ],
+        "relationship": "uses",
+        "confidence": "A"
+      },
+      {
+        "target_id": "uc:Pr_65_57_02_15",
+        "target_name": "Cold water mist grease air filters",
+        "score": 0.625,
+        "shared_tokens": [
+          "air",
+          "water",
+          "cooling",
+          "pipe",
+          "heating",
+          "hvac",
+          "plumb",
+          "ventilation",
+          "piping",
+          "plumbing"
+        ],
+        "relationship": "uses",
+        "confidence": "A"
+      },
+      {
+        "target_id": "uc:Pr_70_60_36_49",
+        "target_name": "Low-temperature hot water underfloor heating",
+        "score": 0.625,
+        "shared_tokens": [
+          "air",
+          "water",
+          "cooling",
+          "pipe",
+          "heating",
+          "hvac",
+          "plumb",
+          "ventilation",
+          "piping",
+          "plumbing"
+        ],
+        "relationship": "uses",
+        "confidence": "A"
+      },
+      {
+        "target_id": "uc:Pr_70_60_37_47",
+        "target_name": "Low-temperature air-to-water heat pumps",
+        "score": 0.625,
+        "shared_tokens": [
+          "air",
+          "water",
+          "cooling",
+          "pipe",
+          "heating",
+          "hvac",
+          "plumb",
+          "ventilation",
+          "piping",
+          "plumbing"
+        ],
+        "relationship": "uses",
+        "confidence": "A"
+      },
+      {
+        "target_id": "uc:Pr_70_60_37_82",
+        "target_name": "Single-split water-to-air heat pumps",
+        "score": 0.625,
+        "shared_tokens": [
+          "air",
+          "water",
+          "cooling",
+          "pipe",
+          "heating",
+          "hvac",
+          "plumb",
+          "ventilation",
+          "piping",
+          "plumbing"
+        ],
+        "relationship": "uses",
+        "confidence": "A"
+      },
+      {
+        "target_id": "uc:Pr_70_60_37_50",
+        "target_name": "Medium or high-temperature air-to-water heat pumps",
+        "score": 0.588,
+        "shared_tokens": [
+          "air",
+          "water",
+          "cooling",
+          "pipe",
+          "heating",
+          "hvac",
+          "plumb",
+          "ventilation",
+          "piping",
+          "plumbing"
+        ],
+        "relationship": "uses",
+        "confidence": "A"
+      }
+    ]
+  },
+  {
+    "source_id": "naics:23829",
+    "source_name": "Other Building Equipment Contractors",
+    "source_tokens": [
+      "other",
+      "building",
+      "equipment",
+      "contractors"
+    ],
+    "matches": [
+      {
+        "target_id": "uc:Pr_40_70",
+        "target_name": "Equipment",
+        "score": 0.25,
+        "shared_tokens": [
+          "equipment"
+        ],
+        "relationship": "uses",
+        "confidence": "C"
+      },
+      {
+        "target_id": "uc:Pr_20_29_04_27",
+        "target_name": "Equipment fasteners",
+        "score": 0.2,
+        "shared_tokens": [
+          "equipment"
+        ],
+        "relationship": "uses",
+        "confidence": "C"
+      },
+      {
+        "target_id": "uc:Pr_25_57_10_09",
+        "target_name": "Building papers",
+        "score": 0.2,
+        "shared_tokens": [
+          "building"
+        ],
+        "relationship": "uses",
+        "confidence": "C"
+      },
+      {
+        "target_id": "uc:Pr_40_30_61",
+        "target_name": "Play equipment",
+        "score": 0.2,
+        "shared_tokens": [
+          "equipment"
+        ],
+        "relationship": "uses",
+        "confidence": "C"
+      },
+      {
+        "target_id": "uc:Pr_40_50_83_06",
+        "target_name": "Balancing equipment",
+        "score": 0.2,
+        "shared_tokens": [
+          "equipment"
+        ],
+        "relationship": "uses",
+        "confidence": "C"
+      },
+      {
+        "target_id": "uc:Pr_40_50_83_44",
+        "target_name": "Jumping equipment",
+        "score": 0.2,
+        "shared_tokens": [
+          "equipment"
+        ],
+        "relationship": "uses",
+        "confidence": "C"
+      },
+      {
+        "target_id": "uc:Pr_40_70_13",
+        "target_name": "Cleaning equipment",
+        "score": 0.2,
+        "shared_tokens": [
+          "equipment"
+        ],
+        "relationship": "uses",
+        "confidence": "C"
+      },
+      {
+        "target_id": "uc:Pr_40_70_50",
+        "target_name": "Mail equipment",
+        "score": 0.2,
+        "shared_tokens": [
+          "equipment"
+        ],
+        "relationship": "uses",
+        "confidence": "C"
+      },
+      {
+        "target_id": "uc:Pr_40_70_51_84",
+        "target_name": "Sterilization equipment",
+        "score": 0.2,
+        "shared_tokens": [
+          "equipment"
+        ],
+        "relationship": "uses",
+        "confidence": "C"
+      },
+      {
+        "target_id": "uc:Pr_40_70_63",
+        "target_name": "Photographic equipment",
+        "score": 0.2,
+        "shared_tokens": [
+          "equipment"
+        ],
+        "relationship": "uses",
+        "confidence": "C"
+      }
+    ]
+  },
+  {
+    "source_id": "naics:238290",
+    "source_name": "Other Building Equipment Contractors",
+    "source_tokens": [
+      "other",
+      "building",
+      "equipment",
+      "contractors"
+    ],
+    "matches": [
+      {
+        "target_id": "uc:Pr_40_70",
+        "target_name": "Equipment",
+        "score": 0.25,
+        "shared_tokens": [
+          "equipment"
+        ],
+        "relationship": "uses",
+        "confidence": "C"
+      },
+      {
+        "target_id": "uc:Pr_20_29_04_27",
+        "target_name": "Equipment fasteners",
+        "score": 0.2,
+        "shared_tokens": [
+          "equipment"
+        ],
+        "relationship": "uses",
+        "confidence": "C"
+      },
+      {
+        "target_id": "uc:Pr_25_57_10_09",
+        "target_name": "Building papers",
+        "score": 0.2,
+        "shared_tokens": [
+          "building"
+        ],
+        "relationship": "uses",
+        "confidence": "C"
+      },
+      {
+        "target_id": "uc:Pr_40_30_61",
+        "target_name": "Play equipment",
+        "score": 0.2,
+        "shared_tokens": [
+          "equipment"
+        ],
+        "relationship": "uses",
+        "confidence": "C"
+      },
+      {
+        "target_id": "uc:Pr_40_50_83_06",
+        "target_name": "Balancing equipment",
+        "score": 0.2,
+        "shared_tokens": [
+          "equipment"
+        ],
+        "relationship": "uses",
+        "confidence": "C"
+      },
+      {
+        "target_id": "uc:Pr_40_50_83_44",
+        "target_name": "Jumping equipment",
+        "score": 0.2,
+        "shared_tokens": [
+          "equipment"
+        ],
+        "relationship": "uses",
+        "confidence": "C"
+      },
+      {
+        "target_id": "uc:Pr_40_70_13",
+        "target_name": "Cleaning equipment",
+        "score": 0.2,
+        "shared_tokens": [
+          "equipment"
+        ],
+        "relationship": "uses",
+        "confidence": "C"
+      },
+      {
+        "target_id": "uc:Pr_40_70_50",
+        "target_name": "Mail equipment",
+        "score": 0.2,
+        "shared_tokens": [
+          "equipment"
+        ],
+        "relationship": "uses",
+        "confidence": "C"
+      },
+      {
+        "target_id": "uc:Pr_40_70_51_84",
+        "target_name": "Sterilization equipment",
+        "score": 0.2,
+        "shared_tokens": [
+          "equipment"
+        ],
+        "relationship": "uses",
+        "confidence": "C"
+      },
+      {
+        "target_id": "uc:Pr_40_70_63",
+        "target_name": "Photographic equipment",
+        "score": 0.2,
+        "shared_tokens": [
+          "equipment"
+        ],
+        "relationship": "uses",
+        "confidence": "C"
+      }
+    ]
+  },
+  {
+    "source_id": "naics:2383",
+    "source_name": "Building Finishing Contractors",
+    "source_tokens": [
+      "finishing",
+      "building",
+      "contractors"
+    ],
+    "matches": [
+      {
+        "target_id": "uc:Pr_25_57_10_09",
+        "target_name": "Building papers",
+        "score": 0.25,
+        "shared_tokens": [
+          "building"
+        ],
+        "relationship": "uses",
+        "confidence": "C"
+      },
+      {
+        "target_id": "uc:Pr_35_31_65_30",
+        "target_name": "Finishing compounds",
+        "score": 0.25,
+        "shared_tokens": [
+          "finishing"
+        ],
+        "relationship": "uses",
+        "confidence": "C"
+      },
+      {
+        "target_id": "uc:Pr_20_29_60_20",
+        "target_name": "Cup (finishing) washers",
+        "score": 0.2,
+        "shared_tokens": [
+          "finishing"
+        ],
+        "relationship": "uses",
+        "confidence": "C"
+      },
+      {
+        "target_id": "uc:Pr_25_71_22_15",
+        "target_name": "Composite finishing battens",
+        "score": 0.2,
+        "shared_tokens": [
+          "finishing"
+        ],
+        "relationship": "uses",
+        "confidence": "C"
+      },
+      {
+        "target_id": "uc:Pr_25_71_22_64",
+        "target_name": "Plastics finishing battens",
+        "score": 0.2,
+        "shared_tokens": [
+          "finishing"
+        ],
+        "relationship": "uses",
+        "confidence": "C"
+      },
+      {
+        "target_id": "uc:Pr_25_71_29_84",
+        "target_name": "Stone finishing battens",
+        "score": 0.2,
+        "shared_tokens": [
+          "finishing"
+        ],
+        "relationship": "uses",
+        "confidence": "C"
+      },
+      {
+        "target_id": "uc:Pr_35",
+        "target_name": "Covering and finishing products",
+        "score": 0.2,
+        "shared_tokens": [
+          "finishing"
+        ],
+        "relationship": "uses",
+        "confidence": "C"
+      },
+      {
+        "target_id": "uc:Pr_40_50_21_47",
+        "target_name": "Laundry finishing tables",
+        "score": 0.2,
+        "shared_tokens": [
+          "finishing"
+        ],
+        "relationship": "uses",
+        "confidence": "C"
+      },
+      {
+        "target_id": "uc:Pr_40_50_21_50",
+        "target_name": "Manicure finishing tables",
+        "score": 0.2,
+        "shared_tokens": [
+          "finishing"
+        ],
+        "relationship": "uses",
+        "confidence": "C"
+      },
+      {
+        "target_id": "uc:Pr_25_57_10_12",
+        "target_name": "Cellulose based building papers",
+        "score": 0.167,
+        "shared_tokens": [
+          "building"
+        ],
+        "relationship": "uses",
+        "confidence": "D"
+      }
+    ]
+  },
+  {
+    "source_id": "naics:23831",
+    "source_name": "Drywall and Insulation Contractors",
+    "source_tokens": [
+      "insulation",
+      "gypsum",
+      "insulating",
+      "drywall",
+      "contractors",
+      "thermal",
+      "plasterboard",
+      "sheetrock"
+    ],
+    "matches": [
+      {
+        "target_id": "uc:Pr_25_71_35_80",
+        "target_name": "Sound insulation gypsum plasterboards",
+        "score": 0.7,
+        "shared_tokens": [
+          "insulation",
+          "gypsum",
+          "insulating",
+          "drywall",
+          "thermal",
+          "plasterboard",
+          "sheetrock"
+        ],
+        "relationship": "uses",
+        "confidence": "A"
+      },
+      {
+        "target_id": "uc:Pr_25_71_35_88",
+        "target_name": "Thermal laminate gypsum plasterboards",
+        "score": 0.7,
+        "shared_tokens": [
+          "insulation",
+          "gypsum",
+          "insulating",
+          "drywall",
+          "thermal",
+          "plasterboard",
+          "sheetrock"
+        ],
+        "relationship": "uses",
+        "confidence": "A"
+      },
+      {
+        "target_id": "uc:Pr_25_71_35_81",
+        "target_name": "Sound-insulating laminate gypsum plasterboards",
+        "score": 0.636,
+        "shared_tokens": [
+          "insulation",
+          "gypsum",
+          "insulating",
+          "drywall",
+          "thermal",
+          "plasterboard",
+          "sheetrock"
+        ],
+        "relationship": "uses",
+        "confidence": "A"
+      },
+      {
+        "target_id": "uc:Pr_20_31_35_35",
+        "target_name": "Gypsum",
+        "score": 0.5,
+        "shared_tokens": [
+          "gypsum",
+          "drywall",
+          "plasterboard",
+          "sheetrock"
+        ],
+        "relationship": "uses",
+        "confidence": "A"
+      },
+      {
+        "target_id": "uc:Pr_20_29_76_65",
+        "target_name": "Plasterboard screws",
+        "score": 0.444,
+        "shared_tokens": [
+          "gypsum",
+          "drywall",
+          "plasterboard",
+          "sheetrock"
+        ],
+        "relationship": "uses",
+        "confidence": "B"
+      },
+      {
+        "target_id": "uc:Pr_20_93_52_36",
+        "target_name": "Gypsum blocks",
+        "score": 0.444,
+        "shared_tokens": [
+          "gypsum",
+          "drywall",
+          "plasterboard",
+          "sheetrock"
+        ],
+        "relationship": "uses",
+        "confidence": "B"
+      },
+      {
+        "target_id": "uc:Pr_25_71_35_06",
+        "target_name": "Gypsum baseboards",
+        "score": 0.444,
+        "shared_tokens": [
+          "gypsum",
+          "drywall",
+          "plasterboard",
+          "sheetrock"
+        ],
+        "relationship": "uses",
+        "confidence": "B"
+      },
+      {
+        "target_id": "uc:Pr_25_71_35_61",
+        "target_name": "Gypsum planks",
+        "score": 0.444,
+        "shared_tokens": [
+          "gypsum",
+          "drywall",
+          "plasterboard",
+          "sheetrock"
+        ],
+        "relationship": "uses",
+        "confidence": "B"
+      },
+      {
+        "target_id": "uc:Pr_25_71_35_63",
+        "target_name": "Plasterboard panels",
+        "score": 0.444,
+        "shared_tokens": [
+          "gypsum",
+          "drywall",
+          "plasterboard",
+          "sheetrock"
+        ],
+        "relationship": "uses",
+        "confidence": "B"
+      },
+      {
+        "target_id": "uc:Pr_25_71_35_65",
+        "target_name": "Gypsum plasterboards",
+        "score": 0.444,
+        "shared_tokens": [
+          "gypsum",
+          "drywall",
+          "plasterboard",
+          "sheetrock"
+        ],
+        "relationship": "uses",
+        "confidence": "B"
+      }
+    ]
+  },
+  {
+    "source_id": "naics:238310",
+    "source_name": "Drywall and Insulation Contractors",
+    "source_tokens": [
+      "insulation",
+      "gypsum",
+      "insulating",
+      "drywall",
+      "contractors",
+      "thermal",
+      "plasterboard",
+      "sheetrock"
+    ],
+    "matches": [
+      {
+        "target_id": "uc:Pr_25_71_35_80",
+        "target_name": "Sound insulation gypsum plasterboards",
+        "score": 0.7,
+        "shared_tokens": [
+          "insulation",
+          "gypsum",
+          "insulating",
+          "drywall",
+          "thermal",
+          "plasterboard",
+          "sheetrock"
+        ],
+        "relationship": "uses",
+        "confidence": "A"
+      },
+      {
+        "target_id": "uc:Pr_25_71_35_88",
+        "target_name": "Thermal laminate gypsum plasterboards",
+        "score": 0.7,
+        "shared_tokens": [
+          "insulation",
+          "gypsum",
+          "insulating",
+          "drywall",
+          "thermal",
+          "plasterboard",
+          "sheetrock"
+        ],
+        "relationship": "uses",
+        "confidence": "A"
+      },
+      {
+        "target_id": "uc:Pr_25_71_35_81",
+        "target_name": "Sound-insulating laminate gypsum plasterboards",
+        "score": 0.636,
+        "shared_tokens": [
+          "insulation",
+          "gypsum",
+          "insulating",
+          "drywall",
+          "thermal",
+          "plasterboard",
+          "sheetrock"
+        ],
+        "relationship": "uses",
+        "confidence": "A"
+      },
+      {
+        "target_id": "uc:Pr_20_31_35_35",
+        "target_name": "Gypsum",
+        "score": 0.5,
+        "shared_tokens": [
+          "gypsum",
+          "drywall",
+          "plasterboard",
+          "sheetrock"
+        ],
+        "relationship": "uses",
+        "confidence": "A"
+      },
+      {
+        "target_id": "uc:Pr_20_29_76_65",
+        "target_name": "Plasterboard screws",
+        "score": 0.444,
+        "shared_tokens": [
+          "gypsum",
+          "drywall",
+          "plasterboard",
+          "sheetrock"
+        ],
+        "relationship": "uses",
+        "confidence": "B"
+      },
+      {
+        "target_id": "uc:Pr_20_93_52_36",
+        "target_name": "Gypsum blocks",
+        "score": 0.444,
+        "shared_tokens": [
+          "gypsum",
+          "drywall",
+          "plasterboard",
+          "sheetrock"
+        ],
+        "relationship": "uses",
+        "confidence": "B"
+      },
+      {
+        "target_id": "uc:Pr_25_71_35_06",
+        "target_name": "Gypsum baseboards",
+        "score": 0.444,
+        "shared_tokens": [
+          "gypsum",
+          "drywall",
+          "plasterboard",
+          "sheetrock"
+        ],
+        "relationship": "uses",
+        "confidence": "B"
+      },
+      {
+        "target_id": "uc:Pr_25_71_35_61",
+        "target_name": "Gypsum planks",
+        "score": 0.444,
+        "shared_tokens": [
+          "gypsum",
+          "drywall",
+          "plasterboard",
+          "sheetrock"
+        ],
+        "relationship": "uses",
+        "confidence": "B"
+      },
+      {
+        "target_id": "uc:Pr_25_71_35_63",
+        "target_name": "Plasterboard panels",
+        "score": 0.444,
+        "shared_tokens": [
+          "gypsum",
+          "drywall",
+          "plasterboard",
+          "sheetrock"
+        ],
+        "relationship": "uses",
+        "confidence": "B"
+      },
+      {
+        "target_id": "uc:Pr_25_71_35_65",
+        "target_name": "Gypsum plasterboards",
+        "score": 0.444,
+        "shared_tokens": [
+          "gypsum",
+          "drywall",
+          "plasterboard",
+          "sheetrock"
+        ],
+        "relationship": "uses",
+        "confidence": "B"
+      }
+    ]
+  },
+  {
+    "source_id": "naics:23832",
+    "source_name": "Painting and Wall Covering Contractors",
+    "source_tokens": [
+      "covering",
+      "painting",
+      "coating",
+      "barrier",
+      "finish",
+      "contractors",
+      "paint",
+      "partition",
+      "wall"
+    ],
+    "matches": [
+      {
+        "target_id": "uc:Pr_35_31",
+        "target_name": "Formless covering and finish products",
+        "score": 0.455,
+        "shared_tokens": [
+          "covering",
+          "painting",
+          "coating",
+          "finish",
+          "paint"
+        ],
+        "relationship": "uses",
+        "confidence": "B"
+      },
+      {
+        "target_id": "uc:Pr_35_93",
+        "target_name": "Unit covering and finish products",
+        "score": 0.455,
+        "shared_tokens": [
+          "covering",
+          "painting",
+          "coating",
+          "finish",
+          "paint"
+        ],
+        "relationship": "uses",
+        "confidence": "B"
+      },
+      {
+        "target_id": "uc:Pr_15_31_04_60",
+        "target_name": "Paint strippers",
+        "score": 0.4,
+        "shared_tokens": [
+          "paint",
+          "coating",
+          "painting",
+          "finish"
+        ],
+        "relationship": "uses",
+        "confidence": "B"
+      },
+      {
+        "target_id": "uc:Pr_35_31_64_32",
+        "target_name": "Finish plasters",
+        "score": 0.4,
+        "shared_tokens": [
+          "paint",
+          "coating",
+          "painting",
+          "finish"
+        ],
+        "relationship": "uses",
+        "confidence": "B"
+      },
+      {
+        "target_id": "uc:Pr_35_31_66_55",
+        "target_name": "Multicoloured finish basecoats",
+        "score": 0.364,
+        "shared_tokens": [
+          "paint",
+          "coating",
+          "painting",
+          "finish"
+        ],
+        "relationship": "uses",
+        "confidence": "B"
+      },
+      {
+        "target_id": "uc:Pr_35_31_66_65",
+        "target_name": "Powder-coating primers",
+        "score": 0.364,
+        "shared_tokens": [
+          "paint",
+          "coating",
+          "painting",
+          "finish"
+        ],
+        "relationship": "uses",
+        "confidence": "B"
+      },
+      {
+        "target_id": "uc:Pr_35_31_66_71",
+        "target_name": "Resin coating primers",
+        "score": 0.364,
+        "shared_tokens": [
+          "paint",
+          "coating",
+          "painting",
+          "finish"
+        ],
+        "relationship": "uses",
+        "confidence": "B"
+      },
+      {
+        "target_id": "uc:Pr_35_31_67_41",
+        "target_name": "Insecticidal paint additives",
+        "score": 0.364,
+        "shared_tokens": [
+          "paint",
+          "coating",
+          "painting",
+          "finish"
+        ],
+        "relationship": "uses",
+        "confidence": "B"
+      },
+      {
+        "target_id": "uc:Pr_35_31_77_42",
+        "target_name": "Intumescent coating sealers",
+        "score": 0.364,
+        "shared_tokens": [
+          "paint",
+          "coating",
+          "painting",
+          "finish"
+        ],
+        "relationship": "uses",
+        "confidence": "B"
+      },
+      {
+        "target_id": "uc:Pr_35_31_22_55",
+        "target_name": "Multicoloured finish spatter coatings",
+        "score": 0.333,
+        "shared_tokens": [
+          "paint",
+          "coating",
+          "painting",
+          "finish"
+        ],
+        "relationship": "uses",
+        "confidence": "B"
+      }
+    ]
+  },
+  {
+    "source_id": "naics:238320",
+    "source_name": "Painting and Wall Covering Contractors",
+    "source_tokens": [
+      "covering",
+      "painting",
+      "coating",
+      "barrier",
+      "finish",
+      "contractors",
+      "paint",
+      "partition",
+      "wall"
+    ],
+    "matches": [
+      {
+        "target_id": "uc:Pr_35_31",
+        "target_name": "Formless covering and finish products",
+        "score": 0.455,
+        "shared_tokens": [
+          "covering",
+          "painting",
+          "coating",
+          "finish",
+          "paint"
+        ],
+        "relationship": "uses",
+        "confidence": "B"
+      },
+      {
+        "target_id": "uc:Pr_35_93",
+        "target_name": "Unit covering and finish products",
+        "score": 0.455,
+        "shared_tokens": [
+          "covering",
+          "painting",
+          "coating",
+          "finish",
+          "paint"
+        ],
+        "relationship": "uses",
+        "confidence": "B"
+      },
+      {
+        "target_id": "uc:Pr_15_31_04_60",
+        "target_name": "Paint strippers",
+        "score": 0.4,
+        "shared_tokens": [
+          "paint",
+          "coating",
+          "painting",
+          "finish"
+        ],
+        "relationship": "uses",
+        "confidence": "B"
+      },
+      {
+        "target_id": "uc:Pr_35_31_64_32",
+        "target_name": "Finish plasters",
+        "score": 0.4,
+        "shared_tokens": [
+          "paint",
+          "coating",
+          "painting",
+          "finish"
+        ],
+        "relationship": "uses",
+        "confidence": "B"
+      },
+      {
+        "target_id": "uc:Pr_35_31_66_55",
+        "target_name": "Multicoloured finish basecoats",
+        "score": 0.364,
+        "shared_tokens": [
+          "paint",
+          "coating",
+          "painting",
+          "finish"
+        ],
+        "relationship": "uses",
+        "confidence": "B"
+      },
+      {
+        "target_id": "uc:Pr_35_31_66_65",
+        "target_name": "Powder-coating primers",
+        "score": 0.364,
+        "shared_tokens": [
+          "paint",
+          "coating",
+          "painting",
+          "finish"
+        ],
+        "relationship": "uses",
+        "confidence": "B"
+      },
+      {
+        "target_id": "uc:Pr_35_31_66_71",
+        "target_name": "Resin coating primers",
+        "score": 0.364,
+        "shared_tokens": [
+          "paint",
+          "coating",
+          "painting",
+          "finish"
+        ],
+        "relationship": "uses",
+        "confidence": "B"
+      },
+      {
+        "target_id": "uc:Pr_35_31_67_41",
+        "target_name": "Insecticidal paint additives",
+        "score": 0.364,
+        "shared_tokens": [
+          "paint",
+          "coating",
+          "painting",
+          "finish"
+        ],
+        "relationship": "uses",
+        "confidence": "B"
+      },
+      {
+        "target_id": "uc:Pr_35_31_77_42",
+        "target_name": "Intumescent coating sealers",
+        "score": 0.364,
+        "shared_tokens": [
+          "paint",
+          "coating",
+          "painting",
+          "finish"
+        ],
+        "relationship": "uses",
+        "confidence": "B"
+      },
+      {
+        "target_id": "uc:Pr_35_31_22_55",
+        "target_name": "Multicoloured finish spatter coatings",
+        "score": 0.333,
+        "shared_tokens": [
+          "paint",
+          "coating",
+          "painting",
+          "finish"
+        ],
+        "relationship": "uses",
+        "confidence": "B"
+      }
+    ]
+  },
+  {
+    "source_id": "naics:23833",
+    "source_name": "Flooring Contractors",
+    "source_tokens": [
+      "contractors",
+      "flooring",
+      "floor"
+    ],
+    "matches": [
+      {
+        "target_id": "uc:Pr_20_29_14_31",
+        "target_name": "Floor clips",
+        "score": 0.5,
+        "shared_tokens": [
+          "flooring",
+          "floor"
+        ],
+        "relationship": "uses",
+        "confidence": "A"
+      },
+      {
+        "target_id": "uc:Pr_30_36_36_29",
+        "target_name": "Floor springs",
+        "score": 0.5,
+        "shared_tokens": [
+          "flooring",
+          "floor"
+        ],
+        "relationship": "uses",
+        "confidence": "A"
+      },
+      {
+        "target_id": "uc:Pr_30_59_36_30",
+        "target_name": "Floor hatches",
+        "score": 0.5,
+        "shared_tokens": [
+          "flooring",
+          "floor"
+        ],
+        "relationship": "uses",
+        "confidence": "A"
+      },
+      {
+        "target_id": "uc:Pr_35_31_06_31",
+        "target_name": "Floor seals",
+        "score": 0.5,
+        "shared_tokens": [
+          "flooring",
+          "floor"
+        ],
+        "relationship": "uses",
+        "confidence": "A"
+      },
+      {
+        "target_id": "uc:Pr_35_31_06_55",
+        "target_name": "Multilayer flooring",
+        "score": 0.5,
+        "shared_tokens": [
+          "flooring",
+          "floor"
+        ],
+        "relationship": "uses",
+        "confidence": "A"
+      },
+      {
+        "target_id": "uc:Pr_35_31_06_77",
+        "target_name": "Screed flooring",
+        "score": 0.5,
+        "shared_tokens": [
+          "flooring",
+          "floor"
+        ],
+        "relationship": "uses",
+        "confidence": "A"
+      },
+      {
+        "target_id": "uc:Pr_35_31_68_31",
+        "target_name": "Floor dyes",
+        "score": 0.5,
+        "shared_tokens": [
+          "flooring",
+          "floor"
+        ],
+        "relationship": "uses",
+        "confidence": "A"
+      },
+      {
+        "target_id": "uc:Pr_35_31_68_32",
+        "target_name": "Floor polishes",
+        "score": 0.5,
+        "shared_tokens": [
+          "flooring",
+          "floor"
+        ],
+        "relationship": "uses",
+        "confidence": "A"
+      },
+      {
+        "target_id": "uc:Pr_65_52_24_28",
+        "target_name": "Floor channels",
+        "score": 0.5,
+        "shared_tokens": [
+          "flooring",
+          "floor"
+        ],
+        "relationship": "uses",
+        "confidence": "A"
+      },
+      {
+        "target_id": "uc:Pr_65_52_24_31",
+        "target_name": "Floor gullies",
+        "score": 0.5,
+        "shared_tokens": [
+          "flooring",
+          "floor"
+        ],
+        "relationship": "uses",
+        "confidence": "A"
+      }
+    ]
+  },
+  {
+    "source_id": "naics:238330",
+    "source_name": "Flooring Contractors",
+    "source_tokens": [
+      "contractors",
+      "flooring",
+      "floor"
+    ],
+    "matches": [
+      {
+        "target_id": "uc:Pr_20_29_14_31",
+        "target_name": "Floor clips",
+        "score": 0.5,
+        "shared_tokens": [
+          "flooring",
+          "floor"
+        ],
+        "relationship": "uses",
+        "confidence": "A"
+      },
+      {
+        "target_id": "uc:Pr_30_36_36_29",
+        "target_name": "Floor springs",
+        "score": 0.5,
+        "shared_tokens": [
+          "flooring",
+          "floor"
+        ],
+        "relationship": "uses",
+        "confidence": "A"
+      },
+      {
+        "target_id": "uc:Pr_30_59_36_30",
+        "target_name": "Floor hatches",
+        "score": 0.5,
+        "shared_tokens": [
+          "flooring",
+          "floor"
+        ],
+        "relationship": "uses",
+        "confidence": "A"
+      },
+      {
+        "target_id": "uc:Pr_35_31_06_31",
+        "target_name": "Floor seals",
+        "score": 0.5,
+        "shared_tokens": [
+          "flooring",
+          "floor"
+        ],
+        "relationship": "uses",
+        "confidence": "A"
+      },
+      {
+        "target_id": "uc:Pr_35_31_06_55",
+        "target_name": "Multilayer flooring",
+        "score": 0.5,
+        "shared_tokens": [
+          "flooring",
+          "floor"
+        ],
+        "relationship": "uses",
+        "confidence": "A"
+      },
+      {
+        "target_id": "uc:Pr_35_31_06_77",
+        "target_name": "Screed flooring",
+        "score": 0.5,
+        "shared_tokens": [
+          "flooring",
+          "floor"
+        ],
+        "relationship": "uses",
+        "confidence": "A"
+      },
+      {
+        "target_id": "uc:Pr_35_31_68_31",
+        "target_name": "Floor dyes",
+        "score": 0.5,
+        "shared_tokens": [
+          "flooring",
+          "floor"
+        ],
+        "relationship": "uses",
+        "confidence": "A"
+      },
+      {
+        "target_id": "uc:Pr_35_31_68_32",
+        "target_name": "Floor polishes",
+        "score": 0.5,
+        "shared_tokens": [
+          "flooring",
+          "floor"
+        ],
+        "relationship": "uses",
+        "confidence": "A"
+      },
+      {
+        "target_id": "uc:Pr_65_52_24_28",
+        "target_name": "Floor channels",
+        "score": 0.5,
+        "shared_tokens": [
+          "flooring",
+          "floor"
+        ],
+        "relationship": "uses",
+        "confidence": "A"
+      },
+      {
+        "target_id": "uc:Pr_65_52_24_31",
+        "target_name": "Floor gullies",
+        "score": 0.5,
+        "shared_tokens": [
+          "flooring",
+          "floor"
+        ],
+        "relationship": "uses",
+        "confidence": "A"
+      }
+    ]
+  },
+  {
+    "source_id": "naics:23834",
+    "source_name": "Tile and Terrazzo Contractors",
+    "source_tokens": [
+      "tile",
+      "contractors",
+      "terrazzo",
+      "tiling",
+      "ceramic"
+    ],
+    "matches": [
+      {
+        "target_id": "uc:Pr_35_93_96_89",
+        "target_name": "Terrazzo tile skirtings",
+        "score": 0.667,
+        "shared_tokens": [
+          "tiling",
+          "tile",
+          "ceramic",
+          "terrazzo"
+        ],
+        "relationship": "uses",
+        "confidence": "A"
+      },
+      {
+        "target_id": "uc:Pr_20_31_02_89",
+        "target_name": "Tile adhesives",
+        "score": 0.5,
+        "shared_tokens": [
+          "tiling",
+          "tile",
+          "ceramic"
+        ],
+        "relationship": "uses",
+        "confidence": "A"
+      },
+      {
+        "target_id": "uc:Pr_25_71_14_15",
+        "target_name": "Ceramic panels",
+        "score": 0.5,
+        "shared_tokens": [
+          "tiling",
+          "ceramic",
+          "tile"
+        ],
+        "relationship": "uses",
+        "confidence": "A"
+      },
+      {
+        "target_id": "uc:Pr_25_93_72_11",
+        "target_name": "Ceramic slates",
+        "score": 0.5,
+        "shared_tokens": [
+          "tiling",
+          "ceramic",
+          "tile"
+        ],
+        "relationship": "uses",
+        "confidence": "A"
+      },
+      {
+        "target_id": "uc:Pr_35_90_50_88",
+        "target_name": "Tile creasings",
+        "score": 0.5,
+        "shared_tokens": [
+          "tiling",
+          "tile",
+          "ceramic"
+        ],
+        "relationship": "uses",
+        "confidence": "A"
+      },
+      {
+        "target_id": "uc:Pr_35_93_96_13",
+        "target_name": "Ceramic tile borders",
+        "score": 0.5,
+        "shared_tokens": [
+          "tiling",
+          "tile",
+          "ceramic"
+        ],
+        "relationship": "uses",
+        "confidence": "A"
+      },
+      {
+        "target_id": "uc:Pr_35_93_96_19",
+        "target_name": "Ceramic tiles",
+        "score": 0.5,
+        "shared_tokens": [
+          "tiling",
+          "ceramic",
+          "tile"
+        ],
+        "relationship": "uses",
+        "confidence": "A"
+      },
+      {
+        "target_id": "uc:Pr_35_93_96_87",
+        "target_name": "Tile matting",
+        "score": 0.5,
+        "shared_tokens": [
+          "tiling",
+          "tile",
+          "ceramic"
+        ],
+        "relationship": "uses",
+        "confidence": "A"
+      },
+      {
+        "target_id": "uc:Pr_35_93_96_92",
+        "target_name": "Tile spacers",
+        "score": 0.5,
+        "shared_tokens": [
+          "tiling",
+          "tile",
+          "ceramic"
+        ],
+        "relationship": "uses",
+        "confidence": "A"
+      },
+      {
+        "target_id": "uc:Pr_40_20_96_15",
+        "target_name": "Ceramic sinks",
+        "score": 0.5,
+        "shared_tokens": [
+          "tiling",
+          "tile",
+          "ceramic"
+        ],
+        "relationship": "uses",
+        "confidence": "A"
+      }
+    ]
+  },
+  {
+    "source_id": "naics:238340",
+    "source_name": "Tile and Terrazzo Contractors",
+    "source_tokens": [
+      "tile",
+      "contractors",
+      "terrazzo",
+      "tiling",
+      "ceramic"
+    ],
+    "matches": [
+      {
+        "target_id": "uc:Pr_35_93_96_89",
+        "target_name": "Terrazzo tile skirtings",
+        "score": 0.667,
+        "shared_tokens": [
+          "tiling",
+          "tile",
+          "ceramic",
+          "terrazzo"
+        ],
+        "relationship": "uses",
+        "confidence": "A"
+      },
+      {
+        "target_id": "uc:Pr_20_31_02_89",
+        "target_name": "Tile adhesives",
+        "score": 0.5,
+        "shared_tokens": [
+          "tiling",
+          "tile",
+          "ceramic"
+        ],
+        "relationship": "uses",
+        "confidence": "A"
+      },
+      {
+        "target_id": "uc:Pr_25_71_14_15",
+        "target_name": "Ceramic panels",
+        "score": 0.5,
+        "shared_tokens": [
+          "tiling",
+          "ceramic",
+          "tile"
+        ],
+        "relationship": "uses",
+        "confidence": "A"
+      },
+      {
+        "target_id": "uc:Pr_25_93_72_11",
+        "target_name": "Ceramic slates",
+        "score": 0.5,
+        "shared_tokens": [
+          "tiling",
+          "ceramic",
+          "tile"
+        ],
+        "relationship": "uses",
+        "confidence": "A"
+      },
+      {
+        "target_id": "uc:Pr_35_90_50_88",
+        "target_name": "Tile creasings",
+        "score": 0.5,
+        "shared_tokens": [
+          "tiling",
+          "tile",
+          "ceramic"
+        ],
+        "relationship": "uses",
+        "confidence": "A"
+      },
+      {
+        "target_id": "uc:Pr_35_93_96_13",
+        "target_name": "Ceramic tile borders",
+        "score": 0.5,
+        "shared_tokens": [
+          "tiling",
+          "tile",
+          "ceramic"
+        ],
+        "relationship": "uses",
+        "confidence": "A"
+      },
+      {
+        "target_id": "uc:Pr_35_93_96_19",
+        "target_name": "Ceramic tiles",
+        "score": 0.5,
+        "shared_tokens": [
+          "tiling",
+          "ceramic",
+          "tile"
+        ],
+        "relationship": "uses",
+        "confidence": "A"
+      },
+      {
+        "target_id": "uc:Pr_35_93_96_87",
+        "target_name": "Tile matting",
+        "score": 0.5,
+        "shared_tokens": [
+          "tiling",
+          "tile",
+          "ceramic"
+        ],
+        "relationship": "uses",
+        "confidence": "A"
+      },
+      {
+        "target_id": "uc:Pr_35_93_96_92",
+        "target_name": "Tile spacers",
+        "score": 0.5,
+        "shared_tokens": [
+          "tiling",
+          "tile",
+          "ceramic"
+        ],
+        "relationship": "uses",
+        "confidence": "A"
+      },
+      {
+        "target_id": "uc:Pr_40_20_96_15",
+        "target_name": "Ceramic sinks",
+        "score": 0.5,
+        "shared_tokens": [
+          "tiling",
+          "tile",
+          "ceramic"
+        ],
+        "relationship": "uses",
+        "confidence": "A"
+      }
+    ]
+  },
+  {
+    "source_id": "naics:23835",
+    "source_name": "Finish Carpentry Contractors",
+    "source_tokens": [
+      "coating",
+      "painting",
+      "finish",
+      "contractors",
+      "paint",
+      "carpentry"
+    ],
+    "matches": [
+      {
+        "target_id": "uc:Pr_15_31_04_60",
+        "target_name": "Paint strippers",
+        "score": 0.571,
+        "shared_tokens": [
+          "paint",
+          "coating",
+          "painting",
+          "finish"
+        ],
+        "relationship": "uses",
+        "confidence": "A"
+      },
+      {
+        "target_id": "uc:Pr_35_31_64_32",
+        "target_name": "Finish plasters",
+        "score": 0.571,
+        "shared_tokens": [
+          "paint",
+          "coating",
+          "painting",
+          "finish"
+        ],
+        "relationship": "uses",
+        "confidence": "A"
+      },
+      {
+        "target_id": "uc:Pr_35_31_66_55",
+        "target_name": "Multicoloured finish basecoats",
+        "score": 0.5,
+        "shared_tokens": [
+          "paint",
+          "coating",
+          "painting",
+          "finish"
+        ],
+        "relationship": "uses",
+        "confidence": "A"
+      },
+      {
+        "target_id": "uc:Pr_35_31_66_65",
+        "target_name": "Powder-coating primers",
+        "score": 0.5,
+        "shared_tokens": [
+          "paint",
+          "coating",
+          "painting",
+          "finish"
+        ],
+        "relationship": "uses",
+        "confidence": "A"
+      },
+      {
+        "target_id": "uc:Pr_35_31_66_71",
+        "target_name": "Resin coating primers",
+        "score": 0.5,
+        "shared_tokens": [
+          "paint",
+          "coating",
+          "painting",
+          "finish"
+        ],
+        "relationship": "uses",
+        "confidence": "A"
+      },
+      {
+        "target_id": "uc:Pr_35_31_67_41",
+        "target_name": "Insecticidal paint additives",
+        "score": 0.5,
+        "shared_tokens": [
+          "paint",
+          "coating",
+          "painting",
+          "finish"
+        ],
+        "relationship": "uses",
+        "confidence": "A"
+      },
+      {
+        "target_id": "uc:Pr_35_31_77_42",
+        "target_name": "Intumescent coating sealers",
+        "score": 0.5,
+        "shared_tokens": [
+          "paint",
+          "coating",
+          "painting",
+          "finish"
+        ],
+        "relationship": "uses",
+        "confidence": "A"
+      },
+      {
+        "target_id": "uc:Pr_35_31",
+        "target_name": "Formless covering and finish products",
+        "score": 0.444,
+        "shared_tokens": [
+          "paint",
+          "coating",
+          "painting",
+          "finish"
+        ],
+        "relationship": "uses",
+        "confidence": "B"
+      },
+      {
+        "target_id": "uc:Pr_35_31_22_55",
+        "target_name": "Multicoloured finish spatter coatings",
+        "score": 0.444,
+        "shared_tokens": [
+          "paint",
+          "coating",
+          "painting",
+          "finish"
+        ],
+        "relationship": "uses",
+        "confidence": "B"
+      },
+      {
+        "target_id": "uc:Pr_35_31_68_55",
+        "target_name": "Multicoloured finish glaze coats",
+        "score": 0.444,
+        "shared_tokens": [
+          "paint",
+          "coating",
+          "painting",
+          "finish"
+        ],
+        "relationship": "uses",
+        "confidence": "B"
+      }
+    ]
+  },
+  {
+    "source_id": "naics:238350",
+    "source_name": "Finish Carpentry Contractors",
+    "source_tokens": [
+      "coating",
+      "painting",
+      "finish",
+      "contractors",
+      "paint",
+      "carpentry"
+    ],
+    "matches": [
+      {
+        "target_id": "uc:Pr_15_31_04_60",
+        "target_name": "Paint strippers",
+        "score": 0.571,
+        "shared_tokens": [
+          "paint",
+          "coating",
+          "painting",
+          "finish"
+        ],
+        "relationship": "uses",
+        "confidence": "A"
+      },
+      {
+        "target_id": "uc:Pr_35_31_64_32",
+        "target_name": "Finish plasters",
+        "score": 0.571,
+        "shared_tokens": [
+          "paint",
+          "coating",
+          "painting",
+          "finish"
+        ],
+        "relationship": "uses",
+        "confidence": "A"
+      },
+      {
+        "target_id": "uc:Pr_35_31_66_55",
+        "target_name": "Multicoloured finish basecoats",
+        "score": 0.5,
+        "shared_tokens": [
+          "paint",
+          "coating",
+          "painting",
+          "finish"
+        ],
+        "relationship": "uses",
+        "confidence": "A"
+      },
+      {
+        "target_id": "uc:Pr_35_31_66_65",
+        "target_name": "Powder-coating primers",
+        "score": 0.5,
+        "shared_tokens": [
+          "paint",
+          "coating",
+          "painting",
+          "finish"
+        ],
+        "relationship": "uses",
+        "confidence": "A"
+      },
+      {
+        "target_id": "uc:Pr_35_31_66_71",
+        "target_name": "Resin coating primers",
+        "score": 0.5,
+        "shared_tokens": [
+          "paint",
+          "coating",
+          "painting",
+          "finish"
+        ],
+        "relationship": "uses",
+        "confidence": "A"
+      },
+      {
+        "target_id": "uc:Pr_35_31_67_41",
+        "target_name": "Insecticidal paint additives",
+        "score": 0.5,
+        "shared_tokens": [
+          "paint",
+          "coating",
+          "painting",
+          "finish"
+        ],
+        "relationship": "uses",
+        "confidence": "A"
+      },
+      {
+        "target_id": "uc:Pr_35_31_77_42",
+        "target_name": "Intumescent coating sealers",
+        "score": 0.5,
+        "shared_tokens": [
+          "paint",
+          "coating",
+          "painting",
+          "finish"
+        ],
+        "relationship": "uses",
+        "confidence": "A"
+      },
+      {
+        "target_id": "uc:Pr_35_31",
+        "target_name": "Formless covering and finish products",
+        "score": 0.444,
+        "shared_tokens": [
+          "paint",
+          "coating",
+          "painting",
+          "finish"
+        ],
+        "relationship": "uses",
+        "confidence": "B"
+      },
+      {
+        "target_id": "uc:Pr_35_31_22_55",
+        "target_name": "Multicoloured finish spatter coatings",
+        "score": 0.444,
+        "shared_tokens": [
+          "paint",
+          "coating",
+          "painting",
+          "finish"
+        ],
+        "relationship": "uses",
+        "confidence": "B"
+      },
+      {
+        "target_id": "uc:Pr_35_31_68_55",
+        "target_name": "Multicoloured finish glaze coats",
+        "score": 0.444,
+        "shared_tokens": [
+          "paint",
+          "coating",
+          "painting",
+          "finish"
+        ],
+        "relationship": "uses",
+        "confidence": "B"
+      }
+    ]
+  },
+  {
+    "source_id": "naics:23839",
+    "source_name": "Other Building Finishing Contractors",
+    "source_tokens": [
+      "other",
+      "finishing",
+      "building",
+      "contractors"
+    ],
+    "matches": [
+      {
+        "target_id": "uc:Pr_25_57_10_09",
+        "target_name": "Building papers",
+        "score": 0.2,
+        "shared_tokens": [
+          "building"
+        ],
+        "relationship": "uses",
+        "confidence": "C"
+      },
+      {
+        "target_id": "uc:Pr_35_31_65_30",
+        "target_name": "Finishing compounds",
+        "score": 0.2,
+        "shared_tokens": [
+          "finishing"
+        ],
+        "relationship": "uses",
+        "confidence": "C"
+      },
+      {
+        "target_id": "uc:Pr_20_29_60_20",
+        "target_name": "Cup (finishing) washers",
+        "score": 0.167,
+        "shared_tokens": [
+          "finishing"
+        ],
+        "relationship": "uses",
+        "confidence": "D"
+      },
+      {
+        "target_id": "uc:Pr_25_71_22_15",
+        "target_name": "Composite finishing battens",
+        "score": 0.167,
+        "shared_tokens": [
+          "finishing"
+        ],
+        "relationship": "uses",
+        "confidence": "D"
+      },
+      {
+        "target_id": "uc:Pr_25_71_22_64",
+        "target_name": "Plastics finishing battens",
+        "score": 0.167,
+        "shared_tokens": [
+          "finishing"
+        ],
+        "relationship": "uses",
+        "confidence": "D"
+      },
+      {
+        "target_id": "uc:Pr_25_71_29_84",
+        "target_name": "Stone finishing battens",
+        "score": 0.167,
+        "shared_tokens": [
+          "finishing"
+        ],
+        "relationship": "uses",
+        "confidence": "D"
+      },
+      {
+        "target_id": "uc:Pr_35",
+        "target_name": "Covering and finishing products",
+        "score": 0.167,
+        "shared_tokens": [
+          "finishing"
+        ],
+        "relationship": "uses",
+        "confidence": "D"
+      },
+      {
+        "target_id": "uc:Pr_40_50_21_47",
+        "target_name": "Laundry finishing tables",
+        "score": 0.167,
+        "shared_tokens": [
+          "finishing"
+        ],
+        "relationship": "uses",
+        "confidence": "D"
+      },
+      {
+        "target_id": "uc:Pr_40_50_21_50",
+        "target_name": "Manicure finishing tables",
+        "score": 0.167,
+        "shared_tokens": [
+          "finishing"
+        ],
+        "relationship": "uses",
+        "confidence": "D"
+      }
+    ]
+  },
+  {
+    "source_id": "naics:238390",
+    "source_name": "Other Building Finishing Contractors",
+    "source_tokens": [
+      "other",
+      "finishing",
+      "building",
+      "contractors"
+    ],
+    "matches": [
+      {
+        "target_id": "uc:Pr_25_57_10_09",
+        "target_name": "Building papers",
+        "score": 0.2,
+        "shared_tokens": [
+          "building"
+        ],
+        "relationship": "uses",
+        "confidence": "C"
+      },
+      {
+        "target_id": "uc:Pr_35_31_65_30",
+        "target_name": "Finishing compounds",
+        "score": 0.2,
+        "shared_tokens": [
+          "finishing"
+        ],
+        "relationship": "uses",
+        "confidence": "C"
+      },
+      {
+        "target_id": "uc:Pr_20_29_60_20",
+        "target_name": "Cup (finishing) washers",
+        "score": 0.167,
+        "shared_tokens": [
+          "finishing"
+        ],
+        "relationship": "uses",
+        "confidence": "D"
+      },
+      {
+        "target_id": "uc:Pr_25_71_22_15",
+        "target_name": "Composite finishing battens",
+        "score": 0.167,
+        "shared_tokens": [
+          "finishing"
+        ],
+        "relationship": "uses",
+        "confidence": "D"
+      },
+      {
+        "target_id": "uc:Pr_25_71_22_64",
+        "target_name": "Plastics finishing battens",
+        "score": 0.167,
+        "shared_tokens": [
+          "finishing"
+        ],
+        "relationship": "uses",
+        "confidence": "D"
+      },
+      {
+        "target_id": "uc:Pr_25_71_29_84",
+        "target_name": "Stone finishing battens",
+        "score": 0.167,
+        "shared_tokens": [
+          "finishing"
+        ],
+        "relationship": "uses",
+        "confidence": "D"
+      },
+      {
+        "target_id": "uc:Pr_35",
+        "target_name": "Covering and finishing products",
+        "score": 0.167,
+        "shared_tokens": [
+          "finishing"
+        ],
+        "relationship": "uses",
+        "confidence": "D"
+      },
+      {
+        "target_id": "uc:Pr_40_50_21_47",
+        "target_name": "Laundry finishing tables",
+        "score": 0.167,
+        "shared_tokens": [
+          "finishing"
+        ],
+        "relationship": "uses",
+        "confidence": "D"
+      },
+      {
+        "target_id": "uc:Pr_40_50_21_50",
+        "target_name": "Manicure finishing tables",
+        "score": 0.167,
+        "shared_tokens": [
+          "finishing"
+        ],
+        "relationship": "uses",
+        "confidence": "D"
+      }
+    ]
+  },
+  {
+    "source_id": "naics:23891",
+    "source_name": "Site Preparation Contractors",
+    "source_tokens": [
+      "site",
+      "contractors",
+      "preparation"
+    ],
+    "matches": [
+      {
+        "target_id": "uc:Pr_40_30_30_32",
+        "target_name": "Food preparation worktops",
+        "score": 0.2,
+        "shared_tokens": [
+          "preparation"
+        ],
+        "relationship": "uses",
+        "confidence": "C"
+      },
+      {
+        "target_id": "uc:Pr_40_50_21_32",
+        "target_name": "Food preparation tables",
+        "score": 0.2,
+        "shared_tokens": [
+          "preparation"
+        ],
+        "relationship": "uses",
+        "confidence": "C"
+      },
+      {
+        "target_id": "uc:Pr_40_50_90_31",
+        "target_name": "Food preparation trolleys",
+        "score": 0.2,
+        "shared_tokens": [
+          "preparation"
+        ],
+        "relationship": "uses",
+        "confidence": "C"
+      },
+      {
+        "target_id": "uc:Pr_40_70_65",
+        "target_name": "Preparation catering equipment",
+        "score": 0.2,
+        "shared_tokens": [
+          "preparation"
+        ],
+        "relationship": "uses",
+        "confidence": "C"
+      },
+      {
+        "target_id": "uc:Pr_35_31_65",
+        "target_name": "Preparation materials, fillers and stoppers",
+        "score": 0.167,
+        "shared_tokens": [
+          "preparation"
+        ],
+        "relationship": "uses",
+        "confidence": "D"
+      }
+    ]
+  },
+  {
+    "source_id": "naics:238910",
+    "source_name": "Site Preparation Contractors",
+    "source_tokens": [
+      "site",
+      "contractors",
+      "preparation"
+    ],
+    "matches": [
+      {
+        "target_id": "uc:Pr_40_30_30_32",
+        "target_name": "Food preparation worktops",
+        "score": 0.2,
+        "shared_tokens": [
+          "preparation"
+        ],
+        "relationship": "uses",
+        "confidence": "C"
+      },
+      {
+        "target_id": "uc:Pr_40_50_21_32",
+        "target_name": "Food preparation tables",
+        "score": 0.2,
+        "shared_tokens": [
+          "preparation"
+        ],
+        "relationship": "uses",
+        "confidence": "C"
+      },
+      {
+        "target_id": "uc:Pr_40_50_90_31",
+        "target_name": "Food preparation trolleys",
+        "score": 0.2,
+        "shared_tokens": [
+          "preparation"
+        ],
+        "relationship": "uses",
+        "confidence": "C"
+      },
+      {
+        "target_id": "uc:Pr_40_70_65",
+        "target_name": "Preparation catering equipment",
+        "score": 0.2,
+        "shared_tokens": [
+          "preparation"
+        ],
+        "relationship": "uses",
+        "confidence": "C"
+      },
+      {
+        "target_id": "uc:Pr_35_31_65",
+        "target_name": "Preparation materials, fillers and stoppers",
+        "score": 0.167,
+        "shared_tokens": [
+          "preparation"
+        ],
+        "relationship": "uses",
+        "confidence": "D"
+      }
+    ]
+  }
+]
