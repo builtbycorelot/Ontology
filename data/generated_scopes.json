@@ -1,0 +1,848 @@
+{
+  "_meta": {
+    "source": "Generated from O*NET 30.1 Database tasks",
+    "license": "CC BY 4.0 (O*NET)",
+    "attribution": "U.S. Department of Labor, Employment and Training Administration",
+    "description": "Scope templates for trades not in user seed data",
+    "date": "2024-12-30"
+  },
+  "trade_details": {
+    "Electrical": {
+      "naics": "238210",
+      "naics_name": "Electrical Contractors",
+      "uniclass_ss": [
+        "Ss_70",
+        "Ss_70_30",
+        "Ss_70_80"
+      ],
+      "phases": {
+        "R/I": [
+          "Prepare sketches or follow blueprints to determine the location of wiring or equipment",
+          "Plan layout and installation of electrical wiring, equipment, or fixtures, based on job specifications and local codes",
+          "Place conduit, pipes, or tubing, inside designated partitions, walls, or other concealed areas",
+          "Pull insulated wires or cables through the conduit to complete circuits between boxes",
+          "Fasten small metal or plastic boxes to walls to house electrical switches or outlets",
+          "Install ground leads and connect power cables to equipment, such as motors",
+          "Connect wires to circuit breakers, transformers, or other components"
+        ],
+        "Trim": [
+          "Assemble, install, test, or maintain electrical wiring, equipment, appliances, apparatus, or fixtures",
+          "Install switches, outlets, and fixtures per plans and code",
+          "Install cover plates on all devices",
+          "Label panel directory"
+        ],
+        "Final": [
+          "Test electrical systems or continuity of circuits using testing devices (ohmmeters, voltmeters)",
+          "Inspect electrical systems, equipment, or components to ensure compliance with codes",
+          "Diagnose malfunctioning systems, apparatus, or components using test equipment",
+          "Repair or replace wiring, equipment, or fixtures as needed"
+        ],
+        "Service": [
+          "Install service entrance, meter base, and main panel",
+          "Coordinate with utility company for meter installation",
+          "Provide temporary power pole (if required)"
+        ]
+      },
+      "products": [
+        "Pr_65_70",
+        "Pr_65_50_15",
+        "Pr_65_50_96",
+        "Pr_65_52_70"
+      ]
+    },
+    "HVAC": {
+      "naics": "238220",
+      "naics_name": "Plumbing, Heating, and Air-Conditioning Contractors",
+      "uniclass_ss": [
+        "Ss_60",
+        "Ss_60_40",
+        "Ss_60_30",
+        "Ss_60_70"
+      ],
+      "phases": {
+        "R/I": [
+          "Install ductwork per plans and code, seal all joints with mastic",
+          "Install supply and return boots at designated locations",
+          "Run refrigerant lines for split systems",
+          "Install condensate drain lines with proper slope",
+          "Furnish and install flue pipe for gas furnace",
+          "Install gas piping to furnace location (if applicable)"
+        ],
+        "Equipment Set": [
+          "Set furnace/air handler in designated location",
+          "Set condenser on pad with proper clearances",
+          "Connect refrigerant lines and pressure test system",
+          "Connect condensate drain to approved location",
+          "Connect gas line to furnace (if applicable)",
+          "Install thermostat wiring"
+        ],
+        "Trim": [
+          "Install registers, grilles, and diffusers",
+          "Install thermostat(s) at designated locations",
+          "Install filter grille or filter rack",
+          "Seal all duct penetrations at fire-rated assemblies"
+        ],
+        "Final": [
+          "Charge system with refrigerant per manufacturer specs",
+          "Test and balance airflow at all registers",
+          "Program thermostat and verify operation",
+          "Provide homeowner orientation on system operation",
+          "Complete startup checklist and warranty registration"
+        ]
+      },
+      "products": [
+        "Pr_70_65",
+        "Pr_70_70",
+        "Pr_70_60_30",
+        "Pr_70_60_35"
+      ]
+    },
+    "Drywall": {
+      "naics": "238310",
+      "naics_name": "Drywall and Insulation Contractors",
+      "uniclass_ss": [
+        "Ss_25_50",
+        "Ss_25_50_20",
+        "Ss_25_50_65"
+      ],
+      "phases": {
+        "Stock": [
+          "Count and verify quantity of drywall deliveries",
+          "Distribute drywall throughout structure for hanging",
+          "Protect materials from moisture damage"
+        ],
+        "Hang": [
+          "Read blueprints to determine methods of installation and material requirements",
+          "Measure and mark surfaces to lay out work according to blueprints",
+          "Fit and fasten wallboard or drywall into position on wood or metal frameworks using screws",
+          "Hang drywall panels on metal frameworks of walls and ceilings",
+          "Measure and cut openings in panels for electrical outlets, windows, vents, plumbing",
+          "Install horizontal and vertical metal or wooden studs to frames as needed",
+          "Cut and install corner bead at all outside corners"
+        ],
+        "Tape/Finish": [
+          "Spread sealing compound between boards or over cracks, holes, nail heads, or screw heads",
+          "Press paper tape over joints to embed tape into sealing compound",
+          "Spread and smooth cementing material over tape using trowels or floating machines",
+          "Apply additional coats to fill in holes and make surfaces smooth",
+          "Sand rough spots of dried cement between applications of compounds",
+          "Sand to smooth finish ready for paint (Level 4 finish)"
+        ],
+        "Texture": [
+          "Apply texturizing compounds to walls or ceilings using trowels, brushes, rollers, or spray guns",
+          "Match existing texture on repair areas",
+          "Apply orange peel, knockdown, or smooth finish per specs"
+        ]
+      },
+      "products": [
+        "Pr_25_71_28",
+        "Pr_25_71_29",
+        "Pr_25_71_25"
+      ]
+    },
+    "Painting": {
+      "naics": "238320",
+      "naics_name": "Painting and Wall Covering Contractors",
+      "uniclass_ss": [
+        "Ss_40",
+        "Ss_40_10",
+        "Ss_40_30"
+      ],
+      "phases": {
+        "Prep": [
+          "Cover surfaces with dropcloths or masking tape and paper to protect surfaces",
+          "Fill holes, cracks, and joints with caulk, putty, plaster, or other fillers",
+          "Sand surfaces between coats for proper adhesion",
+          "Remove hardware, covers, and fixtures before painting",
+          "Clean surfaces to remove dust, dirt, grease, or other contaminants"
+        ],
+        "Prime": [
+          "Apply primer coat to all new drywall surfaces",
+          "Spot prime nail holes and repairs",
+          "Apply stain-blocking primer where needed",
+          "Prime all bare wood surfaces"
+        ],
+        "Paint": [
+          "Apply paint, stain, or coating using brushes, rollers, or spray equipment",
+          "Apply two coats of finish paint to walls and ceilings (or per specs)",
+          "Cut in at corners, edges, and trim",
+          "Roll or spray field areas for uniform coverage",
+          "Apply trim paint to all doors, casings, and millwork"
+        ],
+        "Final": [
+          "Touch up all scratches, holidays, and imperfections",
+          "Remove all masking and dropcloths",
+          "Clean paint from windows, hardware, and fixtures",
+          "Reinstall all hardware and covers"
+        ]
+      },
+      "products": [
+        "Pr_45_30",
+        "Pr_45_30_65",
+        "Pr_45_30_50"
+      ]
+    },
+    "Tile": {
+      "naics": "238340",
+      "naics_name": "Tile and Terrazzo Contractors",
+      "uniclass_ss": [
+        "Ss_25_45_88",
+        "Ss_25_45",
+        "Ss_32_20_95"
+      ],
+      "phases": {
+        "Prep": [
+          "Study blueprints and examine surface to determine amount of material needed",
+          "Remove any old tile, grout and adhesive using chisels and scrapers",
+          "Prepare surfaces for tiling by attaching cement board or waterproof membrane",
+          "Level substrate and allow to dry",
+          "Waterproof shower/tub areas with approved membrane system"
+        ],
+        "Layout": [
+          "Measure and mark surfaces to be tiled, following blueprints",
+          "Determine and implement the best layout to achieve desired pattern",
+          "Establish level lines and reference points",
+          "Dry-fit tile to verify layout before setting"
+        ],
+        "Set": [
+          "Mix, apply, and spread thinset mortar or adhesive using trowels",
+          "Apply mortar to tile back, position tile, and press into place",
+          "Align and straighten tile using levels, squares, and straightedges",
+          "Cut and shape tile to fit around obstacles using hand and power cutting tools",
+          "Install tile edge trim and transitions",
+          "Allow tile to set before grouting (24 hours typical)"
+        ],
+        "Grout": [
+          "Mix grout per manufacturer instructions",
+          "Apply grout to joints using rubber float",
+          "Finish and dress the joints and wipe excess grout using damp sponge",
+          "Apply sealer to make grout stain and water resistant",
+          "Caulk all change-of-plane joints with color-matched silicone"
+        ]
+      },
+      "products": [
+        "Pr_25_75",
+        "Pr_25_75_90",
+        "Pr_25_75_40"
+      ]
+    },
+    "Insulation": {
+      "naics": "238310",
+      "naics_name": "Drywall and Insulation Contractors",
+      "uniclass_ss": [
+        "Ss_25_35",
+        "Ss_25_35_30",
+        "Ss_25_35_90"
+      ],
+      "phases": {
+        "Batt Insulation": [
+          "Read blueprints and select appropriate insulation based on R-value requirements",
+          "Measure and cut insulation for covering surfaces",
+          "Fit, wrap, staple, or glue insulating materials to structures using hand tools",
+          "Install faced batt insulation in exterior walls with vapor barrier facing conditioned space",
+          "Install unfaced batt insulation in interior walls for sound attenuation",
+          "Insulate rim joists and cantilevered areas"
+        ],
+        "Blown Insulation": [
+          "Fill blower hoppers with insulating materials",
+          "Distribute insulating materials evenly into small spaces using blowers and hose attachments",
+          "Move controls to regulate flow of materials through nozzles",
+          "Achieve specified depth/R-value in attic spaces",
+          "Install depth markers per code requirements"
+        ],
+        "Air Sealing": [
+          "Seal all penetrations at top and bottom plates",
+          "Seal around electrical boxes and plumbing penetrations",
+          "Install foam baffles at eaves to maintain ventilation",
+          "Cover, seal, or finish insulated surfaces with plastic covers or tape"
+        ],
+        "Inspection": [
+          "Verify insulation installation meets energy code requirements",
+          "Provide insulation certificate with R-values",
+          "Coordinate with energy rater for HERS inspection (if required)"
+        ]
+      },
+      "products": [
+        "Pr_25_50_35",
+        "Pr_25_50_10",
+        "Pr_25_50_45"
+      ]
+    }
+  },
+  "flat_scopes": [
+    {
+      "trade": "Electrical",
+      "phase": "R/I",
+      "task": "Prepare sketches or follow blueprints to determine the location of wiring or equipment"
+    },
+    {
+      "trade": "Electrical",
+      "phase": "R/I",
+      "task": "Plan layout and installation of electrical wiring, equipment, or fixtures, based on job specifications and local codes"
+    },
+    {
+      "trade": "Electrical",
+      "phase": "R/I",
+      "task": "Place conduit, pipes, or tubing, inside designated partitions, walls, or other concealed areas"
+    },
+    {
+      "trade": "Electrical",
+      "phase": "R/I",
+      "task": "Pull insulated wires or cables through the conduit to complete circuits between boxes"
+    },
+    {
+      "trade": "Electrical",
+      "phase": "R/I",
+      "task": "Fasten small metal or plastic boxes to walls to house electrical switches or outlets"
+    },
+    {
+      "trade": "Electrical",
+      "phase": "R/I",
+      "task": "Install ground leads and connect power cables to equipment, such as motors"
+    },
+    {
+      "trade": "Electrical",
+      "phase": "R/I",
+      "task": "Connect wires to circuit breakers, transformers, or other components"
+    },
+    {
+      "trade": "Electrical",
+      "phase": "Trim",
+      "task": "Assemble, install, test, or maintain electrical wiring, equipment, appliances, apparatus, or fixtures"
+    },
+    {
+      "trade": "Electrical",
+      "phase": "Trim",
+      "task": "Install switches, outlets, and fixtures per plans and code"
+    },
+    {
+      "trade": "Electrical",
+      "phase": "Trim",
+      "task": "Install cover plates on all devices"
+    },
+    {
+      "trade": "Electrical",
+      "phase": "Trim",
+      "task": "Label panel directory"
+    },
+    {
+      "trade": "Electrical",
+      "phase": "Final",
+      "task": "Test electrical systems or continuity of circuits using testing devices (ohmmeters, voltmeters)"
+    },
+    {
+      "trade": "Electrical",
+      "phase": "Final",
+      "task": "Inspect electrical systems, equipment, or components to ensure compliance with codes"
+    },
+    {
+      "trade": "Electrical",
+      "phase": "Final",
+      "task": "Diagnose malfunctioning systems, apparatus, or components using test equipment"
+    },
+    {
+      "trade": "Electrical",
+      "phase": "Final",
+      "task": "Repair or replace wiring, equipment, or fixtures as needed"
+    },
+    {
+      "trade": "Electrical",
+      "phase": "Service",
+      "task": "Install service entrance, meter base, and main panel"
+    },
+    {
+      "trade": "Electrical",
+      "phase": "Service",
+      "task": "Coordinate with utility company for meter installation"
+    },
+    {
+      "trade": "Electrical",
+      "phase": "Service",
+      "task": "Provide temporary power pole (if required)"
+    },
+    {
+      "trade": "HVAC",
+      "phase": "R/I",
+      "task": "Install ductwork per plans and code, seal all joints with mastic"
+    },
+    {
+      "trade": "HVAC",
+      "phase": "R/I",
+      "task": "Install supply and return boots at designated locations"
+    },
+    {
+      "trade": "HVAC",
+      "phase": "R/I",
+      "task": "Run refrigerant lines for split systems"
+    },
+    {
+      "trade": "HVAC",
+      "phase": "R/I",
+      "task": "Install condensate drain lines with proper slope"
+    },
+    {
+      "trade": "HVAC",
+      "phase": "R/I",
+      "task": "Furnish and install flue pipe for gas furnace"
+    },
+    {
+      "trade": "HVAC",
+      "phase": "R/I",
+      "task": "Install gas piping to furnace location (if applicable)"
+    },
+    {
+      "trade": "HVAC",
+      "phase": "Equipment Set",
+      "task": "Set furnace/air handler in designated location"
+    },
+    {
+      "trade": "HVAC",
+      "phase": "Equipment Set",
+      "task": "Set condenser on pad with proper clearances"
+    },
+    {
+      "trade": "HVAC",
+      "phase": "Equipment Set",
+      "task": "Connect refrigerant lines and pressure test system"
+    },
+    {
+      "trade": "HVAC",
+      "phase": "Equipment Set",
+      "task": "Connect condensate drain to approved location"
+    },
+    {
+      "trade": "HVAC",
+      "phase": "Equipment Set",
+      "task": "Connect gas line to furnace (if applicable)"
+    },
+    {
+      "trade": "HVAC",
+      "phase": "Equipment Set",
+      "task": "Install thermostat wiring"
+    },
+    {
+      "trade": "HVAC",
+      "phase": "Trim",
+      "task": "Install registers, grilles, and diffusers"
+    },
+    {
+      "trade": "HVAC",
+      "phase": "Trim",
+      "task": "Install thermostat(s) at designated locations"
+    },
+    {
+      "trade": "HVAC",
+      "phase": "Trim",
+      "task": "Install filter grille or filter rack"
+    },
+    {
+      "trade": "HVAC",
+      "phase": "Trim",
+      "task": "Seal all duct penetrations at fire-rated assemblies"
+    },
+    {
+      "trade": "HVAC",
+      "phase": "Final",
+      "task": "Charge system with refrigerant per manufacturer specs"
+    },
+    {
+      "trade": "HVAC",
+      "phase": "Final",
+      "task": "Test and balance airflow at all registers"
+    },
+    {
+      "trade": "HVAC",
+      "phase": "Final",
+      "task": "Program thermostat and verify operation"
+    },
+    {
+      "trade": "HVAC",
+      "phase": "Final",
+      "task": "Provide homeowner orientation on system operation"
+    },
+    {
+      "trade": "HVAC",
+      "phase": "Final",
+      "task": "Complete startup checklist and warranty registration"
+    },
+    {
+      "trade": "Drywall",
+      "phase": "Stock",
+      "task": "Count and verify quantity of drywall deliveries"
+    },
+    {
+      "trade": "Drywall",
+      "phase": "Stock",
+      "task": "Distribute drywall throughout structure for hanging"
+    },
+    {
+      "trade": "Drywall",
+      "phase": "Stock",
+      "task": "Protect materials from moisture damage"
+    },
+    {
+      "trade": "Drywall",
+      "phase": "Hang",
+      "task": "Read blueprints to determine methods of installation and material requirements"
+    },
+    {
+      "trade": "Drywall",
+      "phase": "Hang",
+      "task": "Measure and mark surfaces to lay out work according to blueprints"
+    },
+    {
+      "trade": "Drywall",
+      "phase": "Hang",
+      "task": "Fit and fasten wallboard or drywall into position on wood or metal frameworks using screws"
+    },
+    {
+      "trade": "Drywall",
+      "phase": "Hang",
+      "task": "Hang drywall panels on metal frameworks of walls and ceilings"
+    },
+    {
+      "trade": "Drywall",
+      "phase": "Hang",
+      "task": "Measure and cut openings in panels for electrical outlets, windows, vents, plumbing"
+    },
+    {
+      "trade": "Drywall",
+      "phase": "Hang",
+      "task": "Install horizontal and vertical metal or wooden studs to frames as needed"
+    },
+    {
+      "trade": "Drywall",
+      "phase": "Hang",
+      "task": "Cut and install corner bead at all outside corners"
+    },
+    {
+      "trade": "Drywall",
+      "phase": "Tape/Finish",
+      "task": "Spread sealing compound between boards or over cracks, holes, nail heads, or screw heads"
+    },
+    {
+      "trade": "Drywall",
+      "phase": "Tape/Finish",
+      "task": "Press paper tape over joints to embed tape into sealing compound"
+    },
+    {
+      "trade": "Drywall",
+      "phase": "Tape/Finish",
+      "task": "Spread and smooth cementing material over tape using trowels or floating machines"
+    },
+    {
+      "trade": "Drywall",
+      "phase": "Tape/Finish",
+      "task": "Apply additional coats to fill in holes and make surfaces smooth"
+    },
+    {
+      "trade": "Drywall",
+      "phase": "Tape/Finish",
+      "task": "Sand rough spots of dried cement between applications of compounds"
+    },
+    {
+      "trade": "Drywall",
+      "phase": "Tape/Finish",
+      "task": "Sand to smooth finish ready for paint (Level 4 finish)"
+    },
+    {
+      "trade": "Drywall",
+      "phase": "Texture",
+      "task": "Apply texturizing compounds to walls or ceilings using trowels, brushes, rollers, or spray guns"
+    },
+    {
+      "trade": "Drywall",
+      "phase": "Texture",
+      "task": "Match existing texture on repair areas"
+    },
+    {
+      "trade": "Drywall",
+      "phase": "Texture",
+      "task": "Apply orange peel, knockdown, or smooth finish per specs"
+    },
+    {
+      "trade": "Painting",
+      "phase": "Prep",
+      "task": "Cover surfaces with dropcloths or masking tape and paper to protect surfaces"
+    },
+    {
+      "trade": "Painting",
+      "phase": "Prep",
+      "task": "Fill holes, cracks, and joints with caulk, putty, plaster, or other fillers"
+    },
+    {
+      "trade": "Painting",
+      "phase": "Prep",
+      "task": "Sand surfaces between coats for proper adhesion"
+    },
+    {
+      "trade": "Painting",
+      "phase": "Prep",
+      "task": "Remove hardware, covers, and fixtures before painting"
+    },
+    {
+      "trade": "Painting",
+      "phase": "Prep",
+      "task": "Clean surfaces to remove dust, dirt, grease, or other contaminants"
+    },
+    {
+      "trade": "Painting",
+      "phase": "Prime",
+      "task": "Apply primer coat to all new drywall surfaces"
+    },
+    {
+      "trade": "Painting",
+      "phase": "Prime",
+      "task": "Spot prime nail holes and repairs"
+    },
+    {
+      "trade": "Painting",
+      "phase": "Prime",
+      "task": "Apply stain-blocking primer where needed"
+    },
+    {
+      "trade": "Painting",
+      "phase": "Prime",
+      "task": "Prime all bare wood surfaces"
+    },
+    {
+      "trade": "Painting",
+      "phase": "Paint",
+      "task": "Apply paint, stain, or coating using brushes, rollers, or spray equipment"
+    },
+    {
+      "trade": "Painting",
+      "phase": "Paint",
+      "task": "Apply two coats of finish paint to walls and ceilings (or per specs)"
+    },
+    {
+      "trade": "Painting",
+      "phase": "Paint",
+      "task": "Cut in at corners, edges, and trim"
+    },
+    {
+      "trade": "Painting",
+      "phase": "Paint",
+      "task": "Roll or spray field areas for uniform coverage"
+    },
+    {
+      "trade": "Painting",
+      "phase": "Paint",
+      "task": "Apply trim paint to all doors, casings, and millwork"
+    },
+    {
+      "trade": "Painting",
+      "phase": "Final",
+      "task": "Touch up all scratches, holidays, and imperfections"
+    },
+    {
+      "trade": "Painting",
+      "phase": "Final",
+      "task": "Remove all masking and dropcloths"
+    },
+    {
+      "trade": "Painting",
+      "phase": "Final",
+      "task": "Clean paint from windows, hardware, and fixtures"
+    },
+    {
+      "trade": "Painting",
+      "phase": "Final",
+      "task": "Reinstall all hardware and covers"
+    },
+    {
+      "trade": "Tile",
+      "phase": "Prep",
+      "task": "Study blueprints and examine surface to determine amount of material needed"
+    },
+    {
+      "trade": "Tile",
+      "phase": "Prep",
+      "task": "Remove any old tile, grout and adhesive using chisels and scrapers"
+    },
+    {
+      "trade": "Tile",
+      "phase": "Prep",
+      "task": "Prepare surfaces for tiling by attaching cement board or waterproof membrane"
+    },
+    {
+      "trade": "Tile",
+      "phase": "Prep",
+      "task": "Level substrate and allow to dry"
+    },
+    {
+      "trade": "Tile",
+      "phase": "Prep",
+      "task": "Waterproof shower/tub areas with approved membrane system"
+    },
+    {
+      "trade": "Tile",
+      "phase": "Layout",
+      "task": "Measure and mark surfaces to be tiled, following blueprints"
+    },
+    {
+      "trade": "Tile",
+      "phase": "Layout",
+      "task": "Determine and implement the best layout to achieve desired pattern"
+    },
+    {
+      "trade": "Tile",
+      "phase": "Layout",
+      "task": "Establish level lines and reference points"
+    },
+    {
+      "trade": "Tile",
+      "phase": "Layout",
+      "task": "Dry-fit tile to verify layout before setting"
+    },
+    {
+      "trade": "Tile",
+      "phase": "Set",
+      "task": "Mix, apply, and spread thinset mortar or adhesive using trowels"
+    },
+    {
+      "trade": "Tile",
+      "phase": "Set",
+      "task": "Apply mortar to tile back, position tile, and press into place"
+    },
+    {
+      "trade": "Tile",
+      "phase": "Set",
+      "task": "Align and straighten tile using levels, squares, and straightedges"
+    },
+    {
+      "trade": "Tile",
+      "phase": "Set",
+      "task": "Cut and shape tile to fit around obstacles using hand and power cutting tools"
+    },
+    {
+      "trade": "Tile",
+      "phase": "Set",
+      "task": "Install tile edge trim and transitions"
+    },
+    {
+      "trade": "Tile",
+      "phase": "Set",
+      "task": "Allow tile to set before grouting (24 hours typical)"
+    },
+    {
+      "trade": "Tile",
+      "phase": "Grout",
+      "task": "Mix grout per manufacturer instructions"
+    },
+    {
+      "trade": "Tile",
+      "phase": "Grout",
+      "task": "Apply grout to joints using rubber float"
+    },
+    {
+      "trade": "Tile",
+      "phase": "Grout",
+      "task": "Finish and dress the joints and wipe excess grout using damp sponge"
+    },
+    {
+      "trade": "Tile",
+      "phase": "Grout",
+      "task": "Apply sealer to make grout stain and water resistant"
+    },
+    {
+      "trade": "Tile",
+      "phase": "Grout",
+      "task": "Caulk all change-of-plane joints with color-matched silicone"
+    },
+    {
+      "trade": "Insulation",
+      "phase": "Batt Insulation",
+      "task": "Read blueprints and select appropriate insulation based on R-value requirements"
+    },
+    {
+      "trade": "Insulation",
+      "phase": "Batt Insulation",
+      "task": "Measure and cut insulation for covering surfaces"
+    },
+    {
+      "trade": "Insulation",
+      "phase": "Batt Insulation",
+      "task": "Fit, wrap, staple, or glue insulating materials to structures using hand tools"
+    },
+    {
+      "trade": "Insulation",
+      "phase": "Batt Insulation",
+      "task": "Install faced batt insulation in exterior walls with vapor barrier facing conditioned space"
+    },
+    {
+      "trade": "Insulation",
+      "phase": "Batt Insulation",
+      "task": "Install unfaced batt insulation in interior walls for sound attenuation"
+    },
+    {
+      "trade": "Insulation",
+      "phase": "Batt Insulation",
+      "task": "Insulate rim joists and cantilevered areas"
+    },
+    {
+      "trade": "Insulation",
+      "phase": "Blown Insulation",
+      "task": "Fill blower hoppers with insulating materials"
+    },
+    {
+      "trade": "Insulation",
+      "phase": "Blown Insulation",
+      "task": "Distribute insulating materials evenly into small spaces using blowers and hose attachments"
+    },
+    {
+      "trade": "Insulation",
+      "phase": "Blown Insulation",
+      "task": "Move controls to regulate flow of materials through nozzles"
+    },
+    {
+      "trade": "Insulation",
+      "phase": "Blown Insulation",
+      "task": "Achieve specified depth/R-value in attic spaces"
+    },
+    {
+      "trade": "Insulation",
+      "phase": "Blown Insulation",
+      "task": "Install depth markers per code requirements"
+    },
+    {
+      "trade": "Insulation",
+      "phase": "Air Sealing",
+      "task": "Seal all penetrations at top and bottom plates"
+    },
+    {
+      "trade": "Insulation",
+      "phase": "Air Sealing",
+      "task": "Seal around electrical boxes and plumbing penetrations"
+    },
+    {
+      "trade": "Insulation",
+      "phase": "Air Sealing",
+      "task": "Install foam baffles at eaves to maintain ventilation"
+    },
+    {
+      "trade": "Insulation",
+      "phase": "Air Sealing",
+      "task": "Cover, seal, or finish insulated surfaces with plastic covers or tape"
+    },
+    {
+      "trade": "Insulation",
+      "phase": "Inspection",
+      "task": "Verify insulation installation meets energy code requirements"
+    },
+    {
+      "trade": "Insulation",
+      "phase": "Inspection",
+      "task": "Provide insulation certificate with R-values"
+    },
+    {
+      "trade": "Insulation",
+      "phase": "Inspection",
+      "task": "Coordinate with energy rater for HERS inspection (if required)"
+    }
+  ],
+  "summary": {
+    "trades_generated": 6,
+    "total_scopes": 114
+  }
+}

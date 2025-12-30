@@ -1,0 +1,109 @@
+{
+  "node_counts": {
+    "layer": {
+      "Task Ontology": {
+        "trades": 31,
+        "phases": 75,
+        "tasks": 311,
+        "confidence": "MEDIUM",
+        "source": "User seed + O*NET"
+      },
+      "Trade Definitions": {
+        "total_trades": 50,
+        "naics_mapped": 50,
+        "unmapped": 0,
+        "confidence": "HIGH",
+        "source": "NAICS + Uniclass crosswalk"
+      },
+      "Schedule Ontology": {
+        "schedule_tasks": 262,
+        "with_predecessors": 223,
+        "without_predecessors": 39,
+        "inspections": 27,
+        "draws": 6,
+        "confidence": "HIGH",
+        "source": "User workflow template"
+      },
+      "Cost Model": {
+        "line_items": 93,
+        "linked_to_trade": 75,
+        "unlinked": 18,
+        "confidence": "MEDIUM",
+        "source": "User budget template"
+      },
+      "Product Rules": {
+        "products": 130,
+        "task_rules": 18,
+        "conditions": 43,
+        "constraints": 5,
+        "confidence": "LOW",
+        "source": "Generated - needs validation"
+      },
+      "Classification Crosswalk": {
+        "total_mappings": 2361,
+        "tier_1_ground_truth": 0,
+        "tier_2_high": 0,
+        "tier_3_medium": 0,
+        "tier_4_low": 2361,
+        "confidence": "VALIDATED",
+        "source": "NAICS + Uniclass + O*NET + BLS triangulation"
+      }
+    },
+    "total": 6178,
+    "by_confidence": {},
+    "gaps": [
+      "Only 81% of cost items linked to trades",
+      "Product rules need expert validation",
+      "100% of crosswalk mappings are low confidence"
+    ]
+  },
+  "assessment": {
+    "overall": "PARTIAL - needs validation",
+    "scores": {
+      "Coverage": {
+        "weight": 0.25,
+        "score": 1.0,
+        "notes": [
+          "All 5 ontology layers present",
+          "311 scope tasks defined"
+        ]
+      },
+      "Accuracy": {
+        "weight": 0.3,
+        "score": 0.0,
+        "notes": [
+          "0% of crosswalk is Tier 1-2",
+          "Product rules unvalidated (-30%)"
+        ]
+      },
+      "Completeness": {
+        "weight": 0.25,
+        "score": 0.6,
+        "notes": [
+          "3 gaps identified",
+          "Cost-to-trade links: 81%"
+        ]
+      },
+      "Usability": {
+        "weight": 0.2,
+        "score": 1.0,
+        "notes": [
+          "Schedule workflow defined",
+          "Product selection rules exist",
+          "Major trades covered"
+        ]
+      }
+    },
+    "blockers": [
+      "Product rules need expert validation before production use"
+    ],
+    "recommendations": [
+      "1. Have domain expert validate product rules",
+      "2. Address identified gaps",
+      "3. Test with real project data",
+      "4. Build validation UI for iterative refinement"
+    ],
+    "weighted_score": 0.6000000000000001
+  },
+  "date": "2024-12-30"
+}

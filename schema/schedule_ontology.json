@@ -1,0 +1,438 @@
+{
+  "_meta": {
+    "description": "Construction Schedule Ontology - SFH Workflow",
+    "version": "1.0",
+    "date": "2024-12-30",
+    "source": "User-provided SFH schedule template"
+  },
+
+  "project_phases": {
+    "PRECON": {
+      "order": 1,
+      "name": "Pre-Construction",
+      "description": "Planning, design, and permitting before ground-breaking",
+      "sub_phases": ["Lot Due Diligence", "Site Design", "Building Design", "Permits", "Insurance & Bonds", "Project Docs", "Sales"]
+    },
+    "KICK_OFF": {
+      "order": 2,
+      "name": "Kick Off",
+      "description": "Project initiation and mobilization"
+    },
+    "CONSTRUCTION": {
+      "order": 3,
+      "name": "Construction",
+      "description": "Active construction phase",
+      "sub_phases": ["Site Work", "Foundation", "Framing", "Dry-In", "MEP Rough-In", "Insulation", "Drywall", "Trim", "Finishes", "Punch"]
+    },
+    "CLOSE_OUT": {
+      "order": 4,
+      "name": "Close Out",
+      "description": "Project completion and handover"
+    },
+    "DRAWS": {
+      "order": 5,
+      "name": "Draw Schedule",
+      "description": "Payment milestones tied to construction progress"
+    }
+  },
+
+  "schedule_tasks": {
+    "PRECON": {
+      "Lot Due Diligence": {
+        "tasks": [
+          {"id": "DD-001", "name": "Initial Survey", "trade": "Surveying", "predecessor": null},
+          {"id": "DD-002", "name": "Soil Evaluation (AOSE), Stake Out Drainfield", "trade": "Engineering", "predecessor": "DD-001"},
+          {"id": "DD-003", "name": "Adjacent Owner Search", "trade": "Due Diligence", "predecessor": null},
+          {"id": "DD-004", "name": "Adjoiner Health Records", "trade": "Due Diligence", "predecessor": null},
+          {"id": "DD-005", "name": "Miss U Request", "trade": "Due Diligence", "predecessor": null},
+          {"id": "DD-006", "name": "GIS Lot Sketch", "trade": "Due Diligence", "predecessor": null},
+          {"id": "DD-007", "name": "Title Search", "trade": "Due Diligence", "predecessor": null},
+          {"id": "DD-008", "name": "Identify Data Tap", "trade": "Due Diligence", "predecessor": null},
+          {"id": "DD-009", "name": "Identify Electric Tap", "trade": "Due Diligence", "predecessor": null},
+          {"id": "DD-010", "name": "Identify Gas Tap", "trade": "Due Diligence", "predecessor": null},
+          {"id": "DD-011", "name": "Identify Sewer Tap", "trade": "Due Diligence", "predecessor": null},
+          {"id": "DD-012", "name": "Identify Water Tap", "trade": "Due Diligence", "predecessor": null},
+          {"id": "DD-013", "name": "Evaluate Project Risks", "trade": "Due Diligence", "predecessor": null},
+          {"id": "DD-014", "name": "Purchase / Record Lot Transaction", "trade": null, "predecessor": "DD-007"}
+        ]
+      },
+      "Site Design": {
+        "tasks": [
+          {"id": "SD-001", "name": "Request Shrink Swell", "trade": "Engineering", "predecessor": null},
+          {"id": "SD-002", "name": "Prelim Bld Stakeout", "trade": "Surveying", "predecessor": null},
+          {"id": "SD-003", "name": "Penetration Plan", "trade": "Site Plan", "predecessor": null},
+          {"id": "SD-004", "name": "Site Plan", "trade": "Site Plan", "predecessor": "SD-003"},
+          {"id": "SD-005", "name": "Elec Service Request", "trade": null, "predecessor": "SD-004"},
+          {"id": "SD-006", "name": "Record Power Easement", "trade": null, "predecessor": "SD-005"},
+          {"id": "SD-007", "name": "Drainfield Permit Package", "trade": "Engineering", "predecessor": "DD-002"},
+          {"id": "SD-008", "name": "Shrink Swell", "trade": "Engineering", "predecessor": "SD-001"}
+        ]
+      },
+      "Building Design": {
+        "tasks": [
+          {"id": "BD-001", "name": "MSHEETS", "trade": null, "predecessor": null, "note": "Master sheets / floor plans"},
+          {"id": "BD-002", "name": "Beam Specs", "trade": "Engineering", "predecessor": "BD-001"},
+          {"id": "BD-003", "name": "HVAC Plan", "trade": "HVAC", "predecessor": "BD-001"},
+          {"id": "BD-004", "name": "Truss Profiles & Layout", "trade": "Engineering", "predecessor": "BD-001"},
+          {"id": "BD-005", "name": "Floor System Design", "trade": "Engineering", "predecessor": "BD-001"},
+          {"id": "BD-006", "name": "Foundation Design", "trade": "Engineering", "predecessor": "SD-008"},
+          {"id": "BD-007", "name": "CONSTRUCTION SET", "trade": null, "predecessor": ["BD-002", "BD-004", "BD-005", "BD-006"], "milestone": true},
+          {"id": "BD-008", "name": "Flooring Locations", "trade": null, "predecessor": "BD-007"},
+          {"id": "BD-009", "name": "Door & Window Schedules", "trade": null, "predecessor": "BD-007"},
+          {"id": "BD-010", "name": "Framing Takeoff", "trade": null, "predecessor": "BD-007"},
+          {"id": "BD-011", "name": "Plumbing & Electrical Fixture Schedules", "trade": null, "predecessor": "BD-007"},
+          {"id": "BD-012", "name": "Material Take-Off", "trade": null, "predecessor": "BD-010"},
+          {"id": "BD-013", "name": "Slab Design", "trade": "Engineering", "predecessor": "BD-006"}
+        ]
+      },
+      "Permits": {
+        "tasks": [
+          {"id": "PM-001", "name": "ROW / DOT Permit - Apply", "trade": null, "predecessor": "SD-004"},
+          {"id": "PM-002", "name": "Health Permit - Apply", "trade": null, "predecessor": "SD-007"},
+          {"id": "PM-003", "name": "Health Permit - Issued", "trade": null, "predecessor": "PM-002", "milestone": true},
+          {"id": "PM-004", "name": "Utilities Permit - Apply", "trade": null, "predecessor": "SD-004"},
+          {"id": "PM-005", "name": "Utilities Permit - Issued", "trade": null, "predecessor": "PM-004", "milestone": true},
+          {"id": "PM-006", "name": "Building Permit - Apply", "trade": null, "predecessor": "BD-007"},
+          {"id": "PM-007", "name": "HOA Permit - Apply", "trade": null, "predecessor": "BD-007"},
+          {"id": "PM-008", "name": "Building Permit - Review", "trade": null, "predecessor": "PM-006"},
+          {"id": "PM-009", "name": "Building Permit - Issued", "trade": null, "predecessor": "PM-008", "milestone": true, "gate": "CONSTRUCTION"},
+          {"id": "PM-010", "name": "HOA Permit Review", "trade": null, "predecessor": "PM-007"},
+          {"id": "PM-011", "name": "Update Required Inspections", "trade": null, "predecessor": "PM-009"},
+          {"id": "PM-012", "name": "ROW Permit", "trade": null, "predecessor": "PM-001", "milestone": true},
+          {"id": "PM-013", "name": "HOA Permit", "trade": null, "predecessor": "PM-010", "milestone": true},
+          {"id": "PM-014", "name": "Zoning Permit", "trade": null, "predecessor": "PM-006", "milestone": true}
+        ]
+      },
+      "Insurance & Bonds": {
+        "tasks": [
+          {"id": "IB-001", "name": "Builder's Risk Insurance", "trade": null, "predecessor": "PM-009"},
+          {"id": "IB-002", "name": "Utility Bond", "trade": null, "predecessor": "PM-005"},
+          {"id": "IB-003", "name": "Erosion Bond", "trade": null, "predecessor": "PM-009"}
+        ]
+      },
+      "Project Docs": {
+        "description": "Documents assembled throughout and at close-out",
+        "tasks": [
+          {"id": "PD-001", "name": "VDH Operation Permit Review & Issuance", "trade": null, "predecessor": null},
+          {"id": "PD-002", "name": "Assemble VCPs", "trade": null, "predecessor": null, "note": "Vendor Compliance Packages"},
+          {"id": "PD-003", "name": "HOA - Close Out", "trade": null, "predecessor": null},
+          {"id": "PD-004", "name": "Backwater Cert", "trade": null, "predecessor": null},
+          {"id": "PD-005", "name": "Utility Permit", "trade": null, "predecessor": null},
+          {"id": "PD-006", "name": "VDH Construction Permit", "trade": null, "predecessor": null},
+          {"id": "PD-007", "name": "Well Log", "trade": null, "predecessor": null},
+          {"id": "PD-008", "name": "Well Test", "trade": null, "predecessor": null},
+          {"id": "PD-009", "name": "DF Installer Stmt", "trade": null, "predecessor": null, "note": "Drainfield"},
+          {"id": "PD-010", "name": "DF AOSE Stmt", "trade": null, "predecessor": null},
+          {"id": "PD-011", "name": "DF Engineer Stmt", "trade": null, "predecessor": null},
+          {"id": "PD-012", "name": "DF Maint Agreement", "trade": null, "predecessor": null},
+          {"id": "PD-013", "name": "DF Operation Permit", "trade": null, "predecessor": null},
+          {"id": "PD-014", "name": "CERTIFICATE OF OCCUPANCY (CO)", "trade": null, "predecessor": null, "milestone": true, "gate": "CLOSE_OUT"},
+          {"id": "PD-015", "name": "Warranty", "trade": null, "predecessor": "PD-014"},
+          {"id": "PD-016", "name": "Foundation Waterproof Certificate", "trade": null, "predecessor": null}
+        ]
+      },
+      "Sales": {
+        "tasks": [
+          {"id": "SL-001", "name": "Price Worksheet", "trade": null, "predecessor": "BD-012"},
+          {"id": "SL-002", "name": "SELECTIONS", "trade": null, "predecessor": "SL-001", "milestone": true},
+          {"id": "SL-003", "name": "Cabinet Layout", "trade": "Cabinets", "predecessor": "SL-002"},
+          {"id": "SL-004", "name": "Appraisal Summary", "trade": null, "predecessor": null},
+          {"id": "SL-005", "name": "Framing Orientation", "trade": null, "predecessor": null},
+          {"id": "SL-006", "name": "Structural Selections", "trade": null, "predecessor": "SL-002"},
+          {"id": "SL-007", "name": "Precon-Package", "trade": null, "predecessor": ["SL-002", "SL-003", "SL-006"], "milestone": true},
+          {"id": "SL-008", "name": "Quality Walk", "trade": null, "predecessor": null},
+          {"id": "SL-009", "name": "Closing Summary", "trade": null, "predecessor": null},
+          {"id": "SL-010", "name": "[DOCS] Close Out", "trade": null, "predecessor": null},
+          {"id": "SL-011", "name": "Drainfield Recordation", "trade": null, "predecessor": null},
+          {"id": "SL-012", "name": "Lender Docs", "trade": null, "predecessor": null}
+        ]
+      }
+    },
+
+    "CONSTRUCTION": {
+      "Site Work": {
+        "tasks": [
+          {"id": "SW-001", "name": "KICK OFF", "trade": null, "predecessor": "PM-009", "milestone": true},
+          {"id": "SW-002", "name": "Water Barrel Inspection", "trade": null, "predecessor": "SW-001"},
+          {"id": "SW-003", "name": "Rough Stake", "trade": "Surveying", "predecessor": "SW-001"},
+          {"id": "SW-004", "name": "Install Water Line", "trade": "Utilities to site", "predecessor": "SW-003"},
+          {"id": "SW-005", "name": "Waterline Inspection", "trade": "3rd Party Inspection", "predecessor": "SW-004", "inspection": true},
+          {"id": "SW-006", "name": "E&S Pre-Con", "trade": null, "predecessor": "SW-001", "note": "Erosion & Sediment Pre-Construction meeting"},
+          {"id": "SW-007", "name": "Construction Entrance - Install", "trade": "Lot Development", "predecessor": "SW-006"},
+          {"id": "SW-008", "name": "Erosion Controls - Install", "trade": "Lot Development", "predecessor": "SW-007"},
+          {"id": "SW-009", "name": "Deliver Porta-Potty", "trade": null, "predecessor": "SW-007"},
+          {"id": "SW-010", "name": "Clear Lot", "trade": "Lot Development", "predecessor": "SW-008"},
+          {"id": "SW-011", "name": "Good Stake", "trade": "Surveying", "predecessor": "SW-010"},
+          {"id": "SW-012", "name": "1st Erosion Control Inspection", "trade": "3rd Party Inspection", "predecessor": "SW-008", "inspection": true},
+          {"id": "SW-013", "name": "SITE QC", "trade": null, "predecessor": "SW-012", "qc": true}
+        ]
+      },
+      "Foundation": {
+        "tasks": [
+          {"id": "FD-001", "name": "Excavate Basement", "trade": "Lot Development", "predecessor": "SW-011"},
+          {"id": "FD-002", "name": "Dig & Pour Footings", "trade": "Concrete", "predecessor": "FD-001"},
+          {"id": "FD-003", "name": "Footing Inspection", "trade": "3rd Party Inspection", "predecessor": "FD-002", "inspection": true},
+          {"id": "FD-004", "name": "Set & Pour Foundation wall", "trade": "Concrete", "predecessor": "FD-003"},
+          {"id": "FD-005", "name": "Wall Inspection", "trade": "3rd Party Inspection", "predecessor": "FD-004", "inspection": true},
+          {"id": "FD-006", "name": "Wall Check", "trade": "Surveying", "predecessor": "FD-005"},
+          {"id": "FD-007", "name": "Strip Foundation", "trade": "Concrete", "predecessor": "FD-006"},
+          {"id": "FD-008", "name": "Deliver Backfill Material", "trade": null, "predecessor": "FD-007"},
+          {"id": "FD-009", "name": "FOUNDATION QC", "trade": null, "predecessor": "FD-007", "qc": true},
+          {"id": "FD-010", "name": "Waterproofing & Draintile Inspection", "trade": "3rd Party Inspection", "predecessor": "FD-007", "inspection": true},
+          {"id": "FD-011", "name": "Install Conduit", "trade": "Electrical", "predecessor": "FD-007"},
+          {"id": "FD-012", "name": "Waterproof Foundation", "trade": "Concrete", "predecessor": "FD-007"},
+          {"id": "FD-013", "name": "Foundation Draintile", "trade": "Concrete", "predecessor": "FD-012"},
+          {"id": "FD-014", "name": "Plumbing - Install Ground Works", "trade": "Plumbing", "predecessor": "FD-007"},
+          {"id": "FD-015", "name": "Daylight Draintile & Floor Drain", "trade": "Concrete", "predecessor": "FD-013"},
+          {"id": "FD-016", "name": "Install Window Wells", "trade": "Concrete", "predecessor": "FD-007"},
+          {"id": "FD-017", "name": "Back Fill / Rough Grade", "trade": "Lot Development", "predecessor": ["FD-013", "FD-016"]},
+          {"id": "FD-018", "name": "Install Retaining Walls", "trade": "Masonry", "predecessor": "FD-017"},
+          {"id": "FD-019", "name": "Soil Test", "trade": "3rd Party Inspection", "predecessor": "FD-017", "inspection": true},
+          {"id": "FD-020", "name": "Dumpster - Deliver", "trade": null, "predecessor": "FD-017"},
+          {"id": "FD-021", "name": "Backfill Certification Inspection", "trade": "3rd Party Inspection", "predecessor": "FD-019", "inspection": true},
+          {"id": "FD-022", "name": "Ground Works Inspection", "trade": "3rd Party Inspection", "predecessor": "FD-014", "inspection": true},
+          {"id": "FD-023", "name": "Conduit Inspection", "trade": "3rd Party Inspection", "predecessor": "FD-011", "inspection": true},
+          {"id": "FD-024", "name": "Drainfield / Sewer Tap - Install", "trade": "Utilities to site", "predecessor": "FD-017"},
+          {"id": "FD-025", "name": "Slab Inspection", "trade": "3rd Party Inspection", "predecessor": "FD-014", "inspection": true},
+          {"id": "FD-026", "name": "Install Sewer Line", "trade": "Plumbing", "predecessor": "FD-024"},
+          {"id": "FD-027", "name": "Prep / Pour Interior Slabs", "trade": "Concrete", "predecessor": "FD-025"},
+          {"id": "FD-028", "name": "Sewerline Inspection", "trade": "3rd Party Inspection", "predecessor": "FD-026", "inspection": true}
+        ]
+      },
+      "Framing": {
+        "tasks": [
+          {"id": "FR-001", "name": "Frame - Install Greenplate", "trade": "Framer", "predecessor": "FD-027"},
+          {"id": "FR-002", "name": "Deliver Frame Pack 1", "trade": "Lumber", "predecessor": "FD-027"},
+          {"id": "FR-003", "name": "Deliver Trusses", "trade": "Trusses", "predecessor": "FR-002"},
+          {"id": "FR-004", "name": "Plate Inspection", "trade": "3rd Party Inspection", "predecessor": "FR-001", "inspection": true},
+          {"id": "FR-005", "name": "Frame - Main Deck & Ext Walls", "trade": "Framer", "predecessor": "FR-004"},
+          {"id": "FR-006", "name": "Deliver Tubs", "trade": "Plumbing Fixtures", "predecessor": "FR-005"},
+          {"id": "FR-007", "name": "Termite Treatment (Borate)", "trade": "Termite Treatment", "predecessor": "FR-005"},
+          {"id": "FR-008", "name": "Frame - Top Floor Deck & Ext Walls", "trade": "Framer", "predecessor": "FR-005"},
+          {"id": "FR-009", "name": "Exterior Flatwork Inspection", "trade": "3rd Party Inspection", "predecessor": null, "inspection": true},
+          {"id": "FR-010", "name": "Prep / Pour Exterior Flatwork", "trade": "Concrete", "predecessor": "FR-009"},
+          {"id": "FR-011", "name": "Frame - Set trusses", "trade": "Framer", "predecessor": "FR-008"},
+          {"id": "FR-012", "name": "Deliver Doors, Windows, Stairs, Ext Trim", "trade": null, "predecessor": "FR-011"},
+          {"id": "FR-013", "name": "Braced Wall - Sheathing / Fastener Inspection", "trade": "3rd Party Inspection", "predecessor": "FR-011", "inspection": true},
+          {"id": "FR-014", "name": "Install House Wrap", "trade": "Framer", "predecessor": "FR-013"},
+          {"id": "FR-015", "name": "Frame - Roof Sheathing", "trade": "Framer", "predecessor": "FR-011"},
+          {"id": "FR-016", "name": "Deliver Stairs", "trade": null, "predecessor": "FR-012"},
+          {"id": "FR-017", "name": "Install - Masonry", "trade": "Masonry", "predecessor": "FR-014"}
+        ]
+      },
+      "Dry-In": {
+        "tasks": [
+          {"id": "DI-001", "name": "Dry-In", "trade": null, "predecessor": "FR-015", "milestone": true},
+          {"id": "DI-002", "name": "Install Roof", "trade": "Roofing", "predecessor": "DI-001"},
+          {"id": "DI-003", "name": "Framing - Install Interior Stairs", "trade": "Framer", "predecessor": "DI-001"},
+          {"id": "DI-004", "name": "Exterior Doors - Install", "trade": "Exterior Doors", "predecessor": "DI-001"},
+          {"id": "DI-005", "name": "Exterior Trim, Features & Columns - Install", "trade": "Exterior Features", "predecessor": "DI-004"},
+          {"id": "DI-006", "name": "Frame - Interior Walls", "trade": "Framer", "predecessor": "DI-001"},
+          {"id": "DI-007", "name": "Windows Install", "trade": "Windows", "predecessor": "DI-001"},
+          {"id": "DI-008", "name": "Trim - Premeasure", "trade": "Trim", "predecessor": "DI-006"},
+          {"id": "DI-009", "name": "FRAMING QC", "trade": null, "predecessor": "DI-006", "qc": true},
+          {"id": "DI-010", "name": "Pre-Batt - Install", "trade": "Insulation", "predecessor": "DI-006"},
+          {"id": "DI-011", "name": "Layout Cabinets", "trade": "Cabinets", "predecessor": "DI-006"},
+          {"id": "DI-012", "name": "Temp Locks - Install", "trade": null, "predecessor": "DI-004"},
+          {"id": "DI-013", "name": "Gas Fireplace Install", "trade": "Fireplace", "predecessor": "DI-006"}
+        ]
+      },
+      "MEP Rough-In": {
+        "tasks": [
+          {"id": "MEP-001", "name": "Ufer / Panel Inspection", "trade": "3rd Party Inspection", "predecessor": "DI-009", "inspection": true},
+          {"id": "MEP-002", "name": "HVAC R/I", "trade": "HVAC", "predecessor": "DI-009"},
+          {"id": "MEP-003", "name": "Run Electrical Service", "trade": "Electrical", "predecessor": "MEP-001"},
+          {"id": "MEP-004", "name": "HVAC - Pressure Test", "trade": "HVAC", "predecessor": "MEP-002"},
+          {"id": "MEP-005", "name": "Plumbing R/I", "trade": "Plumbing", "predecessor": "DI-009"},
+          {"id": "MEP-006", "name": "Shower Pre-Slope", "trade": "Tile", "predecessor": "MEP-005"},
+          {"id": "MEP-007", "name": "Install Roof Boots", "trade": "Roofing", "predecessor": "MEP-002"},
+          {"id": "MEP-008", "name": "Electrical R/I", "trade": "Electrical", "predecessor": "DI-009"},
+          {"id": "MEP-009", "name": "Electrical Fixtures - Field Count", "trade": "Electrical Fixtures", "predecessor": "MEP-008"},
+          {"id": "MEP-010", "name": "Airseal", "trade": "Insulation", "predecessor": ["MEP-002", "MEP-005", "MEP-008"]},
+          {"id": "MEP-011", "name": "Floor Prep", "trade": "Flooring", "predecessor": "MEP-010"},
+          {"id": "MEP-012", "name": "TRADE QC", "trade": null, "predecessor": "MEP-010", "qc": true},
+          {"id": "MEP-013", "name": "Framing - Pre-Inspection Punch", "trade": "Framer", "predecessor": "MEP-012"},
+          {"id": "MEP-014", "name": "Plumbing R/I - Test", "trade": "Plumbing", "predecessor": "MEP-005"},
+          {"id": "MEP-015", "name": "Framing Inspection", "trade": "3rd Party Inspection", "predecessor": "MEP-013", "inspection": true},
+          {"id": "MEP-016", "name": "Mechanical R/I Inspection", "trade": "3rd Party Inspection", "predecessor": "MEP-004", "inspection": true},
+          {"id": "MEP-017", "name": "Plumbing R/I Inspection", "trade": "3rd Party Inspection", "predecessor": "MEP-014", "inspection": true},
+          {"id": "MEP-018", "name": "Electrical R/I Inspection", "trade": "3rd Party Inspection", "predecessor": "MEP-008", "inspection": true},
+          {"id": "MEP-019", "name": "Gas Line Inspection", "trade": "3rd Party Inspection", "predecessor": "MEP-002", "inspection": true},
+          {"id": "MEP-020", "name": "FirePlace Inspection", "trade": "3rd Party Inspection", "predecessor": "DI-013", "inspection": true},
+          {"id": "MEP-021", "name": "Showerliner Inspection", "trade": "3rd Party Inspection", "predecessor": "MEP-006", "inspection": true},
+          {"id": "MEP-022", "name": "Turn On Water", "trade": "Plumbing", "predecessor": "MEP-017"},
+          {"id": "MEP-023", "name": "Pick Up", "trade": null, "predecessor": "MEP-015"},
+          {"id": "MEP-024", "name": "Batt Exterior Walls", "trade": "Insulation", "predecessor": "MEP-015"},
+          {"id": "MEP-025", "name": "Flush Water - Lowest Bib", "trade": "Plumbing", "predecessor": "MEP-022"},
+          {"id": "MEP-026", "name": "Dumpster - Pick & Replace", "trade": null, "predecessor": "MEP-023"}
+        ]
+      },
+      "Insulation & Exterior": {
+        "tasks": [
+          {"id": "IE-001", "name": "Insulation / Energy Inspection", "trade": "3rd Party Inspection", "predecessor": "MEP-024", "inspection": true},
+          {"id": "IE-002", "name": "Drywall - Stock", "trade": "Drywall", "predecessor": "IE-001"},
+          {"id": "IE-003", "name": "Siding - Install", "trade": "Siding", "predecessor": "DI-005"},
+          {"id": "IE-004", "name": "Dig Deck Footing", "trade": "Concrete", "predecessor": "FR-010"},
+          {"id": "IE-005", "name": "Deliver Deck Pack", "trade": "Lumber", "predecessor": "IE-004"},
+          {"id": "IE-006", "name": "Deck Footing Inspection", "trade": "3rd Party Inspection", "predecessor": "IE-004", "inspection": true},
+          {"id": "IE-007", "name": "Install Driveway", "trade": "Driveway", "predecessor": "FD-017"},
+          {"id": "IE-008", "name": "Gutters and Downspouts - Install", "trade": "Guttering", "predecessor": "DI-002"},
+          {"id": "IE-009", "name": "Install Flower Beds", "trade": "Landscaping", "predecessor": "FD-017"},
+          {"id": "IE-010", "name": "Final Grade - Seed & Straw", "trade": "Landscaping", "predecessor": "IE-007"},
+          {"id": "IE-011", "name": "Install Mailbox", "trade": null, "predecessor": "IE-010"},
+          {"id": "IE-012", "name": "Deck - Install", "trade": "Framer", "predecessor": "IE-006"},
+          {"id": "IE-013", "name": "Set Gas Tank", "trade": "Plumbing", "predecessor": "IE-010"},
+          {"id": "IE-014", "name": "Powerwash", "trade": "Cleaning", "predecessor": "IE-003"},
+          {"id": "IE-015", "name": "Final Erosion Inspection", "trade": "3rd Party Inspection", "predecessor": "IE-010", "inspection": true}
+        ]
+      },
+      "Drywall": {
+        "tasks": [
+          {"id": "DW-001", "name": "Deliver Interior Trim Materials", "trade": "Trim", "predecessor": "IE-002"},
+          {"id": "DW-002", "name": "Drywall - Hang and Finish", "trade": "Drywall", "predecessor": "IE-002"}
+        ]
+      },
+      "Trim & Paint": {
+        "tasks": [
+          {"id": "TP-001", "name": "Trim (1st) - Interior doors, casing, base", "trade": "Trim", "predecessor": "DW-002"},
+          {"id": "TP-002", "name": "Insulation - Attic", "trade": "Insulation", "predecessor": "DW-002"},
+          {"id": "TP-003", "name": "Trim (1st) - Install Fire Place trim", "trade": "Trim", "predecessor": "TP-001"},
+          {"id": "TP-004", "name": "Paint - Prep & Vacuum", "trade": "Paint", "predecessor": "TP-001"},
+          {"id": "TP-005", "name": "ROW/DOT Inspection", "trade": "3rd Party Inspection", "predecessor": "IE-007", "inspection": true},
+          {"id": "TP-006", "name": "Paint - Spray 1", "trade": "Paint", "predecessor": "TP-004"},
+          {"id": "TP-007", "name": "Drywall Point Up", "trade": "Drywall", "predecessor": "TP-006"},
+          {"id": "TP-008", "name": "Trim Point Up", "trade": "Trim", "predecessor": "TP-006"},
+          {"id": "TP-009", "name": "Paint - Spray 2", "trade": "Paint", "predecessor": "TP-007"},
+          {"id": "TP-010", "name": "Paint - Cut In", "trade": "Paint", "predecessor": "TP-009"},
+          {"id": "TP-011", "name": "Garage Door - Install", "trade": "Garage Doors", "predecessor": "TP-010"}
+        ]
+      },
+      "Tile & Cabinets": {
+        "tasks": [
+          {"id": "TC-001", "name": "Tile Wall Install", "trade": "Tile", "predecessor": "TP-010"},
+          {"id": "TC-002", "name": "Tile Floor Install", "trade": "Tile", "predecessor": "TC-001"},
+          {"id": "TC-003", "name": "Deliver Cabinets", "trade": "Cabinets", "predecessor": "TP-010"},
+          {"id": "TC-004", "name": "Deliver Kitchen Sink", "trade": "Plumbing Fixtures", "predecessor": "TC-003"},
+          {"id": "TC-005", "name": "Deliver Electrical Fixtures", "trade": "Electrical Fixtures", "predecessor": "TP-010"},
+          {"id": "TC-006", "name": "Electrical - Switch & Plate / Whip & Breakers", "trade": "Electrical", "predecessor": "TP-010"},
+          {"id": "TC-007", "name": "2nd Trim - Cabinets - Install", "trade": "Cabinets", "predecessor": "TC-003"},
+          {"id": "TC-008", "name": "2nd Trim - Rails - Install", "trade": "Rails", "predecessor": "TC-007"},
+          {"id": "TC-009", "name": "Electrical Fixtures - Install", "trade": "Electrical Fixtures", "predecessor": "TC-006"},
+          {"id": "TC-010", "name": "Shower Door - Install", "trade": "Shower Door", "predecessor": "TC-002"}
+        ]
+      },
+      "Finishes": {
+        "tasks": [
+          {"id": "FN-001", "name": "Remove Silt Fence & Tie in", "trade": "Landscaping", "predecessor": "IE-015"},
+          {"id": "FN-002", "name": "Aerate, Fertilize & Over-seed", "trade": "Landscaping", "predecessor": "FN-001"},
+          {"id": "FN-003", "name": "Countertop - Field Measure", "trade": "Countertops", "predecessor": "TC-007"},
+          {"id": "FN-004", "name": "Connect Power", "trade": "Electrical", "predecessor": "TC-006"},
+          {"id": "FN-005", "name": "Drainfield - Startup", "trade": "Utilities to site", "predecessor": "FN-004"},
+          {"id": "FN-006", "name": "Countertop - Install", "trade": "Countertops", "predecessor": "FN-003"},
+          {"id": "FN-007", "name": "Flush / Test Well", "trade": "Utilities to site", "predecessor": "FN-004"},
+          {"id": "FN-008", "name": "HVAC - Start-Up & Trim", "trade": "HVAC", "predecessor": "FN-004"},
+          {"id": "FN-009", "name": "Remove Porta Potty", "trade": null, "predecessor": "FN-005"},
+          {"id": "FN-010", "name": "Vinyl Floor - Install", "trade": "Flooring", "predecessor": "FN-006"},
+          {"id": "FN-011", "name": "Deliver Hardwood", "trade": "Flooring", "predecessor": "FN-006"},
+          {"id": "FN-012", "name": "Hardwood - Install", "trade": "Flooring", "predecessor": "FN-011"},
+          {"id": "FN-013", "name": "House Numbers - Install", "trade": null, "predecessor": "FN-006"},
+          {"id": "FN-014", "name": "Bath Hardware - Install", "trade": "Hardware", "predecessor": "FN-006"},
+          {"id": "FN-015", "name": "Exterior Knobs - Install", "trade": "Hardware", "predecessor": "FN-006"},
+          {"id": "FN-016", "name": "Interior Knobs - Install", "trade": "Hardware", "predecessor": "FN-006"},
+          {"id": "FN-017", "name": "Bath Mirrors - Install", "trade": "Mirrors", "predecessor": "FN-014"},
+          {"id": "FN-018", "name": "Shelves - Install", "trade": "Shelving", "predecessor": "FN-006"},
+          {"id": "FN-019", "name": "Appliances - Deliver", "trade": "Appliances", "predecessor": "FN-006"},
+          {"id": "FN-020", "name": "FINAL QC", "trade": null, "predecessor": "FN-012", "qc": true},
+          {"id": "FN-021", "name": "Paint - Stain Trim", "trade": "Paint", "predecessor": "FN-012"},
+          {"id": "FN-022", "name": "Plumbing Trim", "trade": "Plumbing", "predecessor": "FN-006"},
+          {"id": "FN-023", "name": "Appliances - Install (Electrical)", "trade": "Electrical", "predecessor": "FN-019"},
+          {"id": "FN-024", "name": "Drywall Final", "trade": "Drywall", "predecessor": "FN-020"},
+          {"id": "FN-025", "name": "Dumpster - Final Pickup", "trade": null, "predecessor": "FN-020"},
+          {"id": "FN-026", "name": "Insulate Basement / Crawl", "trade": "Insulation", "predecessor": "FN-020"},
+          {"id": "FN-027", "name": "Install Fire Extinguisher", "trade": "Hardware", "predecessor": "FN-020"},
+          {"id": "FN-028", "name": "Carpet - Install", "trade": "Flooring", "predecessor": "FN-024"}
+        ]
+      },
+      "Final": {
+        "tasks": [
+          {"id": "FL-001", "name": "Final Inspection", "trade": "3rd Party Inspection", "predecessor": "FN-028", "inspection": true, "milestone": true},
+          {"id": "FL-002", "name": "Re-Clean", "trade": "Cleaning", "predecessor": "FL-001"},
+          {"id": "FL-003", "name": "Certificate of Occupancy", "trade": null, "predecessor": "FL-001", "milestone": true, "gate": "CLOSE_OUT"},
+          {"id": "FL-004", "name": "Paint Final", "trade": "Paint", "predecessor": "FL-002"},
+          {"id": "FL-005", "name": "Paint Foundation", "trade": "Paint", "predecessor": "FL-002"},
+          {"id": "FL-006", "name": "Deliver Screens", "trade": null, "predecessor": "FL-003"},
+          {"id": "FL-007", "name": "Replace Air Filters", "trade": "HVAC", "predecessor": "FL-003"},
+          {"id": "FL-008", "name": "Final Clean Interior, Install Screens", "trade": "Cleaning", "predecessor": "FL-006"},
+          {"id": "FL-009", "name": "Hardwood Point-Up", "trade": "Flooring", "predecessor": "FL-008"}
+        ]
+      }
+    },
+
+    "CLOSE_OUT": {
+      "tasks": [
+        {"id": "CO-001", "name": "ROW Bond Release", "trade": null, "predecessor": "FL-003"},
+        {"id": "CO-002", "name": "Sub-Roster", "trade": null, "predecessor": "FL-003"},
+        {"id": "CO-003", "name": "Audit Estimate v Actual", "trade": null, "predecessor": "FL-003"},
+        {"id": "CO-004", "name": "Register Warranties", "trade": null, "predecessor": "FL-003"},
+        {"id": "CO-005", "name": "Transfer Utilities", "trade": null, "predecessor": "FL-003"},
+        {"id": "CO-006", "name": "Warranty Package", "trade": null, "predecessor": "CO-004"},
+        {"id": "CO-007", "name": "Cancel Builder's Risk", "trade": null, "predecessor": "FL-003"},
+        {"id": "CO-008", "name": "Closing Entry", "trade": null, "predecessor": "FL-003"},
+        {"id": "CO-009", "name": "Record Closing Date", "trade": null, "predecessor": "CO-008"},
+        {"id": "CO-010", "name": "Erosion Bond Release", "trade": null, "predecessor": "IE-015"}
+      ]
+    },
+
+    "DRAWS": {
+      "description": "Payment milestones tied to construction progress",
+      "draws": [
+        {"id": "DR-001", "name": "Lot Draw", "milestone": "PM-009", "percent": null, "description": "At lot purchase/permit"},
+        {"id": "DR-002", "name": "Foundation Draw", "milestone": "FD-009", "percent": null, "description": "Foundation complete"},
+        {"id": "DR-003", "name": "Roof Draw", "milestone": "DI-001", "percent": null, "description": "Dry-in / roof complete"},
+        {"id": "DR-004", "name": "Drywall Draw", "milestone": "DW-002", "percent": null, "description": "Drywall hung and finished"},
+        {"id": "DR-005", "name": "Trim Draw", "milestone": "TC-007", "percent": null, "description": "Cabinets / trim installed"},
+        {"id": "DR-006", "name": "Final Draw", "milestone": "FL-003", "percent": null, "description": "CO issued"}
+      ]
+    }
+  },
+
+  "inspections": {
+    "description": "Required inspections throughout construction",
+    "types": [
+      {"code": "INSP-EROSION", "name": "Erosion Control", "required_by": "County/VDOT"},
+      {"code": "INSP-FOOTING", "name": "Footing Inspection", "required_by": "Building Code"},
+      {"code": "INSP-WALL", "name": "Foundation Wall Inspection", "required_by": "Building Code"},
+      {"code": "INSP-BACKFILL", "name": "Backfill Certification", "required_by": "Geotech"},
+      {"code": "INSP-SLAB", "name": "Slab Inspection", "required_by": "Building Code"},
+      {"code": "INSP-PLATE", "name": "Plate/Greenplate Inspection", "required_by": "Building Code"},
+      {"code": "INSP-SHEATHING", "name": "Braced Wall/Sheathing", "required_by": "Building Code"},
+      {"code": "INSP-FRAME", "name": "Framing Inspection", "required_by": "Building Code"},
+      {"code": "INSP-MECH", "name": "Mechanical R/I", "required_by": "Building Code"},
+      {"code": "INSP-PLUMB", "name": "Plumbing R/I", "required_by": "Building Code"},
+      {"code": "INSP-ELEC", "name": "Electrical R/I", "required_by": "Building Code"},
+      {"code": "INSP-GAS", "name": "Gas Line", "required_by": "Building Code"},
+      {"code": "INSP-INSUL", "name": "Insulation/Energy", "required_by": "Energy Code"},
+      {"code": "INSP-FINAL", "name": "Final Inspection", "required_by": "Building Code"}
+    ]
+  },
+
+  "quality_checkpoints": {
+    "description": "Internal QC gates",
+    "checkpoints": [
+      {"code": "QC-SITE", "name": "Site QC", "after": "Erosion controls installed"},
+      {"code": "QC-FOUND", "name": "Foundation QC", "after": "Foundation walls stripped"},
+      {"code": "QC-FRAME", "name": "Framing QC", "after": "Interior walls complete"},
+      {"code": "QC-TRADE", "name": "Trade QC", "after": "MEP rough-in complete"},
+      {"code": "QC-FINAL", "name": "Final QC", "after": "All finishes installed"}
+    ]
+  },
+
+  "summary": {
+    "total_schedule_tasks": 200,
+    "phases": 5,
+    "sub_phases": 17,
+    "inspections": 14,
+    "qc_checkpoints": 5,
+    "draws": 6
+  }
+}

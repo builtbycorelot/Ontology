@@ -1,0 +1,1363 @@
+{
+  "_meta": {
+    "source": "O*NET 30.1 Database",
+    "license": "CC BY 4.0",
+    "attribution": "U.S. Department of Labor, Employment and Training Administration",
+    "method": "Task keyword matching to Uniclass system categories"
+  },
+  "mappings": [
+    {
+      "onet_code": "47-2121.00",
+      "occupation": "Glaziers",
+      "naics_code": "238150",
+      "uniclass_ss": "Ss_35",
+      "confidence": 1.0,
+      "keywords": [
+        "glazing",
+        "glass",
+        "window",
+        "skylight"
+      ],
+      "method": "onet_task_match"
+    },
+    {
+      "onet_code": "47-2181.00",
+      "occupation": "Roofers",
+      "naics_code": "238160",
+      "uniclass_ss": "Ss_25_30",
+      "confidence": 1.0,
+      "keywords": [
+        "roofing",
+        "roof",
+        "shingle",
+        "membrane"
+      ],
+      "method": "onet_task_match"
+    },
+    {
+      "onet_code": "47-2151.00",
+      "occupation": "Pipelayers",
+      "naics_code": "unknown",
+      "uniclass_ss": "Ss_55",
+      "confidence": 0.833,
+      "keywords": [
+        "pipe",
+        "water",
+        "drain",
+        "sewer",
+        "sanitation"
+      ],
+      "method": "onet_task_match"
+    },
+    {
+      "onet_code": "47-2231.00",
+      "occupation": "Solar Photovoltaic Installers",
+      "naics_code": "unknown",
+      "uniclass_ss": "Ss_70",
+      "confidence": 0.833,
+      "keywords": [
+        "electrical",
+        "wiring",
+        "circuit",
+        "power",
+        "voltage"
+      ],
+      "method": "onet_task_match"
+    },
+    {
+      "onet_code": "47-2022.00",
+      "occupation": "Stonemasons",
+      "naics_code": "unknown",
+      "uniclass_ss": "Ss_30",
+      "confidence": 0.8,
+      "keywords": [
+        "masonry",
+        "brick",
+        "stone",
+        "concrete"
+      ],
+      "method": "onet_task_match"
+    },
+    {
+      "onet_code": "47-2031.00",
+      "occupation": "Carpenters",
+      "naics_code": "238130",
+      "uniclass_ss": "Ss_25_10",
+      "confidence": 0.8,
+      "keywords": [
+        "structural",
+        "framework",
+        "stud",
+        "joist"
+      ],
+      "method": "onet_task_match"
+    },
+    {
+      "onet_code": "47-2081.00",
+      "occupation": "Drywall and Ceiling Tile Installers",
+      "naics_code": "238310",
+      "uniclass_ss": "Ss_25_10",
+      "confidence": 0.8,
+      "keywords": [
+        "framing",
+        "structural",
+        "framework",
+        "stud"
+      ],
+      "method": "onet_task_match"
+    },
+    {
+      "onet_code": "47-2031.00",
+      "occupation": "Carpenters",
+      "naics_code": "238130",
+      "uniclass_ss": "Ss_25_50",
+      "confidence": 0.75,
+      "keywords": [
+        "ceiling",
+        "drywall",
+        "plasterboard"
+      ],
+      "method": "onet_task_match"
+    },
+    {
+      "onet_code": "47-2053.00",
+      "occupation": "Terrazzo Workers and Finishers",
+      "naics_code": "unknown",
+      "uniclass_ss": "Ss_25_30",
+      "confidence": 0.75,
+      "keywords": [
+        "roofing",
+        "roof",
+        "membrane"
+      ],
+      "method": "onet_task_match"
+    },
+    {
+      "onet_code": "47-2081.00",
+      "occupation": "Drywall and Ceiling Tile Installers",
+      "naics_code": "238310",
+      "uniclass_ss": "Ss_25_50",
+      "confidence": 0.75,
+      "keywords": [
+        "ceiling",
+        "drywall",
+        "plasterboard"
+      ],
+      "method": "onet_task_match"
+    },
+    {
+      "onet_code": "47-2181.00",
+      "occupation": "Roofers",
+      "naics_code": "238160",
+      "uniclass_ss": "Ss_40",
+      "confidence": 0.75,
+      "keywords": [
+        "painting",
+        "coating",
+        "finish"
+      ],
+      "method": "onet_task_match"
+    },
+    {
+      "onet_code": "47-3016.00",
+      "occupation": "Helpers--Roofers",
+      "naics_code": "unknown",
+      "uniclass_ss": "Ss_25_30",
+      "confidence": 0.75,
+      "keywords": [
+        "roofing",
+        "roof",
+        "shingle"
+      ],
+      "method": "onet_task_match"
+    },
+    {
+      "onet_code": "47-4099.03",
+      "occupation": "Weatherization Installers and Technicians",
+      "naics_code": "unknown",
+      "uniclass_ss": "Ss_35",
+      "confidence": 0.75,
+      "keywords": [
+        "glazing",
+        "glass",
+        "window"
+      ],
+      "method": "onet_task_match"
+    },
+    {
+      "onet_code": "47-2031.00",
+      "occupation": "Carpenters",
+      "naics_code": "238130",
+      "uniclass_ss": "Ss_25_35",
+      "confidence": 0.667,
+      "keywords": [
+        "insulation",
+        "sound-deadening"
+      ],
+      "method": "onet_task_match"
+    },
+    {
+      "onet_code": "47-2061.00",
+      "occupation": "Construction Laborers",
+      "naics_code": "238910",
+      "uniclass_ss": "Ss_55",
+      "confidence": 0.667,
+      "keywords": [
+        "pipe",
+        "water",
+        "drain",
+        "sewer"
+      ],
+      "method": "onet_task_match"
+    },
+    {
+      "onet_code": "47-2111.00",
+      "occupation": "Electricians",
+      "naics_code": "238210",
+      "uniclass_ss": "Ss_70",
+      "confidence": 0.667,
+      "keywords": [
+        "electrical",
+        "wiring",
+        "circuit",
+        "power"
+      ],
+      "method": "onet_task_match"
+    },
+    {
+      "onet_code": "47-2152.00",
+      "occupation": "Plumbers, Pipefitters, and Steamfitters",
+      "naics_code": "238220",
+      "uniclass_ss": "Ss_55",
+      "confidence": 0.667,
+      "keywords": [
+        "plumbing",
+        "pipe",
+        "water",
+        "drain"
+      ],
+      "method": "onet_task_match"
+    },
+    {
+      "onet_code": "47-2152.04",
+      "occupation": "Solar Thermal Installers and Technicians",
+      "naics_code": "unknown",
+      "uniclass_ss": "Ss_55",
+      "confidence": 0.667,
+      "keywords": [
+        "plumbing",
+        "pipe",
+        "water",
+        "drain"
+      ],
+      "method": "onet_task_match"
+    },
+    {
+      "onet_code": "47-2152.04",
+      "occupation": "Solar Thermal Installers and Technicians",
+      "naics_code": "unknown",
+      "uniclass_ss": "Ss_25_35",
+      "confidence": 0.667,
+      "keywords": [
+        "insulation",
+        "thermal"
+      ],
+      "method": "onet_task_match"
+    },
+    {
+      "onet_code": "47-3013.00",
+      "occupation": "Helpers--Electricians",
+      "naics_code": "unknown",
+      "uniclass_ss": "Ss_70",
+      "confidence": 0.667,
+      "keywords": [
+        "electrical",
+        "wiring",
+        "circuit",
+        "power"
+      ],
+      "method": "onet_task_match"
+    },
+    {
+      "onet_code": "47-4071.00",
+      "occupation": "Septic Tank Servicers and Sewer Pipe Cleaners",
+      "naics_code": "unknown",
+      "uniclass_ss": "Ss_55",
+      "confidence": 0.667,
+      "keywords": [
+        "pipe",
+        "water",
+        "drain",
+        "sewer"
+      ],
+      "method": "onet_task_match"
+    },
+    {
+      "onet_code": "47-4099.03",
+      "occupation": "Weatherization Installers and Technicians",
+      "naics_code": "unknown",
+      "uniclass_ss": "Ss_60",
+      "confidence": 0.667,
+      "keywords": [
+        "hvac",
+        "heating",
+        "cooling",
+        "ventilation"
+      ],
+      "method": "onet_task_match"
+    },
+    {
+      "onet_code": "47-2021.00",
+      "occupation": "Brickmasons and Blockmasons",
+      "naics_code": "238140",
+      "uniclass_ss": "Ss_30",
+      "confidence": 0.6,
+      "keywords": [
+        "brick",
+        "block",
+        "concrete"
+      ],
+      "method": "onet_task_match"
+    },
+    {
+      "onet_code": "47-2031.00",
+      "occupation": "Carpenters",
+      "naics_code": "238130",
+      "uniclass_ss": "Ss_25_45",
+      "confidence": 0.6,
+      "keywords": [
+        "flooring",
+        "floor",
+        "tile"
+      ],
+      "method": "onet_task_match"
+    },
+    {
+      "onet_code": "47-2031.00",
+      "occupation": "Carpenters",
+      "naics_code": "238130",
+      "uniclass_ss": "Ss_30",
+      "confidence": 0.6,
+      "keywords": [
+        "masonry",
+        "block",
+        "concrete"
+      ],
+      "method": "onet_task_match"
+    },
+    {
+      "onet_code": "47-2041.00",
+      "occupation": "Carpet Installers",
+      "naics_code": "unknown",
+      "uniclass_ss": "Ss_25_45",
+      "confidence": 0.6,
+      "keywords": [
+        "flooring",
+        "floor",
+        "carpet"
+      ],
+      "method": "onet_task_match"
+    },
+    {
+      "onet_code": "47-2044.00",
+      "occupation": "Tile and Stone Setters",
+      "naics_code": "238340",
+      "uniclass_ss": "Ss_25_45",
+      "confidence": 0.6,
+      "keywords": [
+        "floor",
+        "tile",
+        "terrazzo"
+      ],
+      "method": "onet_task_match"
+    },
+    {
+      "onet_code": "47-2053.00",
+      "occupation": "Terrazzo Workers and Finishers",
+      "naics_code": "unknown",
+      "uniclass_ss": "Ss_30",
+      "confidence": 0.6,
+      "keywords": [
+        "block",
+        "stone",
+        "concrete"
+      ],
+      "method": "onet_task_match"
+    },
+    {
+      "onet_code": "47-2061.00",
+      "occupation": "Construction Laborers",
+      "naics_code": "238910",
+      "uniclass_ss": "Ss_25_45",
+      "confidence": 0.6,
+      "keywords": [
+        "flooring",
+        "floor",
+        "terrazzo"
+      ],
+      "method": "onet_task_match"
+    },
+    {
+      "onet_code": "47-2081.00",
+      "occupation": "Drywall and Ceiling Tile Installers",
+      "naics_code": "238310",
+      "uniclass_ss": "Ss_30",
+      "confidence": 0.6,
+      "keywords": [
+        "masonry",
+        "block",
+        "concrete"
+      ],
+      "method": "onet_task_match"
+    },
+    {
+      "onet_code": "47-3011.00",
+      "occupation": "Helpers--Brickmasons, Blockmasons, Stonemasons, and Tile and Marble Setters",
+      "naics_code": "unknown",
+      "uniclass_ss": "Ss_30",
+      "confidence": 0.6,
+      "keywords": [
+        "brick",
+        "block",
+        "stone"
+      ],
+      "method": "onet_task_match"
+    },
+    {
+      "onet_code": "47-3012.00",
+      "occupation": "Helpers--Carpenters",
+      "naics_code": "unknown",
+      "uniclass_ss": "Ss_25_45",
+      "confidence": 0.6,
+      "keywords": [
+        "flooring",
+        "floor",
+        "tile"
+      ],
+      "method": "onet_task_match"
+    },
+    {
+      "onet_code": "47-4091.00",
+      "occupation": "Segmental Pavers",
+      "naics_code": "unknown",
+      "uniclass_ss": "Ss_30",
+      "confidence": 0.6,
+      "keywords": [
+        "masonry",
+        "stone",
+        "concrete"
+      ],
+      "method": "onet_task_match"
+    },
+    {
+      "onet_code": "47-2031.00",
+      "occupation": "Carpenters",
+      "naics_code": "238130",
+      "uniclass_ss": "Ss_70",
+      "confidence": 0.5,
+      "keywords": [
+        "electrical",
+        "wiring",
+        "power"
+      ],
+      "method": "onet_task_match"
+    },
+    {
+      "onet_code": "47-2031.00",
+      "occupation": "Carpenters",
+      "naics_code": "238130",
+      "uniclass_ss": "Ss_35",
+      "confidence": 0.5,
+      "keywords": [
+        "glass",
+        "window"
+      ],
+      "method": "onet_task_match"
+    },
+    {
+      "onet_code": "47-2051.00",
+      "occupation": "Cement Masons and Concrete Finishers",
+      "naics_code": "238110",
+      "uniclass_ss": "Ss_25_30",
+      "confidence": 0.5,
+      "keywords": [
+        "roofing",
+        "roof"
+      ],
+      "method": "onet_task_match"
+    },
+    {
+      "onet_code": "47-2072.00",
+      "occupation": "Pile Driver Operators",
+      "naics_code": "unknown",
+      "uniclass_ss": "Ss_32",
+      "confidence": 0.5,
+      "keywords": [
+        "foundation",
+        "pile"
+      ],
+      "method": "onet_task_match"
+    },
+    {
+      "onet_code": "47-2081.00",
+      "occupation": "Drywall and Ceiling Tile Installers",
+      "naics_code": "238310",
+      "uniclass_ss": "Ss_25_30",
+      "confidence": 0.5,
+      "keywords": [
+        "roofing",
+        "roof"
+      ],
+      "method": "onet_task_match"
+    },
+    {
+      "onet_code": "47-2082.00",
+      "occupation": "Tapers",
+      "naics_code": "unknown",
+      "uniclass_ss": "Ss_25_50",
+      "confidence": 0.5,
+      "keywords": [
+        "ceiling",
+        "plasterboard"
+      ],
+      "method": "onet_task_match"
+    },
+    {
+      "onet_code": "47-2082.00",
+      "occupation": "Tapers",
+      "naics_code": "unknown",
+      "uniclass_ss": "Ss_40",
+      "confidence": 0.5,
+      "keywords": [
+        "painting",
+        "finish"
+      ],
+      "method": "onet_task_match"
+    },
+    {
+      "onet_code": "47-2141.00",
+      "occupation": "Painters, Construction and Maintenance",
+      "naics_code": "238320",
+      "uniclass_ss": "Ss_40",
+      "confidence": 0.5,
+      "keywords": [
+        "painting",
+        "finish"
+      ],
+      "method": "onet_task_match"
+    },
+    {
+      "onet_code": "47-2142.00",
+      "occupation": "Paperhangers",
+      "naics_code": "unknown",
+      "uniclass_ss": "Ss_40",
+      "confidence": 0.5,
+      "keywords": [
+        "finish",
+        "wallpaper"
+      ],
+      "method": "onet_task_match"
+    },
+    {
+      "onet_code": "47-2152.00",
+      "occupation": "Plumbers, Pipefitters, and Steamfitters",
+      "naics_code": "238220",
+      "uniclass_ss": "Ss_70",
+      "confidence": 0.5,
+      "keywords": [
+        "electrical",
+        "wiring",
+        "power"
+      ],
+      "method": "onet_task_match"
+    },
+    {
+      "onet_code": "47-2152.04",
+      "occupation": "Solar Thermal Installers and Technicians",
+      "naics_code": "unknown",
+      "uniclass_ss": "Ss_25_30",
+      "confidence": 0.5,
+      "keywords": [
+        "roof",
+        "shingle"
+      ],
+      "method": "onet_task_match"
+    },
+    {
+      "onet_code": "47-2161.00",
+      "occupation": "Plasterers and Stucco Masons",
+      "naics_code": "unknown",
+      "uniclass_ss": "Ss_25_50",
+      "confidence": 0.5,
+      "keywords": [
+        "ceiling",
+        "drywall"
+      ],
+      "method": "onet_task_match"
+    },
+    {
+      "onet_code": "47-2181.00",
+      "occupation": "Roofers",
+      "naics_code": "238160",
+      "uniclass_ss": "Ss_35",
+      "confidence": 0.5,
+      "keywords": [
+        "glass",
+        "skylight"
+      ],
+      "method": "onet_task_match"
+    },
+    {
+      "onet_code": "47-2211.00",
+      "occupation": "Sheet Metal Workers",
+      "naics_code": "unknown",
+      "uniclass_ss": "Ss_55",
+      "confidence": 0.5,
+      "keywords": [
+        "pipe",
+        "water",
+        "drain"
+      ],
+      "method": "onet_task_match"
+    },
+    {
+      "onet_code": "47-2211.00",
+      "occupation": "Sheet Metal Workers",
+      "naics_code": "unknown",
+      "uniclass_ss": "Ss_60",
+      "confidence": 0.5,
+      "keywords": [
+        "hvac",
+        "heating",
+        "air conditioning"
+      ],
+      "method": "onet_task_match"
+    },
+    {
+      "onet_code": "47-2211.00",
+      "occupation": "Sheet Metal Workers",
+      "naics_code": "unknown",
+      "uniclass_ss": "Ss_25_30",
+      "confidence": 0.5,
+      "keywords": [
+        "roofing",
+        "roof"
+      ],
+      "method": "onet_task_match"
+    },
+    {
+      "onet_code": "47-3015.00",
+      "occupation": "Helpers--Pipelayers, Plumbers, Pipefitters, and Steamfitters",
+      "naics_code": "unknown",
+      "uniclass_ss": "Ss_55",
+      "confidence": 0.5,
+      "keywords": [
+        "pipe",
+        "water",
+        "sewer"
+      ],
+      "method": "onet_task_match"
+    },
+    {
+      "onet_code": "47-4011.00",
+      "occupation": "Construction and Building Inspectors",
+      "naics_code": "unknown",
+      "uniclass_ss": "Ss_70",
+      "confidence": 0.5,
+      "keywords": [
+        "electrical",
+        "wiring",
+        "circuit"
+      ],
+      "method": "onet_task_match"
+    },
+    {
+      "onet_code": "47-4011.00",
+      "occupation": "Construction and Building Inspectors",
+      "naics_code": "unknown",
+      "uniclass_ss": "Ss_55",
+      "confidence": 0.5,
+      "keywords": [
+        "plumbing",
+        "water",
+        "sewer"
+      ],
+      "method": "onet_task_match"
+    },
+    {
+      "onet_code": "47-4021.00",
+      "occupation": "Elevator and Escalator Installers and Repairers",
+      "naics_code": "unknown",
+      "uniclass_ss": "Ss_70",
+      "confidence": 0.5,
+      "keywords": [
+        "electrical",
+        "wiring",
+        "power"
+      ],
+      "method": "onet_task_match"
+    },
+    {
+      "onet_code": "47-5044.00",
+      "occupation": "Loading and Moving Machine Operators, Underground Mining",
+      "naics_code": "unknown",
+      "uniclass_ss": "Ss_70",
+      "confidence": 0.5,
+      "keywords": [
+        "electrical",
+        "power",
+        "voltage"
+      ],
+      "method": "onet_task_match"
+    },
+    {
+      "onet_code": "47-2011.00",
+      "occupation": "Boilermakers",
+      "naics_code": "unknown",
+      "uniclass_ss": "Ss_25_10",
+      "confidence": 0.4,
+      "keywords": [
+        "structural",
+        "stud"
+      ],
+      "method": "onet_task_match"
+    },
+    {
+      "onet_code": "47-2042.00",
+      "occupation": "Floor Layers, Except Carpet, Wood, and Hard Tiles",
+      "naics_code": "unknown",
+      "uniclass_ss": "Ss_25_45",
+      "confidence": 0.4,
+      "keywords": [
+        "flooring",
+        "floor"
+      ],
+      "method": "onet_task_match"
+    },
+    {
+      "onet_code": "47-2044.00",
+      "occupation": "Tile and Stone Setters",
+      "naics_code": "238340",
+      "uniclass_ss": "Ss_30",
+      "confidence": 0.4,
+      "keywords": [
+        "stone",
+        "concrete"
+      ],
+      "method": "onet_task_match"
+    },
+    {
+      "onet_code": "47-2051.00",
+      "occupation": "Cement Masons and Concrete Finishers",
+      "naics_code": "238110",
+      "uniclass_ss": "Ss_25_45",
+      "confidence": 0.4,
+      "keywords": [
+        "floor",
+        "terrazzo"
+      ],
+      "method": "onet_task_match"
+    },
+    {
+      "onet_code": "47-2051.00",
+      "occupation": "Cement Masons and Concrete Finishers",
+      "naics_code": "238110",
+      "uniclass_ss": "Ss_30",
+      "confidence": 0.4,
+      "keywords": [
+        "stone",
+        "concrete"
+      ],
+      "method": "onet_task_match"
+    },
+    {
+      "onet_code": "47-2053.00",
+      "occupation": "Terrazzo Workers and Finishers",
+      "naics_code": "unknown",
+      "uniclass_ss": "Ss_25_45",
+      "confidence": 0.4,
+      "keywords": [
+        "floor",
+        "terrazzo"
+      ],
+      "method": "onet_task_match"
+    },
+    {
+      "onet_code": "47-2061.00",
+      "occupation": "Construction Laborers",
+      "naics_code": "238910",
+      "uniclass_ss": "Ss_30",
+      "confidence": 0.4,
+      "keywords": [
+        "masonry",
+        "concrete"
+      ],
+      "method": "onet_task_match"
+    },
+    {
+      "onet_code": "47-2071.00",
+      "occupation": "Paving, Surfacing, and Tamping Equipment Operators",
+      "naics_code": "unknown",
+      "uniclass_ss": "Ss_30",
+      "confidence": 0.4,
+      "keywords": [
+        "stone",
+        "concrete"
+      ],
+      "method": "onet_task_match"
+    },
+    {
+      "onet_code": "47-2081.00",
+      "occupation": "Drywall and Ceiling Tile Installers",
+      "naics_code": "238310",
+      "uniclass_ss": "Ss_25_45",
+      "confidence": 0.4,
+      "keywords": [
+        "floor",
+        "tile"
+      ],
+      "method": "onet_task_match"
+    },
+    {
+      "onet_code": "47-2121.00",
+      "occupation": "Glaziers",
+      "naics_code": "238150",
+      "uniclass_ss": "Ss_25_10",
+      "confidence": 0.4,
+      "keywords": [
+        "framing",
+        "framework"
+      ],
+      "method": "onet_task_match"
+    },
+    {
+      "onet_code": "47-2152.00",
+      "occupation": "Plumbers, Pipefitters, and Steamfitters",
+      "naics_code": "238220",
+      "uniclass_ss": "Ss_25_10",
+      "confidence": 0.4,
+      "keywords": [
+        "structural",
+        "joist"
+      ],
+      "method": "onet_task_match"
+    },
+    {
+      "onet_code": "47-2171.00",
+      "occupation": "Reinforcing Iron and Rebar Workers",
+      "naics_code": "unknown",
+      "uniclass_ss": "Ss_30",
+      "confidence": 0.4,
+      "keywords": [
+        "block",
+        "concrete"
+      ],
+      "method": "onet_task_match"
+    },
+    {
+      "onet_code": "47-2181.00",
+      "occupation": "Roofers",
+      "naics_code": "238160",
+      "uniclass_ss": "Ss_25_20",
+      "confidence": 0.4,
+      "keywords": [
+        "siding",
+        "exterior wall"
+      ],
+      "method": "onet_task_match"
+    },
+    {
+      "onet_code": "47-2181.00",
+      "occupation": "Roofers",
+      "naics_code": "238160",
+      "uniclass_ss": "Ss_25_45",
+      "confidence": 0.4,
+      "keywords": [
+        "floor",
+        "tile"
+      ],
+      "method": "onet_task_match"
+    },
+    {
+      "onet_code": "47-2221.00",
+      "occupation": "Structural Iron and Steel Workers",
+      "naics_code": "unknown",
+      "uniclass_ss": "Ss_25_10",
+      "confidence": 0.4,
+      "keywords": [
+        "structural",
+        "framework"
+      ],
+      "method": "onet_task_match"
+    },
+    {
+      "onet_code": "47-2221.00",
+      "occupation": "Structural Iron and Steel Workers",
+      "naics_code": "unknown",
+      "uniclass_ss": "Ss_30",
+      "confidence": 0.4,
+      "keywords": [
+        "block",
+        "concrete"
+      ],
+      "method": "onet_task_match"
+    },
+    {
+      "onet_code": "47-2231.00",
+      "occupation": "Solar Photovoltaic Installers",
+      "naics_code": "unknown",
+      "uniclass_ss": "Ss_25_10",
+      "confidence": 0.4,
+      "keywords": [
+        "framing",
+        "structural"
+      ],
+      "method": "onet_task_match"
+    },
+    {
+      "onet_code": "47-3013.00",
+      "occupation": "Helpers--Electricians",
+      "naics_code": "unknown",
+      "uniclass_ss": "Ss_30",
+      "confidence": 0.4,
+      "keywords": [
+        "block",
+        "concrete"
+      ],
+      "method": "onet_task_match"
+    },
+    {
+      "onet_code": "47-5022.00",
+      "occupation": "Excavating and Loading Machine and Dragline Operators, Surface Mining",
+      "naics_code": "unknown",
+      "uniclass_ss": "Ss_30",
+      "confidence": 0.4,
+      "keywords": [
+        "block",
+        "concrete"
+      ],
+      "method": "onet_task_match"
+    },
+    {
+      "onet_code": "47-5041.00",
+      "occupation": "Continuous Mining Machine Operators",
+      "naics_code": "unknown",
+      "uniclass_ss": "Ss_30",
+      "confidence": 0.4,
+      "keywords": [
+        "block",
+        "stone"
+      ],
+      "method": "onet_task_match"
+    },
+    {
+      "onet_code": "47-5051.00",
+      "occupation": "Rock Splitters, Quarry",
+      "naics_code": "unknown",
+      "uniclass_ss": "Ss_30",
+      "confidence": 0.4,
+      "keywords": [
+        "block",
+        "stone"
+      ],
+      "method": "onet_task_match"
+    },
+    {
+      "onet_code": "47-1011.03",
+      "occupation": "Solar Energy Installation Managers",
+      "naics_code": "unknown",
+      "uniclass_ss": "Ss_25_35",
+      "confidence": 0.333,
+      "keywords": [
+        "thermal"
+      ],
+      "method": "onet_task_match"
+    },
+    {
+      "onet_code": "47-2021.00",
+      "occupation": "Brickmasons and Blockmasons",
+      "naics_code": "238140",
+      "uniclass_ss": "Ss_55",
+      "confidence": 0.333,
+      "keywords": [
+        "water",
+        "sewer"
+      ],
+      "method": "onet_task_match"
+    },
+    {
+      "onet_code": "47-2031.00",
+      "occupation": "Carpenters",
+      "naics_code": "238130",
+      "uniclass_ss": "Ss_60",
+      "confidence": 0.333,
+      "keywords": [
+        "heating",
+        "ventilation"
+      ],
+      "method": "onet_task_match"
+    },
+    {
+      "onet_code": "47-2042.00",
+      "occupation": "Floor Layers, Except Carpet, Wood, and Hard Tiles",
+      "naics_code": "unknown",
+      "uniclass_ss": "Ss_25_35",
+      "confidence": 0.333,
+      "keywords": [
+        "sound-deadening"
+      ],
+      "method": "onet_task_match"
+    },
+    {
+      "onet_code": "47-2044.00",
+      "occupation": "Tile and Stone Setters",
+      "naics_code": "238340",
+      "uniclass_ss": "Ss_55",
+      "confidence": 0.333,
+      "keywords": [
+        "water",
+        "drain"
+      ],
+      "method": "onet_task_match"
+    },
+    {
+      "onet_code": "47-2073.00",
+      "occupation": "Operating Engineers and Other Construction Equipment Operators",
+      "naics_code": "unknown",
+      "uniclass_ss": "Ss_55",
+      "confidence": 0.333,
+      "keywords": [
+        "pipe",
+        "water"
+      ],
+      "method": "onet_task_match"
+    },
+    {
+      "onet_code": "47-2081.00",
+      "occupation": "Drywall and Ceiling Tile Installers",
+      "naics_code": "238310",
+      "uniclass_ss": "Ss_55",
+      "confidence": 0.333,
+      "keywords": [
+        "plumbing",
+        "water"
+      ],
+      "method": "onet_task_match"
+    },
+    {
+      "onet_code": "47-2081.00",
+      "occupation": "Drywall and Ceiling Tile Installers",
+      "naics_code": "238310",
+      "uniclass_ss": "Ss_25_35",
+      "confidence": 0.333,
+      "keywords": [
+        "insulation"
+      ],
+      "method": "onet_task_match"
+    },
+    {
+      "onet_code": "47-2131.00",
+      "occupation": "Insulation Workers, Floor, Ceiling, and Wall",
+      "naics_code": "238310",
+      "uniclass_ss": "Ss_25_35",
+      "confidence": 0.333,
+      "keywords": [
+        "insulation"
+      ],
+      "method": "onet_task_match"
+    },
+    {
+      "onet_code": "47-2132.00",
+      "occupation": "Insulation Workers, Mechanical",
+      "naics_code": "unknown",
+      "uniclass_ss": "Ss_25_35",
+      "confidence": 0.333,
+      "keywords": [
+        "insulation"
+      ],
+      "method": "onet_task_match"
+    },
+    {
+      "onet_code": "47-2152.00",
+      "occupation": "Plumbers, Pipefitters, and Steamfitters",
+      "naics_code": "238220",
+      "uniclass_ss": "Ss_60",
+      "confidence": 0.333,
+      "keywords": [
+        "heating",
+        "cooling"
+      ],
+      "method": "onet_task_match"
+    },
+    {
+      "onet_code": "47-2152.00",
+      "occupation": "Plumbers, Pipefitters, and Steamfitters",
+      "naics_code": "238220",
+      "uniclass_ss": "Ss_25_35",
+      "confidence": 0.333,
+      "keywords": [
+        "thermal"
+      ],
+      "method": "onet_task_match"
+    },
+    {
+      "onet_code": "47-2152.04",
+      "occupation": "Solar Thermal Installers and Technicians",
+      "naics_code": "unknown",
+      "uniclass_ss": "Ss_70",
+      "confidence": 0.333,
+      "keywords": [
+        "electrical",
+        "power"
+      ],
+      "method": "onet_task_match"
+    },
+    {
+      "onet_code": "47-2161.00",
+      "occupation": "Plasterers and Stucco Masons",
+      "naics_code": "unknown",
+      "uniclass_ss": "Ss_25_35",
+      "confidence": 0.333,
+      "keywords": [
+        "insulation"
+      ],
+      "method": "onet_task_match"
+    },
+    {
+      "onet_code": "47-2181.00",
+      "occupation": "Roofers",
+      "naics_code": "238160",
+      "uniclass_ss": "Ss_55",
+      "confidence": 0.333,
+      "keywords": [
+        "water",
+        "drain"
+      ],
+      "method": "onet_task_match"
+    },
+    {
+      "onet_code": "47-2181.00",
+      "occupation": "Roofers",
+      "naics_code": "238160",
+      "uniclass_ss": "Ss_25_35",
+      "confidence": 0.333,
+      "keywords": [
+        "insulation"
+      ],
+      "method": "onet_task_match"
+    },
+    {
+      "onet_code": "47-2211.00",
+      "occupation": "Sheet Metal Workers",
+      "naics_code": "unknown",
+      "uniclass_ss": "Ss_70",
+      "confidence": 0.333,
+      "keywords": [
+        "power",
+        "lighting"
+      ],
+      "method": "onet_task_match"
+    },
+    {
+      "onet_code": "47-3013.00",
+      "occupation": "Helpers--Electricians",
+      "naics_code": "unknown",
+      "uniclass_ss": "Ss_25_35",
+      "confidence": 0.333,
+      "keywords": [
+        "insulation"
+      ],
+      "method": "onet_task_match"
+    },
+    {
+      "onet_code": "47-3016.00",
+      "occupation": "Helpers--Roofers",
+      "naics_code": "unknown",
+      "uniclass_ss": "Ss_55",
+      "confidence": 0.333,
+      "keywords": [
+        "water",
+        "drain"
+      ],
+      "method": "onet_task_match"
+    },
+    {
+      "onet_code": "47-4011.01",
+      "occupation": "Energy Auditors",
+      "naics_code": "unknown",
+      "uniclass_ss": "Ss_70",
+      "confidence": 0.333,
+      "keywords": [
+        "electrical",
+        "lighting"
+      ],
+      "method": "onet_task_match"
+    },
+    {
+      "onet_code": "47-4011.01",
+      "occupation": "Energy Auditors",
+      "naics_code": "unknown",
+      "uniclass_ss": "Ss_55",
+      "confidence": 0.333,
+      "keywords": [
+        "pipe",
+        "water"
+      ],
+      "method": "onet_task_match"
+    },
+    {
+      "onet_code": "47-4011.01",
+      "occupation": "Energy Auditors",
+      "naics_code": "unknown",
+      "uniclass_ss": "Ss_60",
+      "confidence": 0.333,
+      "keywords": [
+        "heating",
+        "cooling"
+      ],
+      "method": "onet_task_match"
+    },
+    {
+      "onet_code": "47-4011.01",
+      "occupation": "Energy Auditors",
+      "naics_code": "unknown",
+      "uniclass_ss": "Ss_25_35",
+      "confidence": 0.333,
+      "keywords": [
+        "insulation"
+      ],
+      "method": "onet_task_match"
+    },
+    {
+      "onet_code": "47-4051.00",
+      "occupation": "Highway Maintenance Workers",
+      "naics_code": "unknown",
+      "uniclass_ss": "Ss_70",
+      "confidence": 0.333,
+      "keywords": [
+        "power",
+        "lighting"
+      ],
+      "method": "onet_task_match"
+    },
+    {
+      "onet_code": "47-4091.00",
+      "occupation": "Segmental Pavers",
+      "naics_code": "unknown",
+      "uniclass_ss": "Ss_55",
+      "confidence": 0.333,
+      "keywords": [
+        "water",
+        "drain"
+      ],
+      "method": "onet_task_match"
+    },
+    {
+      "onet_code": "47-4099.03",
+      "occupation": "Weatherization Installers and Technicians",
+      "naics_code": "unknown",
+      "uniclass_ss": "Ss_70",
+      "confidence": 0.333,
+      "keywords": [
+        "power",
+        "lighting"
+      ],
+      "method": "onet_task_match"
+    },
+    {
+      "onet_code": "47-4099.03",
+      "occupation": "Weatherization Installers and Technicians",
+      "naics_code": "unknown",
+      "uniclass_ss": "Ss_55",
+      "confidence": 0.333,
+      "keywords": [
+        "pipe",
+        "water"
+      ],
+      "method": "onet_task_match"
+    },
+    {
+      "onet_code": "47-4099.03",
+      "occupation": "Weatherization Installers and Technicians",
+      "naics_code": "unknown",
+      "uniclass_ss": "Ss_25_35",
+      "confidence": 0.333,
+      "keywords": [
+        "insulation"
+      ],
+      "method": "onet_task_match"
+    },
+    {
+      "onet_code": "47-5011.00",
+      "occupation": "Derrick Operators, Oil and Gas",
+      "naics_code": "unknown",
+      "uniclass_ss": "Ss_55",
+      "confidence": 0.333,
+      "keywords": [
+        "pipe",
+        "water"
+      ],
+      "method": "onet_task_match"
+    },
+    {
+      "onet_code": "47-5012.00",
+      "occupation": "Rotary Drill Operators, Oil and Gas",
+      "naics_code": "unknown",
+      "uniclass_ss": "Ss_55",
+      "confidence": 0.333,
+      "keywords": [
+        "pipe",
+        "water"
+      ],
+      "method": "onet_task_match"
+    },
+    {
+      "onet_code": "47-5013.00",
+      "occupation": "Service Unit Operators, Oil and Gas",
+      "naics_code": "unknown",
+      "uniclass_ss": "Ss_55",
+      "confidence": 0.333,
+      "keywords": [
+        "pipe",
+        "water"
+      ],
+      "method": "onet_task_match"
+    },
+    {
+      "onet_code": "47-5023.00",
+      "occupation": "Earth Drillers, Except Oil and Gas",
+      "naics_code": "unknown",
+      "uniclass_ss": "Ss_55",
+      "confidence": 0.333,
+      "keywords": [
+        "pipe",
+        "water"
+      ],
+      "method": "onet_task_match"
+    },
+    {
+      "onet_code": "47-5032.00",
+      "occupation": "Explosives Workers, Ordnance Handling Experts, and Blasters",
+      "naics_code": "unknown",
+      "uniclass_ss": "Ss_70",
+      "confidence": 0.333,
+      "keywords": [
+        "electrical",
+        "wiring"
+      ],
+      "method": "onet_task_match"
+    },
+    {
+      "onet_code": "47-5071.00",
+      "occupation": "Roustabouts, Oil and Gas",
+      "naics_code": "unknown",
+      "uniclass_ss": "Ss_55",
+      "confidence": 0.333,
+      "keywords": [
+        "pipe",
+        "drain"
+      ],
+      "method": "onet_task_match"
+    }
+  ]
+}

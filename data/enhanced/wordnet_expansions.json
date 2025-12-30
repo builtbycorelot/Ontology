@@ -1,0 +1,251 @@
+{
+  "_meta": {
+    "source": "Manual UK/US synonyms (Wikidata research)",
+    "license": "WordNet License (BSD-like) / CC0",
+    "description": "Synonym expansion for construction terms"
+  },
+  "expansions": {
+    "siding": {
+      "synonyms": [
+        "cladding",
+        "wall cladding",
+        "external cladding",
+        "facade"
+      ],
+      "hypernyms": [
+        "exterior finish"
+      ]
+    },
+    "cladding": {
+      "synonyms": [
+        "siding",
+        "wall covering",
+        "facade"
+      ],
+      "hypernyms": [
+        "exterior finish"
+      ]
+    },
+    "drywall": {
+      "synonyms": [
+        "plasterboard",
+        "wallboard",
+        "gypsum board",
+        "sheetrock"
+      ],
+      "hypernyms": [
+        "wall material"
+      ]
+    },
+    "plasterboard": {
+      "synonyms": [
+        "drywall",
+        "wallboard",
+        "gypsum board"
+      ],
+      "hypernyms": [
+        "wall material"
+      ]
+    },
+    "lumber": {
+      "synonyms": [
+        "timber",
+        "softwood",
+        "wood",
+        "dimensional lumber"
+      ],
+      "hypernyms": [
+        "building material"
+      ]
+    },
+    "timber": {
+      "synonyms": [
+        "lumber",
+        "wood",
+        "softwood"
+      ],
+      "hypernyms": [
+        "building material"
+      ]
+    },
+    "roofing": {
+      "synonyms": [
+        "roof covering",
+        "roof system",
+        "roof membrane"
+      ],
+      "hypernyms": [
+        "building envelope"
+      ]
+    },
+    "glazing": {
+      "synonyms": [
+        "glass installation",
+        "fenestration",
+        "window work"
+      ],
+      "hypernyms": [
+        "building envelope"
+      ]
+    },
+    "masonry": {
+      "synonyms": [
+        "brickwork",
+        "stonework",
+        "blockwork"
+      ],
+      "hypernyms": [
+        "wall construction"
+      ]
+    },
+    "plumbing": {
+      "synonyms": [
+        "pipework",
+        "sanitary installation",
+        "water systems"
+      ],
+      "hypernyms": [
+        "building services"
+      ]
+    },
+    "electrical": {
+      "synonyms": [
+        "electrics",
+        "wiring",
+        "power installation"
+      ],
+      "hypernyms": [
+        "building services"
+      ]
+    },
+    "framing": {
+      "synonyms": [
+        "structural frame",
+        "studwork",
+        "timber frame"
+      ],
+      "hypernyms": [
+        "structure"
+      ]
+    },
+    "insulation": {
+      "synonyms": [
+        "thermal insulation",
+        "acoustic insulation",
+        "lagging"
+      ],
+      "hypernyms": [
+        "building material"
+      ]
+    },
+    "flooring": {
+      "synonyms": [
+        "floor covering",
+        "floor finish",
+        "floor system"
+      ],
+      "hypernyms": [
+        "interior finish"
+      ]
+    },
+    "ceiling": {
+      "synonyms": [
+        "suspended ceiling",
+        "ceiling system",
+        "soffit"
+      ],
+      "hypernyms": [
+        "interior finish"
+      ]
+    },
+    "foundation": {
+      "synonyms": [
+        "footings",
+        "substructure",
+        "base"
+      ],
+      "hypernyms": [
+        "structure"
+      ]
+    },
+    "concrete": {
+      "synonyms": [
+        "cement",
+        "reinforced concrete",
+        "cast concrete"
+      ],
+      "hypernyms": [
+        "building material"
+      ]
+    },
+    "steel": {
+      "synonyms": [
+        "structural steel",
+        "metal framing",
+        "steelwork"
+      ],
+      "hypernyms": [
+        "building material"
+      ]
+    },
+    "carpentry": {
+      "synonyms": [
+        "joinery",
+        "woodwork",
+        "timber construction"
+      ],
+      "hypernyms": [
+        "construction trade"
+      ]
+    },
+    "painting": {
+      "synonyms": [
+        "decorating",
+        "coating",
+        "finishing"
+      ],
+      "hypernyms": [
+        "interior finish"
+      ]
+    },
+    "tile": {
+      "synonyms": [
+        "tiling",
+        "ceramic tile",
+        "floor tile"
+      ],
+      "hypernyms": [
+        "floor covering"
+      ]
+    },
+    "terrazzo": {
+      "synonyms": [
+        "terrazzo flooring",
+        "aggregate flooring"
+      ],
+      "hypernyms": [
+        "floor covering"
+      ]
+    },
+    "demolition": {
+      "synonyms": [
+        "demo",
+        "deconstruction",
+        "wrecking"
+      ],
+      "hypernyms": [
+        "site work"
+      ]
+    },
+    "excavation": {
+      "synonyms": [
+        "earthwork",
+        "digging",
+        "groundwork"
+      ],
+      "hypernyms": [
+        "site work"
+      ]
+    }
+  }
+}

@@ -1,0 +1,993 @@
+{
+  "_meta": {
+    "description": "Seed scopes mapped to NAICS/Uniclass ontology",
+    "source": "User-provided scope data",
+    "confidence": "medium (seed data)",
+    "date": "2024-12-30"
+  },
+  "summary": {
+    "total_scopes": 134,
+    "trades_identified": 12,
+    "naics_mapped": 12,
+    "uniclass_ss_mapped": 12,
+    "uniclass_pr_mapped": 34,
+    "gaps_identified": []
+  },
+  "trade_mappings": [
+    {
+      "trade_name": "ALL",
+      "naics": "23",
+      "naics_name": "Construction (General Conditions)",
+      "uniclass_ss": [
+        "Ss_20",
+        "Ss_25"
+      ],
+      "phases": [
+        {
+          "name": "General",
+          "uniclass_activity": "",
+          "tasks": [
+            "Provide Submittals, MSDS, O&M Manuals, Warranty Terms & Registration",
+            "All work shall meet or exceed all applicable codes",
+            "Contractor will not install upon faulty work",
+            "Install per plans, specs and code",
+            "Maintain a safe, neat and orderly work environment at all times",
+            "Protect Deliveries from the elements",
+            "Warranty work per the Residential Construction Performance Guidelines, Fifth Edition, NAHB, 1 year following closing or occupancy",
+            "Maintain active COI with Workers Compensation & General Liability along with a W9"
+          ],
+          "products_referenced": []
+        }
+      ],
+      "task_count": 8,
+      "confidence": "high"
+    },
+    {
+      "trade_name": "Due Diligence",
+      "naics": "541310",
+      "naics_name": "Architectural Services",
+      "uniclass_ss": [
+        "Ac_05",
+        "Ac_10"
+      ],
+      "phases": [
+        {
+          "name": "General",
+          "uniclass_activity": "",
+          "tasks": [
+            "Prepare a DWG base Layer in State Plane",
+            "identify parent/sibling/adjacent parcels & encumbrances",
+            "Locate / Obtain Deeded Access",
+            "Rate the project"
+          ],
+          "products_referenced": []
+        }
+      ],
+      "task_count": 4,
+      "confidence": "high"
+    },
+    {
+      "trade_name": "Site Plan",
+      "naics": "541370",
+      "naics_name": "Surveying and Mapping Services",
+      "uniclass_ss": [
+        "Ac_05_10",
+        "Ac_10_70"
+      ],
+      "phases": [
+        {
+          "name": "Base Map",
+          "uniclass_activity": "Ac_05_10",
+          "tasks": [
+            "Obtain County / USGS topography",
+            "Show Easements / recorded Encumbrances"
+          ],
+          "products_referenced": []
+        },
+        {
+          "name": "Due Diligence",
+          "uniclass_activity": "Ac_05",
+          "tasks": [
+            "Field Collected Topo for all area within the LOC"
+          ],
+          "products_referenced": []
+        },
+        {
+          "name": "Lot Grading Plan",
+          "uniclass_activity": "Ac_10_70",
+          "tasks": [
+            "Data Route & Pedestals, Conduit",
+            "Electric Route & Poles / Guys / Pedestals",
+            "Floor & Foundation Drain Route",
+            "Gas tap, route & meter or tank",
+            "Provide a Signed Snappable PDF",
+            "Sewer Route, Tanks, Primary / Reserve systems",
+            "Sidewalk, Pads & Steps",
+            "VDOT Compliant Driveway",
+            "Walkouts / Window Wells",
+            "Well / Meter & Waterline Route"
+          ],
+          "products_referenced": []
+        }
+      ],
+      "task_count": 13,
+      "confidence": "high"
+    },
+    {
+      "trade_name": "Surveying",
+      "naics": "541370",
+      "naics_name": "Surveying and Mapping Services",
+      "uniclass_ss": [
+        "Ac_15_10"
+      ],
+      "phases": [
+        {
+          "name": "Good Stake",
+          "uniclass_activity": "Ac_15_10_70",
+          "tasks": [
+            "Elevation Stake",
+            "Offsets"
+          ],
+          "products_referenced": []
+        },
+        {
+          "name": "Rough Stake",
+          "uniclass_activity": "Ac_15_10_70",
+          "tasks": [
+            "Flag LOC",
+            "Stake CE centerline",
+            "Stake Drainfield",
+            "Stake Meter / Well"
+          ],
+          "products_referenced": []
+        },
+        {
+          "name": "Wall Check",
+          "uniclass_activity": "Ac_35_10",
+          "tasks": [
+            "Provide a Wall Check Survey"
+          ],
+          "products_referenced": []
+        }
+      ],
+      "task_count": 7,
+      "confidence": "high"
+    },
+    {
+      "trade_name": "Lot Development",
+      "naics": "238910",
+      "naics_name": "Site Preparation Contractors",
+      "uniclass_ss": [
+        "Ss_15",
+        "Ss_20_10"
+      ],
+      "phases": [
+        {
+          "name": "Demolition",
+          "uniclass_activity": "Ac_40_10",
+          "tasks": [
+            "Demolish the identified structure",
+            "Remove all debris from site"
+          ],
+          "products_referenced": []
+        },
+        {
+          "name": "Private Ln",
+          "uniclass_activity": "Ss_15_30",
+          "tasks": [
+            "Furnish & Install Erosion control at pipe outlets",
+            "Furnish & Install fabric",
+            "Furnish & Install fabric the entire length of the driveway",
+            "Furnish & Install Pipes",
+            "Install a minimum 150' T with a 15\" turn radius",
+            "Crown road per standard standards",
+            "Provide a 15' minimum route for utilities easement",
+            "Road must drain and crown",
+            "Road must drain within easement area",
+            "Strip & Fill",
+            "Tie-In Grade at shoulders to match road edge & slope"
+          ],
+          "products_referenced": [
+            {
+              "keyword": "erosion control",
+              "uniclass_pr": "Pr_15_57_35"
+            },
+            {
+              "keyword": "fabric",
+              "uniclass_pr": "Pr_15_57_35"
+            },
+            {
+              "keyword": "fabric",
+              "uniclass_pr": "Pr_15_57_35"
+            }
+          ]
+        },
+        {
+          "name": "Yard Maintenance",
+          "uniclass_activity": "Ss_15_10",
+          "tasks": [
+            "Clean the site remove & clean debris or grass stuck to home/foundation"
+          ],
+          "products_referenced": []
+        },
+        {
+          "name": "Clearing",
+          "uniclass_activity": "Ac_40_10_15",
+          "tasks": [
+            "Clear 20' around drainfield",
+            "Clear and remove all debris within LOC",
+            "Clear site distance at entrances",
+            "Ensure positive flow away from structures at all times",
+            "File as RLD for the project",
+            "Prepare for well truck entry",
+            "Rake debris exceeding 3/4\"",
+            "Remove damaged or fall-risk trees"
+          ],
+          "products_referenced": []
+        },
+        {
+          "name": "Construction Entrance",
+          "uniclass_activity": "Ss_15_30_10",
+          "tasks": [
+            "Ensure positive flow from entrance",
+            "Grade CE 3\" below final grade w/ temporary transition",
+            "Install construction entrance (gravel, fabric, pipe)",
+            "Install minimum 15' radius at entrance sides (PE-1)",
+            "Stockpile disturbed topsoil on site"
+          ],
+          "products_referenced": [
+            {
+              "keyword": "gravel",
+              "uniclass_pr": "Pr_15_56_50"
+            },
+            {
+              "keyword": "fabric",
+              "uniclass_pr": "Pr_15_57_35"
+            }
+          ]
+        },
+        {
+          "name": "Erosion Control",
+          "uniclass_activity": "Ss_15_95",
+          "tasks": [
+            "Furnish and Install all Erosion Controls",
+            "Pass 1st Erosion Inspection"
+          ],
+          "products_referenced": [
+            {
+              "keyword": "erosion control",
+              "uniclass_pr": "Pr_15_57_35"
+            }
+          ]
+        },
+        {
+          "name": "Basement Dig",
+          "uniclass_activity": "Ss_32_10",
+          "tasks": [
+            "Dig basement per plans with drain relief",
+            "Install Concrete Washout"
+          ],
+          "products_referenced": [
+            {
+              "keyword": "concrete",
+              "uniclass_pr": "Pr_15_13_30"
+            }
+          ]
+        },
+        {
+          "name": "Rough Grade",
+          "uniclass_activity": "Ss_15_30",
+          "tasks": [
+            "Compact fill in 8\" lifts",
+            "Ensure positive flow away from structure and prevent standing water",
+            "Grade driveway within 2/10ths",
+            "Grade yard within 2/10ths",
+            "Strip and Stockpile topsoil where grading will occur",
+            "Track in all areas upon completion",
+            "Verify Proper fill material"
+          ],
+          "products_referenced": []
+        }
+      ],
+      "task_count": 38,
+      "confidence": "high"
+    },
+    {
+      "trade_name": "Landscaping",
+      "naics": "561730",
+      "naics_name": "Landscaping Services",
+      "uniclass_ss": [
+        "Ss_15_10",
+        "EF_25"
+      ],
+      "phases": [
+        {
+          "name": "Final Yard",
+          "uniclass_activity": "Ss_15_10",
+          "tasks": [
+            "Blend new & existing grades harmoniously",
+            "Furnish & Install Check Dams (where applicable)",
+            "Furnish & install Seed, Straw, fertilizer, lime per VESCH",
+            "Grade up to 4\" achieving (6\"/10') fall from structure",
+            "Install EC-2 on any slopes greater than 25%",
+            "Provide all necessary measures for bond release",
+            "Remove silt fence on low slopes",
+            "Smoothly blend to the existing un-disturbed grade"
+          ],
+          "products_referenced": [
+            {
+              "keyword": "seed",
+              "uniclass_pr": "Pr_15_85_78"
+            },
+            {
+              "keyword": "straw",
+              "uniclass_pr": "Pr_15_85"
+            },
+            {
+              "keyword": "silt fence",
+              "uniclass_pr": "Pr_15_57_80"
+            }
+          ]
+        },
+        {
+          "name": "Landscaping",
+          "uniclass_activity": "Ss_15_10",
+          "tasks": [
+            "Furnish & Install Plants",
+            "Key fabric edges"
+          ],
+          "products_referenced": [
+            {
+              "keyword": "fabric",
+              "uniclass_pr": "Pr_15_57_35"
+            }
+          ]
+        }
+      ],
+      "task_count": 10,
+      "confidence": "high"
+    },
+    {
+      "trade_name": "Utilities to site",
+      "naics": "237110",
+      "naics_name": "Water and Sewer Line Construction",
+      "uniclass_ss": [
+        "Ss_55",
+        "Ss_65"
+      ],
+      "phases": [
+        {
+          "name": "Septic & Sewer",
+          "uniclass_activity": "Ss_65",
+          "tasks": [
+            "Furnish & Install conduit to LB at house",
+            "Install complete onsite septic system",
+            "Smooth grade, seed & straw alternative systems",
+            "Supply test water"
+          ],
+          "products_referenced": [
+            {
+              "keyword": "septic",
+              "uniclass_pr": "Pr_70_60_78"
+            },
+            {
+              "keyword": "seed",
+              "uniclass_pr": "Pr_15_85_78"
+            },
+            {
+              "keyword": "straw",
+              "uniclass_pr": "Pr_15_85"
+            }
+          ]
+        },
+        {
+          "name": "Well & Water Hookup",
+          "uniclass_activity": "Ss_55_10",
+          "tasks": [
+            "Connect water meter to house",
+            "Ensure water line goes inside basement under slab to water location",
+            "Install a water line to the meter, per code, plans, and specifications"
+          ],
+          "products_referenced": []
+        }
+      ],
+      "task_count": 7,
+      "confidence": "high"
+    },
+    {
+      "trade_name": "Concrete",
+      "naics": "238110",
+      "naics_name": "Poured Concrete Foundation and Structure Contractors",
+      "uniclass_ss": [
+        "Ss_30",
+        "Ss_32"
+      ],
+      "phases": [
+        {
+          "name": "3rd Party Inspection",
+          "uniclass_activity": "Ac_35",
+          "tasks": [
+            "File 3rd party inspections"
+          ],
+          "products_referenced": []
+        },
+        {
+          "name": "Foundation & Walls",
+          "uniclass_activity": "Ss_30",
+          "tasks": [
+            "Dig footings",
+            "F&I Sump Crock (if required)",
+            "Sleeve sewer, waterline & floor drain",
+            "Coordinate,Mark, and provide sleeve locations & ufer on wall (FD, S, W, U,)",
+            "Provide or install washout",
+            "Provide pump truck (if required)"
+          ],
+          "products_referenced": [
+            {
+              "keyword": "sump",
+              "uniclass_pr": "Pr_65_54_85"
+            }
+          ]
+        },
+        {
+          "name": "Waterproofing / Draintile",
+          "uniclass_activity": "Ss_25_60",
+          "tasks": [
+            "Daylight foundation & floor drain",
+            "Deliver 57's to the bsmt floor for plumber",
+            "F&I Waterproofing & Draintile",
+            "Install Solid Pipe Under driveways"
+          ],
+          "products_referenced": [
+            {
+              "keyword": "lumber",
+              "uniclass_pr": "Pr_20_93_98"
+            },
+            {
+              "keyword": "waterproofing",
+              "uniclass_pr": "Pr_25_93_96"
+            },
+            {
+              "keyword": "draintile",
+              "uniclass_pr": "Pr_65_52_28"
+            }
+          ]
+        },
+        {
+          "name": "Interior Flat Work",
+          "uniclass_activity": "Ss_25_45",
+          "tasks": [
+            "F&I Interior Flatwork"
+          ],
+          "products_referenced": []
+        },
+        {
+          "name": "Leadwalk & Pads",
+          "uniclass_activity": "Ss_32_50",
+          "tasks": [
+            "F&I Exterior Flatwork"
+          ],
+          "products_referenced": []
+        }
+      ],
+      "task_count": 13,
+      "confidence": "high"
+    },
+    {
+      "trade_name": "3rd Party Inspection",
+      "naics": "541350",
+      "naics_name": "Building Inspection Services",
+      "uniclass_ss": [
+        "Ac_35"
+      ],
+      "phases": [
+        {
+          "name": "3rd Party Inspection",
+          "uniclass_activity": "Ac_35",
+          "tasks": [
+            "Provide inspections"
+          ],
+          "products_referenced": []
+        }
+      ],
+      "task_count": 1,
+      "confidence": "high"
+    },
+    {
+      "trade_name": "Plumbing",
+      "naics": "238220",
+      "naics_name": "Plumbing, Heating, and Air-Conditioning Contractors",
+      "uniclass_ss": [
+        "Ss_55",
+        "Ss_60"
+      ],
+      "phases": [
+        {
+          "name": "Final",
+          "uniclass_activity": "Ac_50",
+          "tasks": [
+            "Caulk Toilets",
+            "Hook up the refrigerator",
+            "Include the Fixtures",
+            "Install water line for fridge",
+            "Place, hookup & mount the dishwasher"
+          ],
+          "products_referenced": [
+            {
+              "keyword": "toilets",
+              "uniclass_pr": "Pr_40_50_96"
+            },
+            {
+              "keyword": "refrigerator",
+              "uniclass_pr": "Pr_40_20_70"
+            },
+            {
+              "keyword": "dishwasher",
+              "uniclass_pr": "Pr_40_20_24"
+            }
+          ]
+        },
+        {
+          "name": "Gas",
+          "uniclass_activity": "Ss_60_70",
+          "tasks": [
+            "Install gas line at the tank location"
+          ],
+          "products_referenced": []
+        },
+        {
+          "name": "Groundworks",
+          "uniclass_activity": "Ss_55_10",
+          "tasks": [
+            "Run main water line under slab to exterior",
+            "Install Cleanout at grade on any pipe that goes outside",
+            "Install floor drain extending min 6' outside of house",
+            "Install Passive Radon Pipe (T under slab, through roof)"
+          ],
+          "products_referenced": [
+            {
+              "keyword": "radon",
+              "uniclass_pr": "Pr_70_75_70"
+            }
+          ]
+        },
+        {
+          "name": "Plumbing Fixtures",
+          "uniclass_activity": "Pr_40_50",
+          "tasks": [
+            "Furnish Plumbing Fixtures"
+          ],
+          "products_referenced": []
+        },
+        {
+          "name": "R/I",
+          "uniclass_activity": "Ss_55",
+          "tasks": [
+            "Furnish & Install CPVC or PEX water supply piping",
+            "Furnish & Install PVC Sanitary waste piping",
+            "Isolate hose bibs with shutoff valve"
+          ],
+          "products_referenced": []
+        }
+      ],
+      "task_count": 14,
+      "confidence": "high"
+    },
+    {
+      "trade_name": "Framer",
+      "naics": "238130",
+      "naics_name": "Framing Contractors",
+      "uniclass_ss": [
+        "Ss_25_10",
+        "Ss_25_13"
+      ],
+      "phases": [
+        {
+          "name": "General",
+          "uniclass_activity": "",
+          "tasks": [
+            "Count & Verify Quantity of Framing Deliveries",
+            "Cull any lumber that is not within reasonable tolerances",
+            "Frame box for tub (if applicable)",
+            "Furnish Nails, Staples & Steel Shims",
+            "Install Ext Doors & Windows",
+            "Install Flashing & tack on deck ledger board",
+            "Install Hardware blocking & Blocking for Cabinets",
+            "Install house wrap (Install Only)",
+            "Install Pre-fab Steps",
+            "Install PT Steps to attached garage",
+            "Install Temporary Railing (safety Rail)",
+            "Protect Materials and stack for Forklift return",
+            "Set Tubs during framing",
+            "Supply Equipment / or Crane",
+            "Install Pocket door kits"
+          ],
+          "products_referenced": [
+            {
+              "keyword": "lumber",
+              "uniclass_pr": "Pr_20_93_98"
+            },
+            {
+              "keyword": "tub",
+              "uniclass_pr": "Pr_40_50_10"
+            },
+            {
+              "keyword": "nails",
+              "uniclass_pr": "Pr_20_31_30"
+            },
+            {
+              "keyword": "doors",
+              "uniclass_pr": "Pr_25_30"
+            },
+            {
+              "keyword": "windows",
+              "uniclass_pr": "Pr_25_80"
+            },
+            {
+              "keyword": "flashing",
+              "uniclass_pr": "Pr_25_71_30"
+            },
+            {
+              "keyword": "house wrap",
+              "uniclass_pr": "Pr_25_93_50"
+            },
+            {
+              "keyword": "tub",
+              "uniclass_pr": "Pr_40_50_10"
+            }
+          ]
+        }
+      ],
+      "task_count": 15,
+      "confidence": "high"
+    },
+    {
+      "trade_name": "Roofing",
+      "naics": "238160",
+      "naics_name": "Roofing Contractors",
+      "uniclass_ss": [
+        "Ss_25_30"
+      ],
+      "phases": [
+        {
+          "name": "General",
+          "uniclass_activity": "",
+          "tasks": [
+            "Ensure that the house wrap goes over top of flashing",
+            "Install Cap'd Ridge Vent per plans and code",
+            "Return to install roof boots",
+            "Supply/install Shingles per code and per plans"
+          ],
+          "products_referenced": [
+            {
+              "keyword": "house wrap",
+              "uniclass_pr": "Pr_25_93_50"
+            },
+            {
+              "keyword": "flashing",
+              "uniclass_pr": "Pr_25_71_30"
+            },
+            {
+              "keyword": "ridge vent",
+              "uniclass_pr": "Pr_25_71_97"
+            },
+            {
+              "keyword": "shingles",
+              "uniclass_pr": "Pr_25_71_72"
+            }
+          ]
+        }
+      ],
+      "task_count": 4,
+      "confidence": "high"
+    }
+  ],
+  "product_extractions": [
+    {
+      "trade": "Lot Development",
+      "phase": "Private Ln",
+      "task": "Furnish & Install Erosion control at pipe outlets",
+      "product": {
+        "keyword": "erosion control",
+        "uniclass_pr": "Pr_15_57_35"
+      }
+    },
+    {
+      "trade": "Lot Development",
+      "phase": "Private Ln",
+      "task": "Furnish & Install fabric",
+      "product": {
+        "keyword": "fabric",
+        "uniclass_pr": "Pr_15_57_35"
+      }
+    },
+    {
+      "trade": "Lot Development",
+      "phase": "Private Ln",
+      "task": "Furnish & Install fabric the entire length of the driveway",
+      "product": {
+        "keyword": "fabric",
+        "uniclass_pr": "Pr_15_57_35"
+      }
+    },
+    {
+      "trade": "Lot Development",
+      "phase": "Construction Entrance",
+      "task": "Install construction entrance (gravel, fabric, pipe)",
+      "product": {
+        "keyword": "gravel",
+        "uniclass_pr": "Pr_15_56_50"
+      }
+    },
+    {
+      "trade": "Lot Development",
+      "phase": "Construction Entrance",
+      "task": "Install construction entrance (gravel, fabric, pipe)",
+      "product": {
+        "keyword": "fabric",
+        "uniclass_pr": "Pr_15_57_35"
+      }
+    },
+    {
+      "trade": "Lot Development",
+      "phase": "Erosion Control",
+      "task": "Furnish and Install all Erosion Controls",
+      "product": {
+        "keyword": "erosion control",
+        "uniclass_pr": "Pr_15_57_35"
+      }
+    },
+    {
+      "trade": "Lot Development",
+      "phase": "Basement Dig",
+      "task": "Install Concrete Washout",
+      "product": {
+        "keyword": "concrete",
+        "uniclass_pr": "Pr_15_13_30"
+      }
+    },
+    {
+      "trade": "Landscaping",
+      "phase": "Final Yard",
+      "task": "Furnish & install Seed, Straw, fertilizer, lime per VESCH",
+      "product": {
+        "keyword": "seed",
+        "uniclass_pr": "Pr_15_85_78"
+      }
+    },
+    {
+      "trade": "Landscaping",
+      "phase": "Final Yard",
+      "task": "Furnish & install Seed, Straw, fertilizer, lime per VESCH",
+      "product": {
+        "keyword": "straw",
+        "uniclass_pr": "Pr_15_85"
+      }
+    },
+    {
+      "trade": "Landscaping",
+      "phase": "Final Yard",
+      "task": "Remove silt fence on low slopes",
+      "product": {
+        "keyword": "silt fence",
+        "uniclass_pr": "Pr_15_57_80"
+      }
+    },
+    {
+      "trade": "Landscaping",
+      "phase": "Landscaping",
+      "task": "Key fabric edges",
+      "product": {
+        "keyword": "fabric",
+        "uniclass_pr": "Pr_15_57_35"
+      }
+    },
+    {
+      "trade": "Utilities to site",
+      "phase": "Septic & Sewer",
+      "task": "Install complete onsite septic system",
+      "product": {
+        "keyword": "septic",
+        "uniclass_pr": "Pr_70_60_78"
+      }
+    },
+    {
+      "trade": "Utilities to site",
+      "phase": "Septic & Sewer",
+      "task": "Smooth grade, seed & straw alternative systems",
+      "product": {
+        "keyword": "seed",
+        "uniclass_pr": "Pr_15_85_78"
+      }
+    },
+    {
+      "trade": "Utilities to site",
+      "phase": "Septic & Sewer",
+      "task": "Smooth grade, seed & straw alternative systems",
+      "product": {
+        "keyword": "straw",
+        "uniclass_pr": "Pr_15_85"
+      }
+    },
+    {
+      "trade": "Concrete",
+      "phase": "Foundation & Walls",
+      "task": "F&I Sump Crock (if required)",
+      "product": {
+        "keyword": "sump",
+        "uniclass_pr": "Pr_65_54_85"
+      }
+    },
+    {
+      "trade": "Concrete",
+      "phase": "Waterproofing / Draintile",
+      "task": "Deliver 57's to the bsmt floor for plumber",
+      "product": {
+        "keyword": "lumber",
+        "uniclass_pr": "Pr_20_93_98"
+      }
+    },
+    {
+      "trade": "Concrete",
+      "phase": "Waterproofing / Draintile",
+      "task": "F&I Waterproofing & Draintile",
+      "product": {
+        "keyword": "waterproofing",
+        "uniclass_pr": "Pr_25_93_96"
+      }
+    },
+    {
+      "trade": "Concrete",
+      "phase": "Waterproofing / Draintile",
+      "task": "F&I Waterproofing & Draintile",
+      "product": {
+        "keyword": "draintile",
+        "uniclass_pr": "Pr_65_52_28"
+      }
+    },
+    {
+      "trade": "Plumbing",
+      "phase": "Final",
+      "task": "Caulk Toilets",
+      "product": {
+        "keyword": "toilets",
+        "uniclass_pr": "Pr_40_50_96"
+      }
+    },
+    {
+      "trade": "Plumbing",
+      "phase": "Final",
+      "task": "Hook up the refrigerator",
+      "product": {
+        "keyword": "refrigerator",
+        "uniclass_pr": "Pr_40_20_70"
+      }
+    },
+    {
+      "trade": "Plumbing",
+      "phase": "Final",
+      "task": "Place, hookup & mount the dishwasher",
+      "product": {
+        "keyword": "dishwasher",
+        "uniclass_pr": "Pr_40_20_24"
+      }
+    },
+    {
+      "trade": "Plumbing",
+      "phase": "Groundworks",
+      "task": "Install Passive Radon Pipe (T under slab, through roof)",
+      "product": {
+        "keyword": "radon",
+        "uniclass_pr": "Pr_70_75_70"
+      }
+    },
+    {
+      "trade": "Framer",
+      "phase": "General",
+      "task": "Cull any lumber that is not within reasonable tolerances",
+      "product": {
+        "keyword": "lumber",
+        "uniclass_pr": "Pr_20_93_98"
+      }
+    },
+    {
+      "trade": "Framer",
+      "phase": "General",
+      "task": "Frame box for tub (if applicable)",
+      "product": {
+        "keyword": "tub",
+        "uniclass_pr": "Pr_40_50_10"
+      }
+    },
+    {
+      "trade": "Framer",
+      "phase": "General",
+      "task": "Furnish Nails, Staples & Steel Shims",
+      "product": {
+        "keyword": "nails",
+        "uniclass_pr": "Pr_20_31_30"
+      }
+    },
+    {
+      "trade": "Framer",
+      "phase": "General",
+      "task": "Install Ext Doors & Windows",
+      "product": {
+        "keyword": "doors",
+        "uniclass_pr": "Pr_25_30"
+      }
+    },
+    {
+      "trade": "Framer",
+      "phase": "General",
+      "task": "Install Ext Doors & Windows",
+      "product": {
+        "keyword": "windows",
+        "uniclass_pr": "Pr_25_80"
+      }
+    },
+    {
+      "trade": "Framer",
+      "phase": "General",
+      "task": "Install Flashing & tack on deck ledger board",
+      "product": {
+        "keyword": "flashing",
+        "uniclass_pr": "Pr_25_71_30"
+      }
+    },
+    {
+      "trade": "Framer",
+      "phase": "General",
+      "task": "Install house wrap (Install Only)",
+      "product": {
+        "keyword": "house wrap",
+        "uniclass_pr": "Pr_25_93_50"
+      }
+    },
+    {
+      "trade": "Framer",
+      "phase": "General",
+      "task": "Set Tubs during framing",
+      "product": {
+        "keyword": "tub",
+        "uniclass_pr": "Pr_40_50_10"
+      }
+    },
+    {
+      "trade": "Roofing",
+      "phase": "General",
+      "task": "Ensure that the house wrap goes over top of flashing",
+      "product": {
+        "keyword": "house wrap",
+        "uniclass_pr": "Pr_25_93_50"
+      }
+    },
+    {
+      "trade": "Roofing",
+      "phase": "General",
+      "task": "Ensure that the house wrap goes over top of flashing",
+      "product": {
+        "keyword": "flashing",
+        "uniclass_pr": "Pr_25_71_30"
+      }
+    },
+    {
+      "trade": "Roofing",
+      "phase": "General",
+      "task": "Install Cap'd Ridge Vent per plans and code",
+      "product": {
+        "keyword": "ridge vent",
+        "uniclass_pr": "Pr_25_71_97"
+      }
+    },
+    {
+      "trade": "Roofing",
+      "phase": "General",
+      "task": "Supply/install Shingles per code and per plans",
+      "product": {
+        "keyword": "shingles",
+        "uniclass_pr": "Pr_25_71_72"
+      }
+    }
+  ]
+}

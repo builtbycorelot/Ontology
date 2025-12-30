@@ -1,0 +1,138 @@
+{
+  "_meta": {
+    "source": "Brick Schema v1.4.4",
+    "license": "BSD-3-Clause",
+    "url": "https://brickschema.org/",
+    "description": "Building system ontology - HVAC, electrical, etc."
+  },
+  "systems": {
+    "Battery_Energy_Storage_System": {
+      "label": "Battery Energy Storage System",
+      "uri": "https://brickschema.org/schema/Brick#Battery_Energy_Storage_System"
+    },
+    "Chilled_Water_System": {
+      "label": "Chilled Water System",
+      "uri": "https://brickschema.org/schema/Brick#Chilled_Water_System"
+    },
+    "Condenser_Water_System": {
+      "label": "Condenser Water System",
+      "uri": "https://brickschema.org/schema/Brick#Condenser_Water_System"
+    },
+    "Domestic_Hot_Water_System": {
+      "label": "Domestic Hot Water System",
+      "uri": "https://brickschema.org/schema/Brick#Domestic_Hot_Water_System"
+    },
+    "Emergency_Air_Flow_System": {
+      "label": "Emergency Air Flow System",
+      "uri": "https://brickschema.org/schema/Brick#Emergency_Air_Flow_System"
+    },
+    "Emergency_Power_Off_System": {
+      "label": "Emergency Power Off System",
+      "uri": "https://brickschema.org/schema/Brick#Emergency_Power_Off_System"
+    },
+    "Fire_Safety_System": {
+      "label": "Fire Safety System",
+      "uri": "https://brickschema.org/schema/Brick#Fire_Safety_System"
+    },
+    "Gas_System": {
+      "label": "Gas System",
+      "uri": "https://brickschema.org/schema/Brick#Gas_System"
+    },
+    "Heat_Recovery_Hot_Water_System": {
+      "label": "Heat Recovery Hot Water System",
+      "uri": "https://brickschema.org/schema/Brick#Heat_Recovery_Hot_Water_System"
+    },
+    "Lighting_System": {
+      "label": "Lighting System",
+      "uri": "https://brickschema.org/schema/Brick#Lighting_System"
+    },
+    "PV_Generation_System": {
+      "label": "PV Generation System",
+      "uri": "https://brickschema.org/schema/Brick#PV_Generation_System"
+    },
+    "Preheat_Hot_Water_System": {
+      "label": "Preheat Hot Water System",
+      "uri": "https://brickschema.org/schema/Brick#Preheat_Hot_Water_System"
+    },
+    "Radiation_Hot_Water_System": {
+      "label": "Radiation Hot Water System",
+      "uri": "https://brickschema.org/schema/Brick#Radiation_Hot_Water_System"
+    },
+    "Refrigeration_System": {
+      "label": "Refrigeration System",
+      "uri": "https://brickschema.org/schema/Brick#Refrigeration_System"
+    },
+    "Reheat_Hot_Water_System": {
+      "label": "Reheat Hot Water System",
+      "uri": "https://brickschema.org/schema/Brick#Reheat_Hot_Water_System"
+    },
+    "Steam_System": {
+      "label": "Steam System",
+      "uri": "https://brickschema.org/schema/Brick#Steam_System"
+    },
+    "VRF_System": {
+      "label": "VRF System",
+      "uri": "https://brickschema.org/schema/Brick#VRF_System"
+    },
+    "Ventilation_Air_System": {
+      "label": "Ventilation Air System",
+      "uri": "https://brickschema.org/schema/Brick#Ventilation_Air_System"
+    },
+    "Air_System": {
+      "label": "Air System",
+      "uri": "https://brickschema.org/schema/Brick#Air_System"
+    },
+    "Electrical_System": {
+      "label": "Electrical System",
+      "uri": "https://brickschema.org/schema/Brick#Electrical_System"
+    },
+    "Energy_Generation_System": {
+      "label": "Energy Generation System",
+      "uri": "https://brickschema.org/schema/Brick#Energy_Generation_System"
+    },
+    "Energy_Storage_System": {
+      "label": "Energy Storage System",
+      "uri": "https://brickschema.org/schema/Brick#Energy_Storage_System"
+    },
+    "HVAC_System": {
+      "label": "HVAC System",
+      "uri": "https://brickschema.org/schema/Brick#HVAC_System"
+    },
+    "Shading_System": {
+      "label": "Shading System",
+      "uri": "https://brickschema.org/schema/Brick#Shading_System"
+    },
+    "Energy_System": {
+      "label": "Energy System",
+      "uri": "https://brickschema.org/schema/Brick#Energy_System"
+    },
+    "Safety_System": {
+      "label": "Safety System",
+      "uri": "https://brickschema.org/schema/Brick#Safety_System"
+    },
+    "Water_System": {
+      "label": "Water System",
+      "uri": "https://brickschema.org/schema/Brick#Water_System"
+    },
+    "Hot_Water_System": {
+      "label": "Hot Water System",
+      "uri": "https://brickschema.org/schema/Brick#Hot_Water_System"
+    },
+    "Heating_Ventilation_Air_Conditioning_System": {
+      "label": "Heating Ventilation Air Conditioning System",
+      "uri": "https://brickschema.org/schema/Brick#Heating_Ventilation_Air_Conditioning_System"
+    }
+  },
+  "brick_to_uniclass": {
+    "HVAC_System": "Ss_60",
+    "Electrical_System": "Ss_70",
+    "Lighting_System": "Ss_70_40",
+    "Plumbing_System": "Ss_55",
+    "Fire_Safety_System": "Ss_75",
+    "Security_System": "Ss_75_70",
+    "Water_System": "Ss_55",
+    "Heating_System": "Ss_60_40",
+    "Cooling_System": "Ss_60_30",
+    "Air_System": "Ss_60_50"
+  }
+}

@@ -1,0 +1,2008 @@
+{
+  "_meta": {
+    "description": "Unified Construction Task Ontology",
+    "version": "1.0",
+    "date": "2024-12-30",
+    "sources": [
+      "User seed data (medium confidence)",
+      "O*NET 30.1 Database (CC BY 4.0)",
+      "Industry knowledge"
+    ],
+    "license": "CC BY-SA 4.0"
+  },
+  "trades": {
+    "ALL": {
+      "naics": "23",
+      "naics_name": "Construction (General Conditions)",
+      "uniclass_ss": [
+        "Ss_20",
+        "Ss_25"
+      ],
+      "cost_category": "General Conditions",
+      "description": "General requirements applying to all trades",
+      "phases": {
+        "General": {
+          "tasks": [
+            {
+              "task": "Provide Submittals, MSDS, O&M Manuals, Warranty Terms & Registration",
+              "type": "standard"
+            },
+            {
+              "task": "All work shall meet or exceed all applicable codes",
+              "type": "standard"
+            },
+            {
+              "task": "Contractor will not install upon faulty work",
+              "type": "standard"
+            },
+            {
+              "task": "Install per plans, specs and code",
+              "type": "parameterized"
+            },
+            {
+              "task": "Maintain a safe, neat and orderly work environment at all times",
+              "type": "standard"
+            },
+            {
+              "task": "Protect Deliveries from the elements",
+              "type": "standard"
+            },
+            {
+              "task": "Warranty work per the Residential Construction Performance Guidelines, Fifth Edition, NAHB, 1 year following closing or occupancy",
+              "type": "standard"
+            },
+            {
+              "task": "Maintain active COI with Workers Compensation & General Liability along with a W9",
+              "type": "standard"
+            }
+          ],
+          "task_count": 8
+        }
+      }
+    },
+    "Due Diligence": {
+      "naics": "541310",
+      "naics_name": "Architectural Services",
+      "uniclass_ss": [
+        "Ac_05",
+        "Ac_10"
+      ],
+      "cost_category": "Soft Costs > Professional Fees",
+      "description": "Site research, feasibility, entitlements",
+      "phases": {
+        "General": {
+          "tasks": [
+            {
+              "task": "Prepare a DWG base Layer in State Plane",
+              "type": "standard"
+            },
+            {
+              "task": "identify parent/sibling/adjacent parcels & encumbrances",
+              "type": "standard"
+            },
+            {
+              "task": "Locate / Obtain Deeded Access",
+              "type": "standard"
+            },
+            {
+              "task": "Rate the project",
+              "type": "standard"
+            }
+          ],
+          "task_count": 4
+        }
+      }
+    },
+    "Site Plan": {
+      "naics": "541370",
+      "naics_name": "Surveying and Mapping Services",
+      "uniclass_ss": [
+        "Ac_05_10",
+        "Ac_10_70"
+      ],
+      "cost_category": "Soft Costs > Engineering",
+      "description": "Civil engineering and site design",
+      "phases": {
+        "Base Map": {
+          "tasks": [
+            {
+              "task": "Obtain County / USGS topography",
+              "type": "standard"
+            },
+            {
+              "task": "Show Easements / recorded Encumbrances",
+              "type": "standard"
+            }
+          ],
+          "task_count": 2
+        },
+        "Due Diligence": {
+          "tasks": [
+            {
+              "task": "Field Collected Topo for all area within the LOC",
+              "type": "standard"
+            }
+          ],
+          "task_count": 1
+        },
+        "Lot Grading Plan": {
+          "tasks": [
+            {
+              "task": "Data Route & Pedestals, Conduit",
+              "type": "standard"
+            },
+            {
+              "task": "Electric Route & Poles / Guys / Pedestals",
+              "type": "standard"
+            },
+            {
+              "task": "Floor & Foundation Drain Route",
+              "type": "standard"
+            },
+            {
+              "task": "Gas tap, route & meter or tank",
+              "type": "standard"
+            },
+            {
+              "task": "Provide a Signed Snappable PDF",
+              "type": "standard"
+            },
+            {
+              "task": "Sewer Route, Tanks, Primary / Reserve systems",
+              "type": "standard"
+            },
+            {
+              "task": "Sidewalk, Pads & Steps",
+              "type": "standard"
+            },
+            {
+              "task": "VDOT Compliant Driveway",
+              "type": "standard"
+            },
+            {
+              "task": "Walkouts / Window Wells",
+              "type": "standard"
+            },
+            {
+              "task": "Well / Meter & Waterline Route",
+              "type": "standard"
+            }
+          ],
+          "task_count": 10
+        }
+      }
+    },
+    "Surveying": {
+      "naics": "541370",
+      "naics_name": "Surveying and Mapping Services",
+      "uniclass_ss": [
+        "Ac_15_10"
+      ],
+      "cost_category": "Soft Costs > Engineering",
+      "description": "Land surveying and staking",
+      "phases": {
+        "Good Stake": {
+          "tasks": [
+            {
+              "task": "Elevation Stake",
+              "type": "standard"
+            },
+            {
+              "task": "Offsets",
+              "type": "standard"
+            }
+          ],
+          "task_count": 2
+        },
+        "Rough Stake": {
+          "tasks": [
+            {
+              "task": "Flag LOC",
+              "type": "standard"
+            },
+            {
+              "task": "Stake CE centerline",
+              "type": "standard"
+            },
+            {
+              "task": "Stake Drainfield",
+              "type": "standard"
+            },
+            {
+              "task": "Stake Meter / Well",
+              "type": "standard"
+            }
+          ],
+          "task_count": 4
+        },
+        "Wall Check": {
+          "tasks": [
+            {
+              "task": "Provide a Wall Check Survey",
+              "type": "standard"
+            }
+          ],
+          "task_count": 1
+        }
+      }
+    },
+    "Lot Development": {
+      "naics": "238910",
+      "naics_name": "Site Preparation Contractors",
+      "uniclass_ss": [
+        "Ss_15",
+        "Ss_20_10"
+      ],
+      "cost_category": "Hard Costs > Site Costs",
+      "description": "Clearing, grading, earthwork",
+      "phases": {
+        "Demolition": {
+          "tasks": [
+            {
+              "task": "Demolish the identified structure",
+              "type": "standard"
+            },
+            {
+              "task": "Remove all debris from site",
+              "type": "standard"
+            }
+          ],
+          "task_count": 2
+        },
+        "Private Ln": {
+          "tasks": [
+            {
+              "task": "Furnish & Install Erosion control at pipe outlets",
+              "type": "standard"
+            },
+            {
+              "task": "Furnish & Install fabric",
+              "type": "standard"
+            },
+            {
+              "task": "Furnish & Install fabric the entire length of the driveway",
+              "type": "standard"
+            },
+            {
+              "task": "Furnish & Install Pipes",
+              "type": "standard"
+            },
+            {
+              "task": "Install a minimum 150' T with a 15\" turn radius",
+              "type": "parameterized"
+            },
+            {
+              "task": "Crown road per standard standards",
+              "type": "standard"
+            },
+            {
+              "task": "Provide a 15' minimum route for utilities easement",
+              "type": "parameterized"
+            },
+            {
+              "task": "Road must drain and crown",
+              "type": "standard"
+            },
+            {
+              "task": "Road must drain within easement area",
+              "type": "standard"
+            },
+            {
+              "task": "Strip & Fill",
+              "type": "standard"
+            },
+            {
+              "task": "Tie-In Grade at shoulders to match road edge & slope",
+              "type": "standard"
+            }
+          ],
+          "task_count": 11
+        },
+        "Yard Maintenance": {
+          "tasks": [
+            {
+              "task": "Clean the site remove & clean debris or grass stuck to home/foundation",
+              "type": "standard"
+            }
+          ],
+          "task_count": 1
+        },
+        "Clearing": {
+          "tasks": [
+            {
+              "task": "Clear 20' around drainfield",
+              "type": "parameterized"
+            },
+            {
+              "task": "Clear and remove all debris within LOC",
+              "type": "standard"
+            },
+            {
+              "task": "Clear site distance at entrances",
+              "type": "standard"
+            },
+            {
+              "task": "Ensure positive flow away from structures at all times",
+              "type": "standard"
+            },
+            {
+              "task": "File as RLD for the project",
+              "type": "standard"
+            },
+            {
+              "task": "Prepare for well truck entry",
+              "type": "standard"
+            },
+            {
+              "task": "Rake debris exceeding 3/4\"",
+              "type": "parameterized"
+            },
+            {
+              "task": "Remove damaged or fall-risk trees",
+              "type": "standard"
+            }
+          ],
+          "task_count": 8
+        },
+        "Construction Entrance": {
+          "tasks": [
+            {
+              "task": "Ensure positive flow from entrance",
+              "type": "standard"
+            },
+            {
+              "task": "Grade CE 3\" below final grade w/ temporary transition",
+              "type": "parameterized"
+            },
+            {
+              "task": "Install construction entrance (gravel, fabric, pipe)",
+              "type": "standard"
+            },
+            {
+              "task": "Install minimum 15' radius at entrance sides (PE-1)",
+              "type": "parameterized"
+            },
+            {
+              "task": "Stockpile disturbed topsoil on site",
+              "type": "standard"
+            }
+          ],
+          "task_count": 5
+        },
+        "Erosion Control": {
+          "tasks": [
+            {
+              "task": "Furnish and Install all Erosion Controls",
+              "type": "standard"
+            },
+            {
+              "task": "Pass 1st Erosion Inspection",
+              "type": "standard"
+            }
+          ],
+          "task_count": 2
+        },
+        "Basement Dig": {
+          "tasks": [
+            {
+              "task": "Dig basement per plans with drain relief",
+              "type": "parameterized"
+            },
+            {
+              "task": "Install Concrete Washout",
+              "type": "standard"
+            }
+          ],
+          "task_count": 2
+        },
+        "Rough Grade": {
+          "tasks": [
+            {
+              "task": "Compact fill in 8\" lifts",
+              "type": "parameterized"
+            },
+            {
+              "task": "Ensure positive flow away from structure and prevent standing water",
+              "type": "standard"
+            },
+            {
+              "task": "Grade driveway within 2/10ths",
+              "type": "standard"
+            },
+            {
+              "task": "Grade yard within 2/10ths",
+              "type": "standard"
+            },
+            {
+              "task": "Strip and Stockpile topsoil where grading will occur",
+              "type": "standard"
+            },
+            {
+              "task": "Track in all areas upon completion",
+              "type": "standard"
+            },
+            {
+              "task": "Verify Proper fill material",
+              "type": "standard"
+            }
+          ],
+          "task_count": 7
+        }
+      }
+    },
+    "Landscaping": {
+      "naics": "561730",
+      "naics_name": "Landscaping Services",
+      "uniclass_ss": [
+        "Ss_15_10",
+        "EF_25"
+      ],
+      "cost_category": "Hard Costs > Site Costs",
+      "description": "Planting, irrigation, hardscape",
+      "phases": {
+        "Final Yard": {
+          "tasks": [
+            {
+              "task": "Blend new & existing grades harmoniously",
+              "type": "standard"
+            },
+            {
+              "task": "Furnish & Install Check Dams (where applicable)",
+              "type": "standard"
+            },
+            {
+              "task": "Furnish & install Seed, Straw, fertilizer, lime per VESCH",
+              "type": "standard"
+            },
+            {
+              "task": "Grade up to 4\" achieving (6\"/10') fall from structure",
+              "type": "parameterized"
+            },
+            {
+              "task": "Install EC-2 on any slopes greater than 25%",
+              "type": "standard"
+            },
+            {
+              "task": "Provide all necessary measures for bond release",
+              "type": "standard"
+            },
+            {
+              "task": "Remove silt fence on low slopes",
+              "type": "standard"
+            },
+            {
+              "task": "Smoothly blend to the existing un-disturbed grade",
+              "type": "standard"
+            }
+          ],
+          "task_count": 8
+        },
+        "Landscaping": {
+          "tasks": [
+            {
+              "task": "Furnish & Install Plants",
+              "type": "standard"
+            },
+            {
+              "task": "Key fabric edges",
+              "type": "standard"
+            }
+          ],
+          "task_count": 2
+        }
+      }
+    },
+    "Utilities to site": {
+      "naics": "237110",
+      "naics_name": "Water and Sewer Line Construction",
+      "uniclass_ss": [
+        "Ss_55",
+        "Ss_65"
+      ],
+      "cost_category": "Hard Costs > Site Costs",
+      "description": "Utility connections to property",
+      "phases": {
+        "Septic & Sewer": {
+          "tasks": [
+            {
+              "task": "Furnish & Install conduit to LB at house",
+              "type": "standard"
+            },
+            {
+              "task": "Install complete onsite septic system",
+              "type": "standard"
+            },
+            {
+              "task": "Smooth grade, seed & straw alternative systems",
+              "type": "standard"
+            },
+            {
+              "task": "Supply test water",
+              "type": "standard"
+            }
+          ],
+          "task_count": 4
+        },
+        "Well & Water Hookup": {
+          "tasks": [
+            {
+              "task": "Connect water meter to house",
+              "type": "standard"
+            },
+            {
+              "task": "Ensure water line goes inside basement under slab to water location",
+              "type": "standard"
+            },
+            {
+              "task": "Install a water line to the meter, per code, plans, and specifications",
+              "type": "standard"
+            }
+          ],
+          "task_count": 3
+        },
+        "Public Water": {
+          "tasks": [
+            {
+              "task": "Tie in to county provided meter barrel",
+              "type": "standard"
+            }
+          ],
+          "task_count": 1
+        }
+      }
+    },
+    "Concrete": {
+      "naics": "238110",
+      "naics_name": "Poured Concrete Foundation and Structure Contractors",
+      "uniclass_ss": [
+        "Ss_30",
+        "Ss_32"
+      ],
+      "cost_category": "Hard Costs > Building Shell",
+      "description": "Foundations, slabs, flatwork",
+      "phases": {
+        "3rd Party Inspection": {
+          "tasks": [
+            {
+              "task": "File 3rd party inspections",
+              "type": "standard"
+            }
+          ],
+          "task_count": 1
+        },
+        "Foundation & Walls": {
+          "tasks": [
+            {
+              "task": "Dig footings",
+              "type": "standard"
+            },
+            {
+              "task": "F&I Sump Crock (if required)",
+              "type": "standard"
+            },
+            {
+              "task": "Sleeve sewer, waterline & floor drain",
+              "type": "standard"
+            },
+            {
+              "task": "Coordinate,Mark, and provide sleeve locations & ufer on wall (FD, S, W, U,)",
+              "type": "standard"
+            },
+            {
+              "task": "Provide or install washout",
+              "type": "standard"
+            },
+            {
+              "task": "Provide pump truck (if required)",
+              "type": "standard"
+            }
+          ],
+          "task_count": 6
+        },
+        "Waterproofing / Draintile": {
+          "tasks": [
+            {
+              "task": "Daylight foundation & floor drain",
+              "type": "standard"
+            },
+            {
+              "task": "Deliver 57's to the bsmt floor for plumber",
+              "type": "parameterized"
+            },
+            {
+              "task": "F&I Waterproofing & Draintile",
+              "type": "standard"
+            },
+            {
+              "task": "Install Solid Pipe Under driveways",
+              "type": "standard"
+            }
+          ],
+          "task_count": 4
+        },
+        "Interior Flat Work": {
+          "tasks": [
+            {
+              "task": "F&I Interior Flatwork",
+              "type": "standard"
+            }
+          ],
+          "task_count": 1
+        },
+        "Leadwalk & Pads": {
+          "tasks": [
+            {
+              "task": "F&I Exterior Flatwork",
+              "type": "standard"
+            }
+          ],
+          "task_count": 1
+        }
+      }
+    },
+    "3rd Party Inspection": {
+      "naics": "541350",
+      "naics_name": "Building Inspection Services",
+      "uniclass_ss": [
+        "Ac_35"
+      ],
+      "cost_category": "Soft Costs > Professional Fees",
+      "description": "Third party inspections and testing",
+      "phases": {
+        "3rd Party Inspection": {
+          "tasks": [
+            {
+              "task": "Provide inspections",
+              "type": "standard"
+            }
+          ],
+          "task_count": 1
+        }
+      }
+    },
+    "Plumbing": {
+      "naics": "238220",
+      "naics_name": "Plumbing, Heating, and Air-Conditioning Contractors",
+      "uniclass_ss": [
+        "Ss_55",
+        "Ss_60"
+      ],
+      "cost_category": "Hard Costs > Building MEP",
+      "description": "Water supply and drainage systems",
+      "phases": {
+        "Final": {
+          "tasks": [
+            {
+              "task": "Caulk Toilets",
+              "type": "standard"
+            },
+            {
+              "task": "Hook up the refrigerator",
+              "type": "standard"
+            },
+            {
+              "task": "Include the Fixtures",
+              "type": "standard"
+            },
+            {
+              "task": "Install water line for fridge",
+              "type": "standard"
+            },
+            {
+              "task": "Place, hookup & mount the dishwasher",
+              "type": "standard"
+            }
+          ],
+          "task_count": 5
+        },
+        "Gas": {
+          "tasks": [
+            {
+              "task": "Install gas line at the tank location",
+              "type": "standard"
+            }
+          ],
+          "task_count": 1
+        },
+        "Groundworks": {
+          "tasks": [
+            {
+              "task": "Run main water line under slab to exterior",
+              "type": "standard"
+            },
+            {
+              "task": "Install Cleanout at grade on any pipe that goes outside",
+              "type": "standard"
+            },
+            {
+              "task": "Install floor drain extending min 6' outside of house",
+              "type": "parameterized"
+            },
+            {
+              "task": "Install Passive Radon Pipe (T under slab, through roof)",
+              "type": "standard"
+            }
+          ],
+          "task_count": 4
+        },
+        "Plumbing Fixtures": {
+          "tasks": [
+            {
+              "task": "Furnish Plumbing Fixtures",
+              "type": "standard"
+            }
+          ],
+          "task_count": 1
+        },
+        "R/I": {
+          "tasks": [
+            {
+              "task": "Furnish & Install CPVC or PEX water supply piping",
+              "type": "standard"
+            },
+            {
+              "task": "Furnish & Install PVC Sanitary waste piping",
+              "type": "standard"
+            },
+            {
+              "task": "Isolate hose bibs with shutoff valve",
+              "type": "standard"
+            }
+          ],
+          "task_count": 3
+        }
+      }
+    },
+    "Framer": {
+      "naics": "238130",
+      "naics_name": "Framing Contractors",
+      "uniclass_ss": [
+        "Ss_25_10",
+        "Ss_25_13"
+      ],
+      "cost_category": "Hard Costs > Building Shell",
+      "description": "Wood framing, sheathing, blocking",
+      "phases": {
+        "General": {
+          "tasks": [
+            {
+              "task": "Count & Verify Quantity of Framing Deliveries",
+              "type": "standard"
+            },
+            {
+              "task": "Cull any lumber that is not within reasonable tolerances",
+              "type": "standard"
+            },
+            {
+              "task": "Frame box for tub (if applicable)",
+              "type": "parameterized"
+            },
+            {
+              "task": "Furnish Nails, Staples & Steel Shims",
+              "type": "standard"
+            },
+            {
+              "task": "Install Ext Doors & Windows",
+              "type": "standard"
+            },
+            {
+              "task": "Install Flashing & tack on deck ledger board",
+              "type": "standard"
+            },
+            {
+              "task": "Install Hardware blocking & Blocking for Cabinets",
+              "type": "standard"
+            },
+            {
+              "task": "Install house wrap (Install Only)",
+              "type": "standard"
+            },
+            {
+              "task": "Install Pre-fab Steps",
+              "type": "standard"
+            },
+            {
+              "task": "Install PT Steps to attached garage",
+              "type": "standard"
+            },
+            {
+              "task": "Install Temporary Railing (safety Rail)",
+              "type": "standard"
+            },
+            {
+              "task": "Protect Materials and stack for Forklift return",
+              "type": "standard"
+            },
+            {
+              "task": "Set Tubs during framing",
+              "type": "standard"
+            },
+            {
+              "task": "Supply Equipment / or Crane",
+              "type": "standard"
+            },
+            {
+              "task": "Install Pocket door kits",
+              "type": "standard"
+            }
+          ],
+          "task_count": 15
+        }
+      }
+    },
+    "Roofing": {
+      "naics": "238160",
+      "naics_name": "Roofing Contractors",
+      "uniclass_ss": [
+        "Ss_25_30"
+      ],
+      "cost_category": "Hard Costs > Building Shell",
+      "description": "Roof systems and flashing",
+      "phases": {
+        "General": {
+          "tasks": [
+            {
+              "task": "Ensure that the house wrap goes over top of flashing",
+              "type": "standard"
+            },
+            {
+              "task": "Install Cap'd Ridge Vent per plans and code",
+              "type": "parameterized"
+            },
+            {
+              "task": "Return to install roof boots",
+              "type": "standard"
+            },
+            {
+              "task": "Supply/install Shingles per code and per plans",
+              "type": "parameterized"
+            }
+          ],
+          "task_count": 4
+        }
+      }
+    },
+    "Exterior Features": {
+      "naics": "238170",
+      "naics_name": "Siding Contractors",
+      "uniclass_ss": [
+        "Ss_25_20",
+        "Ss_25_20_50"
+      ],
+      "cost_category": "Hard Costs > Building Shell",
+      "description": "PVC trim, column wraps, exterior millwork",
+      "phases": {
+        "General": {
+          "tasks": [
+            {
+              "task": "Install 1x PVC above all windows for pediments",
+              "type": "parameterized"
+            },
+            {
+              "task": "Install 5/4 pvc under doors",
+              "type": "standard"
+            },
+            {
+              "task": "Install Front Porch Column Wrap & Trim",
+              "type": "standard"
+            },
+            {
+              "task": "Install garage PVC garage door trim (exterior & jamb) & PVC trim around basement windows & doors (If applicable)",
+              "type": "parameterized"
+            }
+          ],
+          "task_count": 4
+        }
+      }
+    },
+    "HVAC": {
+      "naics": "238220",
+      "naics_name": "Plumbing, Heating, and Air-Conditioning Contractors",
+      "uniclass_ss": [
+        "Ss_60",
+        "Ss_60_40",
+        "Ss_60_30"
+      ],
+      "cost_category": "Hard Costs > Building MEP",
+      "description": "Heating, ventilation, air conditioning",
+      "phases": {
+        "Final": {
+          "tasks": [
+            {
+              "task": "All Registers",
+              "type": "standard"
+            },
+            {
+              "task": "Charge system with refrigerant per manufacturer specs",
+              "type": "standard"
+            },
+            {
+              "task": "Test and balance airflow at all registers",
+              "type": "standard"
+            },
+            {
+              "task": "Program thermostat and verify operation",
+              "type": "standard"
+            },
+            {
+              "task": "Provide homeowner orientation on system operation",
+              "type": "standard"
+            },
+            {
+              "task": "Complete startup checklist and warranty registration",
+              "type": "standard"
+            }
+          ],
+          "task_count": 6
+        },
+        "R/I": {
+          "tasks": [
+            {
+              "task": "Fire Stop Duct Chase",
+              "type": "standard"
+            },
+            {
+              "task": "Install ductwork per plans and code, seal all joints with mastic",
+              "type": "parameterized"
+            },
+            {
+              "task": "Install supply and return boots at designated locations",
+              "type": "standard"
+            },
+            {
+              "task": "Run refrigerant lines for split systems",
+              "type": "standard"
+            },
+            {
+              "task": "Install condensate drain lines with proper slope",
+              "type": "standard"
+            },
+            {
+              "task": "Furnish and install flue pipe for gas furnace",
+              "type": "standard"
+            },
+            {
+              "task": "Install gas piping to furnace location (if applicable)",
+              "type": "parameterized"
+            }
+          ],
+          "task_count": 7
+        },
+        "General": {
+          "tasks": [
+            {
+              "task": "Furnish & Install of all HVAC Equipment & Ducting",
+              "type": "standard"
+            },
+            {
+              "task": "Furnish & Install Temporary filter",
+              "type": "standard"
+            }
+          ],
+          "task_count": 2
+        },
+        "Equipment Set": {
+          "tasks": [
+            {
+              "task": "Set furnace/air handler in designated location",
+              "type": "standard"
+            },
+            {
+              "task": "Set condenser on pad with proper clearances",
+              "type": "standard"
+            },
+            {
+              "task": "Connect refrigerant lines and pressure test system",
+              "type": "standard"
+            },
+            {
+              "task": "Connect condensate drain to approved location",
+              "type": "standard"
+            },
+            {
+              "task": "Connect gas line to furnace (if applicable)",
+              "type": "parameterized"
+            },
+            {
+              "task": "Install thermostat wiring",
+              "type": "standard"
+            }
+          ],
+          "task_count": 6
+        },
+        "Trim": {
+          "tasks": [
+            {
+              "task": "Install registers, grilles, and diffusers",
+              "type": "standard"
+            },
+            {
+              "task": "Install thermostat(s) at designated locations",
+              "type": "standard"
+            },
+            {
+              "task": "Install filter grille or filter rack",
+              "type": "standard"
+            },
+            {
+              "task": "Seal all duct penetrations at fire-rated assemblies",
+              "type": "standard"
+            }
+          ],
+          "task_count": 4
+        }
+      }
+    },
+    "Electrical": {
+      "naics": "238210",
+      "naics_name": "Electrical Contractors",
+      "uniclass_ss": [
+        "Ss_70",
+        "Ss_70_30",
+        "Ss_70_80"
+      ],
+      "cost_category": "Hard Costs > Building MEP",
+      "description": "Power, lighting, low voltage",
+      "phases": {
+        "General": {
+          "tasks": [
+            {
+              "task": "Wire Well Wire & Power to Expansion Tank if applicable",
+              "type": "parameterized"
+            },
+            {
+              "task": "Caulk Exterior Fixtures to Split Block",
+              "type": "standard"
+            },
+            {
+              "task": "Furnish & Install 40 Space Panel & Disconnect- Neatly Labeled",
+              "type": "standard"
+            },
+            {
+              "task": "Furnish & install basic doorbell",
+              "type": "standard"
+            },
+            {
+              "task": "F&I (5) Gimble Cans on cathedral ceilings",
+              "type": "parameterized"
+            },
+            {
+              "task": "Install All Bulbs in Every fixture",
+              "type": "standard"
+            },
+            {
+              "task": "Install electrical Per plans & per code",
+              "type": "parameterized"
+            },
+            {
+              "task": "Install Fan in Great Room & Master BR",
+              "type": "parameterized"
+            },
+            {
+              "task": "Install Flood light for deck steps",
+              "type": "standard"
+            },
+            {
+              "task": "Install Micro-Hood",
+              "type": "standard"
+            },
+            {
+              "task": "Install Stove (in-place) w/ anti-tip",
+              "type": "standard"
+            },
+            {
+              "task": "Rough In all bedrooms for fan",
+              "type": "standard"
+            },
+            {
+              "task": "Field verify switches are not covered by doors or rails",
+              "type": "standard"
+            }
+          ],
+          "task_count": 13
+        },
+        "R/I": {
+          "tasks": [
+            {
+              "task": "Prepare sketches or follow blueprints to determine the location of wiring or equipment",
+              "type": "standard"
+            },
+            {
+              "task": "Plan layout and installation of electrical wiring, equipment, or fixtures, based on job specifications and local codes",
+              "type": "standard"
+            },
+            {
+              "task": "Place conduit, pipes, or tubing, inside designated partitions, walls, or other concealed areas",
+              "type": "standard"
+            },
+            {
+              "task": "Pull insulated wires or cables through the conduit to complete circuits between boxes",
+              "type": "standard"
+            },
+            {
+              "task": "Fasten small metal or plastic boxes to walls to house electrical switches or outlets",
+              "type": "standard"
+            },
+            {
+              "task": "Install ground leads and connect power cables to equipment, such as motors",
+              "type": "standard"
+            },
+            {
+              "task": "Connect wires to circuit breakers, transformers, or other components",
+              "type": "standard"
+            }
+          ],
+          "task_count": 7
+        },
+        "Trim": {
+          "tasks": [
+            {
+              "task": "Assemble, install, test, or maintain electrical wiring, equipment, appliances, apparatus, or fixtures",
+              "type": "standard"
+            },
+            {
+              "task": "Install switches, outlets, and fixtures per plans and code",
+              "type": "parameterized"
+            },
+            {
+              "task": "Install cover plates on all devices",
+              "type": "standard"
+            },
+            {
+              "task": "Label panel directory",
+              "type": "standard"
+            }
+          ],
+          "task_count": 4
+        },
+        "Final": {
+          "tasks": [
+            {
+              "task": "Test electrical systems or continuity of circuits using testing devices (ohmmeters, voltmeters)",
+              "type": "standard"
+            },
+            {
+              "task": "Inspect electrical systems, equipment, or components to ensure compliance with codes",
+              "type": "standard"
+            },
+            {
+              "task": "Diagnose malfunctioning systems, apparatus, or components using test equipment",
+              "type": "standard"
+            },
+            {
+              "task": "Repair or replace wiring, equipment, or fixtures as needed",
+              "type": "standard"
+            }
+          ],
+          "task_count": 4
+        },
+        "Service": {
+          "tasks": [
+            {
+              "task": "Install service entrance, meter base, and main panel",
+              "type": "standard"
+            },
+            {
+              "task": "Coordinate with utility company for meter installation",
+              "type": "standard"
+            },
+            {
+              "task": "Provide temporary power pole (if required)",
+              "type": "standard"
+            }
+          ],
+          "task_count": 3
+        }
+      }
+    },
+    "Drywall": {
+      "naics": "238310",
+      "naics_name": "Drywall and Insulation Contractors",
+      "uniclass_ss": [
+        "Ss_25_50",
+        "Ss_25_50_20"
+      ],
+      "cost_category": "Hard Costs > Building Finish",
+      "description": "Gypsum board, tape, finish",
+      "phases": {
+        "General": {
+          "tasks": [
+            {
+              "task": "Cover Tubs with plastic",
+              "type": "standard"
+            },
+            {
+              "task": "Dispose of all drywall waste in provided dumpster",
+              "type": "standard"
+            },
+            {
+              "task": "F&I Drywall",
+              "type": "standard"
+            },
+            {
+              "task": "Install 5/8 type X in garage where required by code",
+              "type": "parameterized"
+            }
+          ],
+          "task_count": 4
+        },
+        "Stock": {
+          "tasks": [
+            {
+              "task": "Count and verify quantity of drywall deliveries",
+              "type": "standard"
+            },
+            {
+              "task": "Distribute drywall throughout structure for hanging",
+              "type": "standard"
+            },
+            {
+              "task": "Protect materials from moisture damage",
+              "type": "standard"
+            }
+          ],
+          "task_count": 3
+        },
+        "Hang": {
+          "tasks": [
+            {
+              "task": "Read blueprints to determine methods of installation and material requirements",
+              "type": "standard"
+            },
+            {
+              "task": "Measure and mark surfaces to lay out work according to blueprints",
+              "type": "standard"
+            },
+            {
+              "task": "Fit and fasten wallboard or drywall into position on wood or metal frameworks using screws",
+              "type": "standard"
+            },
+            {
+              "task": "Hang drywall panels on metal frameworks of walls and ceilings",
+              "type": "standard"
+            },
+            {
+              "task": "Measure and cut openings in panels for electrical outlets, windows, vents, plumbing",
+              "type": "standard"
+            },
+            {
+              "task": "Install horizontal and vertical metal or wooden studs to frames as needed",
+              "type": "standard"
+            },
+            {
+              "task": "Cut and install corner bead at all outside corners",
+              "type": "standard"
+            }
+          ],
+          "task_count": 7
+        },
+        "Tape/Finish": {
+          "tasks": [
+            {
+              "task": "Spread sealing compound between boards or over cracks, holes, nail heads, or screw heads",
+              "type": "standard"
+            },
+            {
+              "task": "Press paper tape over joints to embed tape into sealing compound",
+              "type": "standard"
+            },
+            {
+              "task": "Spread and smooth cementing material over tape using trowels or floating machines",
+              "type": "standard"
+            },
+            {
+              "task": "Apply additional coats to fill in holes and make surfaces smooth",
+              "type": "standard"
+            },
+            {
+              "task": "Sand rough spots of dried cement between applications of compounds",
+              "type": "standard"
+            },
+            {
+              "task": "Sand to smooth finish ready for paint (Level 4 finish)",
+              "type": "standard"
+            }
+          ],
+          "task_count": 6
+        },
+        "Texture": {
+          "tasks": [
+            {
+              "task": "Apply texturizing compounds to walls or ceilings using trowels, brushes, rollers, or spray guns",
+              "type": "standard"
+            },
+            {
+              "task": "Match existing texture on repair areas",
+              "type": "standard"
+            },
+            {
+              "task": "Apply orange peel, knockdown, or smooth finish per specs",
+              "type": "standard"
+            }
+          ],
+          "task_count": 3
+        }
+      }
+    },
+    "Siding": {
+      "naics": "238170",
+      "naics_name": "Siding Contractors",
+      "uniclass_ss": [
+        "Ss_25_20",
+        "Ss_25_20_70"
+      ],
+      "cost_category": "Hard Costs > Building Shell",
+      "description": "Cladding, soffit, fascia",
+      "phases": {
+        "General": {
+          "tasks": [
+            {
+              "task": "Furnish Siding",
+              "type": "standard"
+            },
+            {
+              "task": "Install siding Per Plans & Code",
+              "type": "parameterized"
+            },
+            {
+              "task": "Provide details per plan",
+              "type": "parameterized"
+            },
+            {
+              "task": "Standard 12\" soffit overhang",
+              "type": "parameterized"
+            },
+            {
+              "task": "Trim All Windows",
+              "type": "standard"
+            },
+            {
+              "task": "Wrap all fascia, rake, exterior headers and beams",
+              "type": "standard"
+            }
+          ],
+          "task_count": 6
+        }
+      }
+    },
+    "Garage Doors": {
+      "naics": "238290",
+      "naics_name": "Other Building Equipment Contractors",
+      "uniclass_ss": [
+        "Ss_25_30_33",
+        "Pr_25_30_33"
+      ],
+      "cost_category": "Hard Costs > Building Shell",
+      "description": "Overhead doors and operators",
+      "phases": {
+        "General": {
+          "tasks": [
+            {
+              "task": "KeyPad For each Door",
+              "type": "standard"
+            }
+          ],
+          "task_count": 1
+        }
+      }
+    },
+    "Paint": {
+      "naics": "238320",
+      "naics_name": "Painting and Wall Covering Contractors",
+      "uniclass_ss": [
+        "Ss_40",
+        "Ss_40_10",
+        "Ss_40_30"
+      ],
+      "cost_category": "Hard Costs > Building Finish",
+      "description": "Interior and exterior painting",
+      "phases": {
+        "General": {
+          "tasks": [
+            {
+              "task": "Caulk Exterior Trim (Quad)",
+              "type": "standard"
+            },
+            {
+              "task": "Caulk Toilets w/ 1\" gap (clear silicone)",
+              "type": "parameterized"
+            },
+            {
+              "task": "Caulk Vanities & Countertops",
+              "type": "standard"
+            },
+            {
+              "task": "Furnish & Install 2-tone, 2-coat flat walls McCormick Standards, white ceilings, white semi-gloss trim",
+              "type": "standard"
+            },
+            {
+              "task": "Furnish Labelled Touch up kit (Walls 1gal, Ceilings 1gal, Trim 1gal, Stain 1qt)",
+              "type": "standard"
+            },
+            {
+              "task": "Stain Railing",
+              "type": "standard"
+            },
+            {
+              "task": "Paint Exterior PVC",
+              "type": "standard"
+            },
+            {
+              "task": "Vacuum the work area prior to spraying",
+              "type": "standard"
+            }
+          ],
+          "task_count": 8
+        }
+      }
+    },
+    "Cabinets": {
+      "naics": "238350",
+      "naics_name": "Finish Carpentry Contractors",
+      "uniclass_ss": [
+        "Ss_25_50_15",
+        "Pr_35_10"
+      ],
+      "cost_category": "Hard Costs > Building Finish",
+      "description": "Kitchen and bath cabinetry",
+      "phases": {
+        "General": {
+          "tasks": [
+            {
+              "task": "Furnish (2) Touch up kits",
+              "type": "parameterized"
+            },
+            {
+              "task": "Provide Matching Shoe Molding",
+              "type": "standard"
+            }
+          ],
+          "task_count": 2
+        }
+      }
+    },
+    "Trim": {
+      "naics": "238350",
+      "naics_name": "Finish Carpentry Contractors",
+      "uniclass_ss": [
+        "Ss_25_50_55",
+        "Ss_25_50_65"
+      ],
+      "cost_category": "Hard Costs > Building Finish",
+      "description": "Interior doors, casings, baseboards",
+      "phases": {
+        "Rails": {
+          "tasks": [
+            {
+              "task": "Furnish & Install of Rails and all components",
+              "type": "standard"
+            }
+          ],
+          "task_count": 1
+        },
+        "General": {
+          "tasks": [
+            {
+              "task": "Cut door slabs for flooring finish as necessary",
+              "type": "standard"
+            },
+            {
+              "task": "Furnish & Install all interior trim & doors",
+              "type": "standard"
+            },
+            {
+              "task": "Install farmhouse sink if applicable",
+              "type": "parameterized"
+            },
+            {
+              "task": "Remove all Excess Material From the Site",
+              "type": "standard"
+            },
+            {
+              "task": "Touch up the ends of toe kicks",
+              "type": "standard"
+            },
+            {
+              "task": "Trim attic access",
+              "type": "standard"
+            }
+          ],
+          "task_count": 6
+        }
+      }
+    },
+    "Countertops": {
+      "naics": "238350",
+      "naics_name": "Finish Carpentry Contractors",
+      "uniclass_ss": [
+        "Ss_25_50_25",
+        "Pr_35_93_15"
+      ],
+      "cost_category": "Hard Costs > Building Finish",
+      "description": "Stone, solid surface, laminate tops",
+      "phases": {
+        "General": {
+          "tasks": [
+            {
+              "task": "Cover & Protect upon install",
+              "type": "standard"
+            },
+            {
+              "task": "F&I steel reinforcement overhangs exceeding 10\"",
+              "type": "parameterized"
+            },
+            {
+              "task": "F&I Dishwasher mount",
+              "type": "standard"
+            }
+          ],
+          "task_count": 3
+        }
+      }
+    },
+    "Electrical Fixtures": {
+      "naics": "238210",
+      "naics_name": "Electrical Contractors",
+      "uniclass_ss": [
+        "Ss_70_40",
+        "Pr_70_40"
+      ],
+      "cost_category": "Hard Costs > Building Finish",
+      "description": "Light fixtures, ceiling fans",
+      "phases": {
+        "General": {
+          "tasks": [
+            {
+              "task": "Deliver all Bulbs for Fixtures",
+              "type": "standard"
+            }
+          ],
+          "task_count": 1
+        }
+      }
+    },
+    "Appliances": {
+      "naics": "443141",
+      "naics_name": "Household Appliance Stores",
+      "uniclass_ss": [
+        "Pr_40_20"
+      ],
+      "cost_category": "Hard Costs > Building Finish",
+      "description": "Kitchen appliances",
+      "phases": {
+        "General": {
+          "tasks": [
+            {
+              "task": "Un-Box & Place, Take Packaging materials",
+              "type": "standard"
+            }
+          ],
+          "task_count": 1
+        }
+      }
+    },
+    "Hardware": {
+      "naics": "238350",
+      "naics_name": "Finish Carpentry Contractors",
+      "uniclass_ss": [
+        "Pr_20_31",
+        "Pr_35_47"
+      ],
+      "cost_category": "Hard Costs > Building Finish",
+      "description": "Door hardware, bath accessories",
+      "phases": {
+        "General": {
+          "tasks": [
+            {
+              "task": "Install Fire Extinguisher",
+              "type": "standard"
+            }
+          ],
+          "task_count": 1
+        }
+      }
+    },
+    "Driveway": {
+      "naics": "238910",
+      "naics_name": "Site Preparation Contractors",
+      "uniclass_ss": [
+        "Ss_15_30",
+        "Ss_32_50"
+      ],
+      "cost_category": "Hard Costs > Site Costs",
+      "description": "Driveway base and paving",
+      "phases": {
+        "General": {
+          "tasks": [
+            {
+              "task": "Grade the Driveway to provide proper drainage",
+              "type": "standard"
+            },
+            {
+              "task": "Install 2.5\" of 21A, Millings, or recycled concrete base",
+              "type": "parameterized"
+            }
+          ],
+          "task_count": 2
+        }
+      }
+    },
+    "Cleaning": {
+      "naics": "561720",
+      "naics_name": "Janitorial Services",
+      "uniclass_ss": [
+        "Ac_45",
+        "Ac_50"
+      ],
+      "cost_category": "Hard Costs > Building Finish",
+      "description": "Construction and final cleaning",
+      "phases": {
+        "General": {
+          "tasks": [
+            {
+              "task": "Install Screens",
+              "type": "standard"
+            },
+            {
+              "task": "Powerwash - Clean Exterior & Garage Slab",
+              "type": "standard"
+            },
+            {
+              "task": "Put Amenities @ House (TP, Paper Towels, Soap)",
+              "type": "standard"
+            }
+          ],
+          "task_count": 3
+        }
+      }
+    },
+    "Lumber": {
+      "naics": "423310",
+      "naics_name": "Lumber Wholesalers",
+      "uniclass_ss": [
+        "Pr_20_93"
+      ],
+      "cost_category": "Hard Costs > Building Shell",
+      "description": "Framing lumber package",
+      "phases": {
+        "General": {
+          "tasks": [
+            {
+              "task": "Delivery new, undamaged materials in good condition per CH's schedule",
+              "type": "standard"
+            },
+            {
+              "task": "Protect deliveries from the elements",
+              "type": "standard"
+            }
+          ],
+          "task_count": 2
+        }
+      }
+    },
+    "Painting": {
+      "naics": "UNMAPPED",
+      "naics_name": "",
+      "uniclass_ss": [],
+      "cost_category": "Unknown",
+      "description": "",
+      "phases": {
+        "Prep": {
+          "tasks": [
+            {
+              "task": "Cover surfaces with dropcloths or masking tape and paper to protect surfaces",
+              "type": "standard"
+            },
+            {
+              "task": "Fill holes, cracks, and joints with caulk, putty, plaster, or other fillers",
+              "type": "standard"
+            },
+            {
+              "task": "Sand surfaces between coats for proper adhesion",
+              "type": "standard"
+            },
+            {
+              "task": "Remove hardware, covers, and fixtures before painting",
+              "type": "standard"
+            },
+            {
+              "task": "Clean surfaces to remove dust, dirt, grease, or other contaminants",
+              "type": "standard"
+            }
+          ],
+          "task_count": 5
+        },
+        "Prime": {
+          "tasks": [
+            {
+              "task": "Apply primer coat to all new drywall surfaces",
+              "type": "standard"
+            },
+            {
+              "task": "Spot prime nail holes and repairs",
+              "type": "standard"
+            },
+            {
+              "task": "Apply stain-blocking primer where needed",
+              "type": "standard"
+            },
+            {
+              "task": "Prime all bare wood surfaces",
+              "type": "standard"
+            }
+          ],
+          "task_count": 4
+        },
+        "Paint": {
+          "tasks": [
+            {
+              "task": "Apply paint, stain, or coating using brushes, rollers, or spray equipment",
+              "type": "standard"
+            },
+            {
+              "task": "Apply two coats of finish paint to walls and ceilings (or per specs)",
+              "type": "standard"
+            },
+            {
+              "task": "Cut in at corners, edges, and trim",
+              "type": "standard"
+            },
+            {
+              "task": "Roll or spray field areas for uniform coverage",
+              "type": "standard"
+            },
+            {
+              "task": "Apply trim paint to all doors, casings, and millwork",
+              "type": "standard"
+            }
+          ],
+          "task_count": 5
+        },
+        "Final": {
+          "tasks": [
+            {
+              "task": "Touch up all scratches, holidays, and imperfections",
+              "type": "standard"
+            },
+            {
+              "task": "Remove all masking and dropcloths",
+              "type": "standard"
+            },
+            {
+              "task": "Clean paint from windows, hardware, and fixtures",
+              "type": "standard"
+            },
+            {
+              "task": "Reinstall all hardware and covers",
+              "type": "standard"
+            }
+          ],
+          "task_count": 4
+        }
+      }
+    },
+    "Tile": {
+      "naics": "238340",
+      "naics_name": "Tile and Terrazzo Contractors",
+      "uniclass_ss": [
+        "Ss_25_45_88",
+        "Ss_32_20_95"
+      ],
+      "cost_category": "Hard Costs > Building Finish",
+      "description": "Ceramic, porcelain, stone tile",
+      "phases": {
+        "Prep": {
+          "tasks": [
+            {
+              "task": "Study blueprints and examine surface to determine amount of material needed",
+              "type": "standard"
+            },
+            {
+              "task": "Remove any old tile, grout and adhesive using chisels and scrapers",
+              "type": "standard"
+            },
+            {
+              "task": "Prepare surfaces for tiling by attaching cement board or waterproof membrane",
+              "type": "standard"
+            },
+            {
+              "task": "Level substrate and allow to dry",
+              "type": "standard"
+            },
+            {
+              "task": "Waterproof shower/tub areas with approved membrane system",
+              "type": "standard"
+            }
+          ],
+          "task_count": 5
+        },
+        "Layout": {
+          "tasks": [
+            {
+              "task": "Measure and mark surfaces to be tiled, following blueprints",
+              "type": "standard"
+            },
+            {
+              "task": "Determine and implement the best layout to achieve desired pattern",
+              "type": "standard"
+            },
+            {
+              "task": "Establish level lines and reference points",
+              "type": "standard"
+            },
+            {
+              "task": "Dry-fit tile to verify layout before setting",
+              "type": "standard"
+            }
+          ],
+          "task_count": 4
+        },
+        "Set": {
+          "tasks": [
+            {
+              "task": "Mix, apply, and spread thinset mortar or adhesive using trowels",
+              "type": "standard"
+            },
+            {
+              "task": "Apply mortar to tile back, position tile, and press into place",
+              "type": "standard"
+            },
+            {
+              "task": "Align and straighten tile using levels, squares, and straightedges",
+              "type": "standard"
+            },
+            {
+              "task": "Cut and shape tile to fit around obstacles using hand and power cutting tools",
+              "type": "standard"
+            },
+            {
+              "task": "Install tile edge trim and transitions",
+              "type": "standard"
+            },
+            {
+              "task": "Allow tile to set before grouting (24 hours typical)",
+              "type": "standard"
+            }
+          ],
+          "task_count": 6
+        },
+        "Grout": {
+          "tasks": [
+            {
+              "task": "Mix grout per manufacturer instructions",
+              "type": "standard"
+            },
+            {
+              "task": "Apply grout to joints using rubber float",
+              "type": "standard"
+            },
+            {
+              "task": "Finish and dress the joints and wipe excess grout using damp sponge",
+              "type": "standard"
+            },
+            {
+              "task": "Apply sealer to make grout stain and water resistant",
+              "type": "standard"
+            },
+            {
+              "task": "Caulk all change-of-plane joints with color-matched silicone",
+              "type": "standard"
+            }
+          ],
+          "task_count": 5
+        }
+      }
+    },
+    "Insulation": {
+      "naics": "238310",
+      "naics_name": "Drywall and Insulation Contractors",
+      "uniclass_ss": [
+        "Ss_25_35",
+        "Ss_25_35_30"
+      ],
+      "cost_category": "Hard Costs > Building Finish",
+      "description": "Thermal and acoustic insulation",
+      "phases": {
+        "Batt Insulation": {
+          "tasks": [
+            {
+              "task": "Read blueprints and select appropriate insulation based on R-value requirements",
+              "type": "standard"
+            },
+            {
+              "task": "Measure and cut insulation for covering surfaces",
+              "type": "standard"
+            },
+            {
+              "task": "Fit, wrap, staple, or glue insulating materials to structures using hand tools",
+              "type": "standard"
+            },
+            {
+              "task": "Install faced batt insulation in exterior walls with vapor barrier facing conditioned space",
+              "type": "standard"
+            },
+            {
+              "task": "Install unfaced batt insulation in interior walls for sound attenuation",
+              "type": "standard"
+            },
+            {
+              "task": "Insulate rim joists and cantilevered areas",
+              "type": "standard"
+            }
+          ],
+          "task_count": 6
+        },
+        "Blown Insulation": {
+          "tasks": [
+            {
+              "task": "Fill blower hoppers with insulating materials",
+              "type": "standard"
+            },
+            {
+              "task": "Distribute insulating materials evenly into small spaces using blowers and hose attachments",
+              "type": "standard"
+            },
+            {
+              "task": "Move controls to regulate flow of materials through nozzles",
+              "type": "standard"
+            },
+            {
+              "task": "Achieve specified depth/R-value in attic spaces",
+              "type": "standard"
+            },
+            {
+              "task": "Install depth markers per code requirements",
+              "type": "standard"
+            }
+          ],
+          "task_count": 5
+        },
+        "Air Sealing": {
+          "tasks": [
+            {
+              "task": "Seal all penetrations at top and bottom plates",
+              "type": "standard"
+            },
+            {
+              "task": "Seal around electrical boxes and plumbing penetrations",
+              "type": "standard"
+            },
+            {
+              "task": "Install foam baffles at eaves to maintain ventilation",
+              "type": "standard"
+            },
+            {
+              "task": "Cover, seal, or finish insulated surfaces with plastic covers or tape",
+              "type": "standard"
+            }
+          ],
+          "task_count": 4
+        },
+        "Inspection": {
+          "tasks": [
+            {
+              "task": "Verify insulation installation meets energy code requirements",
+              "type": "standard"
+            },
+            {
+              "task": "Provide insulation certificate with R-values",
+              "type": "standard"
+            },
+            {
+              "task": "Coordinate with energy rater for HERS inspection (if required)",
+              "type": "standard"
+            }
+          ],
+          "task_count": 3
+        }
+      }
+    }
+  },
+  "summary": {
+    "total_trades": 31,
+    "total_phases": 75,
+    "total_tasks": 311,
+    "standard_tasks": 277,
+    "parameterized_tasks": 34
+  }
+}

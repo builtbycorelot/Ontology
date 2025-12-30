@@ -1,0 +1,961 @@
+{
+  "_meta": {
+    "source": "Wikidata",
+    "license": "CC0",
+    "query_date": "2024-12-30"
+  },
+  "occupations": [
+    {
+      "qid": "Q117406565",
+      "label": "historian of Freemasonry",
+      "aliases": [],
+      "field": "Masonic studies"
+    },
+    {
+      "qid": "Q1183704",
+      "label": "decorative painter",
+      "aliases": [
+        "decoration painter",
+        "decorative painting artist"
+      ],
+      "field": "decorative painting"
+    },
+    {
+      "qid": "Q111327377",
+      "label": "vehicle painter",
+      "aliases": [
+        "car painter"
+      ],
+      "field": ""
+    },
+    {
+      "qid": "Q1743189",
+      "label": "church painter",
+      "aliases": [],
+      "field": "paintings in churches"
+    },
+    {
+      "qid": "Q98110743",
+      "label": "heraldic painter",
+      "aliases": [],
+      "field": "art of painting"
+    },
+    {
+      "qid": "Q28552423",
+      "label": "matte painter",
+      "aliases": [
+        "matte artist"
+      ],
+      "field": ""
+    },
+    {
+      "qid": "Q664283",
+      "label": "glazier",
+      "aliases": [
+        "glaziers",
+        "glassworker",
+        "glassmith"
+      ],
+      "field": ""
+    },
+    {
+      "qid": "Q42814229",
+      "label": "chalkidian vase-painter",
+      "aliases": [
+        "chalkidian vase-painters"
+      ],
+      "field": "Chalkidian pottery"
+    },
+    {
+      "qid": "Q106191850",
+      "label": "construction technology manager",
+      "aliases": [
+        "construction management technology professional"
+      ],
+      "field": "construction"
+    },
+    {
+      "qid": "Q16875701",
+      "label": "animal painter",
+      "aliases": [],
+      "field": "animal painting"
+    },
+    {
+      "qid": "Q5045700",
+      "label": "stage carpenter",
+      "aliases": [
+        "carpenter",
+        "propmaker",
+        "set carpenter",
+        "set constructor",
+        "stage constructor",
+        "theatre carpenter",
+        "prop maker"
+      ],
+      "field": "set construction"
+    },
+    {
+      "qid": "Q59924304",
+      "label": "panel painter",
+      "aliases": [],
+      "field": ""
+    },
+    {
+      "qid": "Q5357713",
+      "label": "electrical contractor",
+      "aliases": [],
+      "field": "construction"
+    },
+    {
+      "qid": "Q21600439",
+      "label": "landscape painter",
+      "aliases": [
+        "landscape artist",
+        "landscapist"
+      ],
+      "field": "landscape painting"
+    },
+    {
+      "qid": "Q25616553",
+      "label": "marine painter",
+      "aliases": [
+        "sea painter"
+      ],
+      "field": "marine painting"
+    },
+    {
+      "qid": "Q59938355",
+      "label": "flower painter",
+      "aliases": [
+        "floral painter"
+      ],
+      "field": "floral painting"
+    },
+    {
+      "qid": "Q108336520",
+      "label": "Cup Painter",
+      "aliases": [
+        "Cup painter",
+        "Cup-painter",
+        "Cup-Painter"
+      ],
+      "field": ""
+    },
+    {
+      "qid": "Q108404883",
+      "label": "wallpaper painter",
+      "aliases": [],
+      "field": "mural canvas"
+    },
+    {
+      "qid": "Q33124293",
+      "label": "still life painter",
+      "aliases": [],
+      "field": "still life"
+    },
+    {
+      "qid": "Q108821723",
+      "label": "master carpenter",
+      "aliases": [],
+      "field": ""
+    },
+    {
+      "qid": "Q109498975",
+      "label": "Formally schooled painter",
+      "aliases": [],
+      "field": ""
+    },
+    {
+      "qid": "Q137322453",
+      "label": "reverse glass painter",
+      "aliases": [],
+      "field": "Reverse glass painting"
+    },
+    {
+      "qid": "Q5695233",
+      "label": "heavy equipment operator",
+      "aliases": [],
+      "field": "civil engineering"
+    },
+    {
+      "qid": "Q27469950",
+      "label": "laconian vase-painter",
+      "aliases": [],
+      "field": "Laconian vase painting"
+    },
+    {
+      "qid": "Q111327389",
+      "label": "automotive electrician",
+      "aliases": [],
+      "field": ""
+    },
+    {
+      "qid": "Q63364314",
+      "label": "Technical assistant in construction engineering",
+      "aliases": [],
+      "field": ""
+    },
+    {
+      "qid": "Q5753365",
+      "label": "marine carpenter",
+      "aliases": [],
+      "field": "shipbuilding"
+    },
+    {
+      "qid": "Q811122",
+      "label": "construction worker",
+      "aliases": [
+        "builder",
+        "building construction worker"
+      ],
+      "field": ""
+    },
+    {
+      "qid": "Q26971890",
+      "label": "geometric vase-painter",
+      "aliases": [],
+      "field": "Ancient Greek Geometric pottery"
+    },
+    {
+      "qid": "Q2067634",
+      "label": "quantity surveyor",
+      "aliases": [],
+      "field": "architecture"
+    },
+    {
+      "qid": "Q42973",
+      "label": "architect",
+      "aliases": [
+        "building architects"
+      ],
+      "field": "computational design"
+    },
+    {
+      "qid": "Q55501274",
+      "label": "vase-painter of the Gnathia style",
+      "aliases": [],
+      "field": "Gnathia style"
+    },
+    {
+      "qid": "Q120345672",
+      "label": "journeyman painter",
+      "aliases": [],
+      "field": ""
+    },
+    {
+      "qid": "Q108705678",
+      "label": "ship portrait painter",
+      "aliases": [],
+      "field": "ship portrait"
+    },
+    {
+      "qid": "Q41000669",
+      "label": "white-groud vase-painter",
+      "aliases": [
+        "white-groud vase-painters"
+      ],
+      "field": ""
+    },
+    {
+      "qid": "Q109083647",
+      "label": "ink wash painter",
+      "aliases": [],
+      "field": "ink wash painting"
+    },
+    {
+      "qid": "Q831604",
+      "label": "Stonemason",
+      "aliases": [],
+      "field": ""
+    },
+    {
+      "qid": "Q28947943",
+      "label": "miniature painter",
+      "aliases": [
+        "miniaturist painter"
+      ],
+      "field": ""
+    },
+    {
+      "qid": "Q15301511",
+      "label": "vase painter",
+      "aliases": [
+        "painter of vases"
+      ],
+      "field": "vase-painting"
+    },
+    {
+      "qid": "Q984276",
+      "label": "court painter",
+      "aliases": [],
+      "field": "art of painting"
+    },
+    {
+      "qid": "Q63755054",
+      "label": "building contractor",
+      "aliases": [
+        "contractor",
+        "construction contractor"
+      ],
+      "field": "construction"
+    },
+    {
+      "qid": "Q130470669",
+      "label": "lead roofer",
+      "aliases": [],
+      "field": ""
+    },
+    {
+      "qid": "Q9063418",
+      "label": "project designer (construction)",
+      "aliases": [
+        "draftsman",
+        "draftsperson",
+        "draughtsman",
+        "draughtswoman",
+        "draftswoman",
+        "drafting technician"
+      ],
+      "field": "planimetrics"
+    },
+    {
+      "qid": "Q2180411",
+      "label": "portrait painter",
+      "aliases": [],
+      "field": "portrait painting"
+    },
+    {
+      "qid": "Q135726726",
+      "label": "plumber-zinc worker",
+      "aliases": [],
+      "field": "plumbing"
+    },
+    {
+      "qid": "Q1231320",
+      "label": "Porcelain painter",
+      "aliases": [],
+      "field": ""
+    },
+    {
+      "qid": "Q1392850",
+      "label": "vehicle painter",
+      "aliases": [],
+      "field": ""
+    },
+    {
+      "qid": "Q59938438",
+      "label": "history painter",
+      "aliases": [],
+      "field": "history painting"
+    },
+    {
+      "qid": "Q137322479",
+      "label": "fan painter",
+      "aliases": [],
+      "field": "fan painting"
+    },
+    {
+      "qid": "Q10726904",
+      "label": "academic painter",
+      "aliases": [],
+      "field": ""
+    },
+    {
+      "qid": "Q42973",
+      "label": "architect",
+      "aliases": [
+        "building architects"
+      ],
+      "field": "construction"
+    },
+    {
+      "qid": "Q98537518",
+      "label": "drapery painter",
+      "aliases": [],
+      "field": ""
+    },
+    {
+      "qid": "Q739240",
+      "label": "street painter",
+      "aliases": [
+        "madonnaro",
+        "chalk artist",
+        "pavement artist",
+        "sidewalk artist"
+      ],
+      "field": "street painting"
+    },
+    {
+      "qid": "Q42973",
+      "label": "architect",
+      "aliases": [
+        "building architects"
+      ],
+      "field": "construction"
+    },
+    {
+      "qid": "Q288728",
+      "label": "painter and varnisher",
+      "aliases": [
+        "painter",
+        "decorator",
+        "house painter",
+        "house decorator"
+      ],
+      "field": "interior architecture"
+    },
+    {
+      "qid": "Q11871806",
+      "label": "carpenter",
+      "aliases": [
+        "carpenter (construction worker)"
+      ],
+      "field": ""
+    },
+    {
+      "qid": "Q165029",
+      "label": "electrician",
+      "aliases": [],
+      "field": "electrical installation"
+    },
+    {
+      "qid": "Q11639733",
+      "label": "landscape construction management engineer",
+      "aliases": [],
+      "field": ""
+    },
+    {
+      "qid": "Q206082",
+      "label": "state-certified engineers specializing in building construction",
+      "aliases": [],
+      "field": ""
+    },
+    {
+      "qid": "Q59938992",
+      "label": "tempera painter",
+      "aliases": [],
+      "field": "tempera painting"
+    },
+    {
+      "qid": "Q328325",
+      "label": "stonemason",
+      "aliases": [
+        "stone mason",
+        "stonecutter",
+        "stone cutter",
+        "master mason"
+      ],
+      "field": "stonemasonry"
+    },
+    {
+      "qid": "Q135981732",
+      "label": "ship painter",
+      "aliases": [],
+      "field": "shipbuilding"
+    },
+    {
+      "qid": "Q328325",
+      "label": "stonemason",
+      "aliases": [
+        "stone mason",
+        "stonecutter",
+        "stone cutter",
+        "master mason"
+      ],
+      "field": "stoneworking"
+    },
+    {
+      "qid": "Q96007538",
+      "label": "battle painter",
+      "aliases": [],
+      "field": "battle painting"
+    },
+    {
+      "qid": "Q2223407",
+      "label": "advertising painter",
+      "aliases": [],
+      "field": ""
+    },
+    {
+      "qid": "Q26829128",
+      "label": "boeotian vase-painter",
+      "aliases": [],
+      "field": "Boeotian vase painting"
+    },
+    {
+      "qid": "Q2673080",
+      "label": "city carpenter",
+      "aliases": [],
+      "field": ""
+    },
+    {
+      "qid": "Q117406565",
+      "label": "historian of Freemasonry",
+      "aliases": [],
+      "field": "Historiography of Freemasonry"
+    },
+    {
+      "qid": "Q55474098",
+      "label": "Sicilian vase-painter",
+      "aliases": [
+        "Sicilian vase-painters"
+      ],
+      "field": ""
+    },
+    {
+      "qid": "Q59923851",
+      "label": "coach painter",
+      "aliases": [
+        "car painter",
+        "carriage painter",
+        "coach-painter"
+      ],
+      "field": ""
+    },
+    {
+      "qid": "Q3068256",
+      "label": "female painter",
+      "aliases": [
+        "paintress",
+        "woman painter"
+      ],
+      "field": ""
+    },
+    {
+      "qid": "Q15303045",
+      "label": "red-figure vase painter",
+      "aliases": [],
+      "field": ""
+    },
+    {
+      "qid": "Q10270209",
+      "label": "buildings technician",
+      "aliases": [],
+      "field": "construction"
+    },
+    {
+      "qid": "Q2067634",
+      "label": "quantity surveyor",
+      "aliases": [],
+      "field": "quantity surveying"
+    },
+    {
+      "qid": "Q2996169",
+      "label": "Q2996169",
+      "aliases": [],
+      "field": "construction"
+    },
+    {
+      "qid": "Q811459",
+      "label": "construction manager",
+      "aliases": [
+        "building manager",
+        "site agent",
+        "site manager"
+      ],
+      "field": "construction management"
+    },
+    {
+      "qid": "Q2996630",
+      "label": "Health and Security (H&S) coordinator / officer",
+      "aliases": [],
+      "field": "construction"
+    },
+    {
+      "qid": "Q18655536",
+      "label": "coarse painter",
+      "aliases": [],
+      "field": ""
+    },
+    {
+      "qid": "Q252924",
+      "label": "plumber",
+      "aliases": [],
+      "field": "plumbing"
+    },
+    {
+      "qid": "Q1498789",
+      "label": "refractory mason",
+      "aliases": [
+        "refractory bricklayer"
+      ],
+      "field": ""
+    },
+    {
+      "qid": "Q9063418",
+      "label": "project designer (construction)",
+      "aliases": [
+        "draftsman",
+        "draftsperson",
+        "draughtsman",
+        "draughtswoman",
+        "draftswoman",
+        "drafting technician"
+      ],
+      "field": "civil engineering"
+    },
+    {
+      "qid": "Q1340643",
+      "label": "master builder",
+      "aliases": [
+        "architect",
+        "builder",
+        "master mason",
+        "magister operum",
+        "master of the works"
+      ],
+      "field": "construction"
+    },
+    {
+      "qid": "Q777804",
+      "label": "skilled interior construction worker",
+      "aliases": [],
+      "field": ""
+    },
+    {
+      "qid": "Q42973",
+      "label": "architect",
+      "aliases": [
+        "building architects"
+      ],
+      "field": "building design"
+    },
+    {
+      "qid": "Q18714098",
+      "label": "Greek vase-painter",
+      "aliases": [
+        "Greek vase-painters"
+      ],
+      "field": "Greek vase-painting"
+    },
+    {
+      "qid": "Q24692846",
+      "label": "Etruscan vase-painter",
+      "aliases": [],
+      "field": "Etruscan vase painting"
+    },
+    {
+      "qid": "Q133888877",
+      "label": "Skilled worker – painter and varnisher",
+      "aliases": [],
+      "field": ""
+    },
+    {
+      "qid": "Q133889153",
+      "label": "Skilled worker – metal construction",
+      "aliases": [],
+      "field": ""
+    },
+    {
+      "qid": "Q134082971",
+      "label": "Agricultural and construction machinery mechatronics technician",
+      "aliases": [],
+      "field": ""
+    },
+    {
+      "qid": "Q26961737",
+      "label": "Apulian vase-painter",
+      "aliases": [],
+      "field": ""
+    },
+    {
+      "qid": "Q134447155",
+      "label": "Glass and porcelain painter",
+      "aliases": [],
+      "field": ""
+    },
+    {
+      "qid": "Q5045700",
+      "label": "stage carpenter",
+      "aliases": [
+        "carpenter",
+        "propmaker",
+        "set carpenter",
+        "set constructor",
+        "stage constructor",
+        "theatre carpenter",
+        "prop maker"
+      ],
+      "field": "scenography"
+    },
+    {
+      "qid": "Q2067634",
+      "label": "quantity surveyor",
+      "aliases": [],
+      "field": "construction"
+    },
+    {
+      "qid": "Q137322432",
+      "label": "marble painter",
+      "aliases": [],
+      "field": ""
+    },
+    {
+      "qid": "Q137322442",
+      "label": "decorative painter of objects",
+      "aliases": [],
+      "field": ""
+    },
+    {
+      "qid": "Q137322448",
+      "label": "pattern painter",
+      "aliases": [],
+      "field": ""
+    },
+    {
+      "qid": "Q137322466",
+      "label": "decorative painter of furniture",
+      "aliases": [],
+      "field": ""
+    },
+    {
+      "qid": "Q137322491",
+      "label": "fabric painter",
+      "aliases": [],
+      "field": ""
+    },
+    {
+      "qid": "Q137322489",
+      "label": "staffage painter",
+      "aliases": [],
+      "field": ""
+    },
+    {
+      "qid": "Q137322495",
+      "label": "matter painter",
+      "aliases": [],
+      "field": ""
+    },
+    {
+      "qid": "Q137322496",
+      "label": "dozen painter",
+      "aliases": [],
+      "field": ""
+    },
+    {
+      "qid": "Q811347",
+      "label": "Construction plant operator",
+      "aliases": [],
+      "field": ""
+    },
+    {
+      "qid": "Q811955",
+      "label": "Masonry waterproofer",
+      "aliases": [],
+      "field": ""
+    },
+    {
+      "qid": "Q30144139",
+      "label": "Corinthian vase-painter",
+      "aliases": [],
+      "field": ""
+    },
+    {
+      "qid": "Q1288894",
+      "label": "Industrial electrician",
+      "aliases": [],
+      "field": ""
+    },
+    {
+      "qid": "Q1621672",
+      "label": "Building construction worker",
+      "aliases": [],
+      "field": ""
+    },
+    {
+      "qid": "Q1734283",
+      "label": "Motor vehicle body and vehicle construction mechanic",
+      "aliases": [],
+      "field": ""
+    },
+    {
+      "qid": "Q1747640",
+      "label": "Stone mason working natural stone",
+      "aliases": [],
+      "field": ""
+    },
+    {
+      "qid": "Q1782987",
+      "label": "construction mechanic",
+      "aliases": [],
+      "field": ""
+    },
+    {
+      "qid": "Q135726726",
+      "label": "plumber-zinc worker",
+      "aliases": [],
+      "field": "zinguerie"
+    },
+    {
+      "qid": "Q55474045",
+      "label": "Lucanian vase-painter",
+      "aliases": [],
+      "field": ""
+    },
+    {
+      "qid": "Q107736890",
+      "label": "tile painter",
+      "aliases": [],
+      "field": "Q109640973"
+    },
+    {
+      "qid": "Q15303031",
+      "label": "black-figure vase painter",
+      "aliases": [
+        "black-figure vase painters"
+      ],
+      "field": ""
+    },
+    {
+      "qid": "Q18431816",
+      "label": "glass painter",
+      "aliases": [
+        "float glass painter"
+      ],
+      "field": "Reverse glass painting"
+    },
+    {
+      "qid": "Q9325190",
+      "label": "construction appraiser",
+      "aliases": [],
+      "field": ""
+    },
+    {
+      "qid": "Q34401803",
+      "label": "campanian vase-painter",
+      "aliases": [],
+      "field": ""
+    },
+    {
+      "qid": "Q3374324",
+      "label": "letter painter",
+      "aliases": [
+        "sign painter"
+      ],
+      "field": "sign painting"
+    },
+    {
+      "qid": "Q124727029",
+      "label": "pencil painter",
+      "aliases": [],
+      "field": "pencil drawing"
+    },
+    {
+      "qid": "Q1020606",
+      "label": "stage painter",
+      "aliases": [
+        "scenic painter",
+        "theater painter",
+        "theatre painter",
+        "set painter"
+      ],
+      "field": "theatrical scenic painting"
+    },
+    {
+      "qid": "Q59938940",
+      "label": "pottery painter",
+      "aliases": [],
+      "field": ""
+    },
+    {
+      "qid": "Q5695233",
+      "label": "heavy equipment operator",
+      "aliases": [],
+      "field": "construction"
+    },
+    {
+      "qid": "Q22669155",
+      "label": "fresco painter",
+      "aliases": [
+        "fresco artist"
+      ],
+      "field": "fresco painting"
+    },
+    {
+      "qid": "Q117406565",
+      "label": "historian of Freemasonry",
+      "aliases": [],
+      "field": "history of Freemasonry"
+    },
+    {
+      "qid": "Q252924",
+      "label": "plumber",
+      "aliases": [],
+      "field": "water pipeline"
+    },
+    {
+      "qid": "Q17505911",
+      "label": "architectural painter",
+      "aliases": [],
+      "field": "architectural painting"
+    },
+    {
+      "qid": "Q3964546",
+      "label": "genre painter",
+      "aliases": [],
+      "field": "genre painting"
+    },
+    {
+      "qid": "Q59923398",
+      "label": "ceiling painter",
+      "aliases": [
+        "ceiling-painter"
+      ],
+      "field": ""
+    },
+    {
+      "qid": "Q59923567",
+      "label": "altarpiece painter",
+      "aliases": [
+        "altarpiece painters"
+      ],
+      "field": ""
+    },
+    {
+      "qid": "Q5357767",
+      "label": "theatrical electrician",
+      "aliases": [
+        "electrician",
+        "electrician for theatres"
+      ],
+      "field": ""
+    },
+    {
+      "qid": "Q111609536",
+      "label": "glazier",
+      "aliases": [],
+      "field": "glass"
+    },
+    {
+      "qid": "Q6785131",
+      "label": "master electrician",
+      "aliases": [
+        "chief electrician"
+      ],
+      "field": ""
+    },
+    {
+      "qid": "Q59924426",
+      "label": "oil painter",
+      "aliases": [],
+      "field": "oil painting"
+    },
+    {
+      "qid": "Q42973",
+      "label": "architect",
+      "aliases": [
+        "building architects"
+      ],
+      "field": "architecture"
+    },
+    {
+      "qid": "Q21282419",
+      "label": "Attic vase-painter",
+      "aliases": [
+        "Attic vase-painters"
+      ],
+      "field": "Attic vase-painting"
+    }
+  ],
+  "uk_us_variants": []
+}

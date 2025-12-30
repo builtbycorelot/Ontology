@@ -1,0 +1,120 @@
+{
+  "_meta": {
+    "source": "BLS Industry-Occupation Matrix",
+    "license": "Public Domain (US Government)",
+    "url": "https://www.bls.gov/emp/tables/industry-occupation-matrix-industry.htm",
+    "description": "Maps NAICS industries to typical SOC occupations"
+  },
+  "matrix": {
+    "238210": {
+      "primary_soc": [
+        "47-2111"
+      ],
+      "secondary_soc": [
+        "47-1011",
+        "49-2022"
+      ],
+      "description": "Electrical wiring, fixtures, equipment"
+    },
+    "238220": {
+      "primary_soc": [
+        "47-2152"
+      ],
+      "secondary_soc": [
+        "49-9021",
+        "47-2011"
+      ],
+      "description": "Plumbing, HVAC installation"
+    },
+    "238310": {
+      "primary_soc": [
+        "47-2081",
+        "47-2131"
+      ],
+      "secondary_soc": [
+        "47-2082"
+      ],
+      "description": "Drywall, insulation, acoustical work"
+    },
+    "238320": {
+      "primary_soc": [
+        "47-2141",
+        "47-2142"
+      ],
+      "description": "Painting, wallpaper, coatings"
+    },
+    "238340": {
+      "primary_soc": [
+        "47-2044",
+        "47-2053"
+      ],
+      "description": "Tile, stone, terrazzo installation"
+    },
+    "238110": {
+      "primary_soc": [
+        "47-2051",
+        "47-2061"
+      ],
+      "description": "Concrete foundations, slabs"
+    },
+    "238120": {
+      "primary_soc": [
+        "47-2221",
+        "47-2171"
+      ],
+      "description": "Steel erection, precast concrete"
+    },
+    "238130": {
+      "primary_soc": [
+        "47-2031"
+      ],
+      "description": "Wood framing, structural carpentry"
+    },
+    "238140": {
+      "primary_soc": [
+        "47-2021",
+        "47-2022"
+      ],
+      "description": "Brick, block, stone masonry"
+    },
+    "238150": {
+      "primary_soc": [
+        "47-2121"
+      ],
+      "description": "Glass installation, curtain walls"
+    },
+    "238160": {
+      "primary_soc": [
+        "47-2181"
+      ],
+      "description": "Roofing systems, waterproofing"
+    },
+    "238170": {
+      "primary_soc": [
+        "47-2031"
+      ],
+      "description": "Siding, cladding, exterior finish"
+    },
+    "238190": {
+      "primary_soc": [
+        "47-2061",
+        "47-4051"
+      ],
+      "description": "Waterproofing, dampproofing"
+    },
+    "238910": {
+      "primary_soc": [
+        "47-2073",
+        "47-2072"
+      ],
+      "description": "Excavation, grading, demolition"
+    },
+    "238990": {
+      "primary_soc": [
+        "47-2061",
+        "47-4090"
+      ],
+      "description": "Specialty trades not elsewhere classified"
+    }
+  }
+}

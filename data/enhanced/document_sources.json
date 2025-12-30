@@ -1,0 +1,74 @@
+{
+  "_meta": {
+    "description": "Public document sources with construction classifications",
+    "note": "These sources contain real-world usage of classification codes",
+    "license": "Various - see individual sources"
+  },
+  "sources": [
+    {
+      "name": "UK Government Digital Marketplace",
+      "url": "https://www.digitalmarketplace.service.gov.uk/",
+      "classifications": [
+        "Uniclass"
+      ],
+      "license": "Open Government License",
+      "content": "Public sector construction procurement"
+    },
+    {
+      "name": "GSA Federal Acquisition Service",
+      "url": "https://www.gsa.gov/",
+      "classifications": [
+        "NAICS",
+        "PSC"
+      ],
+      "license": "Public Domain",
+      "content": "US federal construction contracts"
+    },
+    {
+      "name": "Open BIM Standards",
+      "url": "https://github.com/topics/openbim",
+      "classifications": [
+        "IFC",
+        "Uniclass"
+      ],
+      "license": "Various open source",
+      "content": "BIM model classification examples"
+    },
+    {
+      "name": "NBS National BIM Library",
+      "url": "https://www.nationalbimlibrary.com/",
+      "classifications": [
+        "Uniclass",
+        "NBS"
+      ],
+      "license": "Free to use",
+      "content": "BIM objects with Uniclass codes"
+    },
+    {
+      "name": "Census Bureau Construction Statistics",
+      "url": "https://www.census.gov/construction/",
+      "classifications": [
+        "NAICS"
+      ],
+      "license": "Public Domain",
+      "content": "Construction industry data by NAICS"
+    },
+    {
+      "name": "RICS Construction Data",
+      "url": "https://www.rics.org/",
+      "classifications": [
+        "NRM",
+        "RICS"
+      ],
+      "license": "Proprietary (reference only)",
+      "content": "Cost data with work classifications"
+    }
+  ],
+  "academic_papers": [
+    {
+      "title": "Classification systems for the construction industry",
+      "doi": "Various",
+      "note": "Search Google Scholar for 'NAICS Uniclass crosswalk construction'"
+    }
+  ]
+}

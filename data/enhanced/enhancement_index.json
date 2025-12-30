@@ -1,0 +1,21 @@
+{
+  "enhanced_at": "2024-12-30",
+  "methods": {
+    "bls_matrix": {
+      "file": "bls_naics_soc_matrix.json",
+      "naics_codes": 15
+    },
+    "brick_schema": {
+      "file": "brick_systems.json",
+      "systems": 29
+    },
+    "wordnet": {
+      "file": "wordnet_expansions.json",
+      "terms": 24
+    },
+    "document_sources": {
+      "file": "document_sources.json",
+      "sources": 6
+    }
+  }
+}

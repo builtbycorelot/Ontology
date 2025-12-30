@@ -1,0 +1,551 @@
+{
+  "_meta": {
+    "description": "Construction Cost Model Schema",
+    "version": "1.0",
+    "date": "2024-12-30"
+  },
+  "financial_metrics": {
+    "roi": {
+      "description": "Return on Investment",
+      "formula": "profit / total_cost"
+    },
+    "roe": {
+      "description": "Return on Equity",
+      "formula": "profit / required_equity",
+      "note": "Typically at 70% LTV"
+    },
+    "ltv": {
+      "description": "Loan to Value",
+      "default": 0.7
+    },
+    "cost_per_sf": {
+      "description": "Total Cost / Square Feet"
+    },
+    "hard_cost_per_sf": {
+      "description": "Hard Costs / Square Feet"
+    },
+    "sales_price_per_sf": {
+      "description": "Target or actual sales price / SF"
+    },
+    "market_lease_rate_sf": {
+      "description": "Market lease rate per SF (commercial)"
+    }
+  },
+  "cost_categories": {
+    "Hard Costs": {
+      "description": "Direct construction costs",
+      "subcategories": {
+        "Site Costs": {
+          "line_items": [
+            {
+              "code": "HC-SITE-001",
+              "name": "Lot Cost",
+              "type": "fixed"
+            },
+            {
+              "code": "HC-SITE-002",
+              "name": "Easements",
+              "type": "fixed"
+            },
+            {
+              "code": "HC-SITE-010",
+              "name": "Clearing",
+              "trade": "Lot Development"
+            },
+            {
+              "code": "HC-SITE-011",
+              "name": "Demolition",
+              "trade": "Lot Development"
+            },
+            {
+              "code": "HC-SITE-012",
+              "name": "Construction Entrance",
+              "trade": "Lot Development"
+            },
+            {
+              "code": "HC-SITE-013",
+              "name": "Dig Basement",
+              "trade": "Lot Development"
+            },
+            {
+              "code": "HC-SITE-014",
+              "name": "Rough Grade",
+              "trade": "Lot Development"
+            },
+            {
+              "code": "HC-SITE-015",
+              "name": "Erosion Control",
+              "trade": "Lot Development"
+            },
+            {
+              "code": "HC-SITE-016",
+              "name": "Private Ln Access",
+              "trade": "Lot Development"
+            },
+            {
+              "code": "HC-SITE-017",
+              "name": "SWM Facility",
+              "trade": "Lot Development"
+            },
+            {
+              "code": "HC-SITE-020",
+              "name": "Final Grade",
+              "trade": "Landscaping"
+            },
+            {
+              "code": "HC-SITE-021",
+              "name": "Seed & Straw",
+              "trade": "Landscaping"
+            },
+            {
+              "code": "HC-SITE-022",
+              "name": "Sod",
+              "trade": "Landscaping"
+            },
+            {
+              "code": "HC-SITE-023",
+              "name": "Plants & Mulch",
+              "trade": "Landscaping"
+            },
+            {
+              "code": "HC-SITE-030",
+              "name": "Septic / Sewer",
+              "trade": "Utilities to site"
+            },
+            {
+              "code": "HC-SITE-031",
+              "name": "Manhole & Water Tap",
+              "trade": "Utilities to site"
+            },
+            {
+              "code": "HC-SITE-032",
+              "name": "Run to Manhole",
+              "trade": "Utilities to site"
+            },
+            {
+              "code": "HC-SITE-033",
+              "name": "Well & Water Hookup Labor",
+              "trade": "Utilities to site"
+            },
+            {
+              "code": "HC-SITE-034",
+              "name": "Utilities Installation",
+              "trade": "Utilities to site"
+            },
+            {
+              "code": "HC-SITE-040",
+              "name": "Paving / Driveway",
+              "trade": "Paving"
+            },
+            {
+              "code": "HC-SITE-041",
+              "name": "Lead Walk & Pads",
+              "trade": "Concrete"
+            },
+            {
+              "code": "HC-SITE-050",
+              "name": "Signage",
+              "trade": null
+            },
+            {
+              "code": "HC-SITE-051",
+              "name": "Lawn Maintenance",
+              "trade": "Landscaping"
+            },
+            {
+              "code": "HC-SITE-060",
+              "name": "Dumpster",
+              "trade": null
+            },
+            {
+              "code": "HC-SITE-061",
+              "name": "Pump Truck",
+              "trade": "Concrete"
+            }
+          ]
+        },
+        "Building Shell": {
+          "line_items": [
+            {
+              "code": "HC-SHELL-001",
+              "name": "Concrete (Foundation & Walls)",
+              "trade": "Concrete"
+            },
+            {
+              "code": "HC-SHELL-002",
+              "name": "Gravel & Plastic",
+              "trade": "Concrete"
+            },
+            {
+              "code": "HC-SHELL-003",
+              "name": "Waterproofing / Draintile",
+              "trade": "Concrete"
+            },
+            {
+              "code": "HC-SHELL-004",
+              "name": "Termite Treatment",
+              "trade": "Termite Treatment"
+            },
+            {
+              "code": "HC-SHELL-010",
+              "name": "Steel Structure",
+              "trade": "Steel Structure"
+            },
+            {
+              "code": "HC-SHELL-011",
+              "name": "Erection Contractor",
+              "trade": "Steel Structure"
+            },
+            {
+              "code": "HC-SHELL-012",
+              "name": "Masonry",
+              "trade": "Masonry"
+            },
+            {
+              "code": "HC-SHELL-020",
+              "name": "Framing Sub-Contractor",
+              "trade": "Framer"
+            },
+            {
+              "code": "HC-SHELL-021",
+              "name": "Framing Material",
+              "trade": "Lumber"
+            },
+            {
+              "code": "HC-SHELL-022",
+              "name": "Trusses",
+              "trade": "Trusses"
+            },
+            {
+              "code": "HC-SHELL-023",
+              "name": "Roof Sheathing",
+              "trade": "Framer"
+            },
+            {
+              "code": "HC-SHELL-030",
+              "name": "EIFS",
+              "trade": "EIFS"
+            },
+            {
+              "code": "HC-SHELL-031",
+              "name": "Exterior Features",
+              "trade": "Exterior Features"
+            },
+            {
+              "code": "HC-SHELL-032",
+              "name": "Exterior Doors",
+              "trade": "Exterior Doors"
+            },
+            {
+              "code": "HC-SHELL-033",
+              "name": "Store Front",
+              "trade": "Store Front"
+            },
+            {
+              "code": "HC-SHELL-034",
+              "name": "Windows",
+              "trade": "Windows"
+            },
+            {
+              "code": "HC-SHELL-035",
+              "name": "Garage Doors",
+              "trade": "Garage Doors"
+            },
+            {
+              "code": "HC-SHELL-040",
+              "name": "Roofing",
+              "trade": "Roofing"
+            },
+            {
+              "code": "HC-SHELL-041",
+              "name": "Siding",
+              "trade": "Siding"
+            },
+            {
+              "code": "HC-SHELL-042",
+              "name": "Guttering",
+              "trade": "Guttering"
+            }
+          ]
+        },
+        "Building MEP": {
+          "line_items": [
+            {
+              "code": "HC-MEP-001",
+              "name": "HVAC",
+              "trade": "HVAC"
+            },
+            {
+              "code": "HC-MEP-002",
+              "name": "Plumbing",
+              "trade": "Plumbing"
+            },
+            {
+              "code": "HC-MEP-003",
+              "name": "Electrical",
+              "trade": "Electrical"
+            },
+            {
+              "code": "HC-MEP-004",
+              "name": "Sprinkler",
+              "trade": "Sprinkler"
+            }
+          ]
+        },
+        "Building Finish": {
+          "line_items": [
+            {
+              "code": "HC-FIN-001",
+              "name": "Insulation",
+              "trade": "Insulation"
+            },
+            {
+              "code": "HC-FIN-002",
+              "name": "Drywall",
+              "trade": "Drywall"
+            },
+            {
+              "code": "HC-FIN-003",
+              "name": "Interior Trim",
+              "trade": "Trim"
+            },
+            {
+              "code": "HC-FIN-004",
+              "name": "Stairs",
+              "trade": "Stairs"
+            },
+            {
+              "code": "HC-FIN-005",
+              "name": "Rails",
+              "trade": "Rails"
+            },
+            {
+              "code": "HC-FIN-006",
+              "name": "Paint",
+              "trade": "Paint"
+            },
+            {
+              "code": "HC-FIN-010",
+              "name": "Cabinets",
+              "trade": "Cabinets"
+            },
+            {
+              "code": "HC-FIN-011",
+              "name": "Countertops",
+              "trade": "Countertops"
+            },
+            {
+              "code": "HC-FIN-012",
+              "name": "Flooring",
+              "trade": "Flooring"
+            },
+            {
+              "code": "HC-FIN-020",
+              "name": "Fireplace",
+              "trade": "Fireplace"
+            },
+            {
+              "code": "HC-FIN-030",
+              "name": "Electrical Fixtures",
+              "trade": "Electrical Fixtures"
+            },
+            {
+              "code": "HC-FIN-031",
+              "name": "Plumbing Fixtures",
+              "trade": "Plumbing Fixtures"
+            },
+            {
+              "code": "HC-FIN-032",
+              "name": "Appliances",
+              "trade": "Appliances"
+            },
+            {
+              "code": "HC-FIN-033",
+              "name": "Hardware / Knobs",
+              "trade": "Hardware"
+            },
+            {
+              "code": "HC-FIN-034",
+              "name": "Mirrors",
+              "trade": "Mirrors"
+            },
+            {
+              "code": "HC-FIN-035",
+              "name": "Shelves",
+              "trade": "Shelving"
+            },
+            {
+              "code": "HC-FIN-036",
+              "name": "Shower Door",
+              "trade": "Shower Door"
+            },
+            {
+              "code": "HC-FIN-040",
+              "name": "Cleaning",
+              "trade": "Cleaning"
+            },
+            {
+              "code": "HC-FIN-099",
+              "name": "Miscellaneous",
+              "trade": null
+            }
+          ]
+        }
+      }
+    },
+    "Soft Costs": {
+      "description": "Indirect project costs",
+      "subcategories": {
+        "Professional Fees": {
+          "line_items": [
+            {
+              "code": "SC-PROF-001",
+              "name": "Management Fee",
+              "percent_of": "hard_costs",
+              "typical": 0.03
+            },
+            {
+              "code": "SC-PROF-002",
+              "name": "3rd Party Concrete Inspections",
+              "trade": "3rd Party Inspection"
+            },
+            {
+              "code": "SC-PROF-003",
+              "name": "Condo Organization",
+              "type": "fixed"
+            }
+          ]
+        },
+        "Engineering": {
+          "line_items": [
+            {
+              "code": "SC-ENG-001",
+              "name": "Site Plan",
+              "trade": "Site Plan"
+            },
+            {
+              "code": "SC-ENG-002",
+              "name": "Surveying",
+              "trade": "Surveying"
+            },
+            {
+              "code": "SC-ENG-003",
+              "name": "Sewer Design",
+              "trade": "Engineering"
+            },
+            {
+              "code": "SC-ENG-004",
+              "name": "Foundation Design",
+              "trade": "Engineering"
+            },
+            {
+              "code": "SC-ENG-005",
+              "name": "Slab Design",
+              "trade": "Engineering"
+            },
+            {
+              "code": "SC-ENG-006",
+              "name": "Research",
+              "trade": "Due Diligence"
+            },
+            {
+              "code": "SC-ENG-010",
+              "name": "Property Corners",
+              "trade": "Surveying"
+            },
+            {
+              "code": "SC-ENG-011",
+              "name": "Rough Stake",
+              "trade": "Surveying"
+            },
+            {
+              "code": "SC-ENG-012",
+              "name": "Good Stake",
+              "trade": "Surveying"
+            },
+            {
+              "code": "SC-ENG-013",
+              "name": "LOC",
+              "trade": "Surveying"
+            },
+            {
+              "code": "SC-ENG-014",
+              "name": "Wall Check",
+              "trade": "Surveying"
+            }
+          ]
+        },
+        "Permits & Fees": {
+          "line_items": [
+            {
+              "code": "SC-PERM-001",
+              "name": "Permits & County Fees (Bld & Health)",
+              "type": "fixed"
+            },
+            {
+              "code": "SC-PERM-002",
+              "name": "Erosion & VDOT Bond",
+              "type": "fixed"
+            },
+            {
+              "code": "SC-PERM-003",
+              "name": "Sewer Availability Fee",
+              "type": "fixed"
+            },
+            {
+              "code": "SC-PERM-004",
+              "name": "Water Availability Fee",
+              "type": "fixed"
+            }
+          ]
+        },
+        "Sales & Closing": {
+          "line_items": [
+            {
+              "code": "SC-SALE-001",
+              "name": "R/E Commission",
+              "percent_of": "sales_price",
+              "typical": 0.05
+            },
+            {
+              "code": "SC-SALE-002",
+              "name": "Settlement Fees",
+              "type": "fixed"
+            },
+            {
+              "code": "SC-SALE-003",
+              "name": "Home Warranty",
+              "percent_of": "sales_price",
+              "typical": 0.00225
+            }
+          ]
+        },
+        "Finance & Insurance": {
+          "line_items": [
+            {
+              "code": "SC-FIN-001",
+              "name": "Bank Fees (1 pt)",
+              "percent_of": "loan_amount",
+              "typical": 0.01
+            },
+            {
+              "code": "SC-FIN-002",
+              "name": "Interest",
+              "note": "Typically 6 months carry"
+            },
+            {
+              "code": "SC-FIN-003",
+              "name": "Builders Risk Insurance",
+              "type": "fixed"
+            },
+            {
+              "code": "SC-FIN-004",
+              "name": "R/E Taxes",
+              "type": "fixed"
+            }
+          ]
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,147 @@
+{
+  "_meta": {
+    "source": "User seed data v2",
+    "respect_level": "medium",
+    "description": "Complete construction scopes with additional trades",
+    "date": "2024-12-30"
+  },
+  "additional_scopes": [
+    {"trade": "Exterior Features", "phase": null, "task": "Install 1x PVC above all windows for pediments"},
+    {"trade": "Exterior Features", "phase": null, "task": "Install 5/4 pvc under doors"},
+    {"trade": "Exterior Features", "phase": null, "task": "Install Front Porch Column Wrap & Trim"},
+    {"trade": "Exterior Features", "phase": null, "task": "Install garage PVC garage door trim (exterior & jamb) & PVC trim around basement windows & doors (If applicable)"},
+    {"trade": "HVAC", "phase": "Final", "task": "All Registers"},
+    {"trade": "HVAC", "phase": "R/I", "task": "Fire Stop Duct Chase"},
+    {"trade": "HVAC", "phase": null, "task": "Furnish & Install of all HVAC Equipment & Ducting"},
+    {"trade": "HVAC", "phase": null, "task": "Furnish & Install Temporary filter"},
+    {"trade": "Electrical", "phase": null, "task": "Wire Well Wire & Power to Expansion Tank if applicable"},
+    {"trade": "Electrical", "phase": null, "task": "Caulk Exterior Fixtures to Split Block"},
+    {"trade": "Electrical", "phase": null, "task": "Furnish & Install 40 Space Panel & Disconnect- Neatly Labeled"},
+    {"trade": "Electrical", "phase": null, "task": "Furnish & install basic doorbell"},
+    {"trade": "Electrical", "phase": null, "task": "F&I (5) Gimble Cans on cathedral ceilings"},
+    {"trade": "Electrical", "phase": null, "task": "Install All Bulbs in Every fixture"},
+    {"trade": "Electrical", "phase": null, "task": "Install electrical Per plans & per code"},
+    {"trade": "Electrical", "phase": null, "task": "Install Fan in Great Room & Master BR"},
+    {"trade": "Electrical", "phase": null, "task": "Install Flood light for deck steps"},
+    {"trade": "Electrical", "phase": null, "task": "Install Micro-Hood"},
+    {"trade": "Electrical", "phase": null, "task": "Install Stove (in-place) w/ anti-tip"},
+    {"trade": "Electrical", "phase": null, "task": "Rough In all bedrooms for fan"},
+    {"trade": "Electrical", "phase": null, "task": "Field verify switches are not covered by doors or rails"},
+    {"trade": "Drywall", "phase": null, "task": "Cover Tubs with plastic"},
+    {"trade": "Drywall", "phase": null, "task": "Dispose of all drywall waste in provided dumpster"},
+    {"trade": "Drywall", "phase": null, "task": "F&I Drywall"},
+    {"trade": "Drywall", "phase": null, "task": "Install 5/8 type X in garage where required by code"},
+    {"trade": "Siding", "phase": null, "task": "Furnish Siding"},
+    {"trade": "Siding", "phase": null, "task": "Install siding Per Plans & Code"},
+    {"trade": "Siding", "phase": null, "task": "Provide details per plan"},
+    {"trade": "Siding", "phase": null, "task": "Standard 12\" soffit overhang"},
+    {"trade": "Siding", "phase": null, "task": "Trim All Windows"},
+    {"trade": "Siding", "phase": null, "task": "Wrap all fascia, rake, exterior headers and beams"},
+    {"trade": "Garage Doors", "phase": null, "task": "KeyPad For each Door"},
+    {"trade": "Paint", "phase": null, "task": "Caulk Exterior Trim (Quad)"},
+    {"trade": "Paint", "phase": null, "task": "Caulk Toilets w/ 1\" gap (clear silicone)"},
+    {"trade": "Paint", "phase": null, "task": "Caulk Vanities & Countertops"},
+    {"trade": "Paint", "phase": null, "task": "Furnish & Install 2-tone, 2-coat flat walls McCormick Standards, white ceilings, white semi-gloss trim"},
+    {"trade": "Paint", "phase": null, "task": "Furnish Labelled Touch up kit (Walls 1gal, Ceilings 1gal, Trim 1gal, Stain 1qt)"},
+    {"trade": "Paint", "phase": null, "task": "Stain Railing"},
+    {"trade": "Paint", "phase": null, "task": "Paint Exterior PVC"},
+    {"trade": "Paint", "phase": null, "task": "Vacuum the work area prior to spraying"},
+    {"trade": "Cabinets", "phase": null, "task": "Furnish (2) Touch up kits"},
+    {"trade": "Cabinets", "phase": null, "task": "Provide Matching Shoe Molding"},
+    {"trade": "Trim", "phase": "Rails", "task": "Furnish & Install of Rails and all components"},
+    {"trade": "Countertops", "phase": null, "task": "Cover & Protect upon install"},
+    {"trade": "Countertops", "phase": null, "task": "F&I steel reinforcement overhangs exceeding 10\""},
+    {"trade": "Countertops", "phase": null, "task": "F&I Dishwasher mount"},
+    {"trade": "Electrical Fixtures", "phase": null, "task": "Deliver all Bulbs for Fixtures"},
+    {"trade": "Appliances", "phase": null, "task": "Un-Box & Place, Take Packaging materials"},
+    {"trade": "Hardware", "phase": null, "task": "Install Fire Extinguisher"},
+    {"trade": "Driveway", "phase": null, "task": "Grade the Driveway to provide proper drainage"},
+    {"trade": "Driveway", "phase": null, "task": "Install 2.5\" of 21A, Millings, or recycled concrete base"},
+    {"trade": "Cleaning", "phase": null, "task": "Install Screens"},
+    {"trade": "Cleaning", "phase": null, "task": "Powerwash - Clean Exterior & Garage Slab"},
+    {"trade": "Cleaning", "phase": null, "task": "Put Amenities @ House (TP, Paper Towels, Soap)"},
+    {"trade": "Lumber", "phase": null, "task": "Delivery new, undamaged materials in good condition per CH's schedule"},
+    {"trade": "Lumber", "phase": null, "task": "Protect deliveries from the elements"},
+    {"trade": "Utilities to site", "phase": "Public Water", "task": "Tie in to county provided meter barrel"},
+    {"trade": "Trim", "phase": null, "task": "Cut door slabs for flooring finish as necessary"},
+    {"trade": "Trim", "phase": null, "task": "Furnish & Install all interior trim & doors"},
+    {"trade": "Trim", "phase": null, "task": "Install farmhouse sink if applicable"},
+    {"trade": "Trim", "phase": null, "task": "Remove all Excess Material From the Site"},
+    {"trade": "Trim", "phase": null, "task": "Touch up the ends of toe kicks"},
+    {"trade": "Trim", "phase": null, "task": "Trim attic access"}
+  ],
+  "new_trade_mappings": {
+    "Exterior Features": {
+      "naics": "238170",
+      "naics_name": "Siding Contractors",
+      "uniclass_ss": ["Ss_25_20", "Ss_25_20_50"],
+      "notes": "PVC trim, column wraps - exterior millwork"
+    },
+    "Siding": {
+      "naics": "238170",
+      "naics_name": "Siding Contractors",
+      "uniclass_ss": ["Ss_25_20", "Ss_25_20_70"],
+      "notes": "Cladding systems, fascia, soffit"
+    },
+    "Garage Doors": {
+      "naics": "238290",
+      "naics_name": "Other Building Equipment Contractors",
+      "uniclass_ss": ["Ss_25_30_33", "Pr_25_30_33"],
+      "notes": "Overhead doors, operators, keypads"
+    },
+    "Cabinets": {
+      "naics": "238350",
+      "naics_name": "Finish Carpentry Contractors",
+      "uniclass_ss": ["Ss_25_50_15", "Pr_35_10"],
+      "notes": "Kitchen/bath cabinetry"
+    },
+    "Trim": {
+      "naics": "238350",
+      "naics_name": "Finish Carpentry Contractors",
+      "uniclass_ss": ["Ss_25_50_55", "Ss_25_50_65"],
+      "notes": "Interior doors, casings, baseboards, rails"
+    },
+    "Countertops": {
+      "naics": "238350",
+      "naics_name": "Finish Carpentry Contractors",
+      "uniclass_ss": ["Ss_25_50_25", "Pr_35_93_15"],
+      "notes": "Stone, solid surface, laminate tops"
+    },
+    "Electrical Fixtures": {
+      "naics": "238210",
+      "naics_name": "Electrical Contractors",
+      "uniclass_ss": ["Ss_70_40", "Pr_70_40"],
+      "notes": "Light fixtures, ceiling fans - supply"
+    },
+    "Appliances": {
+      "naics": "443141",
+      "naics_name": "Household Appliance Stores",
+      "uniclass_ss": ["Pr_40_20"],
+      "notes": "Kitchen appliances - delivery/placement"
+    },
+    "Hardware": {
+      "naics": "238350",
+      "naics_name": "Finish Carpentry Contractors",
+      "uniclass_ss": ["Pr_20_31", "Pr_35_47"],
+      "notes": "Door hardware, bath accessories, fire safety"
+    },
+    "Driveway": {
+      "naics": "238910",
+      "naics_name": "Site Preparation Contractors",
+      "uniclass_ss": ["Ss_15_30", "Ss_32_50"],
+      "notes": "Gravel drives, base prep"
+    },
+    "Cleaning": {
+      "naics": "561720",
+      "naics_name": "Janitorial Services",
+      "uniclass_ss": ["Ac_45", "Ac_50"],
+      "notes": "Final clean, screens, punch"
+    },
+    "Lumber": {
+      "naics": "423310",
+      "naics_name": "Lumber Wholesalers",
+      "uniclass_ss": ["Pr_20_93"],
+      "notes": "Material supply - framing package"
+    }
+  }
+}

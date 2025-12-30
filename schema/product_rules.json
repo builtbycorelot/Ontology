@@ -1,0 +1,657 @@
+{
+  "_meta": {
+    "description": "Product Configuration Rules Schema",
+    "version": "1.0",
+    "date": "2024-12-30",
+    "purpose": "Define valid products, conditionals, and quantity rules for scope tasks"
+  },
+
+  "rule_types": {
+    "description": "Types of rules that can be applied",
+    "types": [
+      {"type": "product_selection", "description": "Which product to use based on conditions"},
+      {"type": "quantity_derivation", "description": "How to calculate quantity from plan"},
+      {"type": "conditional_include", "description": "Include task only if condition met"},
+      {"type": "constraint", "description": "Validation rule that must be satisfied"},
+      {"type": "default", "description": "Default value when no condition matches"}
+    ]
+  },
+
+  "condition_variables": {
+    "description": "Variables available for rule conditions",
+    "plan_derived": [
+      {"var": "sqft", "type": "number", "source": "plan.total_sqft"},
+      {"var": "stories", "type": "number", "source": "plan.story_count"},
+      {"var": "bedrooms", "type": "number", "source": "plan.bedroom_count"},
+      {"var": "bathrooms", "type": "number", "source": "plan.bathroom_count"},
+      {"var": "garage_bays", "type": "number", "source": "plan.garage_bays"},
+      {"var": "has_basement", "type": "boolean", "source": "plan.foundation_type == 'basement'"},
+      {"var": "has_crawl", "type": "boolean", "source": "plan.foundation_type == 'crawl'"},
+      {"var": "has_slab", "type": "boolean", "source": "plan.foundation_type == 'slab'"}
+    ],
+    "room_derived": [
+      {"var": "room.type", "type": "enum", "values": ["bedroom", "bathroom", "kitchen", "living", "dining", "garage", "utility", "closet"]},
+      {"var": "room.ceiling_type", "type": "enum", "values": ["flat", "cathedral", "tray", "coffered"]},
+      {"var": "room.ceiling_height", "type": "number", "unit": "feet"},
+      {"var": "room.sqft", "type": "number", "source": "room.area"}
+    ],
+    "site_derived": [
+      {"var": "site.water_source", "type": "enum", "values": ["public", "well"]},
+      {"var": "site.sewer_type", "type": "enum", "values": ["public", "septic", "alternative"]},
+      {"var": "site.gas_available", "type": "boolean"},
+      {"var": "site.slope_percent", "type": "number"}
+    ],
+    "selection_derived": [
+      {"var": "selection.hvac_type", "type": "enum", "values": ["gas_furnace", "heat_pump", "dual_fuel", "geothermal"]},
+      {"var": "selection.water_heater", "type": "enum", "values": ["tank_gas", "tank_electric", "tankless_gas", "tankless_electric", "heat_pump"]},
+      {"var": "selection.flooring", "type": "enum", "values": ["carpet", "hardwood", "lvp", "tile", "vinyl"]},
+      {"var": "selection.countertop", "type": "enum", "values": ["granite", "quartz", "laminate", "solid_surface", "butcher_block"]}
+    ]
+  },
+
+  "product_categories": {
+    "Electrical": {
+      "uniclass_prefix": "Pr_65",
+      "products": [
+        {"id": "ELEC-WIRE-001", "name": "Romex 14/2", "uniclass": "Pr_65_52_96", "unit": "LF", "use_case": "15A circuits"},
+        {"id": "ELEC-WIRE-002", "name": "Romex 12/2", "uniclass": "Pr_65_52_96", "unit": "LF", "use_case": "20A circuits"},
+        {"id": "ELEC-WIRE-003", "name": "Romex 10/3", "uniclass": "Pr_65_52_96", "unit": "LF", "use_case": "Dryer, range circuits"},
+        {"id": "ELEC-PANEL-001", "name": "200A Main Panel", "uniclass": "Pr_65_70_25", "unit": "EA"},
+        {"id": "ELEC-PANEL-002", "name": "40 Space Panel", "uniclass": "Pr_65_70_25", "unit": "EA"},
+        {"id": "ELEC-RECEPT-001", "name": "Standard Duplex Receptacle", "uniclass": "Pr_65_54_70", "unit": "EA"},
+        {"id": "ELEC-RECEPT-002", "name": "GFCI Receptacle", "uniclass": "Pr_65_54_70", "unit": "EA"},
+        {"id": "ELEC-RECEPT-003", "name": "AFCI Receptacle", "uniclass": "Pr_65_54_70", "unit": "EA"},
+        {"id": "ELEC-SWITCH-001", "name": "Single Pole Switch", "uniclass": "Pr_65_54_85", "unit": "EA"},
+        {"id": "ELEC-SWITCH-002", "name": "3-Way Switch", "uniclass": "Pr_65_54_85", "unit": "EA"},
+        {"id": "ELEC-SWITCH-003", "name": "Dimmer Switch", "uniclass": "Pr_65_54_85", "unit": "EA"}
+      ]
+    },
+    "Lighting": {
+      "uniclass_prefix": "Pr_70_40",
+      "products": [
+        {"id": "LITE-CAN-001", "name": "6\" Recessed Can - Standard", "uniclass": "Pr_70_40_35", "unit": "EA", "use_case": "Flat ceiling"},
+        {"id": "LITE-CAN-002", "name": "6\" Recessed Can - Gimbal", "uniclass": "Pr_70_40_35", "unit": "EA", "use_case": "Sloped/cathedral ceiling"},
+        {"id": "LITE-CAN-003", "name": "4\" Recessed Can - IC Rated", "uniclass": "Pr_70_40_35", "unit": "EA", "use_case": "Insulated ceiling"},
+        {"id": "LITE-FAN-001", "name": "Ceiling Fan - Standard", "uniclass": "Pr_70_40_15", "unit": "EA"},
+        {"id": "LITE-FAN-002", "name": "Ceiling Fan - Outdoor Rated", "uniclass": "Pr_70_40_15", "unit": "EA"},
+        {"id": "LITE-PEND-001", "name": "Pendant Light", "uniclass": "Pr_70_40_63", "unit": "EA"},
+        {"id": "LITE-VANITY-001", "name": "Vanity Light Bar", "uniclass": "Pr_70_40_90", "unit": "EA"},
+        {"id": "LITE-EXT-001", "name": "Exterior Wall Sconce", "uniclass": "Pr_70_40_27", "unit": "EA"},
+        {"id": "LITE-FLOOD-001", "name": "LED Flood Light", "uniclass": "Pr_70_40_32", "unit": "EA"}
+      ]
+    },
+    "HVAC": {
+      "uniclass_prefix": "Pr_70_60",
+      "products": [
+        {"id": "HVAC-FURN-001", "name": "Gas Furnace 80% AFUE", "uniclass": "Pr_70_60_35", "unit": "EA"},
+        {"id": "HVAC-FURN-002", "name": "Gas Furnace 95% AFUE", "uniclass": "Pr_70_60_35", "unit": "EA"},
+        {"id": "HVAC-HP-001", "name": "Heat Pump 14 SEER", "uniclass": "Pr_70_60_40", "unit": "EA"},
+        {"id": "HVAC-HP-002", "name": "Heat Pump 16 SEER", "uniclass": "Pr_70_60_40", "unit": "EA"},
+        {"id": "HVAC-AC-001", "name": "AC Condenser 14 SEER", "uniclass": "Pr_70_60_20", "unit": "EA"},
+        {"id": "HVAC-AC-002", "name": "AC Condenser 16 SEER", "uniclass": "Pr_70_60_20", "unit": "EA"},
+        {"id": "HVAC-DUCT-001", "name": "Flex Duct", "uniclass": "Pr_70_65_25", "unit": "LF"},
+        {"id": "HVAC-DUCT-002", "name": "Sheet Metal Duct", "uniclass": "Pr_70_65_80", "unit": "LF"},
+        {"id": "HVAC-REG-001", "name": "Supply Register", "uniclass": "Pr_70_65_38", "unit": "EA"},
+        {"id": "HVAC-REG-002", "name": "Return Grille", "uniclass": "Pr_70_65_38", "unit": "EA"},
+        {"id": "HVAC-TSTAT-001", "name": "Programmable Thermostat", "uniclass": "Pr_70_60_90", "unit": "EA"},
+        {"id": "HVAC-TSTAT-002", "name": "Smart Thermostat", "uniclass": "Pr_70_60_90", "unit": "EA"}
+      ]
+    },
+    "Plumbing": {
+      "uniclass_prefix": "Pr_65_52",
+      "products": [
+        {"id": "PLMB-PIPE-001", "name": "PEX 1/2\"", "uniclass": "Pr_65_52_64", "unit": "LF"},
+        {"id": "PLMB-PIPE-002", "name": "PEX 3/4\"", "uniclass": "Pr_65_52_64", "unit": "LF"},
+        {"id": "PLMB-PIPE-003", "name": "CPVC 1/2\"", "uniclass": "Pr_65_52_22", "unit": "LF"},
+        {"id": "PLMB-PIPE-004", "name": "PVC DWV 3\"", "uniclass": "Pr_65_52_66", "unit": "LF"},
+        {"id": "PLMB-PIPE-005", "name": "PVC DWV 4\"", "uniclass": "Pr_65_52_66", "unit": "LF"},
+        {"id": "PLMB-WH-001", "name": "40 Gal Gas Water Heater", "uniclass": "Pr_70_60_96", "unit": "EA"},
+        {"id": "PLMB-WH-002", "name": "50 Gal Gas Water Heater", "uniclass": "Pr_70_60_96", "unit": "EA"},
+        {"id": "PLMB-WH-003", "name": "50 Gal Electric Water Heater", "uniclass": "Pr_70_60_96", "unit": "EA"},
+        {"id": "PLMB-WH-004", "name": "Tankless Gas Water Heater", "uniclass": "Pr_70_60_96", "unit": "EA"},
+        {"id": "PLMB-SUMP-001", "name": "Sump Pump 1/3 HP", "uniclass": "Pr_65_54_85", "unit": "EA"},
+        {"id": "PLMB-SUMP-002", "name": "Sump Pump 1/2 HP", "uniclass": "Pr_65_54_85", "unit": "EA"}
+      ]
+    },
+    "Plumbing Fixtures": {
+      "uniclass_prefix": "Pr_40_50",
+      "products": [
+        {"id": "FIX-TOILET-001", "name": "Toilet - Standard", "uniclass": "Pr_40_50_96", "unit": "EA"},
+        {"id": "FIX-TOILET-002", "name": "Toilet - Elongated", "uniclass": "Pr_40_50_96", "unit": "EA"},
+        {"id": "FIX-TOILET-003", "name": "Toilet - ADA Height", "uniclass": "Pr_40_50_96", "unit": "EA"},
+        {"id": "FIX-TUB-001", "name": "Fiberglass Tub/Shower", "uniclass": "Pr_40_50_10", "unit": "EA"},
+        {"id": "FIX-TUB-002", "name": "Cast Iron Tub", "uniclass": "Pr_40_50_10", "unit": "EA"},
+        {"id": "FIX-TUB-003", "name": "Soaking Tub", "uniclass": "Pr_40_50_10", "unit": "EA"},
+        {"id": "FIX-SHOWER-001", "name": "Shower Pan - Fiberglass", "uniclass": "Pr_40_50_78", "unit": "EA"},
+        {"id": "FIX-SHOWER-002", "name": "Shower Pan - Tile Ready", "uniclass": "Pr_40_50_78", "unit": "EA"},
+        {"id": "FIX-SINK-001", "name": "Kitchen Sink - SS Double", "uniclass": "Pr_40_50_80", "unit": "EA"},
+        {"id": "FIX-SINK-002", "name": "Kitchen Sink - Farmhouse", "uniclass": "Pr_40_50_80", "unit": "EA"},
+        {"id": "FIX-SINK-003", "name": "Vanity Sink - Drop In", "uniclass": "Pr_40_50_80", "unit": "EA"},
+        {"id": "FIX-SINK-004", "name": "Vanity Sink - Undermount", "uniclass": "Pr_40_50_80", "unit": "EA"},
+        {"id": "FIX-FAUCET-001", "name": "Kitchen Faucet - Standard", "uniclass": "Pr_40_50_89", "unit": "EA"},
+        {"id": "FIX-FAUCET-002", "name": "Kitchen Faucet - Pull Down", "uniclass": "Pr_40_50_89", "unit": "EA"},
+        {"id": "FIX-FAUCET-003", "name": "Bath Faucet - Single Handle", "uniclass": "Pr_40_50_89", "unit": "EA"}
+      ]
+    },
+    "Insulation": {
+      "uniclass_prefix": "Pr_25_50",
+      "products": [
+        {"id": "INSUL-BATT-001", "name": "R-13 Batt (2x4 wall)", "uniclass": "Pr_25_50_35", "unit": "SF"},
+        {"id": "INSUL-BATT-002", "name": "R-15 Batt (2x4 wall)", "uniclass": "Pr_25_50_35", "unit": "SF"},
+        {"id": "INSUL-BATT-003", "name": "R-19 Batt (2x6 wall)", "uniclass": "Pr_25_50_35", "unit": "SF"},
+        {"id": "INSUL-BATT-004", "name": "R-21 Batt (2x6 wall)", "uniclass": "Pr_25_50_35", "unit": "SF"},
+        {"id": "INSUL-BATT-005", "name": "R-30 Batt (floor/ceiling)", "uniclass": "Pr_25_50_35", "unit": "SF"},
+        {"id": "INSUL-BATT-006", "name": "R-38 Batt (attic)", "uniclass": "Pr_25_50_35", "unit": "SF"},
+        {"id": "INSUL-BLOW-001", "name": "Blown Cellulose R-38", "uniclass": "Pr_25_50_10", "unit": "SF"},
+        {"id": "INSUL-BLOW-002", "name": "Blown Cellulose R-49", "uniclass": "Pr_25_50_10", "unit": "SF"},
+        {"id": "INSUL-FOAM-001", "name": "Spray Foam - Open Cell", "uniclass": "Pr_25_50_45", "unit": "SF"},
+        {"id": "INSUL-FOAM-002", "name": "Spray Foam - Closed Cell", "uniclass": "Pr_25_50_45", "unit": "SF"},
+        {"id": "INSUL-RIGID-001", "name": "XPS Rigid 1\"", "uniclass": "Pr_25_50_70", "unit": "SF"},
+        {"id": "INSUL-RIGID-002", "name": "XPS Rigid 2\"", "uniclass": "Pr_25_50_70", "unit": "SF"}
+      ]
+    },
+    "Drywall": {
+      "uniclass_prefix": "Pr_25_71",
+      "products": [
+        {"id": "DW-BOARD-001", "name": "1/2\" Regular Drywall", "uniclass": "Pr_25_71_28", "unit": "SF"},
+        {"id": "DW-BOARD-002", "name": "5/8\" Regular Drywall", "uniclass": "Pr_25_71_28", "unit": "SF"},
+        {"id": "DW-BOARD-003", "name": "5/8\" Type X (Fire Rated)", "uniclass": "Pr_25_71_28", "unit": "SF"},
+        {"id": "DW-BOARD-004", "name": "1/2\" Moisture Resistant", "uniclass": "Pr_25_71_28", "unit": "SF"},
+        {"id": "DW-BOARD-005", "name": "1/2\" Cement Board", "uniclass": "Pr_25_71_12", "unit": "SF"},
+        {"id": "DW-TAPE-001", "name": "Paper Tape", "uniclass": "Pr_25_71_29", "unit": "ROLL"},
+        {"id": "DW-MUD-001", "name": "Joint Compound", "uniclass": "Pr_25_71_25", "unit": "BOX"},
+        {"id": "DW-BEAD-001", "name": "Corner Bead - Metal", "uniclass": "Pr_25_71_15", "unit": "LF"},
+        {"id": "DW-BEAD-002", "name": "Corner Bead - Vinyl", "uniclass": "Pr_25_71_15", "unit": "LF"}
+      ]
+    },
+    "Flooring": {
+      "uniclass_prefix": "Pr_25_75",
+      "products": [
+        {"id": "FLOOR-CARPET-001", "name": "Carpet - Builder Grade", "uniclass": "Pr_25_75_15", "unit": "SY"},
+        {"id": "FLOOR-CARPET-002", "name": "Carpet - Upgraded", "uniclass": "Pr_25_75_15", "unit": "SY"},
+        {"id": "FLOOR-CARPET-003", "name": "Carpet Pad 6lb", "uniclass": "Pr_25_75_15", "unit": "SY"},
+        {"id": "FLOOR-LVP-001", "name": "LVP - Standard", "uniclass": "Pr_25_75_94", "unit": "SF"},
+        {"id": "FLOOR-LVP-002", "name": "LVP - Premium", "uniclass": "Pr_25_75_94", "unit": "SF"},
+        {"id": "FLOOR-HDWD-001", "name": "Hardwood - Oak 3/4\"", "uniclass": "Pr_25_75_98", "unit": "SF"},
+        {"id": "FLOOR-HDWD-002", "name": "Hardwood - Engineered", "uniclass": "Pr_25_75_98", "unit": "SF"},
+        {"id": "FLOOR-TILE-001", "name": "Ceramic Tile 12x12", "uniclass": "Pr_25_75_90", "unit": "SF"},
+        {"id": "FLOOR-TILE-002", "name": "Porcelain Tile 12x24", "uniclass": "Pr_25_75_90", "unit": "SF"},
+        {"id": "FLOOR-TILE-003", "name": "Natural Stone Tile", "uniclass": "Pr_25_75_84", "unit": "SF"},
+        {"id": "FLOOR-VINYL-001", "name": "Sheet Vinyl", "uniclass": "Pr_25_75_94", "unit": "SY"}
+      ]
+    },
+    "Cabinets": {
+      "uniclass_prefix": "Pr_35_10",
+      "products": [
+        {"id": "CAB-BASE-001", "name": "Base Cabinet", "uniclass": "Pr_35_10_45", "unit": "LF"},
+        {"id": "CAB-WALL-001", "name": "Wall Cabinet 30\"H", "uniclass": "Pr_35_10_45", "unit": "LF"},
+        {"id": "CAB-WALL-002", "name": "Wall Cabinet 36\"H", "uniclass": "Pr_35_10_45", "unit": "LF"},
+        {"id": "CAB-WALL-003", "name": "Wall Cabinet 42\"H", "uniclass": "Pr_35_10_45", "unit": "LF"},
+        {"id": "CAB-TALL-001", "name": "Tall Pantry Cabinet", "uniclass": "Pr_35_10_45", "unit": "EA"},
+        {"id": "CAB-VANITY-001", "name": "Bath Vanity 24\"", "uniclass": "Pr_35_10_90", "unit": "EA"},
+        {"id": "CAB-VANITY-002", "name": "Bath Vanity 36\"", "uniclass": "Pr_35_10_90", "unit": "EA"},
+        {"id": "CAB-VANITY-003", "name": "Bath Vanity 48\"", "uniclass": "Pr_35_10_90", "unit": "EA"},
+        {"id": "CAB-VANITY-004", "name": "Bath Vanity 60\" Double", "uniclass": "Pr_35_10_90", "unit": "EA"}
+      ]
+    },
+    "Countertops": {
+      "uniclass_prefix": "Pr_35_93",
+      "products": [
+        {"id": "CNTR-GRANITE-001", "name": "Granite Level 1", "uniclass": "Pr_35_93_15", "unit": "SF"},
+        {"id": "CNTR-GRANITE-002", "name": "Granite Level 2", "uniclass": "Pr_35_93_15", "unit": "SF"},
+        {"id": "CNTR-QUARTZ-001", "name": "Quartz Level 1", "uniclass": "Pr_35_93_15", "unit": "SF"},
+        {"id": "CNTR-QUARTZ-002", "name": "Quartz Level 2", "uniclass": "Pr_35_93_15", "unit": "SF"},
+        {"id": "CNTR-LAM-001", "name": "Laminate - Standard", "uniclass": "Pr_35_93_50", "unit": "SF"},
+        {"id": "CNTR-LAM-002", "name": "Laminate - Premium", "uniclass": "Pr_35_93_50", "unit": "SF"},
+        {"id": "CNTR-SS-001", "name": "Solid Surface", "uniclass": "Pr_35_93_80", "unit": "SF"},
+        {"id": "CNTR-BUTCHER-001", "name": "Butcher Block", "uniclass": "Pr_35_93_10", "unit": "SF"}
+      ]
+    },
+    "Roofing": {
+      "uniclass_prefix": "Pr_25_71_72",
+      "products": [
+        {"id": "ROOF-SHINGLE-001", "name": "3-Tab Shingles", "uniclass": "Pr_25_71_72", "unit": "SQ"},
+        {"id": "ROOF-SHINGLE-002", "name": "Architectural Shingles", "uniclass": "Pr_25_71_72", "unit": "SQ"},
+        {"id": "ROOF-SHINGLE-003", "name": "Premium Architectural", "uniclass": "Pr_25_71_72", "unit": "SQ"},
+        {"id": "ROOF-METAL-001", "name": "Standing Seam Metal", "uniclass": "Pr_25_71_52", "unit": "SQ"},
+        {"id": "ROOF-FELT-001", "name": "15# Felt Underlayment", "uniclass": "Pr_25_71_74", "unit": "SQ"},
+        {"id": "ROOF-FELT-002", "name": "Synthetic Underlayment", "uniclass": "Pr_25_71_74", "unit": "SQ"},
+        {"id": "ROOF-RIDGE-001", "name": "Ridge Vent", "uniclass": "Pr_25_71_97", "unit": "LF"},
+        {"id": "ROOF-ICE-001", "name": "Ice & Water Shield", "uniclass": "Pr_25_71_74", "unit": "SQ"}
+      ]
+    },
+    "Windows & Doors": {
+      "uniclass_prefix": "Pr_25",
+      "products": [
+        {"id": "WIN-DH-001", "name": "Double Hung Window - Vinyl", "uniclass": "Pr_25_80_95", "unit": "EA"},
+        {"id": "WIN-DH-002", "name": "Double Hung Window - Wood Clad", "uniclass": "Pr_25_80_95", "unit": "EA"},
+        {"id": "WIN-CASE-001", "name": "Casement Window - Vinyl", "uniclass": "Pr_25_80_15", "unit": "EA"},
+        {"id": "WIN-PIC-001", "name": "Picture Window", "uniclass": "Pr_25_80_65", "unit": "EA"},
+        {"id": "DR-EXT-001", "name": "Entry Door - Steel", "uniclass": "Pr_25_30_25", "unit": "EA"},
+        {"id": "DR-EXT-002", "name": "Entry Door - Fiberglass", "uniclass": "Pr_25_30_25", "unit": "EA"},
+        {"id": "DR-PATIO-001", "name": "Sliding Patio Door", "uniclass": "Pr_25_30_80", "unit": "EA"},
+        {"id": "DR-PATIO-002", "name": "French Patio Door", "uniclass": "Pr_25_30_35", "unit": "EA"},
+        {"id": "DR-GAR-001", "name": "Garage Door 9x7 - Steel", "uniclass": "Pr_25_30_33", "unit": "EA"},
+        {"id": "DR-GAR-002", "name": "Garage Door 16x7 - Steel", "uniclass": "Pr_25_30_33", "unit": "EA"},
+        {"id": "DR-GAR-003", "name": "Garage Door Opener", "uniclass": "Pr_25_30_33", "unit": "EA"},
+        {"id": "DR-INT-001", "name": "Interior Door - Hollow Core", "uniclass": "Pr_25_30_43", "unit": "EA"},
+        {"id": "DR-INT-002", "name": "Interior Door - Solid Core", "uniclass": "Pr_25_30_43", "unit": "EA"},
+        {"id": "DR-INT-003", "name": "Bifold Door", "uniclass": "Pr_25_30_10", "unit": "EA"},
+        {"id": "DR-INT-004", "name": "Pocket Door", "uniclass": "Pr_25_30_65", "unit": "EA"}
+      ]
+    }
+  },
+
+  "task_product_rules": {
+    "description": "Rules linking scope tasks to valid products with conditions",
+
+    "Electrical": {
+      "Install recessed lighting": {
+        "products": ["LITE-CAN-001", "LITE-CAN-002", "LITE-CAN-003"],
+        "rules": [
+          {
+            "condition": "room.ceiling_type == 'flat'",
+            "product": "LITE-CAN-001",
+            "note": "Standard can for flat ceilings"
+          },
+          {
+            "condition": "room.ceiling_type == 'cathedral' OR room.ceiling_type == 'tray'",
+            "product": "LITE-CAN-002",
+            "note": "Gimbal can for sloped ceilings"
+          },
+          {
+            "condition": "room.has_insulation_contact == true",
+            "product": "LITE-CAN-003",
+            "note": "IC rated for insulated ceilings"
+          }
+        ],
+        "quantity_rule": {
+          "method": "plan_derived",
+          "source": "lighting_plan.fixture_count",
+          "fallback": "room.sqft / 25"
+        }
+      },
+      "Install ceiling fan": {
+        "products": ["LITE-FAN-001", "LITE-FAN-002"],
+        "rules": [
+          {
+            "condition": "room.location == 'exterior'",
+            "product": "LITE-FAN-002"
+          },
+          {
+            "condition": "room.location == 'interior'",
+            "product": "LITE-FAN-001"
+          }
+        ],
+        "default_locations": ["great_room", "master_bedroom"],
+        "conditional_include": "plan.has_ceiling_fan_locations"
+      },
+      "Install GFCI receptacles": {
+        "products": ["ELEC-RECEPT-002"],
+        "rules": [
+          {
+            "condition": "room.type IN ['bathroom', 'kitchen', 'garage', 'utility', 'exterior']",
+            "required": true,
+            "note": "Code required locations"
+          }
+        ],
+        "quantity_rule": {
+          "method": "code_minimum",
+          "per_room": {"bathroom": 1, "kitchen": 2, "garage": 1, "utility": 1}
+        }
+      },
+      "Furnish & Install 40 Space Panel": {
+        "products": ["ELEC-PANEL-002"],
+        "rules": [
+          {
+            "condition": "sqft >= 2500 OR stories >= 2",
+            "product": "ELEC-PANEL-002"
+          }
+        ],
+        "quantity": 1
+      }
+    },
+
+    "HVAC": {
+      "Furnish & Install of all HVAC Equipment": {
+        "products": ["HVAC-FURN-001", "HVAC-FURN-002", "HVAC-HP-001", "HVAC-HP-002", "HVAC-AC-001", "HVAC-AC-002"],
+        "rules": [
+          {
+            "condition": "selection.hvac_type == 'gas_furnace' AND selection.efficiency == 'standard'",
+            "products": ["HVAC-FURN-001", "HVAC-AC-001"]
+          },
+          {
+            "condition": "selection.hvac_type == 'gas_furnace' AND selection.efficiency == 'high'",
+            "products": ["HVAC-FURN-002", "HVAC-AC-002"]
+          },
+          {
+            "condition": "selection.hvac_type == 'heat_pump'",
+            "products": ["HVAC-HP-001"]
+          },
+          {
+            "condition": "site.gas_available == false",
+            "products": ["HVAC-HP-001", "HVAC-HP-002"],
+            "note": "No gas = heat pump only"
+          }
+        ],
+        "sizing_rule": {
+          "method": "manual_j",
+          "fallback": "sqft * 25 BTU"
+        }
+      },
+      "Install registers": {
+        "products": ["HVAC-REG-001", "HVAC-REG-002"],
+        "quantity_rule": {
+          "method": "plan_derived",
+          "source": "hvac_plan.register_count",
+          "fallback": {
+            "supply": "room_count * 1.5",
+            "return": "floor_count + 1"
+          }
+        }
+      }
+    },
+
+    "Plumbing": {
+      "Furnish & Install water heater": {
+        "products": ["PLMB-WH-001", "PLMB-WH-002", "PLMB-WH-003", "PLMB-WH-004"],
+        "rules": [
+          {
+            "condition": "site.gas_available == true AND selection.water_heater == 'tank_gas'",
+            "products": ["PLMB-WH-001", "PLMB-WH-002"],
+            "size_rule": "bedrooms <= 3 ? PLMB-WH-001 : PLMB-WH-002"
+          },
+          {
+            "condition": "site.gas_available == true AND selection.water_heater == 'tankless_gas'",
+            "product": "PLMB-WH-004"
+          },
+          {
+            "condition": "site.gas_available == false",
+            "product": "PLMB-WH-003"
+          }
+        ]
+      },
+      "Install sump pump": {
+        "products": ["PLMB-SUMP-001", "PLMB-SUMP-002"],
+        "conditional_include": "has_basement == true",
+        "rules": [
+          {
+            "condition": "site.water_table == 'high'",
+            "product": "PLMB-SUMP-002"
+          },
+          {
+            "condition": "site.water_table != 'high'",
+            "product": "PLMB-SUMP-001"
+          }
+        ]
+      }
+    },
+
+    "Drywall": {
+      "F&I Drywall": {
+        "products": ["DW-BOARD-001", "DW-BOARD-002", "DW-BOARD-003", "DW-BOARD-004", "DW-BOARD-005"],
+        "rules": [
+          {
+            "condition": "room.type == 'garage'",
+            "product": "DW-BOARD-003",
+            "note": "5/8 Type X required in garage"
+          },
+          {
+            "condition": "room.type == 'bathroom' AND room.area == 'wet'",
+            "product": "DW-BOARD-004",
+            "note": "Moisture resistant in wet areas"
+          },
+          {
+            "condition": "room.type == 'bathroom' AND room.area == 'shower_surround'",
+            "product": "DW-BOARD-005",
+            "note": "Cement board behind tile"
+          },
+          {
+            "condition": "default",
+            "product": "DW-BOARD-001"
+          }
+        ],
+        "quantity_rule": {
+          "method": "takeoff",
+          "source": "wall_sqft + ceiling_sqft",
+          "waste_factor": 1.10
+        }
+      }
+    },
+
+    "Insulation": {
+      "Install batt insulation - exterior walls": {
+        "products": ["INSUL-BATT-001", "INSUL-BATT-002", "INSUL-BATT-003", "INSUL-BATT-004"],
+        "rules": [
+          {
+            "condition": "wall.framing == '2x4'",
+            "products": ["INSUL-BATT-001", "INSUL-BATT-002"],
+            "default": "INSUL-BATT-001"
+          },
+          {
+            "condition": "wall.framing == '2x6'",
+            "products": ["INSUL-BATT-003", "INSUL-BATT-004"],
+            "default": "INSUL-BATT-003"
+          }
+        ],
+        "quantity_rule": {
+          "method": "takeoff",
+          "source": "exterior_wall_sqft",
+          "waste_factor": 1.05
+        }
+      },
+      "Install attic insulation": {
+        "products": ["INSUL-BATT-005", "INSUL-BATT-006", "INSUL-BLOW-001", "INSUL-BLOW-002"],
+        "rules": [
+          {
+            "condition": "selection.insulation_type == 'batt'",
+            "products": ["INSUL-BATT-005", "INSUL-BATT-006"]
+          },
+          {
+            "condition": "selection.insulation_type == 'blown'",
+            "products": ["INSUL-BLOW-001", "INSUL-BLOW-002"],
+            "default": "INSUL-BLOW-001"
+          }
+        ],
+        "r_value_rule": {
+          "climate_zone_4": "R-38 minimum",
+          "climate_zone_5": "R-49 minimum"
+        }
+      }
+    },
+
+    "Flooring": {
+      "Install flooring": {
+        "products": ["FLOOR-CARPET-001", "FLOOR-CARPET-002", "FLOOR-LVP-001", "FLOOR-LVP-002", "FLOOR-HDWD-001", "FLOOR-HDWD-002", "FLOOR-TILE-001", "FLOOR-TILE-002", "FLOOR-VINYL-001"],
+        "rules": [
+          {
+            "condition": "room.flooring_selection == 'carpet'",
+            "products": ["FLOOR-CARPET-001", "FLOOR-CARPET-002"]
+          },
+          {
+            "condition": "room.flooring_selection == 'lvp'",
+            "products": ["FLOOR-LVP-001", "FLOOR-LVP-002"]
+          },
+          {
+            "condition": "room.flooring_selection == 'hardwood'",
+            "products": ["FLOOR-HDWD-001", "FLOOR-HDWD-002"]
+          },
+          {
+            "condition": "room.flooring_selection == 'tile'",
+            "products": ["FLOOR-TILE-001", "FLOOR-TILE-002"]
+          },
+          {
+            "condition": "room.type == 'utility' OR room.type == 'laundry'",
+            "product": "FLOOR-VINYL-001",
+            "note": "Default for utility areas"
+          }
+        ],
+        "quantity_rule": {
+          "method": "room_sqft",
+          "waste_factor": {
+            "carpet": 1.10,
+            "lvp": 1.10,
+            "hardwood": 1.15,
+            "tile": 1.15
+          }
+        }
+      }
+    },
+
+    "Roofing": {
+      "Supply/install shingles": {
+        "products": ["ROOF-SHINGLE-001", "ROOF-SHINGLE-002", "ROOF-SHINGLE-003", "ROOF-METAL-001"],
+        "rules": [
+          {
+            "condition": "selection.roofing == '3tab'",
+            "product": "ROOF-SHINGLE-001"
+          },
+          {
+            "condition": "selection.roofing == 'architectural'",
+            "product": "ROOF-SHINGLE-002"
+          },
+          {
+            "condition": "selection.roofing == 'premium'",
+            "product": "ROOF-SHINGLE-003"
+          },
+          {
+            "condition": "selection.roofing == 'metal'",
+            "product": "ROOF-METAL-001"
+          }
+        ],
+        "default": "ROOF-SHINGLE-002",
+        "quantity_rule": {
+          "method": "roof_squares",
+          "source": "roof_area / 100",
+          "waste_factor": 1.15
+        }
+      },
+      "Install ridge vent": {
+        "products": ["ROOF-RIDGE-001"],
+        "quantity_rule": {
+          "method": "plan_derived",
+          "source": "ridge_length_lf"
+        }
+      }
+    },
+
+    "Cabinets": {
+      "Install kitchen cabinets": {
+        "products": ["CAB-BASE-001", "CAB-WALL-001", "CAB-WALL-002", "CAB-WALL-003", "CAB-TALL-001"],
+        "rules": [
+          {
+            "condition": "selection.cabinet_height == '30'",
+            "wall_product": "CAB-WALL-001"
+          },
+          {
+            "condition": "selection.cabinet_height == '36'",
+            "wall_product": "CAB-WALL-002"
+          },
+          {
+            "condition": "selection.cabinet_height == '42'",
+            "wall_product": "CAB-WALL-003"
+          }
+        ],
+        "quantity_rule": {
+          "method": "layout_derived",
+          "source": "cabinet_layout.linear_feet"
+        }
+      },
+      "Install bath vanity": {
+        "products": ["CAB-VANITY-001", "CAB-VANITY-002", "CAB-VANITY-003", "CAB-VANITY-004"],
+        "rules": [
+          {
+            "condition": "bathroom.type == 'half'",
+            "product": "CAB-VANITY-001"
+          },
+          {
+            "condition": "bathroom.type == 'full' AND bathroom.vanity_size == 'single'",
+            "products": ["CAB-VANITY-002", "CAB-VANITY-003"]
+          },
+          {
+            "condition": "bathroom.type == 'master'",
+            "product": "CAB-VANITY-004"
+          }
+        ]
+      }
+    },
+
+    "Countertops": {
+      "Install countertops": {
+        "products": ["CNTR-GRANITE-001", "CNTR-GRANITE-002", "CNTR-QUARTZ-001", "CNTR-QUARTZ-002", "CNTR-LAM-001", "CNTR-LAM-002", "CNTR-SS-001", "CNTR-BUTCHER-001"],
+        "rules": [
+          {
+            "condition": "selection.countertop == 'granite'",
+            "products": ["CNTR-GRANITE-001", "CNTR-GRANITE-002"]
+          },
+          {
+            "condition": "selection.countertop == 'quartz'",
+            "products": ["CNTR-QUARTZ-001", "CNTR-QUARTZ-002"]
+          },
+          {
+            "condition": "selection.countertop == 'laminate'",
+            "products": ["CNTR-LAM-001", "CNTR-LAM-002"]
+          },
+          {
+            "condition": "selection.countertop == 'solid_surface'",
+            "product": "CNTR-SS-001"
+          }
+        ],
+        "quantity_rule": {
+          "method": "field_measure",
+          "source": "countertop_sqft",
+          "note": "Field measured after cabinet install"
+        }
+      },
+      "F&I steel reinforcement overhangs exceeding 10\"": {
+        "conditional_include": "countertop.overhang_inches > 10",
+        "products": ["CNTR-SUPPORT-001"],
+        "quantity_rule": {
+          "method": "per_overhang",
+          "spacing": "24 inches OC"
+        }
+      }
+    }
+  },
+
+  "constraint_rules": {
+    "description": "Validation rules that must be satisfied",
+    "rules": [
+      {
+        "id": "CONST-001",
+        "name": "GFCI in wet locations",
+        "condition": "room.type IN ['bathroom', 'kitchen', 'garage', 'exterior']",
+        "requirement": "receptacles MUST be GFCI",
+        "code_reference": "NEC 210.8"
+      },
+      {
+        "id": "CONST-002",
+        "name": "Type X drywall in garage",
+        "condition": "room.type == 'garage' AND room.attached == true",
+        "requirement": "drywall MUST be 5/8 Type X",
+        "code_reference": "IRC R302.6"
+      },
+      {
+        "id": "CONST-003",
+        "name": "Smoke detectors",
+        "condition": "always",
+        "requirement": "smoke detector in each bedroom + hallway + each floor",
+        "code_reference": "IRC R314"
+      },
+      {
+        "id": "CONST-004",
+        "name": "Tempered glass",
+        "condition": "window.location IN ['bathroom', 'within_24in_of_door', 'below_18in_from_floor']",
+        "requirement": "glass MUST be tempered",
+        "code_reference": "IRC R308.4"
+      },
+      {
+        "id": "CONST-005",
+        "name": "Handrail required",
+        "condition": "stairs.riser_count >= 4",
+        "requirement": "handrail required on at least one side",
+        "code_reference": "IRC R311.7.8"
+      }
+    ]
+  }
+}
