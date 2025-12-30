@@ -1,0 +1,37 @@
+{
+  "_meta": {
+    "source": "Wikidata SPARQL queries + manual validation",
+    "license": "CC0 (Wikidata)",
+    "updated": "2024-12-30"
+  },
+  "building_materials": {
+    "siding": ["cladding", "wall cladding", "external cladding"],
+    "drywall": ["plasterboard", "wallboard", "gypsum board"],
+    "lumber": ["timber", "softwood", "wood"],
+    "sheetrock": ["plasterboard", "gypsum board"],
+    "two-by-four": ["stud", "timber stud"],
+    "baseboard": ["skirting board", "skirting"],
+    "molding": ["moulding", "coving"],
+    "faucet": ["tap", "mixer tap"],
+    "outlet": ["socket", "power point"],
+    "breaker": ["trip switch", "MCB", "circuit breaker"]
+  },
+  "systems": {
+    "hvac": ["heating ventilation air conditioning", "mechanical services"],
+    "elevator": ["lift", "passenger lift"],
+    "garbage disposal": ["waste disposal unit", "food waste disposer"]
+  },
+  "trades": {
+    "siding contractor": ["cladding contractor", "cladding installer"],
+    "drywall contractor": ["dry lining contractor", "plastering contractor"],
+    "electrician": ["electrical contractor", "sparky"],
+    "plumber": ["plumbing contractor"],
+    "roofer": ["roofing contractor"],
+    "glazier": ["glass contractor", "glazing contractor"]
+  },
+  "processes": {
+    "framing": ["timber frame construction", "studwork"],
+    "drywalling": ["dry lining", "boarding"],
+    "taping": ["jointing", "finishing"]
+  }
+}
