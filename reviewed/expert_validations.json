@@ -1,0 +1,42 @@
+{
+  "validated_at": "2024-12-30",
+  "validator": "domain_expert",
+  "session_summary": {
+    "validated": 18,
+    "rejected": 3,
+    "needs_split": 4,
+    "precision": 0.86
+  },
+  "validations": [
+    {"mapping": "Siding -> Cladding systems", "decision": "Y", "type": "synonym"},
+    {"mapping": "Electrician -> Electrical systems", "decision": "Y", "type": "trade_to_system"},
+    {"mapping": "Plumber -> Air conditioning entities", "decision": "N", "notes": "Plumber != HVAC, separate trades"},
+    {"mapping": "Framing -> Structural framing", "decision": "Y", "type": "trade_to_system"},
+    {"mapping": "Tile -> Tiling systems", "decision": "Y", "type": "trade_to_system"},
+    {"mapping": "Roofing -> Roofing straps", "decision": "Y", "type": "trade_to_product"},
+    {"mapping": "Masonry -> Masonry cements", "decision": "Y", "type": "trade_to_product"},
+    {"mapping": "Glazing -> Glazing systems", "decision": "Y", "type": "trade_to_system"},
+    {"mapping": "Drywall -> Plasterboard", "decision": "Y", "type": "synonym"},
+    {"mapping": "Flooring -> Resin flooring", "decision": "Y", "type": "trade_to_system"},
+    {"mapping": "Concrete -> Foundation systems", "decision": "Y", "type": "trade_to_system"},
+    {"mapping": "Insulation -> Thermal insulation", "decision": "Y", "type": "trade_to_system"},
+    {"mapping": "Painter -> Coating systems", "decision": "Y", "type": "synonym"},
+    {"mapping": "HVAC Contractor -> Air conditioning systems", "decision": "Y", "type": "trade_to_system"},
+    {"mapping": "Carpenter -> Timber framing", "decision": "Y", "type": "trade_to_system"},
+    {"mapping": "Welder -> Steel fabrication", "decision": "Y", "type": "trade_to_system"},
+    {"mapping": "Landscaper -> Soft landscaping", "decision": "Y", "type": "trade_to_system"},
+    {"mapping": "Scaffolder -> Scaffold structures", "decision": "Y", "type": "trade_to_system"},
+    {"mapping": "Scaffolder -> Temporary works (general)", "decision": "N", "notes": "Too broad, scaffolding is specific"},
+    {"mapping": "Demolition -> Site preparation", "decision": "N", "notes": "Site contractors with equipment, not demo"},
+    {"mapping": "Security -> Access control systems", "decision": "Y", "type": "trade_to_system"},
+    {"mapping": "Elevator -> Lift systems", "decision": "Y", "type": "trade_to_system"},
+    {"mapping": "Low Voltage -> Data/comm cabling", "decision": "Y", "type": "trade_to_system"},
+    {"mapping": "Mechanical -> HVAC + Plumbing", "decision": "Y", "type": "trade_to_system"},
+    {"mapping": "Sheet Metal -> Ductwork", "decision": "Y", "type": "trade_to_system"}
+  ],
+  "needs_differentiation": [
+    {"category": "Fire Protection", "split": ["Fire Alarm Contractor -> Detection systems", "Sprinkler Contractor -> Suppression systems"]},
+    {"category": "Demolition", "split": ["Interior Demo -> Surgical demolition", "Major Demo -> Structural demolition"]},
+    {"category": "Plumbing vs HVAC", "note": "Separate trades, not bundled"}
+  ]
+}
