@@ -1,0 +1,13 @@
+{
+  "@context": "../../schemas/corelot-context.jsonld",
+  "@id": "uc:Ss_25_10_30",
+  "@type": "WorkResult",
+  "name": "Timber frame wall structure systems",
+  "uniclassCode": "Ss_25_10_30",
+  "partOf": {"@id": "uc:Ss_25_10"},
+  "requires": [
+    {"@id": "uc:Pr_20_93_52"}
+  ],
+  "derivedFrom": "https://uniclass.thenbs.com/taxon/Ss_25_10_30",
+  "created": "2025-12-30T00:00:00Z"
+}

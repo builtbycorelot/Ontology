@@ -1,0 +1,98 @@
+{
+  "@context": {
+    "@version": 1.1,
+
+    "schema": "https://schema.org/",
+    "naics": "https://www.census.gov/naics/",
+    "uc": "https://uniclass.thenbs.com/taxon/",
+    "ubl": "urn:oasis:names:specification:ubl:schema:xsd:",
+    "dcterms": "http://purl.org/dc/terms/",
+    "corelot": "https://corelot.io/ontology/",
+    "xsd": "http://www.w3.org/2001/XMLSchema#",
+
+    "Trade": "corelot:Trade",
+    "WorkResult": "corelot:WorkResult",
+    "Product": "corelot:Product",
+    "Activity": "corelot:Activity",
+    "Entity": "corelot:Entity",
+    "Complex": "corelot:Complex",
+    "Project": "corelot:Project",
+    "Contract": "corelot:Contract",
+    "Invoice": "ubl:Invoice",
+    "LineItem": "ubl:InvoiceLine",
+    "Organization": "schema:Organization",
+    "Person": "schema:Person",
+
+    "name": "schema:name",
+    "description": "schema:description",
+    "identifier": "schema:identifier",
+    "url": "schema:url",
+
+    "naicsCode": {
+      "@id": "corelot:naicsCode",
+      "@type": "xsd:string"
+    },
+    "uniclassCode": {
+      "@id": "corelot:uniclassCode",
+      "@type": "xsd:string"
+    },
+    "sicCorrelations": {
+      "@id": "corelot:sicCorrelations",
+      "@container": "@list"
+    },
+
+    "produces": {
+      "@id": "corelot:produces",
+      "@type": "@id"
+    },
+    "uses": {
+      "@id": "corelot:uses",
+      "@type": "@id"
+    },
+    "performs": {
+      "@id": "corelot:performs",
+      "@type": "@id"
+    },
+    "manages": {
+      "@id": "corelot:manages",
+      "@type": "@id"
+    },
+    "requires": {
+      "@id": "corelot:requires",
+      "@type": "@id"
+    },
+    "classifiedAs": {
+      "@id": "corelot:classifiedAs",
+      "@type": "@id"
+    },
+    "partOf": {
+      "@id": "corelot:partOf",
+      "@type": "@id"
+    },
+    "equivalentTo": {
+      "@id": "corelot:equivalentTo",
+      "@type": "@id"
+    },
+
+    "confidence": {
+      "@id": "corelot:confidence",
+      "@type": "xsd:string"
+    },
+    "cardinality": {
+      "@id": "corelot:cardinality",
+      "@type": "xsd:string"
+    },
+    "derivedFrom": {
+      "@id": "dcterms:source",
+      "@type": "@id"
+    },
+    "created": {
+      "@id": "dcterms:created",
+      "@type": "xsd:dateTime"
+    },
+    "modified": {
+      "@id": "dcterms:modified",
+      "@type": "xsd:dateTime"
+    }
+  }
+}

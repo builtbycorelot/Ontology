@@ -1,0 +1,9 @@
+source_id,relationship,target_id,uniclass_table,confidence,cardinality,notes,timestamp
+# Relationships derived from crosswalk/naics-to-uniclass.csv
+# Format mirrors the crosswalk but tracks individual instance edges
+# Timestamp: ISO 8601 format
+naics:238130,produces,uc:Ss_25_10_30,Ss,A,1:N,Primary work output,2025-12-30T00:00:00Z
+naics:238130,produces,uc:Ss_25_13_30,Ss,A,1:N,Floor framing,2025-12-30T00:00:00Z
+naics:238130,produces,uc:Ss_25_16_30,Ss,A,1:N,Roof framing,2025-12-30T00:00:00Z
+naics:238130,uses,uc:Pr_20_93_52,Pr,A,1:N,Primary material,2025-12-30T00:00:00Z
+uc:Ss_25_10_30,requires,uc:Pr_20_93_52,Pr,A,1:N,Material requirement,2025-12-30T00:00:00Z

@@ -54,4 +54,57 @@ naics_code,naics_name,relationship,uniclass_code,uniclass_table,uniclass_title,c
 238350,Finish Carpentry Contractors,uses,Pr_20_93,Pr,Timber products,1:N,A,Primary material
 238910,Site Preparation Contractors,produces,Ss_15_10,Ss,Groundworks and earthworks systems,1:N,A,Primary work output
 238910,Site Preparation Contractors,performs,Ac_10,Ac,Preparing,1:N,A,Site prep activity
+238190,Other Foundation Structure and Building Exterior Contractors,produces,Ss_20,Ss,Structural systems,1:N,B,General structural
+238190,Other Foundation Structure and Building Exterior Contractors,produces,Ss_25_30,Ss,Wall covering and cladding systems,1:N,B,Exterior work
+238390,Other Building Finishing Contractors,produces,Ss_45_30,Ss,Finish and decoration systems,1:N,B,Interior finishes
+238390,Other Building Finishing Contractors,produces,Ss_25_70,Ss,Floor covering systems,1:N,B,Specialty flooring
 238990,All Other Specialty Trade Contractors,produces,Ss_35,Ss,Fittings and furnishings,1:N,C,Miscellaneous
+#
+# NAICS Sector 236 - Construction of Buildings (General Contractors)
+# These entities MANAGE building construction projects and coordinate trades
+# Relationship: manages → Entity types (En) and Complexes (Co)
+#
+236115,New Single-Family Housing Construction (except For-Sale Builders),manages,En_50_10,En,Single dwelling entities,1:N,A,Primary deliverable
+236115,New Single-Family Housing Construction (except For-Sale Builders),manages,Co_50_30_70,Co,Single occupancy housing complexes,1:N,A,Project type
+236115,New Single-Family Housing Construction (except For-Sale Builders),performs,Ac_05,Ac,Assembling,1:N,A,Construction activity
+236116,New Multifamily Housing Construction (except For-Sale Builders),manages,En_50_20,En,Multiple dwelling entities,1:N,A,Apartment buildings
+236116,New Multifamily Housing Construction (except For-Sale Builders),manages,Co_50_30_55,Co,Multiple occupancy housing complexes,1:N,A,Apartment complexes
+236117,New Housing For-Sale Builders,manages,En_50,En,Residential entities,1:N,A,Spec housing
+236117,New Housing For-Sale Builders,manages,Co_50_30,Co,Residential complexes,1:N,A,Housing developments
+236118,Residential Remodelers,performs,Ac_40,Ac,Altering and refurbishing,1:N,A,Remodeling activity
+236118,Residential Remodelers,manages,En_50,En,Residential entities,1:N,A,Residential renovation
+236210,Industrial Building Construction,manages,En_30,En,Industrial entities,1:N,A,Factory buildings
+236210,Industrial Building Construction,manages,Co_30,Co,Industrial complexes,1:N,A,Industrial parks
+236210,Industrial Building Construction,manages,En_30_50,En,Manufacturing entities,1:N,A,Manufacturing facilities
+236220,Commercial and Institutional Building Construction,manages,En_20,En,Administrative commercial and protective entities,1:N,A,Commercial buildings
+236220,Commercial and Institutional Building Construction,manages,En_25,En,Cultural educational scientific entities,1:N,A,Institutional buildings
+236220,Commercial and Institutional Building Construction,manages,Co_20,Co,Administrative commercial complexes,1:N,A,Office parks
+236220,Commercial and Institutional Building Construction,manages,Co_25,Co,Cultural educational complexes,1:N,A,Campus complexes
+#
+# NAICS Sector 237 - Heavy and Civil Engineering Construction
+# These entities PRODUCE infrastructure systems
+# Relationship: produces → Infrastructure Systems (Ss)
+#
+237110,Water and Sewer Line and Related Structures Construction,produces,Ss_50_35,Ss,Surface and wastewater drainage collection systems,1:N,A,Sewer systems
+237110,Water and Sewer Line and Related Structures Construction,produces,Ss_50_70,Ss,Drainage storage treatment and disposal systems,1:N,A,Treatment systems
+237110,Water and Sewer Line and Related Structures Construction,produces,Ss_55_70,Ss,Water supply systems,1:N,A,Water mains
+237110,Water and Sewer Line and Related Structures Construction,manages,Co_75_50,Co,Wastewater treatment complexes,1:N,A,Treatment plants
+237120,Oil and Gas Pipeline and Related Structures Construction,produces,Ss_70_50,Ss,Liquid fuel supply systems,1:N,A,Pipeline systems
+237120,Oil and Gas Pipeline and Related Structures Construction,produces,Ss_70_40,Ss,Gaseous fuel supply systems,1:N,A,Gas pipelines
+237120,Oil and Gas Pipeline and Related Structures Construction,manages,Co_75_30,Co,Oil and gas extraction complexes,1:N,B,Processing facilities
+237130,Power and Communication Line and Related Structures Construction,produces,Ss_55,Ss,Electrical power generation distribution consumption,1:N,A,Power transmission
+237130,Power and Communication Line and Related Structures Construction,produces,Ss_60,Ss,Communications transport security control systems,1:N,A,Telecom infrastructure
+237130,Power and Communication Line and Related Structures Construction,produces,Ss_75_50,Ss,Overhead cable systems,1:N,A,Power lines
+237210,Land Subdivision,produces,Ss_15_10,Ss,Groundworks and earthworks systems,1:N,A,Site grading
+237210,Land Subdivision,performs,Ac_10,Ac,Preparing,1:N,A,Land preparation
+237210,Land Subdivision,produces,Ss_30_14,Ss,Road and paving systems,1:N,B,Access roads
+237310,Highway Street and Bridge Construction,produces,Ss_30_14,Ss,Road and paving systems,1:N,A,Road construction
+237310,Highway Street and Bridge Construction,produces,Ss_30_14_05,Ss,Asphalt road and paving systems,1:N,A,Asphalt paving
+237310,Highway Street and Bridge Construction,produces,Ss_30_14_15,Ss,Concrete road and paving systems,1:N,A,Concrete paving
+237310,Highway Street and Bridge Construction,produces,Ss_20_50,Ss,Bridge structure systems,1:N,A,Bridge construction
+237310,Highway Street and Bridge Construction,produces,Ss_20_50_25,Ss,Bridge deck systems,1:N,A,Bridge decks
+237310,Highway Street and Bridge Construction,produces,Ss_20_10_30,Ss,Complete bridge structure systems,1:N,A,Complete bridges
+237310,Highway Street and Bridge Construction,manages,Co_80_10,Co,Road complexes,1:N,A,Highway systems
+237990,Other Heavy and Civil Engineering Construction,produces,Ss_15_10,Ss,Groundworks and earthworks systems,1:N,B,Civil earthwork
+237990,Other Heavy and Civil Engineering Construction,produces,Ss_20,Ss,Structural systems,1:N,B,Heavy civil structures
+237990,Other Heavy and Civil Engineering Construction,manages,Co_75,Co,Utility and infrastructure complexes,1:N,B,Infrastructure projects
