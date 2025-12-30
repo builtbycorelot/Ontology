@@ -1,0 +1,299 @@
+[
+  {
+    "source_id": "naics:2371",
+    "source_name": "Utility System Construction",
+    "matches": [
+      {
+        "target_id": "uc:Ss_30",
+        "target_name": "Roof, floor and paving systems",
+        "relationship": "related_to",
+        "confidence": "C",
+        "score": 0.25,
+        "method": "cooccurrence",
+        "evidence": "siblings_with_match=7"
+      },
+      {
+        "target_id": "uc:Ss_30_10",
+        "target_name": "Roof structure systems",
+        "relationship": "related_to",
+        "confidence": "C",
+        "score": 0.25,
+        "method": "cooccurrence",
+        "evidence": "siblings_with_match=7"
+      },
+      {
+        "target_id": "uc:Ss_30_10_30",
+        "target_name": "Framed roof structure systems",
+        "relationship": "related_to",
+        "confidence": "C",
+        "score": 0.25,
+        "method": "cooccurrence",
+        "evidence": "siblings_with_match=7"
+      }
+    ]
+  },
+  {
+    "source_id": "naics:2379",
+    "source_name": "Other Heavy and Civil Engineering Construction",
+    "matches": [
+      {
+        "target_id": "uc:Ss_30",
+        "target_name": "Roof, floor and paving systems",
+        "relationship": "related_to",
+        "confidence": "C",
+        "score": 0.25,
+        "method": "cooccurrence",
+        "evidence": "siblings_with_match=7"
+      },
+      {
+        "target_id": "uc:Ss_30_10",
+        "target_name": "Roof structure systems",
+        "relationship": "related_to",
+        "confidence": "C",
+        "score": 0.25,
+        "method": "cooccurrence",
+        "evidence": "siblings_with_match=7"
+      },
+      {
+        "target_id": "uc:Ss_30_10_30",
+        "target_name": "Framed roof structure systems",
+        "relationship": "related_to",
+        "confidence": "C",
+        "score": 0.25,
+        "method": "cooccurrence",
+        "evidence": "siblings_with_match=7"
+      }
+    ]
+  },
+  {
+    "source_id": "naics:23712",
+    "source_name": "Oil and Gas Pipeline and Related Structures Construction",
+    "matches": [
+      {
+        "target_id": "uc:Ss_50",
+        "target_name": "Disposal systems",
+        "relationship": "related_to",
+        "confidence": "C",
+        "score": 0.25,
+        "method": "cooccurrence",
+        "evidence": "siblings_with_match=10"
+      },
+      {
+        "target_id": "uc:Ss_50_10",
+        "target_name": "Gas waste collection and distribution systems",
+        "relationship": "related_to",
+        "confidence": "C",
+        "score": 0.25,
+        "method": "cooccurrence",
+        "evidence": "siblings_with_match=10"
+      },
+      {
+        "target_id": "uc:Ss_50_10_45",
+        "target_name": "Landfill gas collection and distribution systems",
+        "relationship": "related_to",
+        "confidence": "C",
+        "score": 0.25,
+        "method": "cooccurrence",
+        "evidence": "siblings_with_match=10"
+      }
+    ]
+  },
+  {
+    "source_id": "naics:237120",
+    "source_name": "Oil and Gas Pipeline and Related Structures Construction",
+    "matches": [
+      {
+        "target_id": "uc:Ss_50",
+        "target_name": "Disposal systems",
+        "relationship": "related_to",
+        "confidence": "C",
+        "score": 0.25,
+        "method": "cooccurrence",
+        "evidence": "siblings_with_match=10"
+      },
+      {
+        "target_id": "uc:Ss_50_10",
+        "target_name": "Gas waste collection and distribution systems",
+        "relationship": "related_to",
+        "confidence": "C",
+        "score": 0.25,
+        "method": "cooccurrence",
+        "evidence": "siblings_with_match=10"
+      },
+      {
+        "target_id": "uc:Ss_50_10_45",
+        "target_name": "Landfill gas collection and distribution systems",
+        "relationship": "related_to",
+        "confidence": "C",
+        "score": 0.25,
+        "method": "cooccurrence",
+        "evidence": "siblings_with_match=10"
+      }
+    ]
+  },
+  {
+    "source_id": "naics:2389",
+    "source_name": "Other Specialty Trade Contractors",
+    "matches": [
+      {
+        "target_id": "uc:Ss_40",
+        "target_name": "Signage, fittings, furnishings and equipment (FF&E) and general finishing systems",
+        "relationship": "related_to",
+        "confidence": "C",
+        "score": 0.25,
+        "method": "cooccurrence",
+        "evidence": "siblings_with_match=12"
+      },
+      {
+        "target_id": "uc:Ss_40_05",
+        "target_name": "Modular systems",
+        "relationship": "related_to",
+        "confidence": "C",
+        "score": 0.25,
+        "method": "cooccurrence",
+        "evidence": "siblings_with_match=12"
+      },
+      {
+        "target_id": "uc:Ss_40_05_80",
+        "target_name": "Sanitary modular systems",
+        "relationship": "related_to",
+        "confidence": "C",
+        "score": 0.25,
+        "method": "cooccurrence",
+        "evidence": "siblings_with_match=12"
+      }
+    ]
+  },
+  {
+    "source_id": "naics:23817",
+    "source_name": "Siding Contractors",
+    "matches": [
+      {
+        "target_id": "uc:Ss_20",
+        "target_name": "Structural systems",
+        "relationship": "related_to",
+        "confidence": "C",
+        "score": 0.25,
+        "method": "cooccurrence",
+        "evidence": "siblings_with_match=62"
+      },
+      {
+        "target_id": "uc:Ss_20_05",
+        "target_name": "Substructure systems",
+        "relationship": "related_to",
+        "confidence": "C",
+        "score": 0.25,
+        "method": "cooccurrence",
+        "evidence": "siblings_with_match=62"
+      },
+      {
+        "target_id": "uc:Ss_20_05_15",
+        "target_name": "Concrete foundation systems",
+        "relationship": "related_to",
+        "confidence": "C",
+        "score": 0.25,
+        "method": "cooccurrence",
+        "evidence": "siblings_with_match=62"
+      }
+    ]
+  },
+  {
+    "source_id": "naics:238170",
+    "source_name": "Siding Contractors",
+    "matches": [
+      {
+        "target_id": "uc:Ss_20",
+        "target_name": "Structural systems",
+        "relationship": "related_to",
+        "confidence": "C",
+        "score": 0.25,
+        "method": "cooccurrence",
+        "evidence": "siblings_with_match=62"
+      },
+      {
+        "target_id": "uc:Ss_20_05",
+        "target_name": "Substructure systems",
+        "relationship": "related_to",
+        "confidence": "C",
+        "score": 0.25,
+        "method": "cooccurrence",
+        "evidence": "siblings_with_match=62"
+      },
+      {
+        "target_id": "uc:Ss_20_05_15",
+        "target_name": "Concrete foundation systems",
+        "relationship": "related_to",
+        "confidence": "C",
+        "score": 0.25,
+        "method": "cooccurrence",
+        "evidence": "siblings_with_match=62"
+      }
+    ]
+  },
+  {
+    "source_id": "naics:23899",
+    "source_name": "All Other Specialty Trade Contractors",
+    "matches": [
+      {
+        "target_id": "uc:Ss_15",
+        "target_name": "Earthworks, remediation and temporary systems",
+        "relationship": "related_to",
+        "confidence": "C",
+        "score": 0.1,
+        "method": "cooccurrence",
+        "evidence": "siblings_with_match=2"
+      },
+      {
+        "target_id": "uc:Ss_15_10",
+        "target_name": "Groundworks and earthworks systems",
+        "relationship": "related_to",
+        "confidence": "C",
+        "score": 0.1,
+        "method": "cooccurrence",
+        "evidence": "siblings_with_match=2"
+      },
+      {
+        "target_id": "uc:Ss_15_10_30",
+        "target_name": "Excavating, filling and erosion control systems",
+        "relationship": "related_to",
+        "confidence": "C",
+        "score": 0.1,
+        "method": "cooccurrence",
+        "evidence": "siblings_with_match=2"
+      }
+    ]
+  },
+  {
+    "source_id": "naics:238990",
+    "source_name": "All Other Specialty Trade Contractors",
+    "matches": [
+      {
+        "target_id": "uc:Ss_15",
+        "target_name": "Earthworks, remediation and temporary systems",
+        "relationship": "related_to",
+        "confidence": "C",
+        "score": 0.1,
+        "method": "cooccurrence",
+        "evidence": "siblings_with_match=2"
+      },
+      {
+        "target_id": "uc:Ss_15_10",
+        "target_name": "Groundworks and earthworks systems",
+        "relationship": "related_to",
+        "confidence": "C",
+        "score": 0.1,
+        "method": "cooccurrence",
+        "evidence": "siblings_with_match=2"
+      },
+      {
+        "target_id": "uc:Ss_15_10_30",
+        "target_name": "Excavating, filling and erosion control systems",
+        "relationship": "related_to",
+        "confidence": "C",
+        "score": 0.1,
+        "method": "cooccurrence",
+        "evidence": "siblings_with_match=2"
+      }
+    ]
+  }
+]

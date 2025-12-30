@@ -1,0 +1,1486 @@
+[
+  {
+    "source_id": "naics:23",
+    "source_name": "Construction",
+    "matches": [
+      {
+        "target_id": "uc:En_90_30",
+        "target_name": "Construction entities",
+        "relationship": "semantically_similar",
+        "confidence": "A",
+        "score": 0.919,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:En_90_30_15",
+        "target_name": "Construction sites",
+        "relationship": "semantically_similar",
+        "confidence": "A",
+        "score": 0.673,
+        "method": "tfidf_embedding"
+      }
+    ]
+  },
+  {
+    "source_id": "naics:236",
+    "source_name": "Construction of Buildings",
+    "matches": [
+      {
+        "target_id": "uc:En_90_30",
+        "target_name": "Construction entities",
+        "relationship": "semantically_similar",
+        "confidence": "A",
+        "score": 0.847,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:En_90_30_15",
+        "target_name": "Construction sites",
+        "relationship": "semantically_similar",
+        "confidence": "A",
+        "score": 0.62,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:En_90_50_80",
+        "target_name": "Storage buildings",
+        "relationship": "semantically_similar",
+        "confidence": "C",
+        "score": 0.2,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:En_30_60_50",
+        "target_name": "Maintenance buildings",
+        "relationship": "semantically_similar",
+        "confidence": "D",
+        "score": 0.179,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:En_45_10",
+        "target_name": "Residential buildings",
+        "relationship": "semantically_similar",
+        "confidence": "D",
+        "score": 0.176,
+        "method": "tfidf_embedding"
+      }
+    ]
+  },
+  {
+    "source_id": "naics:2361",
+    "source_name": "Residential Building Construction",
+    "matches": [
+      {
+        "target_id": "uc:En_90_30",
+        "target_name": "Construction entities",
+        "relationship": "semantically_similar",
+        "confidence": "A",
+        "score": 0.537,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:En_45_10",
+        "target_name": "Residential buildings",
+        "relationship": "semantically_similar",
+        "confidence": "A",
+        "score": 0.436,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:En_45",
+        "target_name": "Residential entities",
+        "relationship": "semantically_similar",
+        "confidence": "A",
+        "score": 0.434,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:En_90_30_15",
+        "target_name": "Construction sites",
+        "relationship": "semantically_similar",
+        "confidence": "B",
+        "score": 0.393,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:En_35_50_70",
+        "target_name": "Residential welfare buildings",
+        "relationship": "semantically_similar",
+        "confidence": "B",
+        "score": 0.315,
+        "method": "tfidf_embedding"
+      }
+    ]
+  },
+  {
+    "source_id": "naics:23611",
+    "source_name": "Residential Building Construction",
+    "matches": [
+      {
+        "target_id": "uc:En_90_30",
+        "target_name": "Construction entities",
+        "relationship": "semantically_similar",
+        "confidence": "A",
+        "score": 0.537,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:En_45_10",
+        "target_name": "Residential buildings",
+        "relationship": "semantically_similar",
+        "confidence": "A",
+        "score": 0.436,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:En_45",
+        "target_name": "Residential entities",
+        "relationship": "semantically_similar",
+        "confidence": "A",
+        "score": 0.434,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:En_90_30_15",
+        "target_name": "Construction sites",
+        "relationship": "semantically_similar",
+        "confidence": "B",
+        "score": 0.393,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:En_35_50_70",
+        "target_name": "Residential welfare buildings",
+        "relationship": "semantically_similar",
+        "confidence": "B",
+        "score": 0.315,
+        "method": "tfidf_embedding"
+      }
+    ]
+  },
+  {
+    "source_id": "naics:236115",
+    "source_name": "New Single-Family Housing Construction (except For-Sale Builders)",
+    "matches": [
+      {
+        "target_id": "uc:En_90_30",
+        "target_name": "Construction entities",
+        "relationship": "semantically_similar",
+        "confidence": "B",
+        "score": 0.324,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:En_90_30_15",
+        "target_name": "Construction sites",
+        "relationship": "semantically_similar",
+        "confidence": "C",
+        "score": 0.237,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:En_20_15_70",
+        "target_name": "Single occupation office buildings",
+        "relationship": "semantically_similar",
+        "confidence": "C",
+        "score": 0.183,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:En_40_60_70",
+        "target_name": "Single performing arts buildings",
+        "relationship": "semantically_similar",
+        "confidence": "C",
+        "score": 0.182,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:En_40_75_70",
+        "target_name": "Single social recreation buildings",
+        "relationship": "semantically_similar",
+        "confidence": "C",
+        "score": 0.182,
+        "method": "tfidf_embedding"
+      }
+    ]
+  },
+  {
+    "source_id": "naics:236116",
+    "source_name": "New Multifamily Housing Construction (except For-Sale Builders)",
+    "matches": [
+      {
+        "target_id": "uc:En_90_30",
+        "target_name": "Construction entities",
+        "relationship": "semantically_similar",
+        "confidence": "B",
+        "score": 0.344,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:En_90_30_15",
+        "target_name": "Construction sites",
+        "relationship": "semantically_similar",
+        "confidence": "B",
+        "score": 0.252,
+        "method": "tfidf_embedding"
+      }
+    ]
+  },
+  {
+    "source_id": "naics:236118",
+    "source_name": "Residential Remodelers",
+    "matches": [
+      {
+        "target_id": "uc:En_45_10",
+        "target_name": "Residential buildings",
+        "relationship": "semantically_similar",
+        "confidence": "A",
+        "score": 0.54,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:En_45",
+        "target_name": "Residential entities",
+        "relationship": "semantically_similar",
+        "confidence": "A",
+        "score": 0.538,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:En_35_50_70",
+        "target_name": "Residential welfare buildings",
+        "relationship": "semantically_similar",
+        "confidence": "B",
+        "score": 0.391,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:En_45_10_90",
+        "target_name": "Temporary residential buildings",
+        "relationship": "semantically_similar",
+        "confidence": "B",
+        "score": 0.35,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:En_45_10_47",
+        "target_name": "Long-term residential buildings",
+        "relationship": "semantically_similar",
+        "confidence": "B",
+        "score": 0.285,
+        "method": "tfidf_embedding"
+      }
+    ]
+  },
+  {
+    "source_id": "naics:2362",
+    "source_name": "Nonresidential Building Construction",
+    "matches": [
+      {
+        "target_id": "uc:En_90_30",
+        "target_name": "Construction entities",
+        "relationship": "semantically_similar",
+        "confidence": "A",
+        "score": 0.496,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:En_90_30_15",
+        "target_name": "Construction sites",
+        "relationship": "semantically_similar",
+        "confidence": "B",
+        "score": 0.363,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:En_65_40_80",
+        "target_name": "Shaft and tunnel ventilation plant building",
+        "relationship": "semantically_similar",
+        "confidence": "B",
+        "score": 0.287,
+        "method": "tfidf_embedding"
+      }
+    ]
+  },
+  {
+    "source_id": "naics:23621",
+    "source_name": "Industrial Building Construction",
+    "matches": [
+      {
+        "target_id": "uc:En_90_30",
+        "target_name": "Construction entities",
+        "relationship": "semantically_similar",
+        "confidence": "A",
+        "score": 0.514,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:En_30",
+        "target_name": "Industrial entities",
+        "relationship": "semantically_similar",
+        "confidence": "A",
+        "score": 0.505,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:En_90_30_15",
+        "target_name": "Construction sites",
+        "relationship": "semantically_similar",
+        "confidence": "B",
+        "score": 0.376,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:En_65_40_80",
+        "target_name": "Shaft and tunnel ventilation plant building",
+        "relationship": "semantically_similar",
+        "confidence": "B",
+        "score": 0.298,
+        "method": "tfidf_embedding"
+      }
+    ]
+  },
+  {
+    "source_id": "naics:236210",
+    "source_name": "Industrial Building Construction",
+    "matches": [
+      {
+        "target_id": "uc:En_90_30",
+        "target_name": "Construction entities",
+        "relationship": "semantically_similar",
+        "confidence": "A",
+        "score": 0.514,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:En_30",
+        "target_name": "Industrial entities",
+        "relationship": "semantically_similar",
+        "confidence": "A",
+        "score": 0.505,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:En_90_30_15",
+        "target_name": "Construction sites",
+        "relationship": "semantically_similar",
+        "confidence": "B",
+        "score": 0.376,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:En_65_40_80",
+        "target_name": "Shaft and tunnel ventilation plant building",
+        "relationship": "semantically_similar",
+        "confidence": "B",
+        "score": 0.298,
+        "method": "tfidf_embedding"
+      }
+    ]
+  },
+  {
+    "source_id": "naics:23622",
+    "source_name": "Commercial and Institutional Building Construction",
+    "matches": [
+      {
+        "target_id": "uc:En_90_30",
+        "target_name": "Construction entities",
+        "relationship": "semantically_similar",
+        "confidence": "A",
+        "score": 0.449,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:En_20_50",
+        "target_name": "Commercial entities",
+        "relationship": "semantically_similar",
+        "confidence": "A",
+        "score": 0.422,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:En_90_30_15",
+        "target_name": "Construction sites",
+        "relationship": "semantically_similar",
+        "confidence": "B",
+        "score": 0.329,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:En_65_40_80",
+        "target_name": "Shaft and tunnel ventilation plant building",
+        "relationship": "semantically_similar",
+        "confidence": "B",
+        "score": 0.26,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:En_20",
+        "target_name": "Administrative, commercial and protective service entities",
+        "relationship": "semantically_similar",
+        "confidence": "C",
+        "score": 0.213,
+        "method": "tfidf_embedding"
+      }
+    ]
+  },
+  {
+    "source_id": "naics:236220",
+    "source_name": "Commercial and Institutional Building Construction",
+    "matches": [
+      {
+        "target_id": "uc:En_90_30",
+        "target_name": "Construction entities",
+        "relationship": "semantically_similar",
+        "confidence": "A",
+        "score": 0.449,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:En_20_50",
+        "target_name": "Commercial entities",
+        "relationship": "semantically_similar",
+        "confidence": "A",
+        "score": 0.422,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:En_90_30_15",
+        "target_name": "Construction sites",
+        "relationship": "semantically_similar",
+        "confidence": "B",
+        "score": 0.329,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:En_65_40_80",
+        "target_name": "Shaft and tunnel ventilation plant building",
+        "relationship": "semantically_similar",
+        "confidence": "B",
+        "score": 0.26,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:En_20",
+        "target_name": "Administrative, commercial and protective service entities",
+        "relationship": "semantically_similar",
+        "confidence": "C",
+        "score": 0.213,
+        "method": "tfidf_embedding"
+      }
+    ]
+  },
+  {
+    "source_id": "naics:237",
+    "source_name": "Heavy and Civil Engineering Construction",
+    "matches": [
+      {
+        "target_id": "uc:En_90_30",
+        "target_name": "Construction entities",
+        "relationship": "semantically_similar",
+        "confidence": "A",
+        "score": 0.478,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:En_90_30_15",
+        "target_name": "Construction sites",
+        "relationship": "semantically_similar",
+        "confidence": "B",
+        "score": 0.35,
+        "method": "tfidf_embedding"
+      }
+    ]
+  },
+  {
+    "source_id": "naics:2371",
+    "source_name": "Utility System Construction",
+    "matches": [
+      {
+        "target_id": "uc:En_90_30",
+        "target_name": "Construction entities",
+        "relationship": "semantically_similar",
+        "confidence": "A",
+        "score": 0.463,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:En_90_30_15",
+        "target_name": "Construction sites",
+        "relationship": "semantically_similar",
+        "confidence": "B",
+        "score": 0.339,
+        "method": "tfidf_embedding"
+      }
+    ]
+  },
+  {
+    "source_id": "naics:23711",
+    "source_name": "Water and Sewer Line and Related Structures Construction",
+    "matches": [
+      {
+        "target_id": "uc:En_90_30",
+        "target_name": "Construction entities",
+        "relationship": "semantically_similar",
+        "confidence": "A",
+        "score": 0.422,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:En_90_30_15",
+        "target_name": "Construction sites",
+        "relationship": "semantically_similar",
+        "confidence": "B",
+        "score": 0.309,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:En_55_15_50",
+        "target_name": "Water treatment buildings",
+        "relationship": "semantically_similar",
+        "confidence": "C",
+        "score": 0.207,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:En_55_70",
+        "target_name": "Water supply entities",
+        "relationship": "semantically_similar",
+        "confidence": "C",
+        "score": 0.189,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:En_42_90",
+        "target_name": "Water activity entities",
+        "relationship": "semantically_similar",
+        "confidence": "C",
+        "score": 0.182,
+        "method": "tfidf_embedding"
+      }
+    ]
+  },
+  {
+    "source_id": "naics:237110",
+    "source_name": "Water and Sewer Line and Related Structures Construction",
+    "matches": [
+      {
+        "target_id": "uc:En_90_30",
+        "target_name": "Construction entities",
+        "relationship": "semantically_similar",
+        "confidence": "A",
+        "score": 0.422,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:En_90_30_15",
+        "target_name": "Construction sites",
+        "relationship": "semantically_similar",
+        "confidence": "B",
+        "score": 0.309,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:En_55_15_50",
+        "target_name": "Water treatment buildings",
+        "relationship": "semantically_similar",
+        "confidence": "C",
+        "score": 0.207,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:En_55_70",
+        "target_name": "Water supply entities",
+        "relationship": "semantically_similar",
+        "confidence": "C",
+        "score": 0.189,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:En_42_90",
+        "target_name": "Water activity entities",
+        "relationship": "semantically_similar",
+        "confidence": "C",
+        "score": 0.182,
+        "method": "tfidf_embedding"
+      }
+    ]
+  },
+  {
+    "source_id": "naics:23712",
+    "source_name": "Oil and Gas Pipeline and Related Structures Construction",
+    "matches": [
+      {
+        "target_id": "uc:En_30_30_58",
+        "target_name": "Oil processing structures",
+        "relationship": "semantically_similar",
+        "confidence": "A",
+        "score": 0.426,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:En_90_30",
+        "target_name": "Construction entities",
+        "relationship": "semantically_similar",
+        "confidence": "A",
+        "score": 0.424,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:En_55_10_10",
+        "target_name": "Oil extraction structures",
+        "relationship": "semantically_similar",
+        "confidence": "A",
+        "score": 0.423,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:En_55_20_50",
+        "target_name": "Gas distribution structures",
+        "relationship": "semantically_similar",
+        "confidence": "B",
+        "score": 0.376,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:En_30_30_33",
+        "target_name": "Gas processing structures",
+        "relationship": "semantically_similar",
+        "confidence": "B",
+        "score": 0.368,
+        "method": "tfidf_embedding"
+      }
+    ]
+  },
+  {
+    "source_id": "naics:237120",
+    "source_name": "Oil and Gas Pipeline and Related Structures Construction",
+    "matches": [
+      {
+        "target_id": "uc:En_30_30_58",
+        "target_name": "Oil processing structures",
+        "relationship": "semantically_similar",
+        "confidence": "A",
+        "score": 0.426,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:En_90_30",
+        "target_name": "Construction entities",
+        "relationship": "semantically_similar",
+        "confidence": "A",
+        "score": 0.424,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:En_55_10_10",
+        "target_name": "Oil extraction structures",
+        "relationship": "semantically_similar",
+        "confidence": "A",
+        "score": 0.423,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:En_55_20_50",
+        "target_name": "Gas distribution structures",
+        "relationship": "semantically_similar",
+        "confidence": "B",
+        "score": 0.376,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:En_30_30_33",
+        "target_name": "Gas processing structures",
+        "relationship": "semantically_similar",
+        "confidence": "B",
+        "score": 0.368,
+        "method": "tfidf_embedding"
+      }
+    ]
+  },
+  {
+    "source_id": "naics:23713",
+    "source_name": "Power and Communication Line and Related Structures Construction",
+    "matches": [
+      {
+        "target_id": "uc:En_90_30",
+        "target_name": "Construction entities",
+        "relationship": "semantically_similar",
+        "confidence": "A",
+        "score": 0.414,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:En_75_10",
+        "target_name": "Communication entities",
+        "relationship": "semantically_similar",
+        "confidence": "A",
+        "score": 0.407,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:En_90_30_15",
+        "target_name": "Construction sites",
+        "relationship": "semantically_similar",
+        "confidence": "B",
+        "score": 0.303,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:En_30_80",
+        "target_name": "Mechanical power generation",
+        "relationship": "semantically_similar",
+        "confidence": "C",
+        "score": 0.207,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:En_70_10",
+        "target_name": "Electrical power generation entities",
+        "relationship": "semantically_similar",
+        "confidence": "C",
+        "score": 0.183,
+        "method": "tfidf_embedding"
+      }
+    ]
+  },
+  {
+    "source_id": "naics:237130",
+    "source_name": "Power and Communication Line and Related Structures Construction",
+    "matches": [
+      {
+        "target_id": "uc:En_90_30",
+        "target_name": "Construction entities",
+        "relationship": "semantically_similar",
+        "confidence": "A",
+        "score": 0.414,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:En_75_10",
+        "target_name": "Communication entities",
+        "relationship": "semantically_similar",
+        "confidence": "A",
+        "score": 0.407,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:En_90_30_15",
+        "target_name": "Construction sites",
+        "relationship": "semantically_similar",
+        "confidence": "B",
+        "score": 0.303,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:En_30_80",
+        "target_name": "Mechanical power generation",
+        "relationship": "semantically_similar",
+        "confidence": "C",
+        "score": 0.207,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:En_70_10",
+        "target_name": "Electrical power generation entities",
+        "relationship": "semantically_similar",
+        "confidence": "C",
+        "score": 0.183,
+        "method": "tfidf_embedding"
+      }
+    ]
+  },
+  {
+    "source_id": "naics:2372",
+    "source_name": "Land Subdivision",
+    "matches": [
+      {
+        "target_id": "uc:En_32_10_40",
+        "target_name": "Horticultural land",
+        "relationship": "semantically_similar",
+        "confidence": "A",
+        "score": 0.427,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:En_32_10_04",
+        "target_name": "Arable land",
+        "relationship": "semantically_similar",
+        "confidence": "A",
+        "score": 0.407,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:En_32_20_65",
+        "target_name": "Plots of land",
+        "relationship": "semantically_similar",
+        "confidence": "B",
+        "score": 0.391,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:En_32_20",
+        "target_name": "Designated land entities",
+        "relationship": "semantically_similar",
+        "confidence": "B",
+        "score": 0.374,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:En_32_40",
+        "target_name": "Land managed entities",
+        "relationship": "semantically_similar",
+        "confidence": "B",
+        "score": 0.374,
+        "method": "tfidf_embedding"
+      }
+    ]
+  },
+  {
+    "source_id": "naics:23721",
+    "source_name": "Land Subdivision",
+    "matches": [
+      {
+        "target_id": "uc:En_32_10_40",
+        "target_name": "Horticultural land",
+        "relationship": "semantically_similar",
+        "confidence": "A",
+        "score": 0.427,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:En_32_10_04",
+        "target_name": "Arable land",
+        "relationship": "semantically_similar",
+        "confidence": "A",
+        "score": 0.407,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:En_32_20_65",
+        "target_name": "Plots of land",
+        "relationship": "semantically_similar",
+        "confidence": "B",
+        "score": 0.391,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:En_32_20",
+        "target_name": "Designated land entities",
+        "relationship": "semantically_similar",
+        "confidence": "B",
+        "score": 0.374,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:En_32_40",
+        "target_name": "Land managed entities",
+        "relationship": "semantically_similar",
+        "confidence": "B",
+        "score": 0.374,
+        "method": "tfidf_embedding"
+      }
+    ]
+  },
+  {
+    "source_id": "naics:237210",
+    "source_name": "Land Subdivision",
+    "matches": [
+      {
+        "target_id": "uc:En_32_10_40",
+        "target_name": "Horticultural land",
+        "relationship": "semantically_similar",
+        "confidence": "A",
+        "score": 0.427,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:En_32_10_04",
+        "target_name": "Arable land",
+        "relationship": "semantically_similar",
+        "confidence": "A",
+        "score": 0.407,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:En_32_20_65",
+        "target_name": "Plots of land",
+        "relationship": "semantically_similar",
+        "confidence": "B",
+        "score": 0.391,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:En_32_20",
+        "target_name": "Designated land entities",
+        "relationship": "semantically_similar",
+        "confidence": "B",
+        "score": 0.374,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:En_32_40",
+        "target_name": "Land managed entities",
+        "relationship": "semantically_similar",
+        "confidence": "B",
+        "score": 0.374,
+        "method": "tfidf_embedding"
+      }
+    ]
+  },
+  {
+    "source_id": "naics:2373",
+    "source_name": "Highway, Street, and Bridge Construction",
+    "matches": [
+      {
+        "target_id": "uc:En_90_30",
+        "target_name": "Construction entities",
+        "relationship": "semantically_similar",
+        "confidence": "A",
+        "score": 0.472,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:En_90_30_15",
+        "target_name": "Construction sites",
+        "relationship": "semantically_similar",
+        "confidence": "B",
+        "score": 0.346,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:En_80_35_35",
+        "target_name": "Highway maintenance depots",
+        "relationship": "semantically_similar",
+        "confidence": "B",
+        "score": 0.292,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:En_80_35_38",
+        "target_name": "Highway service stations",
+        "relationship": "semantically_similar",
+        "confidence": "B",
+        "score": 0.284,
+        "method": "tfidf_embedding"
+      }
+    ]
+  },
+  {
+    "source_id": "naics:23731",
+    "source_name": "Highway, Street, and Bridge Construction",
+    "matches": [
+      {
+        "target_id": "uc:En_90_30",
+        "target_name": "Construction entities",
+        "relationship": "semantically_similar",
+        "confidence": "A",
+        "score": 0.472,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:En_90_30_15",
+        "target_name": "Construction sites",
+        "relationship": "semantically_similar",
+        "confidence": "B",
+        "score": 0.346,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:En_80_35_35",
+        "target_name": "Highway maintenance depots",
+        "relationship": "semantically_similar",
+        "confidence": "B",
+        "score": 0.292,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:En_80_35_38",
+        "target_name": "Highway service stations",
+        "relationship": "semantically_similar",
+        "confidence": "B",
+        "score": 0.284,
+        "method": "tfidf_embedding"
+      }
+    ]
+  },
+  {
+    "source_id": "naics:237310",
+    "source_name": "Highway, Street, and Bridge Construction",
+    "matches": [
+      {
+        "target_id": "uc:En_90_30",
+        "target_name": "Construction entities",
+        "relationship": "semantically_similar",
+        "confidence": "A",
+        "score": 0.472,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:En_90_30_15",
+        "target_name": "Construction sites",
+        "relationship": "semantically_similar",
+        "confidence": "B",
+        "score": 0.346,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:En_80_35_35",
+        "target_name": "Highway maintenance depots",
+        "relationship": "semantically_similar",
+        "confidence": "B",
+        "score": 0.292,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:En_80_35_38",
+        "target_name": "Highway service stations",
+        "relationship": "semantically_similar",
+        "confidence": "B",
+        "score": 0.284,
+        "method": "tfidf_embedding"
+      }
+    ]
+  },
+  {
+    "source_id": "naics:2379",
+    "source_name": "Other Heavy and Civil Engineering Construction",
+    "matches": [
+      {
+        "target_id": "uc:En_90_30",
+        "target_name": "Construction entities",
+        "relationship": "semantically_similar",
+        "confidence": "A",
+        "score": 0.478,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:En_90_30_15",
+        "target_name": "Construction sites",
+        "relationship": "semantically_similar",
+        "confidence": "B",
+        "score": 0.35,
+        "method": "tfidf_embedding"
+      }
+    ]
+  },
+  {
+    "source_id": "naics:23799",
+    "source_name": "Other Heavy and Civil Engineering Construction",
+    "matches": [
+      {
+        "target_id": "uc:En_90_30",
+        "target_name": "Construction entities",
+        "relationship": "semantically_similar",
+        "confidence": "A",
+        "score": 0.478,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:En_90_30_15",
+        "target_name": "Construction sites",
+        "relationship": "semantically_similar",
+        "confidence": "B",
+        "score": 0.35,
+        "method": "tfidf_embedding"
+      }
+    ]
+  },
+  {
+    "source_id": "naics:237990",
+    "source_name": "Other Heavy and Civil Engineering Construction",
+    "matches": [
+      {
+        "target_id": "uc:En_90_30",
+        "target_name": "Construction entities",
+        "relationship": "semantically_similar",
+        "confidence": "A",
+        "score": 0.478,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:En_90_30_15",
+        "target_name": "Construction sites",
+        "relationship": "semantically_similar",
+        "confidence": "B",
+        "score": 0.35,
+        "method": "tfidf_embedding"
+      }
+    ]
+  },
+  {
+    "source_id": "naics:2381",
+    "source_name": "Foundation, Structure, and Building Exterior Contractors",
+    "matches": [
+      {
+        "target_id": "uc:En_65_40_80",
+        "target_name": "Shaft and tunnel ventilation plant building",
+        "relationship": "semantically_similar",
+        "confidence": "B",
+        "score": 0.261,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:En_20_80_30",
+        "target_name": "Exterior firing ranges",
+        "relationship": "semantically_similar",
+        "confidence": "B",
+        "score": 0.26,
+        "method": "tfidf_embedding"
+      }
+    ]
+  },
+  {
+    "source_id": "naics:23819",
+    "source_name": "Other Foundation, Structure, and Building Exterior Contractors",
+    "matches": [
+      {
+        "target_id": "uc:En_65_40_80",
+        "target_name": "Shaft and tunnel ventilation plant building",
+        "relationship": "semantically_similar",
+        "confidence": "B",
+        "score": 0.261,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:En_20_80_30",
+        "target_name": "Exterior firing ranges",
+        "relationship": "semantically_similar",
+        "confidence": "B",
+        "score": 0.26,
+        "method": "tfidf_embedding"
+      }
+    ]
+  },
+  {
+    "source_id": "naics:238190",
+    "source_name": "Other Foundation, Structure, and Building Exterior Contractors",
+    "matches": [
+      {
+        "target_id": "uc:En_65_40_80",
+        "target_name": "Shaft and tunnel ventilation plant building",
+        "relationship": "semantically_similar",
+        "confidence": "B",
+        "score": 0.261,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:En_20_80_30",
+        "target_name": "Exterior firing ranges",
+        "relationship": "semantically_similar",
+        "confidence": "B",
+        "score": 0.26,
+        "method": "tfidf_embedding"
+      }
+    ]
+  },
+  {
+    "source_id": "naics:2382",
+    "source_name": "Building Equipment Contractors",
+    "matches": [
+      {
+        "target_id": "uc:En_90_90_64",
+        "target_name": "Plant and equipment buildings",
+        "relationship": "semantically_similar",
+        "confidence": "B",
+        "score": 0.384,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:En_30_70_28",
+        "target_name": "Equipment gantries",
+        "relationship": "semantically_similar",
+        "confidence": "B",
+        "score": 0.366,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:En_65_40_80",
+        "target_name": "Shaft and tunnel ventilation plant building",
+        "relationship": "semantically_similar",
+        "confidence": "B",
+        "score": 0.346,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:En_80_50_87",
+        "target_name": "Trackside circuit breaker equipment buildings",
+        "relationship": "semantically_similar",
+        "confidence": "C",
+        "score": 0.241,
+        "method": "tfidf_embedding"
+      }
+    ]
+  },
+  {
+    "source_id": "naics:23821",
+    "source_name": "Electrical Contractors and Other Wiring Installation Contractors",
+    "matches": [
+      {
+        "target_id": "uc:En_70_10",
+        "target_name": "Electrical power generation entities",
+        "relationship": "semantically_similar",
+        "confidence": "B",
+        "score": 0.372,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:En_70_10_10",
+        "target_name": "Electrical power generation buildings",
+        "relationship": "semantically_similar",
+        "confidence": "B",
+        "score": 0.372,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:En_70",
+        "target_name": "Electrical power generation and distribution entities",
+        "relationship": "semantically_similar",
+        "confidence": "B",
+        "score": 0.344,
+        "method": "tfidf_embedding"
+      }
+    ]
+  },
+  {
+    "source_id": "naics:238210",
+    "source_name": "Electrical Contractors and Other Wiring Installation Contractors",
+    "matches": [
+      {
+        "target_id": "uc:En_70_10",
+        "target_name": "Electrical power generation entities",
+        "relationship": "semantically_similar",
+        "confidence": "B",
+        "score": 0.372,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:En_70_10_10",
+        "target_name": "Electrical power generation buildings",
+        "relationship": "semantically_similar",
+        "confidence": "B",
+        "score": 0.372,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:En_70",
+        "target_name": "Electrical power generation and distribution entities",
+        "relationship": "semantically_similar",
+        "confidence": "B",
+        "score": 0.344,
+        "method": "tfidf_embedding"
+      }
+    ]
+  },
+  {
+    "source_id": "naics:23822",
+    "source_name": "Plumbing, Heating, and Air-Conditioning Contractors",
+    "matches": [
+      {
+        "target_id": "uc:En_65_80",
+        "target_name": "Air conditioning entities",
+        "relationship": "semantically_similar",
+        "confidence": "A",
+        "score": 0.559,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:En_65",
+        "target_name": "Ventilation and air conditioning entities",
+        "relationship": "semantically_similar",
+        "confidence": "A",
+        "score": 0.454,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:En_60_40_10",
+        "target_name": "District heating buildings",
+        "relationship": "semantically_similar",
+        "confidence": "B",
+        "score": 0.253,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:En_20_60_02",
+        "target_name": "Air force buildings",
+        "relationship": "semantically_similar",
+        "confidence": "C",
+        "score": 0.244,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:En_60_40_20",
+        "target_name": "District heating pipelines",
+        "relationship": "semantically_similar",
+        "confidence": "C",
+        "score": 0.228,
+        "method": "tfidf_embedding"
+      }
+    ]
+  },
+  {
+    "source_id": "naics:238220",
+    "source_name": "Plumbing, Heating, and Air-Conditioning Contractors",
+    "matches": [
+      {
+        "target_id": "uc:En_65_80",
+        "target_name": "Air conditioning entities",
+        "relationship": "semantically_similar",
+        "confidence": "A",
+        "score": 0.559,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:En_65",
+        "target_name": "Ventilation and air conditioning entities",
+        "relationship": "semantically_similar",
+        "confidence": "A",
+        "score": 0.454,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:En_60_40_10",
+        "target_name": "District heating buildings",
+        "relationship": "semantically_similar",
+        "confidence": "B",
+        "score": 0.253,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:En_20_60_02",
+        "target_name": "Air force buildings",
+        "relationship": "semantically_similar",
+        "confidence": "C",
+        "score": 0.244,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:En_60_40_20",
+        "target_name": "District heating pipelines",
+        "relationship": "semantically_similar",
+        "confidence": "C",
+        "score": 0.228,
+        "method": "tfidf_embedding"
+      }
+    ]
+  },
+  {
+    "source_id": "naics:23829",
+    "source_name": "Other Building Equipment Contractors",
+    "matches": [
+      {
+        "target_id": "uc:En_90_90_64",
+        "target_name": "Plant and equipment buildings",
+        "relationship": "semantically_similar",
+        "confidence": "B",
+        "score": 0.384,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:En_30_70_28",
+        "target_name": "Equipment gantries",
+        "relationship": "semantically_similar",
+        "confidence": "B",
+        "score": 0.366,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:En_65_40_80",
+        "target_name": "Shaft and tunnel ventilation plant building",
+        "relationship": "semantically_similar",
+        "confidence": "B",
+        "score": 0.346,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:En_80_50_87",
+        "target_name": "Trackside circuit breaker equipment buildings",
+        "relationship": "semantically_similar",
+        "confidence": "C",
+        "score": 0.241,
+        "method": "tfidf_embedding"
+      }
+    ]
+  },
+  {
+    "source_id": "naics:238290",
+    "source_name": "Other Building Equipment Contractors",
+    "matches": [
+      {
+        "target_id": "uc:En_90_90_64",
+        "target_name": "Plant and equipment buildings",
+        "relationship": "semantically_similar",
+        "confidence": "B",
+        "score": 0.384,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:En_30_70_28",
+        "target_name": "Equipment gantries",
+        "relationship": "semantically_similar",
+        "confidence": "B",
+        "score": 0.366,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:En_65_40_80",
+        "target_name": "Shaft and tunnel ventilation plant building",
+        "relationship": "semantically_similar",
+        "confidence": "B",
+        "score": 0.346,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:En_80_50_87",
+        "target_name": "Trackside circuit breaker equipment buildings",
+        "relationship": "semantically_similar",
+        "confidence": "C",
+        "score": 0.241,
+        "method": "tfidf_embedding"
+      }
+    ]
+  },
+  {
+    "source_id": "naics:2383",
+    "source_name": "Building Finishing Contractors",
+    "matches": [
+      {
+        "target_id": "uc:En_65_40_80",
+        "target_name": "Shaft and tunnel ventilation plant building",
+        "relationship": "semantically_similar",
+        "confidence": "B",
+        "score": 0.334,
+        "method": "tfidf_embedding"
+      }
+    ]
+  },
+  {
+    "source_id": "naics:23839",
+    "source_name": "Other Building Finishing Contractors",
+    "matches": [
+      {
+        "target_id": "uc:En_65_40_80",
+        "target_name": "Shaft and tunnel ventilation plant building",
+        "relationship": "semantically_similar",
+        "confidence": "B",
+        "score": 0.334,
+        "method": "tfidf_embedding"
+      }
+    ]
+  },
+  {
+    "source_id": "naics:238390",
+    "source_name": "Other Building Finishing Contractors",
+    "matches": [
+      {
+        "target_id": "uc:En_65_40_80",
+        "target_name": "Shaft and tunnel ventilation plant building",
+        "relationship": "semantically_similar",
+        "confidence": "B",
+        "score": 0.334,
+        "method": "tfidf_embedding"
+      }
+    ]
+  }
+]

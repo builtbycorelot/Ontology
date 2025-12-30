@@ -1,0 +1,266 @@
+[
+  {
+    "source_id": "naics:2372",
+    "source_name": "Land Subdivision",
+    "matches": [
+      {
+        "target_id": "uc:Pr_40",
+        "target_name": "Signage, sanitary fittings and fittings, furnishing and equipment (FF&E) products",
+        "relationship": "related_to",
+        "confidence": "C",
+        "score": 0.25,
+        "method": "cooccurrence",
+        "evidence": "siblings_with_match=5"
+      },
+      {
+        "target_id": "uc:Pr_40_10",
+        "target_name": "Signage products",
+        "relationship": "related_to",
+        "confidence": "C",
+        "score": 0.25,
+        "method": "cooccurrence",
+        "evidence": "siblings_with_match=5"
+      },
+      {
+        "target_id": "uc:Pr_40_10_57",
+        "target_name": "Notices, identification and labels",
+        "relationship": "related_to",
+        "confidence": "C",
+        "score": 0.25,
+        "method": "cooccurrence",
+        "evidence": "siblings_with_match=5"
+      }
+    ]
+  },
+  {
+    "source_id": "naics:23712",
+    "source_name": "Oil and Gas Pipeline and Related Structures Construction",
+    "matches": [
+      {
+        "target_id": "uc:Pr_65",
+        "target_name": "Services and process distribution products",
+        "relationship": "related_to",
+        "confidence": "C",
+        "score": 0.25,
+        "method": "cooccurrence",
+        "evidence": "siblings_with_match=14"
+      },
+      {
+        "target_id": "uc:Pr_65_12",
+        "target_name": "Chutes",
+        "relationship": "related_to",
+        "confidence": "C",
+        "score": 0.25,
+        "method": "cooccurrence",
+        "evidence": "siblings_with_match=14"
+      },
+      {
+        "target_id": "uc:Pr_65_12_47",
+        "target_name": "Linen chutes and openings",
+        "relationship": "related_to",
+        "confidence": "C",
+        "score": 0.25,
+        "method": "cooccurrence",
+        "evidence": "siblings_with_match=14"
+      }
+    ]
+  },
+  {
+    "source_id": "naics:237120",
+    "source_name": "Oil and Gas Pipeline and Related Structures Construction",
+    "matches": [
+      {
+        "target_id": "uc:Pr_65",
+        "target_name": "Services and process distribution products",
+        "relationship": "related_to",
+        "confidence": "C",
+        "score": 0.25,
+        "method": "cooccurrence",
+        "evidence": "siblings_with_match=14"
+      },
+      {
+        "target_id": "uc:Pr_65_12",
+        "target_name": "Chutes",
+        "relationship": "related_to",
+        "confidence": "C",
+        "score": 0.25,
+        "method": "cooccurrence",
+        "evidence": "siblings_with_match=14"
+      },
+      {
+        "target_id": "uc:Pr_65_12_47",
+        "target_name": "Linen chutes and openings",
+        "relationship": "related_to",
+        "confidence": "C",
+        "score": 0.25,
+        "method": "cooccurrence",
+        "evidence": "siblings_with_match=14"
+      }
+    ]
+  },
+  {
+    "source_id": "naics:2389",
+    "source_name": "Other Specialty Trade Contractors",
+    "matches": [
+      {
+        "target_id": "uc:Pr_20",
+        "target_name": "Structure and general products",
+        "relationship": "related_to",
+        "confidence": "C",
+        "score": 0.25,
+        "method": "cooccurrence",
+        "evidence": "siblings_with_match=12"
+      },
+      {
+        "target_id": "uc:Pr_20_29",
+        "target_name": "Fastener products",
+        "relationship": "related_to",
+        "confidence": "C",
+        "score": 0.25,
+        "method": "cooccurrence",
+        "evidence": "siblings_with_match=12"
+      },
+      {
+        "target_id": "uc:Pr_20_29_03",
+        "target_name": "Anchors and components",
+        "relationship": "related_to",
+        "confidence": "C",
+        "score": 0.25,
+        "method": "cooccurrence",
+        "evidence": "siblings_with_match=12"
+      }
+    ]
+  },
+  {
+    "source_id": "naics:23817",
+    "source_name": "Siding Contractors",
+    "matches": [
+      {
+        "target_id": "uc:Pr_20",
+        "target_name": "Structure and general products",
+        "relationship": "related_to",
+        "confidence": "C",
+        "score": 0.25,
+        "method": "cooccurrence",
+        "evidence": "siblings_with_match=126"
+      },
+      {
+        "target_id": "uc:Pr_20_29",
+        "target_name": "Fastener products",
+        "relationship": "related_to",
+        "confidence": "C",
+        "score": 0.25,
+        "method": "cooccurrence",
+        "evidence": "siblings_with_match=126"
+      },
+      {
+        "target_id": "uc:Pr_20_29_03",
+        "target_name": "Anchors and components",
+        "relationship": "related_to",
+        "confidence": "C",
+        "score": 0.25,
+        "method": "cooccurrence",
+        "evidence": "siblings_with_match=126"
+      }
+    ]
+  },
+  {
+    "source_id": "naics:238170",
+    "source_name": "Siding Contractors",
+    "matches": [
+      {
+        "target_id": "uc:Pr_20",
+        "target_name": "Structure and general products",
+        "relationship": "related_to",
+        "confidence": "C",
+        "score": 0.25,
+        "method": "cooccurrence",
+        "evidence": "siblings_with_match=126"
+      },
+      {
+        "target_id": "uc:Pr_20_29",
+        "target_name": "Fastener products",
+        "relationship": "related_to",
+        "confidence": "C",
+        "score": 0.25,
+        "method": "cooccurrence",
+        "evidence": "siblings_with_match=126"
+      },
+      {
+        "target_id": "uc:Pr_20_29_03",
+        "target_name": "Anchors and components",
+        "relationship": "related_to",
+        "confidence": "C",
+        "score": 0.25,
+        "method": "cooccurrence",
+        "evidence": "siblings_with_match=126"
+      }
+    ]
+  },
+  {
+    "source_id": "naics:23899",
+    "source_name": "All Other Specialty Trade Contractors",
+    "matches": [
+      {
+        "target_id": "uc:Pr_40",
+        "target_name": "Signage, sanitary fittings and fittings, furnishing and equipment (FF&E) products",
+        "relationship": "related_to",
+        "confidence": "C",
+        "score": 0.25,
+        "method": "cooccurrence",
+        "evidence": "siblings_with_match=8"
+      },
+      {
+        "target_id": "uc:Pr_40_10",
+        "target_name": "Signage products",
+        "relationship": "related_to",
+        "confidence": "C",
+        "score": 0.25,
+        "method": "cooccurrence",
+        "evidence": "siblings_with_match=8"
+      },
+      {
+        "target_id": "uc:Pr_40_10_57",
+        "target_name": "Notices, identification and labels",
+        "relationship": "related_to",
+        "confidence": "C",
+        "score": 0.25,
+        "method": "cooccurrence",
+        "evidence": "siblings_with_match=8"
+      }
+    ]
+  },
+  {
+    "source_id": "naics:238990",
+    "source_name": "All Other Specialty Trade Contractors",
+    "matches": [
+      {
+        "target_id": "uc:Pr_40",
+        "target_name": "Signage, sanitary fittings and fittings, furnishing and equipment (FF&E) products",
+        "relationship": "related_to",
+        "confidence": "C",
+        "score": 0.25,
+        "method": "cooccurrence",
+        "evidence": "siblings_with_match=8"
+      },
+      {
+        "target_id": "uc:Pr_40_10",
+        "target_name": "Signage products",
+        "relationship": "related_to",
+        "confidence": "C",
+        "score": 0.25,
+        "method": "cooccurrence",
+        "evidence": "siblings_with_match=8"
+      },
+      {
+        "target_id": "uc:Pr_40_10_57",
+        "target_name": "Notices, identification and labels",
+        "relationship": "related_to",
+        "confidence": "C",
+        "score": 0.25,
+        "method": "cooccurrence",
+        "evidence": "siblings_with_match=8"
+      }
+    ]
+  }
+]

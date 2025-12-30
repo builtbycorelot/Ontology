@@ -1,0 +1,412 @@
+{
+  "generated_at": "2025-12-30T02:46:32.699026",
+  "summary": {
+    "total_mapping_instances": 2820,
+    "unique_source_target_pairs": 2361,
+    "sources_with_mappings": 72,
+    "conflicts_detected": 124,
+    "naics_gaps": 1,
+    "naics_low_quality": 3
+  },
+  "coverage": {
+    "naics": {
+      "total": 2206,
+      "as_source": 72,
+      "as_target": 0,
+      "combined": 72,
+      "pct_source": 3.3,
+      "pct_combined": 3.3
+    },
+    "uniclass_ss": {
+      "total": 2415,
+      "as_source": 0,
+      "as_target": 255,
+      "combined": 255,
+      "pct_source": 0.0,
+      "pct_combined": 10.6
+    },
+    "uniclass_pr": {
+      "total": 7891,
+      "as_source": 0,
+      "as_target": 258,
+      "combined": 258,
+      "pct_source": 0.0,
+      "pct_combined": 3.3
+    },
+    "uniclass_ac": {
+      "total": 926,
+      "as_source": 0,
+      "as_target": 109,
+      "combined": 109,
+      "pct_source": 0.0,
+      "pct_combined": 11.8
+    },
+    "uniclass_en": {
+      "total": 530,
+      "as_source": 0,
+      "as_target": 78,
+      "combined": 78,
+      "pct_source": 0.0,
+      "pct_combined": 14.7
+    },
+    "uniclass_co": {
+      "total": 392,
+      "as_source": 0,
+      "as_target": 58,
+      "combined": 58,
+      "pct_source": 0.0,
+      "pct_combined": 14.8
+    },
+    "schemaorg": {
+      "total": 1384,
+      "as_source": 0,
+      "as_target": 0,
+      "combined": 0,
+      "pct_source": 0.0,
+      "pct_combined": 0.0
+    }
+  },
+  "methods": {
+    "linguistic": 1684,
+    "embedding": 1085,
+    "cooccurrence": 51
+  },
+  "confidence_distribution": {
+    "A": 974,
+    "B": 1333,
+    "C": 376,
+    "D": 137
+  },
+  "conflicts_sample": [
+    {
+      "source": "naics:23",
+      "target": "uc:Pr_30_31_76_02",
+      "methods": [
+        {
+          "method": "linguistic",
+          "confidence": "C",
+          "score": 0.25
+        },
+        {
+          "method": "embedding",
+          "confidence": "A",
+          "score": 0.63
+        }
+      ]
+    },
+    {
+      "source": "naics:23",
+      "target": "uc:Pr_35_90_31_28",
+      "methods": [
+        {
+          "method": "linguistic",
+          "confidence": "C",
+          "score": 0.2
+        },
+        {
+          "method": "embedding",
+          "confidence": "A",
+          "score": 0.66
+        }
+      ]
+    },
+    {
+      "source": "naics:23",
+      "target": "uc:Pr_35_90_15",
+      "methods": [
+        {
+          "method": "linguistic",
+          "confidence": "D",
+          "score": 0.167
+        },
+        {
+          "method": "embedding",
+          "confidence": "A",
+          "score": 0.658
+        }
+      ]
+    },
+    {
+      "source": "naics:236",
+      "target": "uc:Ac_10",
+      "methods": [
+        {
+          "method": "linguistic",
+          "confidence": "C",
+          "score": 0.25
+        },
+        {
+          "method": "embedding",
+          "confidence": "A",
+          "score": 0.446
+        }
+      ]
+    },
+    {
+      "source": "naics:236",
+      "target": "uc:Pr_30_31_76_16",
+      "methods": [
+        {
+          "method": "linguistic",
+          "confidence": "C",
+          "score": 0.25
+        },
+        {
+          "method": "embedding",
+          "confidence": "A",
+          "score": 0.527
+        }
+      ]
+    },
+    {
+      "source": "naics:236",
+      "target": "uc:Pr_30_31_76_02",
+      "methods": [
+        {
+          "method": "linguistic",
+          "confidence": "C",
+          "score": 0.2
+        },
+        {
+          "method": "embedding",
+          "confidence": "A",
+          "score": 0.46
+        }
+      ]
+    },
+    {
+      "source": "naics:236",
+      "target": "uc:Pr_35_90_31_28",
+      "methods": [
+        {
+          "method": "linguistic",
+          "confidence": "D",
+          "score": 0.167
+        },
+        {
+          "method": "embedding",
+          "confidence": "A",
+          "score": 0.482
+        }
+      ]
+    },
+    {
+      "source": "naics:2361",
+      "target": "uc:Ac_10_40",
+      "methods": [
+        {
+          "method": "linguistic",
+          "confidence": "D",
+          "score": 0.167
+        },
+        {
+          "method": "embedding",
+          "confidence": "A",
+          "score": 0.595
+        }
+      ]
+    },
+    {
+      "source": "naics:23611",
+      "target": "uc:Ac_10_40",
+      "methods": [
+        {
+          "method": "linguistic",
+          "confidence": "D",
+          "score": 0.167
+        },
+        {
+          "method": "embedding",
+          "confidence": "A",
+          "score": 0.595
+        }
+      ]
+    },
+    {
+      "source": "naics:2362",
+      "target": "uc:Ac_15_50_10",
+      "methods": [
+        {
+          "method": "linguistic",
+          "confidence": "C",
+          "score": 0.25
+        },
+        {
+          "method": "embedding",
+          "confidence": "A",
+          "score": 0.514
+        }
+      ]
+    },
+    {
+      "source": "naics:2362",
+      "target": "uc:Ac_15_45_35",
+      "methods": [
+        {
+          "method": "linguistic",
+          "confidence": "C",
+          "score": 0.2
+        },
+        {
+          "method": "embedding",
+          "confidence": "A",
+          "score": 0.412
+        }
+      ]
+    },
+    {
+      "source": "naics:2362",
+      "target": "uc:Co_30_50_77",
+      "methods": [
+        {
+          "method": "linguistic",
+          "confidence": "D",
+          "score": 0.167
+        },
+        {
+          "method": "embedding",
+          "confidence": "B",
+          "score": 0.293
+        }
+      ]
+    },
+    {
+      "source": "naics:2362",
+      "target": "uc:En_90_30",
+      "methods": [
+        {
+          "method": "linguistic",
+          "confidence": "C",
+          "score": 0.25
+        },
+        {
+          "method": "embedding",
+          "confidence": "A",
+          "score": 0.496
+        }
+      ]
+    },
+    {
+      "source": "naics:2362",
+      "target": "uc:Pr_25_57_10_09",
+      "methods": [
+        {
+          "method": "linguistic",
+          "confidence": "C",
+          "score": 0.25
+        },
+        {
+          "method": "embedding",
+          "confidence": "A",
+          "score": 0.506
+        }
+      ]
+    },
+    {
+      "source": "naics:2362",
+      "target": "uc:Pr_30_31_76_16",
+      "methods": [
+        {
+          "method": "linguistic",
+          "confidence": "C",
+          "score": 0.2
+        },
+        {
+          "method": "embedding",
+          "confidence": "A",
+          "score": 0.405
+        }
+      ]
+    },
+    {
+      "source": "naics:2362",
+      "target": "uc:Pr_25_57_10_12",
+      "methods": [
+        {
+          "method": "linguistic",
+          "confidence": "D",
+          "score": 0.167
+        },
+        {
+          "method": "embedding",
+          "confidence": "B",
+          "score": 0.395
+        }
+      ]
+    },
+    {
+      "source": "naics:2362",
+      "target": "uc:Ss_20_40_10",
+      "methods": [
+        {
+          "method": "linguistic",
+          "confidence": "C",
+          "score": 0.2
+        },
+        {
+          "method": "embedding",
+          "confidence": "A",
+          "score": 0.48
+        }
+      ]
+    },
+    {
+      "source": "naics:2362",
+      "target": "uc:Ss_40_10_35_10",
+      "methods": [
+        {
+          "method": "linguistic",
+          "confidence": "C",
+          "score": 0.2
+        },
+        {
+          "method": "embedding",
+          "confidence": "A",
+          "score": 0.506
+        }
+      ]
+    },
+    {
+      "source": "naics:2362",
+      "target": "uc:Ss_15_30_10",
+      "methods": [
+        {
+          "method": "linguistic",
+          "confidence": "D",
+          "score": 0.167
+        },
+        {
+          "method": "embedding",
+          "confidence": "B",
+          "score": 0.386
+        }
+      ]
+    },
+    {
+      "source": "naics:2362",
+      "target": "uc:Ss_75_70_54_10",
+      "methods": [
+        {
+          "method": "linguistic",
+          "confidence": "D",
+          "score": 0.167
+        },
+        {
+          "method": "embedding",
+          "confidence": "A",
+          "score": 0.433
+        }
+      ]
+    }
+  ],
+  "gaps_sample": {
+    "no_mapping": [
+      "naics:238"
+    ],
+    "low_confidence": [
+      "naics:23817",
+      "naics:238170",
+      "naics:2389"
+    ]
+  }
+}

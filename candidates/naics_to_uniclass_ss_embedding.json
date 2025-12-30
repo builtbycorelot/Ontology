@@ -1,0 +1,2818 @@
+[
+  {
+    "source_id": "naics:2361",
+    "source_name": "Residential Building Construction",
+    "matches": [
+      {
+        "target_id": "uc:Ss_40_10_35_10",
+        "target_name": "Building signage systems",
+        "relationship": "semantically_similar",
+        "confidence": "A",
+        "score": 0.536,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Ss_20_40_10",
+        "target_name": "Building cable systems",
+        "relationship": "semantically_similar",
+        "confidence": "A",
+        "score": 0.508,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Ss_75_70_54_10",
+        "target_name": "Building monitoring and management systems",
+        "relationship": "semantically_similar",
+        "confidence": "A",
+        "score": 0.458,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Ss_15_30_10",
+        "target_name": "Building services remediation systems",
+        "relationship": "semantically_similar",
+        "confidence": "A",
+        "score": 0.408,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Ss_65_40_33_52",
+        "target_name": "Mechanical and whole building ventilation systems",
+        "relationship": "semantically_similar",
+        "confidence": "B",
+        "score": 0.369,
+        "method": "tfidf_embedding"
+      }
+    ]
+  },
+  {
+    "source_id": "naics:23611",
+    "source_name": "Residential Building Construction",
+    "matches": [
+      {
+        "target_id": "uc:Ss_40_10_35_10",
+        "target_name": "Building signage systems",
+        "relationship": "semantically_similar",
+        "confidence": "A",
+        "score": 0.536,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Ss_20_40_10",
+        "target_name": "Building cable systems",
+        "relationship": "semantically_similar",
+        "confidence": "A",
+        "score": 0.508,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Ss_75_70_54_10",
+        "target_name": "Building monitoring and management systems",
+        "relationship": "semantically_similar",
+        "confidence": "A",
+        "score": 0.458,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Ss_15_30_10",
+        "target_name": "Building services remediation systems",
+        "relationship": "semantically_similar",
+        "confidence": "A",
+        "score": 0.408,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Ss_65_40_33_52",
+        "target_name": "Mechanical and whole building ventilation systems",
+        "relationship": "semantically_similar",
+        "confidence": "B",
+        "score": 0.369,
+        "method": "tfidf_embedding"
+      }
+    ]
+  },
+  {
+    "source_id": "naics:236118",
+    "source_name": "Residential Remodelers",
+    "matches": [
+      {
+        "target_id": "uc:Ss_55_30_98_70",
+        "target_name": "Residential water mist systems",
+        "relationship": "semantically_similar",
+        "confidence": "B",
+        "score": 0.376,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Ss_55_20_14_70",
+        "target_name": "Residential central vacuum systems",
+        "relationship": "semantically_similar",
+        "confidence": "B",
+        "score": 0.351,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Ss_90_45",
+        "target_name": "Specific demand of residential organizations",
+        "relationship": "semantically_similar",
+        "confidence": "B",
+        "score": 0.348,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Ss_55_30_98_23",
+        "target_name": "Domestic and residential sprinkler systems",
+        "relationship": "semantically_similar",
+        "confidence": "B",
+        "score": 0.344,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Ss_40_45_70",
+        "target_name": "Residential living space FF&E systems",
+        "relationship": "semantically_similar",
+        "confidence": "B",
+        "score": 0.34,
+        "method": "tfidf_embedding"
+      }
+    ]
+  },
+  {
+    "source_id": "naics:2362",
+    "source_name": "Nonresidential Building Construction",
+    "matches": [
+      {
+        "target_id": "uc:Ss_40_10_35_10",
+        "target_name": "Building signage systems",
+        "relationship": "semantically_similar",
+        "confidence": "A",
+        "score": 0.506,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Ss_20_40_10",
+        "target_name": "Building cable systems",
+        "relationship": "semantically_similar",
+        "confidence": "A",
+        "score": 0.48,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Ss_75_70_54_10",
+        "target_name": "Building monitoring and management systems",
+        "relationship": "semantically_similar",
+        "confidence": "A",
+        "score": 0.433,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Ss_15_30_10",
+        "target_name": "Building services remediation systems",
+        "relationship": "semantically_similar",
+        "confidence": "B",
+        "score": 0.386,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Ss_65_40_33_52",
+        "target_name": "Mechanical and whole building ventilation systems",
+        "relationship": "semantically_similar",
+        "confidence": "B",
+        "score": 0.349,
+        "method": "tfidf_embedding"
+      }
+    ]
+  },
+  {
+    "source_id": "naics:23621",
+    "source_name": "Industrial Building Construction",
+    "matches": [
+      {
+        "target_id": "uc:Ss_40_10_35_10",
+        "target_name": "Building signage systems",
+        "relationship": "semantically_similar",
+        "confidence": "A",
+        "score": 0.541,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Ss_20_40_10",
+        "target_name": "Building cable systems",
+        "relationship": "semantically_similar",
+        "confidence": "A",
+        "score": 0.513,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Ss_75_70_54_10",
+        "target_name": "Building monitoring and management systems",
+        "relationship": "semantically_similar",
+        "confidence": "A",
+        "score": 0.463,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Ss_15_30_10",
+        "target_name": "Building services remediation systems",
+        "relationship": "semantically_similar",
+        "confidence": "A",
+        "score": 0.412,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Ss_40_30_42",
+        "target_name": "Industrial FF&E systems",
+        "relationship": "semantically_similar",
+        "confidence": "B",
+        "score": 0.386,
+        "method": "tfidf_embedding"
+      }
+    ]
+  },
+  {
+    "source_id": "naics:236210",
+    "source_name": "Industrial Building Construction",
+    "matches": [
+      {
+        "target_id": "uc:Ss_40_10_35_10",
+        "target_name": "Building signage systems",
+        "relationship": "semantically_similar",
+        "confidence": "A",
+        "score": 0.541,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Ss_20_40_10",
+        "target_name": "Building cable systems",
+        "relationship": "semantically_similar",
+        "confidence": "A",
+        "score": 0.513,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Ss_75_70_54_10",
+        "target_name": "Building monitoring and management systems",
+        "relationship": "semantically_similar",
+        "confidence": "A",
+        "score": 0.463,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Ss_15_30_10",
+        "target_name": "Building services remediation systems",
+        "relationship": "semantically_similar",
+        "confidence": "A",
+        "score": 0.412,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Ss_40_30_42",
+        "target_name": "Industrial FF&E systems",
+        "relationship": "semantically_similar",
+        "confidence": "B",
+        "score": 0.386,
+        "method": "tfidf_embedding"
+      }
+    ]
+  },
+  {
+    "source_id": "naics:23622",
+    "source_name": "Commercial and Institutional Building Construction",
+    "matches": [
+      {
+        "target_id": "uc:Ss_40_10_35_10",
+        "target_name": "Building signage systems",
+        "relationship": "semantically_similar",
+        "confidence": "A",
+        "score": 0.466,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Ss_20_40_10",
+        "target_name": "Building cable systems",
+        "relationship": "semantically_similar",
+        "confidence": "A",
+        "score": 0.442,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Ss_75_70_54_10",
+        "target_name": "Building monitoring and management systems",
+        "relationship": "semantically_similar",
+        "confidence": "B",
+        "score": 0.399,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Ss_15_30_10",
+        "target_name": "Building services remediation systems",
+        "relationship": "semantically_similar",
+        "confidence": "B",
+        "score": 0.356,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Ss_40_20_15",
+        "target_name": "Commercial FF&E systems",
+        "relationship": "semantically_similar",
+        "confidence": "B",
+        "score": 0.353,
+        "method": "tfidf_embedding"
+      }
+    ]
+  },
+  {
+    "source_id": "naics:236220",
+    "source_name": "Commercial and Institutional Building Construction",
+    "matches": [
+      {
+        "target_id": "uc:Ss_40_10_35_10",
+        "target_name": "Building signage systems",
+        "relationship": "semantically_similar",
+        "confidence": "A",
+        "score": 0.466,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Ss_20_40_10",
+        "target_name": "Building cable systems",
+        "relationship": "semantically_similar",
+        "confidence": "A",
+        "score": 0.442,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Ss_75_70_54_10",
+        "target_name": "Building monitoring and management systems",
+        "relationship": "semantically_similar",
+        "confidence": "B",
+        "score": 0.399,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Ss_15_30_10",
+        "target_name": "Building services remediation systems",
+        "relationship": "semantically_similar",
+        "confidence": "B",
+        "score": 0.356,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Ss_40_20_15",
+        "target_name": "Commercial FF&E systems",
+        "relationship": "semantically_similar",
+        "confidence": "B",
+        "score": 0.353,
+        "method": "tfidf_embedding"
+      }
+    ]
+  },
+  {
+    "source_id": "naics:237",
+    "source_name": "Heavy and Civil Engineering Construction",
+    "matches": [
+      {
+        "target_id": "uc:Ss_85",
+        "target_name": "Process engineering systems",
+        "relationship": "semantically_similar",
+        "confidence": "B",
+        "score": 0.324,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Ss_85_95",
+        "target_name": "Temporary process engineering systems",
+        "relationship": "semantically_similar",
+        "confidence": "B",
+        "score": 0.287,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Ss_15_95_85",
+        "target_name": "Temporary process engineering works systems",
+        "relationship": "semantically_similar",
+        "confidence": "B",
+        "score": 0.253,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Ss_30_12_85_40",
+        "target_name": "Heavy steel deck systems",
+        "relationship": "semantically_similar",
+        "confidence": "C",
+        "score": 0.244,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Ss_20_20_75_35",
+        "target_name": "Heavy steel beam systems",
+        "relationship": "semantically_similar",
+        "confidence": "C",
+        "score": 0.239,
+        "method": "tfidf_embedding"
+      }
+    ]
+  },
+  {
+    "source_id": "naics:2371",
+    "source_name": "Utility System Construction",
+    "matches": [
+      {
+        "target_id": "uc:Ss_75_70_52_36",
+        "target_name": "Heating system control systems",
+        "relationship": "semantically_similar",
+        "confidence": "A",
+        "score": 0.464,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Ss_75_70_52_17",
+        "target_name": "Cooling system control systems",
+        "relationship": "semantically_similar",
+        "confidence": "A",
+        "score": 0.45,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Ss_75_70_52_23",
+        "target_name": "Domestic heating system control systems",
+        "relationship": "semantically_similar",
+        "confidence": "B",
+        "score": 0.394,
+        "method": "tfidf_embedding"
+      }
+    ]
+  },
+  {
+    "source_id": "naics:23711",
+    "source_name": "Water and Sewer Line and Related Structures Construction",
+    "matches": [
+      {
+        "target_id": "uc:Ss_50_35_08_16",
+        "target_name": "Combined sewer overflow systems",
+        "relationship": "semantically_similar",
+        "confidence": "B",
+        "score": 0.264,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Ss_25_32_35_41",
+        "target_name": "In-line inhibitor systems",
+        "relationship": "semantically_similar",
+        "confidence": "C",
+        "score": 0.25,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Ss_70_30_60_11",
+        "target_name": "Catenary overhead line systems",
+        "relationship": "semantically_similar",
+        "confidence": "C",
+        "score": 0.21,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Ss_20_10_60",
+        "target_name": "Prefabricated framed and panelled structures",
+        "relationship": "semantically_similar",
+        "confidence": "C",
+        "score": 0.202,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Ss_90_08",
+        "target_name": "Demand related to outdoor space",
+        "relationship": "semantically_similar",
+        "confidence": "C",
+        "score": 0.2,
+        "method": "tfidf_embedding"
+      }
+    ]
+  },
+  {
+    "source_id": "naics:237110",
+    "source_name": "Water and Sewer Line and Related Structures Construction",
+    "matches": [
+      {
+        "target_id": "uc:Ss_50_35_08_16",
+        "target_name": "Combined sewer overflow systems",
+        "relationship": "semantically_similar",
+        "confidence": "B",
+        "score": 0.264,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Ss_25_32_35_41",
+        "target_name": "In-line inhibitor systems",
+        "relationship": "semantically_similar",
+        "confidence": "C",
+        "score": 0.25,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Ss_70_30_60_11",
+        "target_name": "Catenary overhead line systems",
+        "relationship": "semantically_similar",
+        "confidence": "C",
+        "score": 0.21,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Ss_20_10_60",
+        "target_name": "Prefabricated framed and panelled structures",
+        "relationship": "semantically_similar",
+        "confidence": "C",
+        "score": 0.202,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Ss_90_08",
+        "target_name": "Demand related to outdoor space",
+        "relationship": "semantically_similar",
+        "confidence": "C",
+        "score": 0.2,
+        "method": "tfidf_embedding"
+      }
+    ]
+  },
+  {
+    "source_id": "naics:23712",
+    "source_name": "Oil and Gas Pipeline and Related Structures Construction",
+    "matches": [
+      {
+        "target_id": "uc:Ss_15_30_65",
+        "target_name": "Pipeline renovation systems",
+        "relationship": "semantically_similar",
+        "confidence": "B",
+        "score": 0.274,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Ss_55_50_47_32",
+        "target_name": "Fuel oil supply systems",
+        "relationship": "semantically_similar",
+        "confidence": "B",
+        "score": 0.269,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Ss_40_90_60_60",
+        "target_name": "Oil gilding systems",
+        "relationship": "semantically_similar",
+        "confidence": "B",
+        "score": 0.258,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Ss_55_50_46_58",
+        "target_name": "Oil distribution network systems",
+        "relationship": "semantically_similar",
+        "confidence": "B",
+        "score": 0.258,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Ss_55_20_34",
+        "target_name": "Gas supply systems",
+        "relationship": "semantically_similar",
+        "confidence": "C",
+        "score": 0.229,
+        "method": "tfidf_embedding"
+      }
+    ]
+  },
+  {
+    "source_id": "naics:237120",
+    "source_name": "Oil and Gas Pipeline and Related Structures Construction",
+    "matches": [
+      {
+        "target_id": "uc:Ss_15_30_65",
+        "target_name": "Pipeline renovation systems",
+        "relationship": "semantically_similar",
+        "confidence": "B",
+        "score": 0.274,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Ss_55_50_47_32",
+        "target_name": "Fuel oil supply systems",
+        "relationship": "semantically_similar",
+        "confidence": "B",
+        "score": 0.269,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Ss_40_90_60_60",
+        "target_name": "Oil gilding systems",
+        "relationship": "semantically_similar",
+        "confidence": "B",
+        "score": 0.258,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Ss_55_50_46_58",
+        "target_name": "Oil distribution network systems",
+        "relationship": "semantically_similar",
+        "confidence": "B",
+        "score": 0.258,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Ss_55_20_34",
+        "target_name": "Gas supply systems",
+        "relationship": "semantically_similar",
+        "confidence": "C",
+        "score": 0.229,
+        "method": "tfidf_embedding"
+      }
+    ]
+  },
+  {
+    "source_id": "naics:23713",
+    "source_name": "Power and Communication Line and Related Structures Construction",
+    "matches": [
+      {
+        "target_id": "uc:Ss_70_30_60",
+        "target_name": "Overhead line traction power distribution systems",
+        "relationship": "semantically_similar",
+        "confidence": "B",
+        "score": 0.317,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Ss_75_10_72",
+        "target_name": "Emergency communication systems",
+        "relationship": "semantically_similar",
+        "confidence": "B",
+        "score": 0.287,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Ss_85_50_65",
+        "target_name": "Power supply systems",
+        "relationship": "semantically_similar",
+        "confidence": "B",
+        "score": 0.26,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Ss_75_10_68_07",
+        "target_name": "Bell communication systems",
+        "relationship": "semantically_similar",
+        "confidence": "B",
+        "score": 0.255,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Ss_25_32_35_41",
+        "target_name": "In-line inhibitor systems",
+        "relationship": "semantically_similar",
+        "confidence": "C",
+        "score": 0.248,
+        "method": "tfidf_embedding"
+      }
+    ]
+  },
+  {
+    "source_id": "naics:237130",
+    "source_name": "Power and Communication Line and Related Structures Construction",
+    "matches": [
+      {
+        "target_id": "uc:Ss_70_30_60",
+        "target_name": "Overhead line traction power distribution systems",
+        "relationship": "semantically_similar",
+        "confidence": "B",
+        "score": 0.317,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Ss_75_10_72",
+        "target_name": "Emergency communication systems",
+        "relationship": "semantically_similar",
+        "confidence": "B",
+        "score": 0.287,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Ss_85_50_65",
+        "target_name": "Power supply systems",
+        "relationship": "semantically_similar",
+        "confidence": "B",
+        "score": 0.26,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Ss_75_10_68_07",
+        "target_name": "Bell communication systems",
+        "relationship": "semantically_similar",
+        "confidence": "B",
+        "score": 0.255,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Ss_25_32_35_41",
+        "target_name": "In-line inhibitor systems",
+        "relationship": "semantically_similar",
+        "confidence": "C",
+        "score": 0.248,
+        "method": "tfidf_embedding"
+      }
+    ]
+  },
+  {
+    "source_id": "naics:2372",
+    "source_name": "Land Subdivision",
+    "matches": [
+      {
+        "target_id": "uc:Ss_50_35_45",
+        "target_name": "Land drainage systems",
+        "relationship": "semantically_similar",
+        "confidence": "A",
+        "score": 0.501,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Ss_45_55",
+        "target_name": "Land fauna systems",
+        "relationship": "semantically_similar",
+        "confidence": "A",
+        "score": 0.442,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Ss_50_35_45_20",
+        "target_name": "Culvert land drainage systems",
+        "relationship": "semantically_similar",
+        "confidence": "B",
+        "score": 0.39,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Ss_15_95_32",
+        "target_name": "Temporary water and land management systems",
+        "relationship": "semantically_similar",
+        "confidence": "B",
+        "score": 0.366,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Ss_50_35_45_30",
+        "target_name": "Filter drain land drainage systems",
+        "relationship": "semantically_similar",
+        "confidence": "B",
+        "score": 0.333,
+        "method": "tfidf_embedding"
+      }
+    ]
+  },
+  {
+    "source_id": "naics:23721",
+    "source_name": "Land Subdivision",
+    "matches": [
+      {
+        "target_id": "uc:Ss_50_35_45",
+        "target_name": "Land drainage systems",
+        "relationship": "semantically_similar",
+        "confidence": "A",
+        "score": 0.501,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Ss_45_55",
+        "target_name": "Land fauna systems",
+        "relationship": "semantically_similar",
+        "confidence": "A",
+        "score": 0.442,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Ss_50_35_45_20",
+        "target_name": "Culvert land drainage systems",
+        "relationship": "semantically_similar",
+        "confidence": "B",
+        "score": 0.39,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Ss_15_95_32",
+        "target_name": "Temporary water and land management systems",
+        "relationship": "semantically_similar",
+        "confidence": "B",
+        "score": 0.366,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Ss_50_35_45_30",
+        "target_name": "Filter drain land drainage systems",
+        "relationship": "semantically_similar",
+        "confidence": "B",
+        "score": 0.333,
+        "method": "tfidf_embedding"
+      }
+    ]
+  },
+  {
+    "source_id": "naics:237210",
+    "source_name": "Land Subdivision",
+    "matches": [
+      {
+        "target_id": "uc:Ss_50_35_45",
+        "target_name": "Land drainage systems",
+        "relationship": "semantically_similar",
+        "confidence": "A",
+        "score": 0.501,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Ss_45_55",
+        "target_name": "Land fauna systems",
+        "relationship": "semantically_similar",
+        "confidence": "A",
+        "score": 0.442,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Ss_50_35_45_20",
+        "target_name": "Culvert land drainage systems",
+        "relationship": "semantically_similar",
+        "confidence": "B",
+        "score": 0.39,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Ss_15_95_32",
+        "target_name": "Temporary water and land management systems",
+        "relationship": "semantically_similar",
+        "confidence": "B",
+        "score": 0.366,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Ss_50_35_45_30",
+        "target_name": "Filter drain land drainage systems",
+        "relationship": "semantically_similar",
+        "confidence": "B",
+        "score": 0.333,
+        "method": "tfidf_embedding"
+      }
+    ]
+  },
+  {
+    "source_id": "naics:2373",
+    "source_name": "Highway, Street, and Bridge Construction",
+    "matches": [
+      {
+        "target_id": "uc:Ss_75_70_10",
+        "target_name": "Bridge control systems",
+        "relationship": "semantically_similar",
+        "confidence": "B",
+        "score": 0.278,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Ss_20_50",
+        "target_name": "Bridge structure systems",
+        "relationship": "semantically_similar",
+        "confidence": "B",
+        "score": 0.26,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Ss_20_50_25",
+        "target_name": "Bridge deck systems",
+        "relationship": "semantically_similar",
+        "confidence": "B",
+        "score": 0.255,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Ss_20_50_35",
+        "target_name": "Bridge cable systems",
+        "relationship": "semantically_similar",
+        "confidence": "C",
+        "score": 0.239,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Ss_20_10_30_65",
+        "target_name": "Pipe bridge systems",
+        "relationship": "semantically_similar",
+        "confidence": "C",
+        "score": 0.233,
+        "method": "tfidf_embedding"
+      }
+    ]
+  },
+  {
+    "source_id": "naics:23731",
+    "source_name": "Highway, Street, and Bridge Construction",
+    "matches": [
+      {
+        "target_id": "uc:Ss_75_70_10",
+        "target_name": "Bridge control systems",
+        "relationship": "semantically_similar",
+        "confidence": "B",
+        "score": 0.278,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Ss_20_50",
+        "target_name": "Bridge structure systems",
+        "relationship": "semantically_similar",
+        "confidence": "B",
+        "score": 0.26,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Ss_20_50_25",
+        "target_name": "Bridge deck systems",
+        "relationship": "semantically_similar",
+        "confidence": "B",
+        "score": 0.255,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Ss_20_50_35",
+        "target_name": "Bridge cable systems",
+        "relationship": "semantically_similar",
+        "confidence": "C",
+        "score": 0.239,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Ss_20_10_30_65",
+        "target_name": "Pipe bridge systems",
+        "relationship": "semantically_similar",
+        "confidence": "C",
+        "score": 0.233,
+        "method": "tfidf_embedding"
+      }
+    ]
+  },
+  {
+    "source_id": "naics:237310",
+    "source_name": "Highway, Street, and Bridge Construction",
+    "matches": [
+      {
+        "target_id": "uc:Ss_75_70_10",
+        "target_name": "Bridge control systems",
+        "relationship": "semantically_similar",
+        "confidence": "B",
+        "score": 0.278,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Ss_20_50",
+        "target_name": "Bridge structure systems",
+        "relationship": "semantically_similar",
+        "confidence": "B",
+        "score": 0.26,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Ss_20_50_25",
+        "target_name": "Bridge deck systems",
+        "relationship": "semantically_similar",
+        "confidence": "B",
+        "score": 0.255,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Ss_20_50_35",
+        "target_name": "Bridge cable systems",
+        "relationship": "semantically_similar",
+        "confidence": "C",
+        "score": 0.239,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Ss_20_10_30_65",
+        "target_name": "Pipe bridge systems",
+        "relationship": "semantically_similar",
+        "confidence": "C",
+        "score": 0.233,
+        "method": "tfidf_embedding"
+      }
+    ]
+  },
+  {
+    "source_id": "naics:2379",
+    "source_name": "Other Heavy and Civil Engineering Construction",
+    "matches": [
+      {
+        "target_id": "uc:Ss_85",
+        "target_name": "Process engineering systems",
+        "relationship": "semantically_similar",
+        "confidence": "B",
+        "score": 0.324,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Ss_85_95",
+        "target_name": "Temporary process engineering systems",
+        "relationship": "semantically_similar",
+        "confidence": "B",
+        "score": 0.287,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Ss_15_95_85",
+        "target_name": "Temporary process engineering works systems",
+        "relationship": "semantically_similar",
+        "confidence": "B",
+        "score": 0.253,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Ss_30_12_85_40",
+        "target_name": "Heavy steel deck systems",
+        "relationship": "semantically_similar",
+        "confidence": "C",
+        "score": 0.244,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Ss_20_20_75_35",
+        "target_name": "Heavy steel beam systems",
+        "relationship": "semantically_similar",
+        "confidence": "C",
+        "score": 0.239,
+        "method": "tfidf_embedding"
+      }
+    ]
+  },
+  {
+    "source_id": "naics:23799",
+    "source_name": "Other Heavy and Civil Engineering Construction",
+    "matches": [
+      {
+        "target_id": "uc:Ss_85",
+        "target_name": "Process engineering systems",
+        "relationship": "semantically_similar",
+        "confidence": "B",
+        "score": 0.324,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Ss_85_95",
+        "target_name": "Temporary process engineering systems",
+        "relationship": "semantically_similar",
+        "confidence": "B",
+        "score": 0.287,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Ss_15_95_85",
+        "target_name": "Temporary process engineering works systems",
+        "relationship": "semantically_similar",
+        "confidence": "B",
+        "score": 0.253,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Ss_30_12_85_40",
+        "target_name": "Heavy steel deck systems",
+        "relationship": "semantically_similar",
+        "confidence": "C",
+        "score": 0.244,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Ss_20_20_75_35",
+        "target_name": "Heavy steel beam systems",
+        "relationship": "semantically_similar",
+        "confidence": "C",
+        "score": 0.239,
+        "method": "tfidf_embedding"
+      }
+    ]
+  },
+  {
+    "source_id": "naics:237990",
+    "source_name": "Other Heavy and Civil Engineering Construction",
+    "matches": [
+      {
+        "target_id": "uc:Ss_85",
+        "target_name": "Process engineering systems",
+        "relationship": "semantically_similar",
+        "confidence": "B",
+        "score": 0.324,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Ss_85_95",
+        "target_name": "Temporary process engineering systems",
+        "relationship": "semantically_similar",
+        "confidence": "B",
+        "score": 0.287,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Ss_15_95_85",
+        "target_name": "Temporary process engineering works systems",
+        "relationship": "semantically_similar",
+        "confidence": "B",
+        "score": 0.253,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Ss_30_12_85_40",
+        "target_name": "Heavy steel deck systems",
+        "relationship": "semantically_similar",
+        "confidence": "C",
+        "score": 0.244,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Ss_20_20_75_35",
+        "target_name": "Heavy steel beam systems",
+        "relationship": "semantically_similar",
+        "confidence": "C",
+        "score": 0.239,
+        "method": "tfidf_embedding"
+      }
+    ]
+  },
+  {
+    "source_id": "naics:2381",
+    "source_name": "Foundation, Structure, and Building Exterior Contractors",
+    "matches": [
+      {
+        "target_id": "uc:Ss_40_10_35_10",
+        "target_name": "Building signage systems",
+        "relationship": "semantically_similar",
+        "confidence": "A",
+        "score": 0.499,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Ss_20_40_10",
+        "target_name": "Building cable systems",
+        "relationship": "semantically_similar",
+        "confidence": "A",
+        "score": 0.473,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Ss_75_70_54_10",
+        "target_name": "Building monitoring and management systems",
+        "relationship": "semantically_similar",
+        "confidence": "A",
+        "score": 0.427,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Ss_15_30_10",
+        "target_name": "Building services remediation systems",
+        "relationship": "semantically_similar",
+        "confidence": "B",
+        "score": 0.38,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Ss_65_40_33_52",
+        "target_name": "Mechanical and whole building ventilation systems",
+        "relationship": "semantically_similar",
+        "confidence": "B",
+        "score": 0.344,
+        "method": "tfidf_embedding"
+      }
+    ]
+  },
+  {
+    "source_id": "naics:23811",
+    "source_name": "Poured Concrete Foundation and Structure Contractors",
+    "matches": [
+      {
+        "target_id": "uc:Ss_20_05_15",
+        "target_name": "Concrete foundation systems",
+        "relationship": "semantically_similar",
+        "confidence": "A",
+        "score": 0.591,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Ss_25_11_16_70",
+        "target_name": "Reinforced concrete wall structure systems",
+        "relationship": "semantically_similar",
+        "confidence": "A",
+        "score": 0.411,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Ss_30_10_30_60",
+        "target_name": "Precast concrete roof structure systems",
+        "relationship": "semantically_similar",
+        "confidence": "B",
+        "score": 0.398,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Ss_25_11_16_80",
+        "target_name": "Sprayed concrete wall structure systems",
+        "relationship": "semantically_similar",
+        "confidence": "B",
+        "score": 0.39,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Ss_20_05_50_65",
+        "target_name": "Precast concrete foundation and plinth systems",
+        "relationship": "semantically_similar",
+        "confidence": "B",
+        "score": 0.387,
+        "method": "tfidf_embedding"
+      }
+    ]
+  },
+  {
+    "source_id": "naics:238110",
+    "source_name": "Poured Concrete Foundation and Structure Contractors",
+    "matches": [
+      {
+        "target_id": "uc:Ss_20_05_15",
+        "target_name": "Concrete foundation systems",
+        "relationship": "semantically_similar",
+        "confidence": "A",
+        "score": 0.591,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Ss_25_11_16_70",
+        "target_name": "Reinforced concrete wall structure systems",
+        "relationship": "semantically_similar",
+        "confidence": "A",
+        "score": 0.411,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Ss_30_10_30_60",
+        "target_name": "Precast concrete roof structure systems",
+        "relationship": "semantically_similar",
+        "confidence": "B",
+        "score": 0.398,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Ss_25_11_16_80",
+        "target_name": "Sprayed concrete wall structure systems",
+        "relationship": "semantically_similar",
+        "confidence": "B",
+        "score": 0.39,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Ss_20_05_50_65",
+        "target_name": "Precast concrete foundation and plinth systems",
+        "relationship": "semantically_similar",
+        "confidence": "B",
+        "score": 0.387,
+        "method": "tfidf_embedding"
+      }
+    ]
+  },
+  {
+    "source_id": "naics:23812",
+    "source_name": "Structural Steel and Precast Concrete Contractors",
+    "matches": [
+      {
+        "target_id": "uc:Ss_25_12_85",
+        "target_name": "Structural steel panel wall systems",
+        "relationship": "semantically_similar",
+        "confidence": "A",
+        "score": 0.541,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Ss_25_11_16_65",
+        "target_name": "Precast concrete wall systems",
+        "relationship": "semantically_similar",
+        "confidence": "A",
+        "score": 0.529,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Ss_30_12_85_16",
+        "target_name": "Composite steel and concrete deck systems",
+        "relationship": "semantically_similar",
+        "confidence": "A",
+        "score": 0.469,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Ss_50_70_85_66",
+        "target_name": "Precast concrete soakaway systems",
+        "relationship": "semantically_similar",
+        "confidence": "A",
+        "score": 0.445,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Ss_30_10_30_60",
+        "target_name": "Precast concrete roof structure systems",
+        "relationship": "semantically_similar",
+        "confidence": "A",
+        "score": 0.442,
+        "method": "tfidf_embedding"
+      }
+    ]
+  },
+  {
+    "source_id": "naics:238120",
+    "source_name": "Structural Steel and Precast Concrete Contractors",
+    "matches": [
+      {
+        "target_id": "uc:Ss_25_12_85",
+        "target_name": "Structural steel panel wall systems",
+        "relationship": "semantically_similar",
+        "confidence": "A",
+        "score": 0.541,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Ss_25_11_16_65",
+        "target_name": "Precast concrete wall systems",
+        "relationship": "semantically_similar",
+        "confidence": "A",
+        "score": 0.529,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Ss_30_12_85_16",
+        "target_name": "Composite steel and concrete deck systems",
+        "relationship": "semantically_similar",
+        "confidence": "A",
+        "score": 0.469,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Ss_50_70_85_66",
+        "target_name": "Precast concrete soakaway systems",
+        "relationship": "semantically_similar",
+        "confidence": "A",
+        "score": 0.445,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Ss_30_10_30_60",
+        "target_name": "Precast concrete roof structure systems",
+        "relationship": "semantically_similar",
+        "confidence": "A",
+        "score": 0.442,
+        "method": "tfidf_embedding"
+      }
+    ]
+  },
+  {
+    "source_id": "naics:23813",
+    "source_name": "Framing Contractors",
+    "matches": [
+      {
+        "target_id": "uc:Ss_20_10_75",
+        "target_name": "Structural framing systems",
+        "relationship": "semantically_similar",
+        "confidence": "A",
+        "score": 0.664,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Ss_20_10_75_85",
+        "target_name": "Timber framing systems",
+        "relationship": "semantically_similar",
+        "confidence": "A",
+        "score": 0.651,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Ss_25_10_32_58",
+        "target_name": "Plastics wall framing systems",
+        "relationship": "semantically_similar",
+        "confidence": "A",
+        "score": 0.608,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Ss_25_10_32_90",
+        "target_name": "Timber wall framing systems",
+        "relationship": "semantically_similar",
+        "confidence": "A",
+        "score": 0.601,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Ss_30_10_30_58",
+        "target_name": "Plastics roof framing systems",
+        "relationship": "semantically_similar",
+        "confidence": "A",
+        "score": 0.595,
+        "method": "tfidf_embedding"
+      }
+    ]
+  },
+  {
+    "source_id": "naics:238130",
+    "source_name": "Framing Contractors",
+    "matches": [
+      {
+        "target_id": "uc:Ss_20_10_75",
+        "target_name": "Structural framing systems",
+        "relationship": "semantically_similar",
+        "confidence": "A",
+        "score": 0.664,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Ss_20_10_75_85",
+        "target_name": "Timber framing systems",
+        "relationship": "semantically_similar",
+        "confidence": "A",
+        "score": 0.651,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Ss_25_10_32_58",
+        "target_name": "Plastics wall framing systems",
+        "relationship": "semantically_similar",
+        "confidence": "A",
+        "score": 0.608,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Ss_25_10_32_90",
+        "target_name": "Timber wall framing systems",
+        "relationship": "semantically_similar",
+        "confidence": "A",
+        "score": 0.601,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Ss_30_10_30_58",
+        "target_name": "Plastics roof framing systems",
+        "relationship": "semantically_similar",
+        "confidence": "A",
+        "score": 0.595,
+        "method": "tfidf_embedding"
+      }
+    ]
+  },
+  {
+    "source_id": "naics:23814",
+    "source_name": "Masonry Contractors",
+    "matches": [
+      {
+        "target_id": "uc:Ss_25_13_50",
+        "target_name": "Masonry wall systems",
+        "relationship": "semantically_similar",
+        "confidence": "A",
+        "score": 0.697,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Ss_30_10_90_50",
+        "target_name": "Masonry roof systems",
+        "relationship": "semantically_similar",
+        "confidence": "A",
+        "score": 0.674,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Ss_15_30_50_50",
+        "target_name": "Masonry repair systems",
+        "relationship": "semantically_similar",
+        "confidence": "A",
+        "score": 0.615,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Ss_20_30_75_50",
+        "target_name": "Masonry column systems",
+        "relationship": "semantically_similar",
+        "confidence": "A",
+        "score": 0.594,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Ss_25_13_70",
+        "target_name": "Reinforced masonry wall systems",
+        "relationship": "semantically_similar",
+        "confidence": "A",
+        "score": 0.585,
+        "method": "tfidf_embedding"
+      }
+    ]
+  },
+  {
+    "source_id": "naics:238140",
+    "source_name": "Masonry Contractors",
+    "matches": [
+      {
+        "target_id": "uc:Ss_25_13_50",
+        "target_name": "Masonry wall systems",
+        "relationship": "semantically_similar",
+        "confidence": "A",
+        "score": 0.697,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Ss_30_10_90_50",
+        "target_name": "Masonry roof systems",
+        "relationship": "semantically_similar",
+        "confidence": "A",
+        "score": 0.674,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Ss_15_30_50_50",
+        "target_name": "Masonry repair systems",
+        "relationship": "semantically_similar",
+        "confidence": "A",
+        "score": 0.615,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Ss_20_30_75_50",
+        "target_name": "Masonry column systems",
+        "relationship": "semantically_similar",
+        "confidence": "A",
+        "score": 0.594,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Ss_25_13_70",
+        "target_name": "Reinforced masonry wall systems",
+        "relationship": "semantically_similar",
+        "confidence": "A",
+        "score": 0.585,
+        "method": "tfidf_embedding"
+      }
+    ]
+  },
+  {
+    "source_id": "naics:23815",
+    "source_name": "Glass and Glazing Contractors",
+    "matches": [
+      {
+        "target_id": "uc:Ss_25_60_35",
+        "target_name": "Glazing systems",
+        "relationship": "semantically_similar",
+        "confidence": "A",
+        "score": 0.564,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Ss_25_13_33",
+        "target_name": "Glass wall systems",
+        "relationship": "semantically_similar",
+        "confidence": "A",
+        "score": 0.497,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Ss_25_12_80",
+        "target_name": "Structural glass wall systems",
+        "relationship": "semantically_similar",
+        "confidence": "B",
+        "score": 0.394,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Ss_30_34_15",
+        "target_name": "Pavement glazing systems",
+        "relationship": "semantically_similar",
+        "confidence": "B",
+        "score": 0.382,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Ss_30_40_34",
+        "target_name": "Glass roofing systems",
+        "relationship": "semantically_similar",
+        "confidence": "B",
+        "score": 0.372,
+        "method": "tfidf_embedding"
+      }
+    ]
+  },
+  {
+    "source_id": "naics:238150",
+    "source_name": "Glass and Glazing Contractors",
+    "matches": [
+      {
+        "target_id": "uc:Ss_25_60_35",
+        "target_name": "Glazing systems",
+        "relationship": "semantically_similar",
+        "confidence": "A",
+        "score": 0.564,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Ss_25_13_33",
+        "target_name": "Glass wall systems",
+        "relationship": "semantically_similar",
+        "confidence": "A",
+        "score": 0.497,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Ss_25_12_80",
+        "target_name": "Structural glass wall systems",
+        "relationship": "semantically_similar",
+        "confidence": "B",
+        "score": 0.394,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Ss_30_34_15",
+        "target_name": "Pavement glazing systems",
+        "relationship": "semantically_similar",
+        "confidence": "B",
+        "score": 0.382,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Ss_30_40_34",
+        "target_name": "Glass roofing systems",
+        "relationship": "semantically_similar",
+        "confidence": "B",
+        "score": 0.372,
+        "method": "tfidf_embedding"
+      }
+    ]
+  },
+  {
+    "source_id": "naics:23816",
+    "source_name": "Roofing Contractors",
+    "matches": [
+      {
+        "target_id": "uc:Ss_30_40_95",
+        "target_name": "Unit roofing systems",
+        "relationship": "semantically_similar",
+        "confidence": "A",
+        "score": 0.66,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Ss_30_40_34",
+        "target_name": "Glass roofing systems",
+        "relationship": "semantically_similar",
+        "confidence": "A",
+        "score": 0.647,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Ss_30_40_92_85",
+        "target_name": "Thatch roofing systems",
+        "relationship": "semantically_similar",
+        "confidence": "A",
+        "score": 0.567,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Ss_30_40_95_50",
+        "target_name": "Metal tile roofing systems",
+        "relationship": "semantically_similar",
+        "confidence": "A",
+        "score": 0.551,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Ss_30_40_95_55",
+        "target_name": "Natural slate roofing systems",
+        "relationship": "semantically_similar",
+        "confidence": "A",
+        "score": 0.521,
+        "method": "tfidf_embedding"
+      }
+    ]
+  },
+  {
+    "source_id": "naics:238160",
+    "source_name": "Roofing Contractors",
+    "matches": [
+      {
+        "target_id": "uc:Ss_30_40_95",
+        "target_name": "Unit roofing systems",
+        "relationship": "semantically_similar",
+        "confidence": "A",
+        "score": 0.66,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Ss_30_40_34",
+        "target_name": "Glass roofing systems",
+        "relationship": "semantically_similar",
+        "confidence": "A",
+        "score": 0.647,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Ss_30_40_92_85",
+        "target_name": "Thatch roofing systems",
+        "relationship": "semantically_similar",
+        "confidence": "A",
+        "score": 0.567,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Ss_30_40_95_50",
+        "target_name": "Metal tile roofing systems",
+        "relationship": "semantically_similar",
+        "confidence": "A",
+        "score": 0.551,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Ss_30_40_95_55",
+        "target_name": "Natural slate roofing systems",
+        "relationship": "semantically_similar",
+        "confidence": "A",
+        "score": 0.521,
+        "method": "tfidf_embedding"
+      }
+    ]
+  },
+  {
+    "source_id": "naics:23819",
+    "source_name": "Other Foundation, Structure, and Building Exterior Contractors",
+    "matches": [
+      {
+        "target_id": "uc:Ss_40_10_35_10",
+        "target_name": "Building signage systems",
+        "relationship": "semantically_similar",
+        "confidence": "A",
+        "score": 0.499,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Ss_20_40_10",
+        "target_name": "Building cable systems",
+        "relationship": "semantically_similar",
+        "confidence": "A",
+        "score": 0.473,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Ss_75_70_54_10",
+        "target_name": "Building monitoring and management systems",
+        "relationship": "semantically_similar",
+        "confidence": "A",
+        "score": 0.427,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Ss_15_30_10",
+        "target_name": "Building services remediation systems",
+        "relationship": "semantically_similar",
+        "confidence": "B",
+        "score": 0.38,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Ss_65_40_33_52",
+        "target_name": "Mechanical and whole building ventilation systems",
+        "relationship": "semantically_similar",
+        "confidence": "B",
+        "score": 0.344,
+        "method": "tfidf_embedding"
+      }
+    ]
+  },
+  {
+    "source_id": "naics:238190",
+    "source_name": "Other Foundation, Structure, and Building Exterior Contractors",
+    "matches": [
+      {
+        "target_id": "uc:Ss_40_10_35_10",
+        "target_name": "Building signage systems",
+        "relationship": "semantically_similar",
+        "confidence": "A",
+        "score": 0.499,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Ss_20_40_10",
+        "target_name": "Building cable systems",
+        "relationship": "semantically_similar",
+        "confidence": "A",
+        "score": 0.473,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Ss_75_70_54_10",
+        "target_name": "Building monitoring and management systems",
+        "relationship": "semantically_similar",
+        "confidence": "A",
+        "score": 0.427,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Ss_15_30_10",
+        "target_name": "Building services remediation systems",
+        "relationship": "semantically_similar",
+        "confidence": "B",
+        "score": 0.38,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Ss_65_40_33_52",
+        "target_name": "Mechanical and whole building ventilation systems",
+        "relationship": "semantically_similar",
+        "confidence": "B",
+        "score": 0.344,
+        "method": "tfidf_embedding"
+      }
+    ]
+  },
+  {
+    "source_id": "naics:2382",
+    "source_name": "Building Equipment Contractors",
+    "matches": [
+      {
+        "target_id": "uc:Ss_40_10_35_10",
+        "target_name": "Building signage systems",
+        "relationship": "semantically_similar",
+        "confidence": "A",
+        "score": 0.641,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Ss_20_40_10",
+        "target_name": "Building cable systems",
+        "relationship": "semantically_similar",
+        "confidence": "A",
+        "score": 0.609,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Ss_75_70_54_10",
+        "target_name": "Building monitoring and management systems",
+        "relationship": "semantically_similar",
+        "confidence": "A",
+        "score": 0.549,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Ss_15_30_10",
+        "target_name": "Building services remediation systems",
+        "relationship": "semantically_similar",
+        "confidence": "A",
+        "score": 0.489,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Ss_65_40_33_52",
+        "target_name": "Mechanical and whole building ventilation systems",
+        "relationship": "semantically_similar",
+        "confidence": "A",
+        "score": 0.443,
+        "method": "tfidf_embedding"
+      }
+    ]
+  },
+  {
+    "source_id": "naics:23821",
+    "source_name": "Electrical Contractors and Other Wiring Installation Contractors",
+    "matches": [
+      {
+        "target_id": "uc:Ss_70",
+        "target_name": "Electrical systems",
+        "relationship": "semantically_similar",
+        "confidence": "A",
+        "score": 0.497,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Ss_70_95",
+        "target_name": "Temporary electrical systems",
+        "relationship": "semantically_similar",
+        "confidence": "A",
+        "score": 0.434,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Ss_75_50_45",
+        "target_name": "Electrical protection systems",
+        "relationship": "semantically_similar",
+        "confidence": "A",
+        "score": 0.422,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Ss_50_75_58_23",
+        "target_name": "Dry installation systems",
+        "relationship": "semantically_similar",
+        "confidence": "A",
+        "score": 0.411,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Ss_40_10_25_25",
+        "target_name": "Electrical external signage systems",
+        "relationship": "semantically_similar",
+        "confidence": "B",
+        "score": 0.385,
+        "method": "tfidf_embedding"
+      }
+    ]
+  },
+  {
+    "source_id": "naics:238210",
+    "source_name": "Electrical Contractors and Other Wiring Installation Contractors",
+    "matches": [
+      {
+        "target_id": "uc:Ss_70",
+        "target_name": "Electrical systems",
+        "relationship": "semantically_similar",
+        "confidence": "A",
+        "score": 0.497,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Ss_70_95",
+        "target_name": "Temporary electrical systems",
+        "relationship": "semantically_similar",
+        "confidence": "A",
+        "score": 0.434,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Ss_75_50_45",
+        "target_name": "Electrical protection systems",
+        "relationship": "semantically_similar",
+        "confidence": "A",
+        "score": 0.422,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Ss_50_75_58_23",
+        "target_name": "Dry installation systems",
+        "relationship": "semantically_similar",
+        "confidence": "A",
+        "score": 0.411,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Ss_40_10_25_25",
+        "target_name": "Electrical external signage systems",
+        "relationship": "semantically_similar",
+        "confidence": "B",
+        "score": 0.385,
+        "method": "tfidf_embedding"
+      }
+    ]
+  },
+  {
+    "source_id": "naics:23822",
+    "source_name": "Plumbing, Heating, and Air-Conditioning Contractors",
+    "matches": [
+      {
+        "target_id": "uc:Ss_65_80",
+        "target_name": "Air conditioning systems",
+        "relationship": "semantically_similar",
+        "confidence": "A",
+        "score": 0.516,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Ss_65",
+        "target_name": "Ventilation and air conditioning systems",
+        "relationship": "semantically_similar",
+        "confidence": "A",
+        "score": 0.426,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Ss_65_80_45_72",
+        "target_name": "Room air conditioning systems",
+        "relationship": "semantically_similar",
+        "confidence": "A",
+        "score": 0.404,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Ss_65_80_05",
+        "target_name": "Central air conditioning systems",
+        "relationship": "semantically_similar",
+        "confidence": "B",
+        "score": 0.39,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Ss_65_80_45",
+        "target_name": "Local air conditioning systems",
+        "relationship": "semantically_similar",
+        "confidence": "B",
+        "score": 0.39,
+        "method": "tfidf_embedding"
+      }
+    ]
+  },
+  {
+    "source_id": "naics:238220",
+    "source_name": "Plumbing, Heating, and Air-Conditioning Contractors",
+    "matches": [
+      {
+        "target_id": "uc:Ss_65_80",
+        "target_name": "Air conditioning systems",
+        "relationship": "semantically_similar",
+        "confidence": "A",
+        "score": 0.516,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Ss_65",
+        "target_name": "Ventilation and air conditioning systems",
+        "relationship": "semantically_similar",
+        "confidence": "A",
+        "score": 0.426,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Ss_65_80_45_72",
+        "target_name": "Room air conditioning systems",
+        "relationship": "semantically_similar",
+        "confidence": "A",
+        "score": 0.404,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Ss_65_80_05",
+        "target_name": "Central air conditioning systems",
+        "relationship": "semantically_similar",
+        "confidence": "B",
+        "score": 0.39,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Ss_65_80_45",
+        "target_name": "Local air conditioning systems",
+        "relationship": "semantically_similar",
+        "confidence": "B",
+        "score": 0.39,
+        "method": "tfidf_embedding"
+      }
+    ]
+  },
+  {
+    "source_id": "naics:23829",
+    "source_name": "Other Building Equipment Contractors",
+    "matches": [
+      {
+        "target_id": "uc:Ss_40_10_35_10",
+        "target_name": "Building signage systems",
+        "relationship": "semantically_similar",
+        "confidence": "A",
+        "score": 0.641,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Ss_20_40_10",
+        "target_name": "Building cable systems",
+        "relationship": "semantically_similar",
+        "confidence": "A",
+        "score": 0.609,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Ss_75_70_54_10",
+        "target_name": "Building monitoring and management systems",
+        "relationship": "semantically_similar",
+        "confidence": "A",
+        "score": 0.549,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Ss_15_30_10",
+        "target_name": "Building services remediation systems",
+        "relationship": "semantically_similar",
+        "confidence": "A",
+        "score": 0.489,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Ss_65_40_33_52",
+        "target_name": "Mechanical and whole building ventilation systems",
+        "relationship": "semantically_similar",
+        "confidence": "A",
+        "score": 0.443,
+        "method": "tfidf_embedding"
+      }
+    ]
+  },
+  {
+    "source_id": "naics:238290",
+    "source_name": "Other Building Equipment Contractors",
+    "matches": [
+      {
+        "target_id": "uc:Ss_40_10_35_10",
+        "target_name": "Building signage systems",
+        "relationship": "semantically_similar",
+        "confidence": "A",
+        "score": 0.641,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Ss_20_40_10",
+        "target_name": "Building cable systems",
+        "relationship": "semantically_similar",
+        "confidence": "A",
+        "score": 0.609,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Ss_75_70_54_10",
+        "target_name": "Building monitoring and management systems",
+        "relationship": "semantically_similar",
+        "confidence": "A",
+        "score": 0.549,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Ss_15_30_10",
+        "target_name": "Building services remediation systems",
+        "relationship": "semantically_similar",
+        "confidence": "A",
+        "score": 0.489,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Ss_65_40_33_52",
+        "target_name": "Mechanical and whole building ventilation systems",
+        "relationship": "semantically_similar",
+        "confidence": "A",
+        "score": 0.443,
+        "method": "tfidf_embedding"
+      }
+    ]
+  },
+  {
+    "source_id": "naics:2383",
+    "source_name": "Building Finishing Contractors",
+    "matches": [
+      {
+        "target_id": "uc:Ss_40_10_35_10",
+        "target_name": "Building signage systems",
+        "relationship": "semantically_similar",
+        "confidence": "A",
+        "score": 0.627,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Ss_20_40_10",
+        "target_name": "Building cable systems",
+        "relationship": "semantically_similar",
+        "confidence": "A",
+        "score": 0.595,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Ss_75_70_54_10",
+        "target_name": "Building monitoring and management systems",
+        "relationship": "semantically_similar",
+        "confidence": "A",
+        "score": 0.536,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Ss_15_30_10",
+        "target_name": "Building services remediation systems",
+        "relationship": "semantically_similar",
+        "confidence": "A",
+        "score": 0.478,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Ss_65_40_33_52",
+        "target_name": "Mechanical and whole building ventilation systems",
+        "relationship": "semantically_similar",
+        "confidence": "A",
+        "score": 0.433,
+        "method": "tfidf_embedding"
+      }
+    ]
+  },
+  {
+    "source_id": "naics:23831",
+    "source_name": "Drywall and Insulation Contractors",
+    "matches": [
+      {
+        "target_id": "uc:Ss_25_45_72",
+        "target_name": "Wall insulation systems",
+        "relationship": "semantically_similar",
+        "confidence": "A",
+        "score": 0.495,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Ss_25_45_72_28",
+        "target_name": "External wall insulation systems",
+        "relationship": "semantically_similar",
+        "confidence": "A",
+        "score": 0.41,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Ss_25_45_12",
+        "target_name": "Cavity wall insulation systems",
+        "relationship": "semantically_similar",
+        "confidence": "B",
+        "score": 0.368,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Ss_25_45_72_70",
+        "target_name": "Rail-fixed external wall insulation systems",
+        "relationship": "semantically_similar",
+        "confidence": "B",
+        "score": 0.319,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Ss_25_45_72_02",
+        "target_name": "Adhesive-fixed external wall insulation systems",
+        "relationship": "semantically_similar",
+        "confidence": "B",
+        "score": 0.302,
+        "method": "tfidf_embedding"
+      }
+    ]
+  },
+  {
+    "source_id": "naics:238310",
+    "source_name": "Drywall and Insulation Contractors",
+    "matches": [
+      {
+        "target_id": "uc:Ss_25_45_72",
+        "target_name": "Wall insulation systems",
+        "relationship": "semantically_similar",
+        "confidence": "A",
+        "score": 0.495,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Ss_25_45_72_28",
+        "target_name": "External wall insulation systems",
+        "relationship": "semantically_similar",
+        "confidence": "A",
+        "score": 0.41,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Ss_25_45_12",
+        "target_name": "Cavity wall insulation systems",
+        "relationship": "semantically_similar",
+        "confidence": "B",
+        "score": 0.368,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Ss_25_45_72_70",
+        "target_name": "Rail-fixed external wall insulation systems",
+        "relationship": "semantically_similar",
+        "confidence": "B",
+        "score": 0.319,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Ss_25_45_72_02",
+        "target_name": "Adhesive-fixed external wall insulation systems",
+        "relationship": "semantically_similar",
+        "confidence": "B",
+        "score": 0.302,
+        "method": "tfidf_embedding"
+      }
+    ]
+  },
+  {
+    "source_id": "naics:23832",
+    "source_name": "Painting and Wall Covering Contractors",
+    "matches": [
+      {
+        "target_id": "uc:Ss_20_70_65",
+        "target_name": "Protective painting systems",
+        "relationship": "semantically_similar",
+        "confidence": "A",
+        "score": 0.487,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Ss_40_90_60",
+        "target_name": "Painting and clear finishing systems",
+        "relationship": "semantically_similar",
+        "confidence": "B",
+        "score": 0.386,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Ss_25_45",
+        "target_name": "Wall covering and finish systems",
+        "relationship": "semantically_similar",
+        "confidence": "B",
+        "score": 0.37,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Ss_25_20_50",
+        "target_name": "Metal sheet fully supported wall-covering systems",
+        "relationship": "semantically_similar",
+        "confidence": "B",
+        "score": 0.286,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Ss_30_42_20",
+        "target_name": "Deck covering systems",
+        "relationship": "semantically_similar",
+        "confidence": "B",
+        "score": 0.286,
+        "method": "tfidf_embedding"
+      }
+    ]
+  },
+  {
+    "source_id": "naics:238320",
+    "source_name": "Painting and Wall Covering Contractors",
+    "matches": [
+      {
+        "target_id": "uc:Ss_20_70_65",
+        "target_name": "Protective painting systems",
+        "relationship": "semantically_similar",
+        "confidence": "A",
+        "score": 0.487,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Ss_40_90_60",
+        "target_name": "Painting and clear finishing systems",
+        "relationship": "semantically_similar",
+        "confidence": "B",
+        "score": 0.386,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Ss_25_45",
+        "target_name": "Wall covering and finish systems",
+        "relationship": "semantically_similar",
+        "confidence": "B",
+        "score": 0.37,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Ss_25_20_50",
+        "target_name": "Metal sheet fully supported wall-covering systems",
+        "relationship": "semantically_similar",
+        "confidence": "B",
+        "score": 0.286,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Ss_30_42_20",
+        "target_name": "Deck covering systems",
+        "relationship": "semantically_similar",
+        "confidence": "B",
+        "score": 0.286,
+        "method": "tfidf_embedding"
+      }
+    ]
+  },
+  {
+    "source_id": "naics:23833",
+    "source_name": "Flooring Contractors",
+    "matches": [
+      {
+        "target_id": "uc:Ss_30_42_54_75",
+        "target_name": "Resin flooring systems",
+        "relationship": "semantically_similar",
+        "confidence": "A",
+        "score": 0.643,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Ss_30_42_54",
+        "target_name": "Monolithic flooring systems",
+        "relationship": "semantically_similar",
+        "confidence": "A",
+        "score": 0.635,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Ss_30_20",
+        "target_name": "Flooring and decking systems",
+        "relationship": "semantically_similar",
+        "confidence": "A",
+        "score": 0.608,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Ss_30_42_52_50",
+        "target_name": "Mastic asphalt flooring systems",
+        "relationship": "semantically_similar",
+        "confidence": "A",
+        "score": 0.571,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Ss_30_42_56",
+        "target_name": "Natural stone flooring systems",
+        "relationship": "semantically_similar",
+        "confidence": "A",
+        "score": 0.57,
+        "method": "tfidf_embedding"
+      }
+    ]
+  },
+  {
+    "source_id": "naics:238330",
+    "source_name": "Flooring Contractors",
+    "matches": [
+      {
+        "target_id": "uc:Ss_30_42_54_75",
+        "target_name": "Resin flooring systems",
+        "relationship": "semantically_similar",
+        "confidence": "A",
+        "score": 0.643,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Ss_30_42_54",
+        "target_name": "Monolithic flooring systems",
+        "relationship": "semantically_similar",
+        "confidence": "A",
+        "score": 0.635,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Ss_30_20",
+        "target_name": "Flooring and decking systems",
+        "relationship": "semantically_similar",
+        "confidence": "A",
+        "score": 0.608,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Ss_30_42_52_50",
+        "target_name": "Mastic asphalt flooring systems",
+        "relationship": "semantically_similar",
+        "confidence": "A",
+        "score": 0.571,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Ss_30_42_56",
+        "target_name": "Natural stone flooring systems",
+        "relationship": "semantically_similar",
+        "confidence": "A",
+        "score": 0.57,
+        "method": "tfidf_embedding"
+      }
+    ]
+  },
+  {
+    "source_id": "naics:23834",
+    "source_name": "Tile and Terrazzo Contractors",
+    "matches": [
+      {
+        "target_id": "uc:Ss_30_42_90_90",
+        "target_name": "Terrazzo floor covering systems",
+        "relationship": "semantically_similar",
+        "confidence": "A",
+        "score": 0.471,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Ss_25_45_88_88",
+        "target_name": "Terrazzo wall tiling systems",
+        "relationship": "semantically_similar",
+        "confidence": "A",
+        "score": 0.454,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Ss_25_20_90_50",
+        "target_name": "Metal tile cladding systems",
+        "relationship": "semantically_similar",
+        "confidence": "B",
+        "score": 0.384,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Ss_30_42_72_10",
+        "target_name": "Carpet tile systems",
+        "relationship": "semantically_similar",
+        "confidence": "B",
+        "score": 0.38,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Ss_30_42_90",
+        "target_name": "Terrazzo floor tiling and screed systems",
+        "relationship": "semantically_similar",
+        "confidence": "B",
+        "score": 0.375,
+        "method": "tfidf_embedding"
+      }
+    ]
+  },
+  {
+    "source_id": "naics:238340",
+    "source_name": "Tile and Terrazzo Contractors",
+    "matches": [
+      {
+        "target_id": "uc:Ss_30_42_90_90",
+        "target_name": "Terrazzo floor covering systems",
+        "relationship": "semantically_similar",
+        "confidence": "A",
+        "score": 0.471,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Ss_25_45_88_88",
+        "target_name": "Terrazzo wall tiling systems",
+        "relationship": "semantically_similar",
+        "confidence": "A",
+        "score": 0.454,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Ss_25_20_90_50",
+        "target_name": "Metal tile cladding systems",
+        "relationship": "semantically_similar",
+        "confidence": "B",
+        "score": 0.384,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Ss_30_42_72_10",
+        "target_name": "Carpet tile systems",
+        "relationship": "semantically_similar",
+        "confidence": "B",
+        "score": 0.38,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Ss_30_42_90",
+        "target_name": "Terrazzo floor tiling and screed systems",
+        "relationship": "semantically_similar",
+        "confidence": "B",
+        "score": 0.375,
+        "method": "tfidf_embedding"
+      }
+    ]
+  },
+  {
+    "source_id": "naics:23835",
+    "source_name": "Finish Carpentry Contractors",
+    "matches": [
+      {
+        "target_id": "uc:Ss_25_45",
+        "target_name": "Wall covering and finish systems",
+        "relationship": "semantically_similar",
+        "confidence": "A",
+        "score": 0.464,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Ss_30_40",
+        "target_name": "Roof and balcony covering and finish systems",
+        "relationship": "semantically_similar",
+        "confidence": "B",
+        "score": 0.349,
+        "method": "tfidf_embedding"
+      }
+    ]
+  },
+  {
+    "source_id": "naics:238350",
+    "source_name": "Finish Carpentry Contractors",
+    "matches": [
+      {
+        "target_id": "uc:Ss_25_45",
+        "target_name": "Wall covering and finish systems",
+        "relationship": "semantically_similar",
+        "confidence": "A",
+        "score": 0.464,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Ss_30_40",
+        "target_name": "Roof and balcony covering and finish systems",
+        "relationship": "semantically_similar",
+        "confidence": "B",
+        "score": 0.349,
+        "method": "tfidf_embedding"
+      }
+    ]
+  },
+  {
+    "source_id": "naics:23839",
+    "source_name": "Other Building Finishing Contractors",
+    "matches": [
+      {
+        "target_id": "uc:Ss_40_10_35_10",
+        "target_name": "Building signage systems",
+        "relationship": "semantically_similar",
+        "confidence": "A",
+        "score": 0.627,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Ss_20_40_10",
+        "target_name": "Building cable systems",
+        "relationship": "semantically_similar",
+        "confidence": "A",
+        "score": 0.595,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Ss_75_70_54_10",
+        "target_name": "Building monitoring and management systems",
+        "relationship": "semantically_similar",
+        "confidence": "A",
+        "score": 0.536,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Ss_15_30_10",
+        "target_name": "Building services remediation systems",
+        "relationship": "semantically_similar",
+        "confidence": "A",
+        "score": 0.478,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Ss_65_40_33_52",
+        "target_name": "Mechanical and whole building ventilation systems",
+        "relationship": "semantically_similar",
+        "confidence": "A",
+        "score": 0.433,
+        "method": "tfidf_embedding"
+      }
+    ]
+  },
+  {
+    "source_id": "naics:238390",
+    "source_name": "Other Building Finishing Contractors",
+    "matches": [
+      {
+        "target_id": "uc:Ss_40_10_35_10",
+        "target_name": "Building signage systems",
+        "relationship": "semantically_similar",
+        "confidence": "A",
+        "score": 0.627,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Ss_20_40_10",
+        "target_name": "Building cable systems",
+        "relationship": "semantically_similar",
+        "confidence": "A",
+        "score": 0.595,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Ss_75_70_54_10",
+        "target_name": "Building monitoring and management systems",
+        "relationship": "semantically_similar",
+        "confidence": "A",
+        "score": 0.536,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Ss_15_30_10",
+        "target_name": "Building services remediation systems",
+        "relationship": "semantically_similar",
+        "confidence": "A",
+        "score": 0.478,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Ss_65_40_33_52",
+        "target_name": "Mechanical and whole building ventilation systems",
+        "relationship": "semantically_similar",
+        "confidence": "A",
+        "score": 0.433,
+        "method": "tfidf_embedding"
+      }
+    ]
+  },
+  {
+    "source_id": "naics:23891",
+    "source_name": "Site Preparation Contractors",
+    "matches": [
+      {
+        "target_id": "uc:Ss_15_10_76",
+        "target_name": "Site waste disposal systems",
+        "relationship": "semantically_similar",
+        "confidence": "B",
+        "score": 0.361,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Ss_45_10_95_83",
+        "target_name": "Site vegetation control systems",
+        "relationship": "semantically_similar",
+        "confidence": "B",
+        "score": 0.357,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Ss_70_30_45_40",
+        "target_name": "Low-voltage site connection systems",
+        "relationship": "semantically_similar",
+        "confidence": "B",
+        "score": 0.287,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Ss_70_30_35_30",
+        "target_name": "High-voltage site connection systems",
+        "relationship": "semantically_similar",
+        "confidence": "B",
+        "score": 0.284,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Ss_32_80_03_12",
+        "target_name": "Cementitious site-batched-and-mixed mortar tanking systems",
+        "relationship": "semantically_similar",
+        "confidence": "C",
+        "score": 0.229,
+        "method": "tfidf_embedding"
+      }
+    ]
+  },
+  {
+    "source_id": "naics:238910",
+    "source_name": "Site Preparation Contractors",
+    "matches": [
+      {
+        "target_id": "uc:Ss_15_10_76",
+        "target_name": "Site waste disposal systems",
+        "relationship": "semantically_similar",
+        "confidence": "B",
+        "score": 0.361,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Ss_45_10_95_83",
+        "target_name": "Site vegetation control systems",
+        "relationship": "semantically_similar",
+        "confidence": "B",
+        "score": 0.357,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Ss_70_30_45_40",
+        "target_name": "Low-voltage site connection systems",
+        "relationship": "semantically_similar",
+        "confidence": "B",
+        "score": 0.287,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Ss_70_30_35_30",
+        "target_name": "High-voltage site connection systems",
+        "relationship": "semantically_similar",
+        "confidence": "B",
+        "score": 0.284,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Ss_32_80_03_12",
+        "target_name": "Cementitious site-batched-and-mixed mortar tanking systems",
+        "relationship": "semantically_similar",
+        "confidence": "C",
+        "score": 0.229,
+        "method": "tfidf_embedding"
+      }
+    ]
+  },
+  {
+    "source_id": "naics:23899",
+    "source_name": "All Other Specialty Trade Contractors",
+    "matches": [
+      {
+        "target_id": "uc:Ss_65_80_05_10",
+        "target_name": "Centralized all-air conditioning systems",
+        "relationship": "semantically_similar",
+        "confidence": "B",
+        "score": 0.298,
+        "method": "tfidf_embedding"
+      }
+    ]
+  },
+  {
+    "source_id": "naics:238990",
+    "source_name": "All Other Specialty Trade Contractors",
+    "matches": [
+      {
+        "target_id": "uc:Ss_65_80_05_10",
+        "target_name": "Centralized all-air conditioning systems",
+        "relationship": "semantically_similar",
+        "confidence": "B",
+        "score": 0.298,
+        "method": "tfidf_embedding"
+      }
+    ]
+  }
+]

@@ -1,0 +1,2954 @@
+[
+  {
+    "source_id": "naics:23",
+    "source_name": "Construction",
+    "matches": [
+      {
+        "target_id": "uc:Pr_30_31_76_16",
+        "target_name": "Construction joint sealants",
+        "relationship": "semantically_similar",
+        "confidence": "A",
+        "score": 0.722,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Pr_35_90_31_28",
+        "target_name": "Floor construction joint trims",
+        "relationship": "semantically_similar",
+        "confidence": "A",
+        "score": 0.66,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Pr_35_90_15",
+        "target_name": "Concrete construction joint accessories ",
+        "relationship": "semantically_similar",
+        "confidence": "A",
+        "score": 0.658,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Pr_30_31_76_02",
+        "target_name": "Acrylic construction joint sealants",
+        "relationship": "semantically_similar",
+        "confidence": "A",
+        "score": 0.63,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Pr_20_76_51_81",
+        "target_name": "Stainless steel bars and rods for construction",
+        "relationship": "semantically_similar",
+        "confidence": "A",
+        "score": 0.617,
+        "method": "tfidf_embedding"
+      }
+    ]
+  },
+  {
+    "source_id": "naics:236",
+    "source_name": "Construction of Buildings",
+    "matches": [
+      {
+        "target_id": "uc:Pr_30_31_76_16",
+        "target_name": "Construction joint sealants",
+        "relationship": "semantically_similar",
+        "confidence": "A",
+        "score": 0.527,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Pr_35_90_31_28",
+        "target_name": "Floor construction joint trims",
+        "relationship": "semantically_similar",
+        "confidence": "A",
+        "score": 0.482,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Pr_35_90_15",
+        "target_name": "Concrete construction joint accessories ",
+        "relationship": "semantically_similar",
+        "confidence": "A",
+        "score": 0.48,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Pr_30_31_76_02",
+        "target_name": "Acrylic construction joint sealants",
+        "relationship": "semantically_similar",
+        "confidence": "A",
+        "score": 0.46,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Pr_20_76_51_81",
+        "target_name": "Stainless steel bars and rods for construction",
+        "relationship": "semantically_similar",
+        "confidence": "A",
+        "score": 0.45,
+        "method": "tfidf_embedding"
+      }
+    ]
+  },
+  {
+    "source_id": "naics:2361",
+    "source_name": "Residential Building Construction",
+    "matches": [
+      {
+        "target_id": "uc:Pr_25_57_10_09",
+        "target_name": "Building papers",
+        "relationship": "semantically_similar",
+        "confidence": "A",
+        "score": 0.517,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Pr_30_31_76_16",
+        "target_name": "Construction joint sealants",
+        "relationship": "semantically_similar",
+        "confidence": "A",
+        "score": 0.414,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Pr_25_57_10_12",
+        "target_name": "Cellulose based building papers",
+        "relationship": "semantically_similar",
+        "confidence": "A",
+        "score": 0.404,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Pr_25_57_10",
+        "target_name": "Building papers and vapour-permeable sheets",
+        "relationship": "semantically_similar",
+        "confidence": "B",
+        "score": 0.38,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Pr_35_90_31_28",
+        "target_name": "Floor construction joint trims",
+        "relationship": "semantically_similar",
+        "confidence": "B",
+        "score": 0.378,
+        "method": "tfidf_embedding"
+      }
+    ]
+  },
+  {
+    "source_id": "naics:23611",
+    "source_name": "Residential Building Construction",
+    "matches": [
+      {
+        "target_id": "uc:Pr_25_57_10_09",
+        "target_name": "Building papers",
+        "relationship": "semantically_similar",
+        "confidence": "A",
+        "score": 0.517,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Pr_30_31_76_16",
+        "target_name": "Construction joint sealants",
+        "relationship": "semantically_similar",
+        "confidence": "A",
+        "score": 0.414,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Pr_25_57_10_12",
+        "target_name": "Cellulose based building papers",
+        "relationship": "semantically_similar",
+        "confidence": "A",
+        "score": 0.404,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Pr_25_57_10",
+        "target_name": "Building papers and vapour-permeable sheets",
+        "relationship": "semantically_similar",
+        "confidence": "B",
+        "score": 0.38,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Pr_35_90_31_28",
+        "target_name": "Floor construction joint trims",
+        "relationship": "semantically_similar",
+        "confidence": "B",
+        "score": 0.378,
+        "method": "tfidf_embedding"
+      }
+    ]
+  },
+  {
+    "source_id": "naics:236115",
+    "source_name": "New Single-Family Housing Construction (except For-Sale Builders)",
+    "matches": [
+      {
+        "target_id": "uc:Pr_30_31_76_16",
+        "target_name": "Construction joint sealants",
+        "relationship": "semantically_similar",
+        "confidence": "B",
+        "score": 0.285,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Pr_35_90_31_28",
+        "target_name": "Floor construction joint trims",
+        "relationship": "semantically_similar",
+        "confidence": "B",
+        "score": 0.261,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Pr_35_90_15",
+        "target_name": "Concrete construction joint accessories ",
+        "relationship": "semantically_similar",
+        "confidence": "B",
+        "score": 0.26,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Pr_40_30_04",
+        "target_name": "Animal housing",
+        "relationship": "semantically_similar",
+        "confidence": "B",
+        "score": 0.252,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Pr_30_31_76_02",
+        "target_name": "Acrylic construction joint sealants",
+        "relationship": "semantically_similar",
+        "confidence": "C",
+        "score": 0.249,
+        "method": "tfidf_embedding"
+      }
+    ]
+  },
+  {
+    "source_id": "naics:236116",
+    "source_name": "New Multifamily Housing Construction (except For-Sale Builders)",
+    "matches": [
+      {
+        "target_id": "uc:Pr_30_31_76_16",
+        "target_name": "Construction joint sealants",
+        "relationship": "semantically_similar",
+        "confidence": "B",
+        "score": 0.295,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Pr_35_90_31_28",
+        "target_name": "Floor construction joint trims",
+        "relationship": "semantically_similar",
+        "confidence": "B",
+        "score": 0.269,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Pr_35_90_15",
+        "target_name": "Concrete construction joint accessories ",
+        "relationship": "semantically_similar",
+        "confidence": "B",
+        "score": 0.268,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Pr_40_30_04",
+        "target_name": "Animal housing",
+        "relationship": "semantically_similar",
+        "confidence": "B",
+        "score": 0.26,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Pr_30_31_76_02",
+        "target_name": "Acrylic construction joint sealants",
+        "relationship": "semantically_similar",
+        "confidence": "B",
+        "score": 0.257,
+        "method": "tfidf_embedding"
+      }
+    ]
+  },
+  {
+    "source_id": "naics:236117",
+    "source_name": "New Housing For-Sale Builders",
+    "matches": [
+      {
+        "target_id": "uc:Pr_40_30_04",
+        "target_name": "Animal housing",
+        "relationship": "semantically_similar",
+        "confidence": "B",
+        "score": 0.358,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Pr_40_30_65_65",
+        "target_name": "Point of sale units",
+        "relationship": "semantically_similar",
+        "confidence": "B",
+        "score": 0.335,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Pr_40_30_65",
+        "target_name": "Point of sale fittings",
+        "relationship": "semantically_similar",
+        "confidence": "B",
+        "score": 0.327,
+        "method": "tfidf_embedding"
+      }
+    ]
+  },
+  {
+    "source_id": "naics:2362",
+    "source_name": "Nonresidential Building Construction",
+    "matches": [
+      {
+        "target_id": "uc:Pr_25_57_10_09",
+        "target_name": "Building papers",
+        "relationship": "semantically_similar",
+        "confidence": "A",
+        "score": 0.506,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Pr_30_31_76_16",
+        "target_name": "Construction joint sealants",
+        "relationship": "semantically_similar",
+        "confidence": "A",
+        "score": 0.405,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Pr_25_57_10_12",
+        "target_name": "Cellulose based building papers",
+        "relationship": "semantically_similar",
+        "confidence": "B",
+        "score": 0.395,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Pr_25_57_10",
+        "target_name": "Building papers and vapour-permeable sheets",
+        "relationship": "semantically_similar",
+        "confidence": "B",
+        "score": 0.372,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Pr_35_90_31_28",
+        "target_name": "Floor construction joint trims",
+        "relationship": "semantically_similar",
+        "confidence": "B",
+        "score": 0.37,
+        "method": "tfidf_embedding"
+      }
+    ]
+  },
+  {
+    "source_id": "naics:23621",
+    "source_name": "Industrial Building Construction",
+    "matches": [
+      {
+        "target_id": "uc:Pr_25_57_10_09",
+        "target_name": "Building papers",
+        "relationship": "semantically_similar",
+        "confidence": "A",
+        "score": 0.532,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Pr_30_31_76_16",
+        "target_name": "Construction joint sealants",
+        "relationship": "semantically_similar",
+        "confidence": "A",
+        "score": 0.426,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Pr_25_57_10_12",
+        "target_name": "Cellulose based building papers",
+        "relationship": "semantically_similar",
+        "confidence": "A",
+        "score": 0.415,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Pr_25_57_10",
+        "target_name": "Building papers and vapour-permeable sheets",
+        "relationship": "semantically_similar",
+        "confidence": "B",
+        "score": 0.391,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Pr_35_90_31_28",
+        "target_name": "Floor construction joint trims",
+        "relationship": "semantically_similar",
+        "confidence": "B",
+        "score": 0.389,
+        "method": "tfidf_embedding"
+      }
+    ]
+  },
+  {
+    "source_id": "naics:236210",
+    "source_name": "Industrial Building Construction",
+    "matches": [
+      {
+        "target_id": "uc:Pr_25_57_10_09",
+        "target_name": "Building papers",
+        "relationship": "semantically_similar",
+        "confidence": "A",
+        "score": 0.532,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Pr_30_31_76_16",
+        "target_name": "Construction joint sealants",
+        "relationship": "semantically_similar",
+        "confidence": "A",
+        "score": 0.426,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Pr_25_57_10_12",
+        "target_name": "Cellulose based building papers",
+        "relationship": "semantically_similar",
+        "confidence": "A",
+        "score": 0.415,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Pr_25_57_10",
+        "target_name": "Building papers and vapour-permeable sheets",
+        "relationship": "semantically_similar",
+        "confidence": "B",
+        "score": 0.391,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Pr_35_90_31_28",
+        "target_name": "Floor construction joint trims",
+        "relationship": "semantically_similar",
+        "confidence": "B",
+        "score": 0.389,
+        "method": "tfidf_embedding"
+      }
+    ]
+  },
+  {
+    "source_id": "naics:23622",
+    "source_name": "Commercial and Institutional Building Construction",
+    "matches": [
+      {
+        "target_id": "uc:Pr_25_57_10_09",
+        "target_name": "Building papers",
+        "relationship": "semantically_similar",
+        "confidence": "A",
+        "score": 0.48,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Pr_30_31_76_16",
+        "target_name": "Construction joint sealants",
+        "relationship": "semantically_similar",
+        "confidence": "B",
+        "score": 0.385,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Pr_25_57_10_12",
+        "target_name": "Cellulose based building papers",
+        "relationship": "semantically_similar",
+        "confidence": "B",
+        "score": 0.375,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Pr_25_57_10",
+        "target_name": "Building papers and vapour-permeable sheets",
+        "relationship": "semantically_similar",
+        "confidence": "B",
+        "score": 0.353,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Pr_35_90_31_28",
+        "target_name": "Floor construction joint trims",
+        "relationship": "semantically_similar",
+        "confidence": "B",
+        "score": 0.352,
+        "method": "tfidf_embedding"
+      }
+    ]
+  },
+  {
+    "source_id": "naics:236220",
+    "source_name": "Commercial and Institutional Building Construction",
+    "matches": [
+      {
+        "target_id": "uc:Pr_25_57_10_09",
+        "target_name": "Building papers",
+        "relationship": "semantically_similar",
+        "confidence": "A",
+        "score": 0.48,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Pr_30_31_76_16",
+        "target_name": "Construction joint sealants",
+        "relationship": "semantically_similar",
+        "confidence": "B",
+        "score": 0.385,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Pr_25_57_10_12",
+        "target_name": "Cellulose based building papers",
+        "relationship": "semantically_similar",
+        "confidence": "B",
+        "score": 0.375,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Pr_25_57_10",
+        "target_name": "Building papers and vapour-permeable sheets",
+        "relationship": "semantically_similar",
+        "confidence": "B",
+        "score": 0.353,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Pr_35_90_31_28",
+        "target_name": "Floor construction joint trims",
+        "relationship": "semantically_similar",
+        "confidence": "B",
+        "score": 0.352,
+        "method": "tfidf_embedding"
+      }
+    ]
+  },
+  {
+    "source_id": "naics:237",
+    "source_name": "Heavy and Civil Engineering Construction",
+    "matches": [
+      {
+        "target_id": "uc:Pr_30_31_76_16",
+        "target_name": "Construction joint sealants",
+        "relationship": "semantically_similar",
+        "confidence": "A",
+        "score": 0.412,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Pr_35_90_31_28",
+        "target_name": "Floor construction joint trims",
+        "relationship": "semantically_similar",
+        "confidence": "B",
+        "score": 0.377,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Pr_35_90_15",
+        "target_name": "Concrete construction joint accessories ",
+        "relationship": "semantically_similar",
+        "confidence": "B",
+        "score": 0.375,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Pr_30_31_76_02",
+        "target_name": "Acrylic construction joint sealants",
+        "relationship": "semantically_similar",
+        "confidence": "B",
+        "score": 0.36,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Pr_20_76_51_81",
+        "target_name": "Stainless steel bars and rods for construction",
+        "relationship": "semantically_similar",
+        "confidence": "B",
+        "score": 0.352,
+        "method": "tfidf_embedding"
+      }
+    ]
+  },
+  {
+    "source_id": "naics:2371",
+    "source_name": "Utility System Construction",
+    "matches": [
+      {
+        "target_id": "uc:Pr_35_90_53_42",
+        "target_name": "Insulated render system construction and movement joints",
+        "relationship": "semantically_similar",
+        "confidence": "A",
+        "score": 0.578,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Pr_30_31_76_16",
+        "target_name": "Construction joint sealants",
+        "relationship": "semantically_similar",
+        "confidence": "A",
+        "score": 0.441,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Pr_35_90_31_28",
+        "target_name": "Floor construction joint trims",
+        "relationship": "semantically_similar",
+        "confidence": "A",
+        "score": 0.403,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Pr_35_90_15",
+        "target_name": "Concrete construction joint accessories ",
+        "relationship": "semantically_similar",
+        "confidence": "A",
+        "score": 0.402,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Pr_30_31_76_02",
+        "target_name": "Acrylic construction joint sealants",
+        "relationship": "semantically_similar",
+        "confidence": "B",
+        "score": 0.385,
+        "method": "tfidf_embedding"
+      }
+    ]
+  },
+  {
+    "source_id": "naics:23711",
+    "source_name": "Water and Sewer Line and Related Structures Construction",
+    "matches": [
+      {
+        "target_id": "uc:Pr_30_31_76_16",
+        "target_name": "Construction joint sealants",
+        "relationship": "semantically_similar",
+        "confidence": "B",
+        "score": 0.367,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Pr_40_30_61_97",
+        "target_name": "Water play structures",
+        "relationship": "semantically_similar",
+        "confidence": "B",
+        "score": 0.354,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Pr_65_72_60_60",
+        "target_name": "Overhead line mounting structures",
+        "relationship": "semantically_similar",
+        "confidence": "B",
+        "score": 0.35,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Pr_65_57_95_42",
+        "target_name": "In-line water filters",
+        "relationship": "semantically_similar",
+        "confidence": "B",
+        "score": 0.348,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Pr_35_90_31_28",
+        "target_name": "Floor construction joint trims",
+        "relationship": "semantically_similar",
+        "confidence": "B",
+        "score": 0.336,
+        "method": "tfidf_embedding"
+      }
+    ]
+  },
+  {
+    "source_id": "naics:237110",
+    "source_name": "Water and Sewer Line and Related Structures Construction",
+    "matches": [
+      {
+        "target_id": "uc:Pr_30_31_76_16",
+        "target_name": "Construction joint sealants",
+        "relationship": "semantically_similar",
+        "confidence": "B",
+        "score": 0.367,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Pr_40_30_61_97",
+        "target_name": "Water play structures",
+        "relationship": "semantically_similar",
+        "confidence": "B",
+        "score": 0.354,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Pr_65_72_60_60",
+        "target_name": "Overhead line mounting structures",
+        "relationship": "semantically_similar",
+        "confidence": "B",
+        "score": 0.35,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Pr_65_57_95_42",
+        "target_name": "In-line water filters",
+        "relationship": "semantically_similar",
+        "confidence": "B",
+        "score": 0.348,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Pr_35_90_31_28",
+        "target_name": "Floor construction joint trims",
+        "relationship": "semantically_similar",
+        "confidence": "B",
+        "score": 0.336,
+        "method": "tfidf_embedding"
+      }
+    ]
+  },
+  {
+    "source_id": "naics:23712",
+    "source_name": "Oil and Gas Pipeline and Related Structures Construction",
+    "matches": [
+      {
+        "target_id": "uc:Pr_30_31_76_16",
+        "target_name": "Construction joint sealants",
+        "relationship": "semantically_similar",
+        "confidence": "B",
+        "score": 0.374,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Pr_35_90_31_28",
+        "target_name": "Floor construction joint trims",
+        "relationship": "semantically_similar",
+        "confidence": "B",
+        "score": 0.342,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Pr_35_90_15",
+        "target_name": "Concrete construction joint accessories ",
+        "relationship": "semantically_similar",
+        "confidence": "B",
+        "score": 0.341,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Pr_30_31_76_02",
+        "target_name": "Acrylic construction joint sealants",
+        "relationship": "semantically_similar",
+        "confidence": "B",
+        "score": 0.327,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Pr_20_76_51_81",
+        "target_name": "Stainless steel bars and rods for construction",
+        "relationship": "semantically_similar",
+        "confidence": "B",
+        "score": 0.32,
+        "method": "tfidf_embedding"
+      }
+    ]
+  },
+  {
+    "source_id": "naics:237120",
+    "source_name": "Oil and Gas Pipeline and Related Structures Construction",
+    "matches": [
+      {
+        "target_id": "uc:Pr_30_31_76_16",
+        "target_name": "Construction joint sealants",
+        "relationship": "semantically_similar",
+        "confidence": "B",
+        "score": 0.374,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Pr_35_90_31_28",
+        "target_name": "Floor construction joint trims",
+        "relationship": "semantically_similar",
+        "confidence": "B",
+        "score": 0.342,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Pr_35_90_15",
+        "target_name": "Concrete construction joint accessories ",
+        "relationship": "semantically_similar",
+        "confidence": "B",
+        "score": 0.341,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Pr_30_31_76_02",
+        "target_name": "Acrylic construction joint sealants",
+        "relationship": "semantically_similar",
+        "confidence": "B",
+        "score": 0.327,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Pr_20_76_51_81",
+        "target_name": "Stainless steel bars and rods for construction",
+        "relationship": "semantically_similar",
+        "confidence": "B",
+        "score": 0.32,
+        "method": "tfidf_embedding"
+      }
+    ]
+  },
+  {
+    "source_id": "naics:23713",
+    "source_name": "Power and Communication Line and Related Structures Construction",
+    "matches": [
+      {
+        "target_id": "uc:Pr_30_31_76_16",
+        "target_name": "Construction joint sealants",
+        "relationship": "semantically_similar",
+        "confidence": "B",
+        "score": 0.363,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Pr_65_72_60_60",
+        "target_name": "Overhead line mounting structures",
+        "relationship": "semantically_similar",
+        "confidence": "B",
+        "score": 0.345,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Pr_35_90_31_28",
+        "target_name": "Floor construction joint trims",
+        "relationship": "semantically_similar",
+        "confidence": "B",
+        "score": 0.331,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Pr_35_90_15",
+        "target_name": "Concrete construction joint accessories ",
+        "relationship": "semantically_similar",
+        "confidence": "B",
+        "score": 0.33,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Pr_30_31_76_02",
+        "target_name": "Acrylic construction joint sealants",
+        "relationship": "semantically_similar",
+        "confidence": "B",
+        "score": 0.316,
+        "method": "tfidf_embedding"
+      }
+    ]
+  },
+  {
+    "source_id": "naics:237130",
+    "source_name": "Power and Communication Line and Related Structures Construction",
+    "matches": [
+      {
+        "target_id": "uc:Pr_30_31_76_16",
+        "target_name": "Construction joint sealants",
+        "relationship": "semantically_similar",
+        "confidence": "B",
+        "score": 0.363,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Pr_65_72_60_60",
+        "target_name": "Overhead line mounting structures",
+        "relationship": "semantically_similar",
+        "confidence": "B",
+        "score": 0.345,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Pr_35_90_31_28",
+        "target_name": "Floor construction joint trims",
+        "relationship": "semantically_similar",
+        "confidence": "B",
+        "score": 0.331,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Pr_35_90_15",
+        "target_name": "Concrete construction joint accessories ",
+        "relationship": "semantically_similar",
+        "confidence": "B",
+        "score": 0.33,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Pr_30_31_76_02",
+        "target_name": "Acrylic construction joint sealants",
+        "relationship": "semantically_similar",
+        "confidence": "B",
+        "score": 0.316,
+        "method": "tfidf_embedding"
+      }
+    ]
+  },
+  {
+    "source_id": "naics:2372",
+    "source_name": "Land Subdivision",
+    "matches": [
+      {
+        "target_id": "uc:Pr_65_52_07_96",
+        "target_name": "Vitrified clay plain wall below-ground drainage open butt joint pipes (land drainage tiles) and fittings",
+        "relationship": "semantically_similar",
+        "confidence": "C",
+        "score": 0.218,
+        "method": "tfidf_embedding"
+      }
+    ]
+  },
+  {
+    "source_id": "naics:23721",
+    "source_name": "Land Subdivision",
+    "matches": [
+      {
+        "target_id": "uc:Pr_65_52_07_96",
+        "target_name": "Vitrified clay plain wall below-ground drainage open butt joint pipes (land drainage tiles) and fittings",
+        "relationship": "semantically_similar",
+        "confidence": "C",
+        "score": 0.218,
+        "method": "tfidf_embedding"
+      }
+    ]
+  },
+  {
+    "source_id": "naics:237210",
+    "source_name": "Land Subdivision",
+    "matches": [
+      {
+        "target_id": "uc:Pr_65_52_07_96",
+        "target_name": "Vitrified clay plain wall below-ground drainage open butt joint pipes (land drainage tiles) and fittings",
+        "relationship": "semantically_similar",
+        "confidence": "C",
+        "score": 0.218,
+        "method": "tfidf_embedding"
+      }
+    ]
+  },
+  {
+    "source_id": "naics:2373",
+    "source_name": "Highway, Street, and Bridge Construction",
+    "matches": [
+      {
+        "target_id": "uc:Pr_30_31_76_16",
+        "target_name": "Construction joint sealants",
+        "relationship": "semantically_similar",
+        "confidence": "A",
+        "score": 0.416,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Pr_35_90_31_28",
+        "target_name": "Floor construction joint trims",
+        "relationship": "semantically_similar",
+        "confidence": "B",
+        "score": 0.38,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Pr_35_90_15",
+        "target_name": "Concrete construction joint accessories ",
+        "relationship": "semantically_similar",
+        "confidence": "B",
+        "score": 0.379,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Pr_40_10_77_85",
+        "target_name": "Street signs",
+        "relationship": "semantically_similar",
+        "confidence": "B",
+        "score": 0.371,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Pr_30_31_76_02",
+        "target_name": "Acrylic construction joint sealants",
+        "relationship": "semantically_similar",
+        "confidence": "B",
+        "score": 0.363,
+        "method": "tfidf_embedding"
+      }
+    ]
+  },
+  {
+    "source_id": "naics:23731",
+    "source_name": "Highway, Street, and Bridge Construction",
+    "matches": [
+      {
+        "target_id": "uc:Pr_30_31_76_16",
+        "target_name": "Construction joint sealants",
+        "relationship": "semantically_similar",
+        "confidence": "A",
+        "score": 0.416,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Pr_35_90_31_28",
+        "target_name": "Floor construction joint trims",
+        "relationship": "semantically_similar",
+        "confidence": "B",
+        "score": 0.38,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Pr_35_90_15",
+        "target_name": "Concrete construction joint accessories ",
+        "relationship": "semantically_similar",
+        "confidence": "B",
+        "score": 0.379,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Pr_40_10_77_85",
+        "target_name": "Street signs",
+        "relationship": "semantically_similar",
+        "confidence": "B",
+        "score": 0.371,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Pr_30_31_76_02",
+        "target_name": "Acrylic construction joint sealants",
+        "relationship": "semantically_similar",
+        "confidence": "B",
+        "score": 0.363,
+        "method": "tfidf_embedding"
+      }
+    ]
+  },
+  {
+    "source_id": "naics:237310",
+    "source_name": "Highway, Street, and Bridge Construction",
+    "matches": [
+      {
+        "target_id": "uc:Pr_30_31_76_16",
+        "target_name": "Construction joint sealants",
+        "relationship": "semantically_similar",
+        "confidence": "A",
+        "score": 0.416,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Pr_35_90_31_28",
+        "target_name": "Floor construction joint trims",
+        "relationship": "semantically_similar",
+        "confidence": "B",
+        "score": 0.38,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Pr_35_90_15",
+        "target_name": "Concrete construction joint accessories ",
+        "relationship": "semantically_similar",
+        "confidence": "B",
+        "score": 0.379,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Pr_40_10_77_85",
+        "target_name": "Street signs",
+        "relationship": "semantically_similar",
+        "confidence": "B",
+        "score": 0.371,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Pr_30_31_76_02",
+        "target_name": "Acrylic construction joint sealants",
+        "relationship": "semantically_similar",
+        "confidence": "B",
+        "score": 0.363,
+        "method": "tfidf_embedding"
+      }
+    ]
+  },
+  {
+    "source_id": "naics:2379",
+    "source_name": "Other Heavy and Civil Engineering Construction",
+    "matches": [
+      {
+        "target_id": "uc:Pr_30_31_76_16",
+        "target_name": "Construction joint sealants",
+        "relationship": "semantically_similar",
+        "confidence": "A",
+        "score": 0.412,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Pr_35_90_31_28",
+        "target_name": "Floor construction joint trims",
+        "relationship": "semantically_similar",
+        "confidence": "B",
+        "score": 0.377,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Pr_35_90_15",
+        "target_name": "Concrete construction joint accessories ",
+        "relationship": "semantically_similar",
+        "confidence": "B",
+        "score": 0.375,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Pr_30_31_76_02",
+        "target_name": "Acrylic construction joint sealants",
+        "relationship": "semantically_similar",
+        "confidence": "B",
+        "score": 0.36,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Pr_20_76_51_81",
+        "target_name": "Stainless steel bars and rods for construction",
+        "relationship": "semantically_similar",
+        "confidence": "B",
+        "score": 0.352,
+        "method": "tfidf_embedding"
+      }
+    ]
+  },
+  {
+    "source_id": "naics:23799",
+    "source_name": "Other Heavy and Civil Engineering Construction",
+    "matches": [
+      {
+        "target_id": "uc:Pr_30_31_76_16",
+        "target_name": "Construction joint sealants",
+        "relationship": "semantically_similar",
+        "confidence": "A",
+        "score": 0.412,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Pr_35_90_31_28",
+        "target_name": "Floor construction joint trims",
+        "relationship": "semantically_similar",
+        "confidence": "B",
+        "score": 0.377,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Pr_35_90_15",
+        "target_name": "Concrete construction joint accessories ",
+        "relationship": "semantically_similar",
+        "confidence": "B",
+        "score": 0.375,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Pr_30_31_76_02",
+        "target_name": "Acrylic construction joint sealants",
+        "relationship": "semantically_similar",
+        "confidence": "B",
+        "score": 0.36,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Pr_20_76_51_81",
+        "target_name": "Stainless steel bars and rods for construction",
+        "relationship": "semantically_similar",
+        "confidence": "B",
+        "score": 0.352,
+        "method": "tfidf_embedding"
+      }
+    ]
+  },
+  {
+    "source_id": "naics:237990",
+    "source_name": "Other Heavy and Civil Engineering Construction",
+    "matches": [
+      {
+        "target_id": "uc:Pr_30_31_76_16",
+        "target_name": "Construction joint sealants",
+        "relationship": "semantically_similar",
+        "confidence": "A",
+        "score": 0.412,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Pr_35_90_31_28",
+        "target_name": "Floor construction joint trims",
+        "relationship": "semantically_similar",
+        "confidence": "B",
+        "score": 0.377,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Pr_35_90_15",
+        "target_name": "Concrete construction joint accessories ",
+        "relationship": "semantically_similar",
+        "confidence": "B",
+        "score": 0.375,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Pr_30_31_76_02",
+        "target_name": "Acrylic construction joint sealants",
+        "relationship": "semantically_similar",
+        "confidence": "B",
+        "score": 0.36,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Pr_20_76_51_81",
+        "target_name": "Stainless steel bars and rods for construction",
+        "relationship": "semantically_similar",
+        "confidence": "B",
+        "score": 0.352,
+        "method": "tfidf_embedding"
+      }
+    ]
+  },
+  {
+    "source_id": "naics:2381",
+    "source_name": "Foundation, Structure, and Building Exterior Contractors",
+    "matches": [
+      {
+        "target_id": "uc:Pr_25_57_10_09",
+        "target_name": "Building papers",
+        "relationship": "semantically_similar",
+        "confidence": "A",
+        "score": 0.465,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Pr_25_57_10_12",
+        "target_name": "Cellulose based building papers",
+        "relationship": "semantically_similar",
+        "confidence": "B",
+        "score": 0.363,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Pr_25_57_10",
+        "target_name": "Building papers and vapour-permeable sheets",
+        "relationship": "semantically_similar",
+        "confidence": "B",
+        "score": 0.342,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Pr_20_85_13_32",
+        "target_name": "Concrete foundation pads",
+        "relationship": "semantically_similar",
+        "confidence": "B",
+        "score": 0.278,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Pr_20",
+        "target_name": "Structure and general products",
+        "relationship": "semantically_similar",
+        "confidence": "B",
+        "score": 0.263,
+        "method": "tfidf_embedding"
+      }
+    ]
+  },
+  {
+    "source_id": "naics:23811",
+    "source_name": "Poured Concrete Foundation and Structure Contractors",
+    "matches": [
+      {
+        "target_id": "uc:Pr_20_85_13_32",
+        "target_name": "Concrete foundation pads",
+        "relationship": "semantically_similar",
+        "confidence": "A",
+        "score": 0.485,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Pr_20_85_13",
+        "target_name": "Concrete base and foundation products",
+        "relationship": "semantically_similar",
+        "confidence": "A",
+        "score": 0.451,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Pr_20",
+        "target_name": "Structure and general products",
+        "relationship": "semantically_similar",
+        "confidence": "B",
+        "score": 0.296,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Pr_20_76_78",
+        "target_name": "Shaft structure products",
+        "relationship": "semantically_similar",
+        "confidence": "B",
+        "score": 0.29,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Pr_20_76_92",
+        "target_name": "Tunnel structure products",
+        "relationship": "semantically_similar",
+        "confidence": "B",
+        "score": 0.29,
+        "method": "tfidf_embedding"
+      }
+    ]
+  },
+  {
+    "source_id": "naics:238110",
+    "source_name": "Poured Concrete Foundation and Structure Contractors",
+    "matches": [
+      {
+        "target_id": "uc:Pr_20_85_13_32",
+        "target_name": "Concrete foundation pads",
+        "relationship": "semantically_similar",
+        "confidence": "A",
+        "score": 0.485,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Pr_20_85_13",
+        "target_name": "Concrete base and foundation products",
+        "relationship": "semantically_similar",
+        "confidence": "A",
+        "score": 0.451,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Pr_20",
+        "target_name": "Structure and general products",
+        "relationship": "semantically_similar",
+        "confidence": "B",
+        "score": 0.296,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Pr_20_76_78",
+        "target_name": "Shaft structure products",
+        "relationship": "semantically_similar",
+        "confidence": "B",
+        "score": 0.29,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Pr_20_76_92",
+        "target_name": "Tunnel structure products",
+        "relationship": "semantically_similar",
+        "confidence": "B",
+        "score": 0.29,
+        "method": "tfidf_embedding"
+      }
+    ]
+  },
+  {
+    "source_id": "naics:23812",
+    "source_name": "Structural Steel and Precast Concrete Contractors",
+    "matches": [
+      {
+        "target_id": "uc:Pr_20_76_08_67",
+        "target_name": "Precast concrete bollards",
+        "relationship": "semantically_similar",
+        "confidence": "A",
+        "score": 0.559,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Pr_20_76_78_65",
+        "target_name": "Precast concrete shaft units",
+        "relationship": "semantically_similar",
+        "confidence": "A",
+        "score": 0.501,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Pr_20_76_92_65",
+        "target_name": "Precast concrete tunnel units",
+        "relationship": "semantically_similar",
+        "confidence": "A",
+        "score": 0.501,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Pr_20_93_37_65",
+        "target_name": "Precast concrete headwall units",
+        "relationship": "semantically_similar",
+        "confidence": "A",
+        "score": 0.48,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Pr_60_50_10_66",
+        "target_name": "Precast concrete modular tanks",
+        "relationship": "semantically_similar",
+        "confidence": "A",
+        "score": 0.474,
+        "method": "tfidf_embedding"
+      }
+    ]
+  },
+  {
+    "source_id": "naics:238120",
+    "source_name": "Structural Steel and Precast Concrete Contractors",
+    "matches": [
+      {
+        "target_id": "uc:Pr_20_76_08_67",
+        "target_name": "Precast concrete bollards",
+        "relationship": "semantically_similar",
+        "confidence": "A",
+        "score": 0.559,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Pr_20_76_78_65",
+        "target_name": "Precast concrete shaft units",
+        "relationship": "semantically_similar",
+        "confidence": "A",
+        "score": 0.501,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Pr_20_76_92_65",
+        "target_name": "Precast concrete tunnel units",
+        "relationship": "semantically_similar",
+        "confidence": "A",
+        "score": 0.501,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Pr_20_93_37_65",
+        "target_name": "Precast concrete headwall units",
+        "relationship": "semantically_similar",
+        "confidence": "A",
+        "score": 0.48,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Pr_60_50_10_66",
+        "target_name": "Precast concrete modular tanks",
+        "relationship": "semantically_similar",
+        "confidence": "A",
+        "score": 0.474,
+        "method": "tfidf_embedding"
+      }
+    ]
+  },
+  {
+    "source_id": "naics:23813",
+    "source_name": "Framing Contractors",
+    "matches": [
+      {
+        "target_id": "uc:Pr_20_29_03_31",
+        "target_name": "Framing anchors",
+        "relationship": "semantically_similar",
+        "confidence": "A",
+        "score": 0.736,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Pr_20_29_03_32",
+        "target_name": "Framing fasteners",
+        "relationship": "semantically_similar",
+        "confidence": "A",
+        "score": 0.73,
+        "method": "tfidf_embedding"
+      }
+    ]
+  },
+  {
+    "source_id": "naics:238130",
+    "source_name": "Framing Contractors",
+    "matches": [
+      {
+        "target_id": "uc:Pr_20_29_03_31",
+        "target_name": "Framing anchors",
+        "relationship": "semantically_similar",
+        "confidence": "A",
+        "score": 0.736,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Pr_20_29_03_32",
+        "target_name": "Framing fasteners",
+        "relationship": "semantically_similar",
+        "confidence": "A",
+        "score": 0.73,
+        "method": "tfidf_embedding"
+      }
+    ]
+  },
+  {
+    "source_id": "naics:23814",
+    "source_name": "Masonry Contractors",
+    "matches": [
+      {
+        "target_id": "uc:Pr_20_29_56_50",
+        "target_name": "Masonry nails",
+        "relationship": "semantically_similar",
+        "confidence": "A",
+        "score": 0.637,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Pr_20_29_63_50",
+        "target_name": "Masonry plugs",
+        "relationship": "semantically_similar",
+        "confidence": "A",
+        "score": 0.617,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Pr_20_31_12_50",
+        "target_name": "Masonry cements",
+        "relationship": "semantically_similar",
+        "confidence": "A",
+        "score": 0.604,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Pr_20_29_23_50",
+        "target_name": "Masonry dowels",
+        "relationship": "semantically_similar",
+        "confidence": "A",
+        "score": 0.6,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Pr_35_31_65_50",
+        "target_name": "Masonry stabilizers",
+        "relationship": "semantically_similar",
+        "confidence": "A",
+        "score": 0.584,
+        "method": "tfidf_embedding"
+      }
+    ]
+  },
+  {
+    "source_id": "naics:238140",
+    "source_name": "Masonry Contractors",
+    "matches": [
+      {
+        "target_id": "uc:Pr_20_29_56_50",
+        "target_name": "Masonry nails",
+        "relationship": "semantically_similar",
+        "confidence": "A",
+        "score": 0.637,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Pr_20_29_63_50",
+        "target_name": "Masonry plugs",
+        "relationship": "semantically_similar",
+        "confidence": "A",
+        "score": 0.617,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Pr_20_31_12_50",
+        "target_name": "Masonry cements",
+        "relationship": "semantically_similar",
+        "confidence": "A",
+        "score": 0.604,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Pr_20_29_23_50",
+        "target_name": "Masonry dowels",
+        "relationship": "semantically_similar",
+        "confidence": "A",
+        "score": 0.6,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Pr_35_31_65_50",
+        "target_name": "Masonry stabilizers",
+        "relationship": "semantically_similar",
+        "confidence": "A",
+        "score": 0.584,
+        "method": "tfidf_embedding"
+      }
+    ]
+  },
+  {
+    "source_id": "naics:23815",
+    "source_name": "Glass and Glazing Contractors",
+    "matches": [
+      {
+        "target_id": "uc:Pr_25_71_33",
+        "target_name": "Glass and glazing sheets and profiles",
+        "relationship": "semantically_similar",
+        "confidence": "A",
+        "score": 0.517,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Pr_25_71_33_65",
+        "target_name": "Plastics glazing sheets",
+        "relationship": "semantically_similar",
+        "confidence": "A",
+        "score": 0.421,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Pr_20_29_14_34",
+        "target_name": "Glass-to-glass clips",
+        "relationship": "semantically_similar",
+        "confidence": "A",
+        "score": 0.413,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Pr_35_90_07_33",
+        "target_name": "Glazing beads",
+        "relationship": "semantically_similar",
+        "confidence": "B",
+        "score": 0.395,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Pr_25_71_33_35",
+        "target_name": "Glass panels",
+        "relationship": "semantically_similar",
+        "confidence": "B",
+        "score": 0.364,
+        "method": "tfidf_embedding"
+      }
+    ]
+  },
+  {
+    "source_id": "naics:238150",
+    "source_name": "Glass and Glazing Contractors",
+    "matches": [
+      {
+        "target_id": "uc:Pr_25_71_33",
+        "target_name": "Glass and glazing sheets and profiles",
+        "relationship": "semantically_similar",
+        "confidence": "A",
+        "score": 0.517,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Pr_25_71_33_65",
+        "target_name": "Plastics glazing sheets",
+        "relationship": "semantically_similar",
+        "confidence": "A",
+        "score": 0.421,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Pr_20_29_14_34",
+        "target_name": "Glass-to-glass clips",
+        "relationship": "semantically_similar",
+        "confidence": "A",
+        "score": 0.413,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Pr_35_90_07_33",
+        "target_name": "Glazing beads",
+        "relationship": "semantically_similar",
+        "confidence": "B",
+        "score": 0.395,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Pr_25_71_33_35",
+        "target_name": "Glass panels",
+        "relationship": "semantically_similar",
+        "confidence": "B",
+        "score": 0.364,
+        "method": "tfidf_embedding"
+      }
+    ]
+  },
+  {
+    "source_id": "naics:23816",
+    "source_name": "Roofing Contractors",
+    "matches": [
+      {
+        "target_id": "uc:Pr_20_29_88_74",
+        "target_name": "Roofing straps",
+        "relationship": "semantically_similar",
+        "confidence": "A",
+        "score": 0.637,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Pr_20_29_88_71",
+        "target_name": "Roofing clamps",
+        "relationship": "semantically_similar",
+        "confidence": "A",
+        "score": 0.627,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Pr_20_93_84",
+        "target_name": "Structural roofing units",
+        "relationship": "semantically_similar",
+        "confidence": "A",
+        "score": 0.623,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Pr_20_29_88_70",
+        "target_name": "Roofing belts",
+        "relationship": "semantically_similar",
+        "confidence": "A",
+        "score": 0.61,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Pr_25_93_72",
+        "target_name": "Roofing and cladding units",
+        "relationship": "semantically_similar",
+        "confidence": "A",
+        "score": 0.609,
+        "method": "tfidf_embedding"
+      }
+    ]
+  },
+  {
+    "source_id": "naics:238160",
+    "source_name": "Roofing Contractors",
+    "matches": [
+      {
+        "target_id": "uc:Pr_20_29_88_74",
+        "target_name": "Roofing straps",
+        "relationship": "semantically_similar",
+        "confidence": "A",
+        "score": 0.637,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Pr_20_29_88_71",
+        "target_name": "Roofing clamps",
+        "relationship": "semantically_similar",
+        "confidence": "A",
+        "score": 0.627,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Pr_20_93_84",
+        "target_name": "Structural roofing units",
+        "relationship": "semantically_similar",
+        "confidence": "A",
+        "score": 0.623,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Pr_20_29_88_70",
+        "target_name": "Roofing belts",
+        "relationship": "semantically_similar",
+        "confidence": "A",
+        "score": 0.61,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Pr_25_93_72",
+        "target_name": "Roofing and cladding units",
+        "relationship": "semantically_similar",
+        "confidence": "A",
+        "score": 0.609,
+        "method": "tfidf_embedding"
+      }
+    ]
+  },
+  {
+    "source_id": "naics:23819",
+    "source_name": "Other Foundation, Structure, and Building Exterior Contractors",
+    "matches": [
+      {
+        "target_id": "uc:Pr_25_57_10_09",
+        "target_name": "Building papers",
+        "relationship": "semantically_similar",
+        "confidence": "A",
+        "score": 0.465,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Pr_25_57_10_12",
+        "target_name": "Cellulose based building papers",
+        "relationship": "semantically_similar",
+        "confidence": "B",
+        "score": 0.363,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Pr_25_57_10",
+        "target_name": "Building papers and vapour-permeable sheets",
+        "relationship": "semantically_similar",
+        "confidence": "B",
+        "score": 0.342,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Pr_20_85_13_32",
+        "target_name": "Concrete foundation pads",
+        "relationship": "semantically_similar",
+        "confidence": "B",
+        "score": 0.278,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Pr_20",
+        "target_name": "Structure and general products",
+        "relationship": "semantically_similar",
+        "confidence": "B",
+        "score": 0.263,
+        "method": "tfidf_embedding"
+      }
+    ]
+  },
+  {
+    "source_id": "naics:238190",
+    "source_name": "Other Foundation, Structure, and Building Exterior Contractors",
+    "matches": [
+      {
+        "target_id": "uc:Pr_25_57_10_09",
+        "target_name": "Building papers",
+        "relationship": "semantically_similar",
+        "confidence": "A",
+        "score": 0.465,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Pr_25_57_10_12",
+        "target_name": "Cellulose based building papers",
+        "relationship": "semantically_similar",
+        "confidence": "B",
+        "score": 0.363,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Pr_25_57_10",
+        "target_name": "Building papers and vapour-permeable sheets",
+        "relationship": "semantically_similar",
+        "confidence": "B",
+        "score": 0.342,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Pr_20_85_13_32",
+        "target_name": "Concrete foundation pads",
+        "relationship": "semantically_similar",
+        "confidence": "B",
+        "score": 0.278,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Pr_20",
+        "target_name": "Structure and general products",
+        "relationship": "semantically_similar",
+        "confidence": "B",
+        "score": 0.263,
+        "method": "tfidf_embedding"
+      }
+    ]
+  },
+  {
+    "source_id": "naics:2382",
+    "source_name": "Building Equipment Contractors",
+    "matches": [
+      {
+        "target_id": "uc:Pr_25_57_10_09",
+        "target_name": "Building papers",
+        "relationship": "semantically_similar",
+        "confidence": "A",
+        "score": 0.645,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Pr_25_57_10_12",
+        "target_name": "Cellulose based building papers",
+        "relationship": "semantically_similar",
+        "confidence": "A",
+        "score": 0.503,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Pr_25_57_10",
+        "target_name": "Building papers and vapour-permeable sheets",
+        "relationship": "semantically_similar",
+        "confidence": "A",
+        "score": 0.474,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Pr_40_70",
+        "target_name": "Equipment",
+        "relationship": "semantically_similar",
+        "confidence": "B",
+        "score": 0.398,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Pr_40_70_75",
+        "target_name": "Safety equipment",
+        "relationship": "semantically_similar",
+        "confidence": "B",
+        "score": 0.259,
+        "method": "tfidf_embedding"
+      }
+    ]
+  },
+  {
+    "source_id": "naics:23821",
+    "source_name": "Electrical Contractors and Other Wiring Installation Contractors",
+    "matches": [
+      {
+        "target_id": "uc:Pr_65_72",
+        "target_name": "Electrical power products and wiring accessories",
+        "relationship": "semantically_similar",
+        "confidence": "A",
+        "score": 0.471,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Pr_40_50_05_42",
+        "target_name": "Installation pieces",
+        "relationship": "semantically_similar",
+        "confidence": "B",
+        "score": 0.369,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Pr_35_31_68_25",
+        "target_name": "Electrical insulation coatings",
+        "relationship": "semantically_similar",
+        "confidence": "B",
+        "score": 0.36,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Pr_40_10_57_23",
+        "target_name": "Electrical diagrams",
+        "relationship": "semantically_similar",
+        "confidence": "B",
+        "score": 0.348,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Pr_65_72_27",
+        "target_name": "Electrical protective devices",
+        "relationship": "semantically_similar",
+        "confidence": "B",
+        "score": 0.34,
+        "method": "tfidf_embedding"
+      }
+    ]
+  },
+  {
+    "source_id": "naics:238210",
+    "source_name": "Electrical Contractors and Other Wiring Installation Contractors",
+    "matches": [
+      {
+        "target_id": "uc:Pr_65_72",
+        "target_name": "Electrical power products and wiring accessories",
+        "relationship": "semantically_similar",
+        "confidence": "A",
+        "score": 0.471,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Pr_40_50_05_42",
+        "target_name": "Installation pieces",
+        "relationship": "semantically_similar",
+        "confidence": "B",
+        "score": 0.369,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Pr_35_31_68_25",
+        "target_name": "Electrical insulation coatings",
+        "relationship": "semantically_similar",
+        "confidence": "B",
+        "score": 0.36,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Pr_40_10_57_23",
+        "target_name": "Electrical diagrams",
+        "relationship": "semantically_similar",
+        "confidence": "B",
+        "score": 0.348,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Pr_65_72_27",
+        "target_name": "Electrical protective devices",
+        "relationship": "semantically_similar",
+        "confidence": "B",
+        "score": 0.34,
+        "method": "tfidf_embedding"
+      }
+    ]
+  },
+  {
+    "source_id": "naics:23822",
+    "source_name": "Plumbing, Heating, and Air-Conditioning Contractors",
+    "matches": [
+      {
+        "target_id": "uc:Pr_70_65_03",
+        "target_name": "Air conditioning units",
+        "relationship": "semantically_similar",
+        "confidence": "A",
+        "score": 0.458,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Pr_70_65_03_72",
+        "target_name": "Room air conditioning units",
+        "relationship": "semantically_similar",
+        "confidence": "B",
+        "score": 0.376,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Pr_70_65_03_47",
+        "target_name": "Local air conditioning units",
+        "relationship": "semantically_similar",
+        "confidence": "B",
+        "score": 0.343,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Pr_65_72_43_64",
+        "target_name": "Power conditioning units",
+        "relationship": "semantically_similar",
+        "confidence": "B",
+        "score": 0.298,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Pr_65_72_43",
+        "target_name": "Power conditioning equipment",
+        "relationship": "semantically_similar",
+        "confidence": "B",
+        "score": 0.286,
+        "method": "tfidf_embedding"
+      }
+    ]
+  },
+  {
+    "source_id": "naics:238220",
+    "source_name": "Plumbing, Heating, and Air-Conditioning Contractors",
+    "matches": [
+      {
+        "target_id": "uc:Pr_70_65_03",
+        "target_name": "Air conditioning units",
+        "relationship": "semantically_similar",
+        "confidence": "A",
+        "score": 0.458,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Pr_70_65_03_72",
+        "target_name": "Room air conditioning units",
+        "relationship": "semantically_similar",
+        "confidence": "B",
+        "score": 0.376,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Pr_70_65_03_47",
+        "target_name": "Local air conditioning units",
+        "relationship": "semantically_similar",
+        "confidence": "B",
+        "score": 0.343,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Pr_65_72_43_64",
+        "target_name": "Power conditioning units",
+        "relationship": "semantically_similar",
+        "confidence": "B",
+        "score": 0.298,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Pr_65_72_43",
+        "target_name": "Power conditioning equipment",
+        "relationship": "semantically_similar",
+        "confidence": "B",
+        "score": 0.286,
+        "method": "tfidf_embedding"
+      }
+    ]
+  },
+  {
+    "source_id": "naics:23829",
+    "source_name": "Other Building Equipment Contractors",
+    "matches": [
+      {
+        "target_id": "uc:Pr_25_57_10_09",
+        "target_name": "Building papers",
+        "relationship": "semantically_similar",
+        "confidence": "A",
+        "score": 0.645,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Pr_25_57_10_12",
+        "target_name": "Cellulose based building papers",
+        "relationship": "semantically_similar",
+        "confidence": "A",
+        "score": 0.503,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Pr_25_57_10",
+        "target_name": "Building papers and vapour-permeable sheets",
+        "relationship": "semantically_similar",
+        "confidence": "A",
+        "score": 0.474,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Pr_40_70",
+        "target_name": "Equipment",
+        "relationship": "semantically_similar",
+        "confidence": "B",
+        "score": 0.398,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Pr_40_70_75",
+        "target_name": "Safety equipment",
+        "relationship": "semantically_similar",
+        "confidence": "B",
+        "score": 0.259,
+        "method": "tfidf_embedding"
+      }
+    ]
+  },
+  {
+    "source_id": "naics:238290",
+    "source_name": "Other Building Equipment Contractors",
+    "matches": [
+      {
+        "target_id": "uc:Pr_25_57_10_09",
+        "target_name": "Building papers",
+        "relationship": "semantically_similar",
+        "confidence": "A",
+        "score": 0.645,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Pr_25_57_10_12",
+        "target_name": "Cellulose based building papers",
+        "relationship": "semantically_similar",
+        "confidence": "A",
+        "score": 0.503,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Pr_25_57_10",
+        "target_name": "Building papers and vapour-permeable sheets",
+        "relationship": "semantically_similar",
+        "confidence": "A",
+        "score": 0.474,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Pr_40_70",
+        "target_name": "Equipment",
+        "relationship": "semantically_similar",
+        "confidence": "B",
+        "score": 0.398,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Pr_40_70_75",
+        "target_name": "Safety equipment",
+        "relationship": "semantically_similar",
+        "confidence": "B",
+        "score": 0.259,
+        "method": "tfidf_embedding"
+      }
+    ]
+  },
+  {
+    "source_id": "naics:2383",
+    "source_name": "Building Finishing Contractors",
+    "matches": [
+      {
+        "target_id": "uc:Pr_25_57_10_09",
+        "target_name": "Building papers",
+        "relationship": "semantically_similar",
+        "confidence": "A",
+        "score": 0.612,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Pr_25_57_10_12",
+        "target_name": "Cellulose based building papers",
+        "relationship": "semantically_similar",
+        "confidence": "A",
+        "score": 0.478,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Pr_25_57_10",
+        "target_name": "Building papers and vapour-permeable sheets",
+        "relationship": "semantically_similar",
+        "confidence": "A",
+        "score": 0.45,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Pr_35_31_65_30",
+        "target_name": "Finishing compounds",
+        "relationship": "semantically_similar",
+        "confidence": "B",
+        "score": 0.352,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Pr_25_71_22_64",
+        "target_name": "Plastics finishing battens",
+        "relationship": "semantically_similar",
+        "confidence": "B",
+        "score": 0.309,
+        "method": "tfidf_embedding"
+      }
+    ]
+  },
+  {
+    "source_id": "naics:23831",
+    "source_name": "Drywall and Insulation Contractors",
+    "matches": [
+      {
+        "target_id": "uc:Pr_25_57_06_34",
+        "target_name": "Glass fibre insulation",
+        "relationship": "semantically_similar",
+        "confidence": "B",
+        "score": 0.286,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Pr_25_31_48",
+        "target_name": "Loose insulation",
+        "relationship": "semantically_similar",
+        "confidence": "B",
+        "score": 0.282,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Pr_25_57_06_53",
+        "target_name": "Mineral wool insulation",
+        "relationship": "semantically_similar",
+        "confidence": "C",
+        "score": 0.242,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Pr_25_57_06_37",
+        "target_name": "Hemp fibre insulation",
+        "relationship": "semantically_similar",
+        "confidence": "C",
+        "score": 0.228,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Pr_20_29_88_43",
+        "target_name": "Insulation fixing straps",
+        "relationship": "semantically_similar",
+        "confidence": "C",
+        "score": 0.226,
+        "method": "tfidf_embedding"
+      }
+    ]
+  },
+  {
+    "source_id": "naics:238310",
+    "source_name": "Drywall and Insulation Contractors",
+    "matches": [
+      {
+        "target_id": "uc:Pr_25_57_06_34",
+        "target_name": "Glass fibre insulation",
+        "relationship": "semantically_similar",
+        "confidence": "B",
+        "score": 0.286,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Pr_25_31_48",
+        "target_name": "Loose insulation",
+        "relationship": "semantically_similar",
+        "confidence": "B",
+        "score": 0.282,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Pr_25_57_06_53",
+        "target_name": "Mineral wool insulation",
+        "relationship": "semantically_similar",
+        "confidence": "C",
+        "score": 0.242,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Pr_25_57_06_37",
+        "target_name": "Hemp fibre insulation",
+        "relationship": "semantically_similar",
+        "confidence": "C",
+        "score": 0.228,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Pr_20_29_88_43",
+        "target_name": "Insulation fixing straps",
+        "relationship": "semantically_similar",
+        "confidence": "C",
+        "score": 0.226,
+        "method": "tfidf_embedding"
+      }
+    ]
+  },
+  {
+    "source_id": "naics:23832",
+    "source_name": "Painting and Wall Covering Contractors",
+    "matches": [
+      {
+        "target_id": "uc:Pr_35",
+        "target_name": "Covering and finishing products",
+        "relationship": "semantically_similar",
+        "confidence": "B",
+        "score": 0.376,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Pr_35_31_66_30",
+        "target_name": "Floor covering primers",
+        "relationship": "semantically_similar",
+        "confidence": "B",
+        "score": 0.362,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Pr_35_93",
+        "target_name": "Unit covering and finish products",
+        "relationship": "semantically_similar",
+        "confidence": "B",
+        "score": 0.306,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Pr_35_31",
+        "target_name": "Formless covering and finish products",
+        "relationship": "semantically_similar",
+        "confidence": "B",
+        "score": 0.301,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Pr_20_93_85_14",
+        "target_name": "Concrete solid wall and composite wall units",
+        "relationship": "semantically_similar",
+        "confidence": "B",
+        "score": 0.264,
+        "method": "tfidf_embedding"
+      }
+    ]
+  },
+  {
+    "source_id": "naics:238320",
+    "source_name": "Painting and Wall Covering Contractors",
+    "matches": [
+      {
+        "target_id": "uc:Pr_35",
+        "target_name": "Covering and finishing products",
+        "relationship": "semantically_similar",
+        "confidence": "B",
+        "score": 0.376,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Pr_35_31_66_30",
+        "target_name": "Floor covering primers",
+        "relationship": "semantically_similar",
+        "confidence": "B",
+        "score": 0.362,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Pr_35_93",
+        "target_name": "Unit covering and finish products",
+        "relationship": "semantically_similar",
+        "confidence": "B",
+        "score": 0.306,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Pr_35_31",
+        "target_name": "Formless covering and finish products",
+        "relationship": "semantically_similar",
+        "confidence": "B",
+        "score": 0.301,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Pr_20_93_85_14",
+        "target_name": "Concrete solid wall and composite wall units",
+        "relationship": "semantically_similar",
+        "confidence": "B",
+        "score": 0.264,
+        "method": "tfidf_embedding"
+      }
+    ]
+  },
+  {
+    "source_id": "naics:23833",
+    "source_name": "Flooring Contractors",
+    "matches": [
+      {
+        "target_id": "uc:Pr_35_31_06_77",
+        "target_name": "Screed flooring",
+        "relationship": "semantically_similar",
+        "confidence": "A",
+        "score": 0.667,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Pr_35_31_06_55",
+        "target_name": "Multilayer flooring",
+        "relationship": "semantically_similar",
+        "confidence": "A",
+        "score": 0.626,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Pr_35_31_06_32",
+        "target_name": "Flow applied flooring",
+        "relationship": "semantically_similar",
+        "confidence": "A",
+        "score": 0.59,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Pr_20_93_51",
+        "target_name": "Masonry flooring units",
+        "relationship": "semantically_similar",
+        "confidence": "A",
+        "score": 0.586,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Pr_35_31_77_16",
+        "target_name": "Cork flooring sealers",
+        "relationship": "semantically_similar",
+        "confidence": "A",
+        "score": 0.58,
+        "method": "tfidf_embedding"
+      }
+    ]
+  },
+  {
+    "source_id": "naics:238330",
+    "source_name": "Flooring Contractors",
+    "matches": [
+      {
+        "target_id": "uc:Pr_35_31_06_77",
+        "target_name": "Screed flooring",
+        "relationship": "semantically_similar",
+        "confidence": "A",
+        "score": 0.667,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Pr_35_31_06_55",
+        "target_name": "Multilayer flooring",
+        "relationship": "semantically_similar",
+        "confidence": "A",
+        "score": 0.626,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Pr_35_31_06_32",
+        "target_name": "Flow applied flooring",
+        "relationship": "semantically_similar",
+        "confidence": "A",
+        "score": 0.59,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Pr_20_93_51",
+        "target_name": "Masonry flooring units",
+        "relationship": "semantically_similar",
+        "confidence": "A",
+        "score": 0.586,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Pr_35_31_77_16",
+        "target_name": "Cork flooring sealers",
+        "relationship": "semantically_similar",
+        "confidence": "A",
+        "score": 0.58,
+        "method": "tfidf_embedding"
+      }
+    ]
+  },
+  {
+    "source_id": "naics:23834",
+    "source_name": "Tile and Terrazzo Contractors",
+    "matches": [
+      {
+        "target_id": "uc:Pr_35_93_96_89",
+        "target_name": "Terrazzo tile skirtings",
+        "relationship": "semantically_similar",
+        "confidence": "A",
+        "score": 0.704,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Pr_35_93_96_90",
+        "target_name": "Terrazzo tiles",
+        "relationship": "semantically_similar",
+        "confidence": "A",
+        "score": 0.551,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Pr_35_93_96_88",
+        "target_name": "Terrazzo precast units",
+        "relationship": "semantically_similar",
+        "confidence": "A",
+        "score": 0.473,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Pr_20_31_02_89",
+        "target_name": "Tile adhesives",
+        "relationship": "semantically_similar",
+        "confidence": "B",
+        "score": 0.351,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Pr_35_93_96_87",
+        "target_name": "Tile matting",
+        "relationship": "semantically_similar",
+        "confidence": "B",
+        "score": 0.322,
+        "method": "tfidf_embedding"
+      }
+    ]
+  },
+  {
+    "source_id": "naics:238340",
+    "source_name": "Tile and Terrazzo Contractors",
+    "matches": [
+      {
+        "target_id": "uc:Pr_35_93_96_89",
+        "target_name": "Terrazzo tile skirtings",
+        "relationship": "semantically_similar",
+        "confidence": "A",
+        "score": 0.704,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Pr_35_93_96_90",
+        "target_name": "Terrazzo tiles",
+        "relationship": "semantically_similar",
+        "confidence": "A",
+        "score": 0.551,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Pr_35_93_96_88",
+        "target_name": "Terrazzo precast units",
+        "relationship": "semantically_similar",
+        "confidence": "A",
+        "score": 0.473,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Pr_20_31_02_89",
+        "target_name": "Tile adhesives",
+        "relationship": "semantically_similar",
+        "confidence": "B",
+        "score": 0.351,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Pr_35_93_96_87",
+        "target_name": "Tile matting",
+        "relationship": "semantically_similar",
+        "confidence": "B",
+        "score": 0.322,
+        "method": "tfidf_embedding"
+      }
+    ]
+  },
+  {
+    "source_id": "naics:23835",
+    "source_name": "Finish Carpentry Contractors",
+    "matches": [
+      {
+        "target_id": "uc:Pr_35_31_64_32",
+        "target_name": "Finish plasters",
+        "relationship": "semantically_similar",
+        "confidence": "A",
+        "score": 0.411,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Pr_35_31_66_55",
+        "target_name": "Multicoloured finish basecoats",
+        "relationship": "semantically_similar",
+        "confidence": "B",
+        "score": 0.3,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Pr_35_93",
+        "target_name": "Unit covering and finish products",
+        "relationship": "semantically_similar",
+        "confidence": "B",
+        "score": 0.297,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Pr_35_31",
+        "target_name": "Formless covering and finish products",
+        "relationship": "semantically_similar",
+        "confidence": "B",
+        "score": 0.293,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Pr_25_71_42_71",
+        "target_name": "Raised access floor panels with finish",
+        "relationship": "semantically_similar",
+        "confidence": "B",
+        "score": 0.292,
+        "method": "tfidf_embedding"
+      }
+    ]
+  },
+  {
+    "source_id": "naics:238350",
+    "source_name": "Finish Carpentry Contractors",
+    "matches": [
+      {
+        "target_id": "uc:Pr_35_31_64_32",
+        "target_name": "Finish plasters",
+        "relationship": "semantically_similar",
+        "confidence": "A",
+        "score": 0.411,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Pr_35_31_66_55",
+        "target_name": "Multicoloured finish basecoats",
+        "relationship": "semantically_similar",
+        "confidence": "B",
+        "score": 0.3,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Pr_35_93",
+        "target_name": "Unit covering and finish products",
+        "relationship": "semantically_similar",
+        "confidence": "B",
+        "score": 0.297,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Pr_35_31",
+        "target_name": "Formless covering and finish products",
+        "relationship": "semantically_similar",
+        "confidence": "B",
+        "score": 0.293,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Pr_25_71_42_71",
+        "target_name": "Raised access floor panels with finish",
+        "relationship": "semantically_similar",
+        "confidence": "B",
+        "score": 0.292,
+        "method": "tfidf_embedding"
+      }
+    ]
+  },
+  {
+    "source_id": "naics:23839",
+    "source_name": "Other Building Finishing Contractors",
+    "matches": [
+      {
+        "target_id": "uc:Pr_25_57_10_09",
+        "target_name": "Building papers",
+        "relationship": "semantically_similar",
+        "confidence": "A",
+        "score": 0.612,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Pr_25_57_10_12",
+        "target_name": "Cellulose based building papers",
+        "relationship": "semantically_similar",
+        "confidence": "A",
+        "score": 0.478,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Pr_25_57_10",
+        "target_name": "Building papers and vapour-permeable sheets",
+        "relationship": "semantically_similar",
+        "confidence": "A",
+        "score": 0.45,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Pr_35_31_65_30",
+        "target_name": "Finishing compounds",
+        "relationship": "semantically_similar",
+        "confidence": "B",
+        "score": 0.352,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Pr_25_71_22_64",
+        "target_name": "Plastics finishing battens",
+        "relationship": "semantically_similar",
+        "confidence": "B",
+        "score": 0.309,
+        "method": "tfidf_embedding"
+      }
+    ]
+  },
+  {
+    "source_id": "naics:238390",
+    "source_name": "Other Building Finishing Contractors",
+    "matches": [
+      {
+        "target_id": "uc:Pr_25_57_10_09",
+        "target_name": "Building papers",
+        "relationship": "semantically_similar",
+        "confidence": "A",
+        "score": 0.612,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Pr_25_57_10_12",
+        "target_name": "Cellulose based building papers",
+        "relationship": "semantically_similar",
+        "confidence": "A",
+        "score": 0.478,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Pr_25_57_10",
+        "target_name": "Building papers and vapour-permeable sheets",
+        "relationship": "semantically_similar",
+        "confidence": "A",
+        "score": 0.45,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Pr_35_31_65_30",
+        "target_name": "Finishing compounds",
+        "relationship": "semantically_similar",
+        "confidence": "B",
+        "score": 0.352,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Pr_25_71_22_64",
+        "target_name": "Plastics finishing battens",
+        "relationship": "semantically_similar",
+        "confidence": "B",
+        "score": 0.309,
+        "method": "tfidf_embedding"
+      }
+    ]
+  },
+  {
+    "source_id": "naics:23891",
+    "source_name": "Site Preparation Contractors",
+    "matches": [
+      {
+        "target_id": "uc:Pr_65_67_16_04",
+        "target_name": "Air preparation units",
+        "relationship": "semantically_similar",
+        "confidence": "A",
+        "score": 0.456,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Pr_40_30_30_86",
+        "target_name": "Street and site tables",
+        "relationship": "semantically_similar",
+        "confidence": "B",
+        "score": 0.398,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Pr_40_30_29_84",
+        "target_name": "Street and site benches",
+        "relationship": "semantically_similar",
+        "confidence": "B",
+        "score": 0.385,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Pr_40_30_29_85",
+        "target_name": "Street and site seats",
+        "relationship": "semantically_similar",
+        "confidence": "B",
+        "score": 0.38,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Pr_40_50_21_32",
+        "target_name": "Food preparation tables",
+        "relationship": "semantically_similar",
+        "confidence": "B",
+        "score": 0.378,
+        "method": "tfidf_embedding"
+      }
+    ]
+  },
+  {
+    "source_id": "naics:238910",
+    "source_name": "Site Preparation Contractors",
+    "matches": [
+      {
+        "target_id": "uc:Pr_65_67_16_04",
+        "target_name": "Air preparation units",
+        "relationship": "semantically_similar",
+        "confidence": "A",
+        "score": 0.456,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Pr_40_30_30_86",
+        "target_name": "Street and site tables",
+        "relationship": "semantically_similar",
+        "confidence": "B",
+        "score": 0.398,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Pr_40_30_29_84",
+        "target_name": "Street and site benches",
+        "relationship": "semantically_similar",
+        "confidence": "B",
+        "score": 0.385,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Pr_40_30_29_85",
+        "target_name": "Street and site seats",
+        "relationship": "semantically_similar",
+        "confidence": "B",
+        "score": 0.38,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Pr_40_50_21_32",
+        "target_name": "Food preparation tables",
+        "relationship": "semantically_similar",
+        "confidence": "B",
+        "score": 0.378,
+        "method": "tfidf_embedding"
+      }
+    ]
+  },
+  {
+    "source_id": "naics:23899",
+    "source_name": "All Other Specialty Trade Contractors",
+    "matches": [
+      {
+        "target_id": "uc:Pr_20_31_04_51",
+        "target_name": "Mortar all-in aggregates",
+        "relationship": "semantically_similar",
+        "confidence": "B",
+        "score": 0.33,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Pr_20_31_02_04",
+        "target_name": "All-purpose pastes",
+        "relationship": "semantically_similar",
+        "confidence": "B",
+        "score": 0.296,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Pr_20_31_04_02",
+        "target_name": "All-in normal and heavyweight aggregates",
+        "relationship": "semantically_similar",
+        "confidence": "B",
+        "score": 0.263,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Pr_20_31_04_06",
+        "target_name": "Base, bed and fill all-in aggregates",
+        "relationship": "semantically_similar",
+        "confidence": "B",
+        "score": 0.255,
+        "method": "tfidf_embedding"
+      }
+    ]
+  },
+  {
+    "source_id": "naics:238990",
+    "source_name": "All Other Specialty Trade Contractors",
+    "matches": [
+      {
+        "target_id": "uc:Pr_20_31_04_51",
+        "target_name": "Mortar all-in aggregates",
+        "relationship": "semantically_similar",
+        "confidence": "B",
+        "score": 0.33,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Pr_20_31_02_04",
+        "target_name": "All-purpose pastes",
+        "relationship": "semantically_similar",
+        "confidence": "B",
+        "score": 0.296,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Pr_20_31_04_02",
+        "target_name": "All-in normal and heavyweight aggregates",
+        "relationship": "semantically_similar",
+        "confidence": "B",
+        "score": 0.263,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Pr_20_31_04_06",
+        "target_name": "Base, bed and fill all-in aggregates",
+        "relationship": "semantically_similar",
+        "confidence": "B",
+        "score": 0.255,
+        "method": "tfidf_embedding"
+      }
+    ]
+  }
+]

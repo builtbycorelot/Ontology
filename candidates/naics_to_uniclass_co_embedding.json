@@ -1,0 +1,1024 @@
+[
+  {
+    "source_id": "naics:2361",
+    "source_name": "Residential Building Construction",
+    "matches": [
+      {
+        "target_id": "uc:Co_45",
+        "target_name": "Residential complexes",
+        "relationship": "semantically_similar",
+        "confidence": "A",
+        "score": 0.492,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Co_45_10_74",
+        "target_name": "Residential properties",
+        "relationship": "semantically_similar",
+        "confidence": "B",
+        "score": 0.323,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Co_30_50_77",
+        "target_name": "Ship and boat building yards",
+        "relationship": "semantically_similar",
+        "confidence": "B",
+        "score": 0.314,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Co_45_10_36",
+        "target_name": "High-rise residential complexes",
+        "relationship": "semantically_similar",
+        "confidence": "B",
+        "score": 0.265,
+        "method": "tfidf_embedding"
+      }
+    ]
+  },
+  {
+    "source_id": "naics:23611",
+    "source_name": "Residential Building Construction",
+    "matches": [
+      {
+        "target_id": "uc:Co_45",
+        "target_name": "Residential complexes",
+        "relationship": "semantically_similar",
+        "confidence": "A",
+        "score": 0.492,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Co_45_10_74",
+        "target_name": "Residential properties",
+        "relationship": "semantically_similar",
+        "confidence": "B",
+        "score": 0.323,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Co_30_50_77",
+        "target_name": "Ship and boat building yards",
+        "relationship": "semantically_similar",
+        "confidence": "B",
+        "score": 0.314,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Co_45_10_36",
+        "target_name": "High-rise residential complexes",
+        "relationship": "semantically_similar",
+        "confidence": "B",
+        "score": 0.265,
+        "method": "tfidf_embedding"
+      }
+    ]
+  },
+  {
+    "source_id": "naics:236115",
+    "source_name": "New Single-Family Housing Construction (except For-Sale Builders)",
+    "matches": [
+      {
+        "target_id": "uc:Co_45_10_41",
+        "target_name": "Housing estates",
+        "relationship": "semantically_similar",
+        "confidence": "C",
+        "score": 0.204,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Co_45_10_78",
+        "target_name": "Sheltered housing",
+        "relationship": "semantically_similar",
+        "confidence": "C",
+        "score": 0.204,
+        "method": "tfidf_embedding"
+      }
+    ]
+  },
+  {
+    "source_id": "naics:236116",
+    "source_name": "New Multifamily Housing Construction (except For-Sale Builders)",
+    "matches": [
+      {
+        "target_id": "uc:Co_45_10_41",
+        "target_name": "Housing estates",
+        "relationship": "semantically_similar",
+        "confidence": "C",
+        "score": 0.22,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Co_45_10_78",
+        "target_name": "Sheltered housing",
+        "relationship": "semantically_similar",
+        "confidence": "C",
+        "score": 0.22,
+        "method": "tfidf_embedding"
+      }
+    ]
+  },
+  {
+    "source_id": "naics:236117",
+    "source_name": "New Housing For-Sale Builders",
+    "matches": [
+      {
+        "target_id": "uc:Co_45_10_41",
+        "target_name": "Housing estates",
+        "relationship": "semantically_similar",
+        "confidence": "B",
+        "score": 0.302,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Co_45_10_78",
+        "target_name": "Sheltered housing",
+        "relationship": "semantically_similar",
+        "confidence": "B",
+        "score": 0.302,
+        "method": "tfidf_embedding"
+      }
+    ]
+  },
+  {
+    "source_id": "naics:236118",
+    "source_name": "Residential Remodelers",
+    "matches": [
+      {
+        "target_id": "uc:Co_45",
+        "target_name": "Residential complexes",
+        "relationship": "semantically_similar",
+        "confidence": "A",
+        "score": 0.599,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Co_45_10_74",
+        "target_name": "Residential properties",
+        "relationship": "semantically_similar",
+        "confidence": "B",
+        "score": 0.394,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Co_45_10_36",
+        "target_name": "High-rise residential complexes",
+        "relationship": "semantically_similar",
+        "confidence": "B",
+        "score": 0.323,
+        "method": "tfidf_embedding"
+      }
+    ]
+  },
+  {
+    "source_id": "naics:2362",
+    "source_name": "Nonresidential Building Construction",
+    "matches": [
+      {
+        "target_id": "uc:Co_30_50_77",
+        "target_name": "Ship and boat building yards",
+        "relationship": "semantically_similar",
+        "confidence": "B",
+        "score": 0.293,
+        "method": "tfidf_embedding"
+      }
+    ]
+  },
+  {
+    "source_id": "naics:23621",
+    "source_name": "Industrial Building Construction",
+    "matches": [
+      {
+        "target_id": "uc:Co_30",
+        "target_name": "Industrial complexes",
+        "relationship": "semantically_similar",
+        "confidence": "A",
+        "score": 0.517,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Co_30_50_41",
+        "target_name": "Industrial parks",
+        "relationship": "semantically_similar",
+        "confidence": "A",
+        "score": 0.413,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Co_30_50_77",
+        "target_name": "Ship and boat building yards",
+        "relationship": "semantically_similar",
+        "confidence": "B",
+        "score": 0.308,
+        "method": "tfidf_embedding"
+      }
+    ]
+  },
+  {
+    "source_id": "naics:236210",
+    "source_name": "Industrial Building Construction",
+    "matches": [
+      {
+        "target_id": "uc:Co_30",
+        "target_name": "Industrial complexes",
+        "relationship": "semantically_similar",
+        "confidence": "A",
+        "score": 0.517,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Co_30_50_41",
+        "target_name": "Industrial parks",
+        "relationship": "semantically_similar",
+        "confidence": "A",
+        "score": 0.413,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Co_30_50_77",
+        "target_name": "Ship and boat building yards",
+        "relationship": "semantically_similar",
+        "confidence": "B",
+        "score": 0.308,
+        "method": "tfidf_embedding"
+      }
+    ]
+  },
+  {
+    "source_id": "naics:23622",
+    "source_name": "Commercial and Institutional Building Construction",
+    "matches": [
+      {
+        "target_id": "uc:Co_20_50",
+        "target_name": "Commercial complexes",
+        "relationship": "semantically_similar",
+        "confidence": "A",
+        "score": 0.433,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Co_30_60_15",
+        "target_name": "Commercial laundries",
+        "relationship": "semantically_similar",
+        "confidence": "B",
+        "score": 0.289,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Co_30_50_77",
+        "target_name": "Ship and boat building yards",
+        "relationship": "semantically_similar",
+        "confidence": "B",
+        "score": 0.268,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Co_20",
+        "target_name": "Administrative, commercial and protective service complexes",
+        "relationship": "semantically_similar",
+        "confidence": "C",
+        "score": 0.197,
+        "method": "tfidf_embedding"
+      }
+    ]
+  },
+  {
+    "source_id": "naics:236220",
+    "source_name": "Commercial and Institutional Building Construction",
+    "matches": [
+      {
+        "target_id": "uc:Co_20_50",
+        "target_name": "Commercial complexes",
+        "relationship": "semantically_similar",
+        "confidence": "A",
+        "score": 0.433,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Co_30_60_15",
+        "target_name": "Commercial laundries",
+        "relationship": "semantically_similar",
+        "confidence": "B",
+        "score": 0.289,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Co_30_50_77",
+        "target_name": "Ship and boat building yards",
+        "relationship": "semantically_similar",
+        "confidence": "B",
+        "score": 0.268,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Co_20",
+        "target_name": "Administrative, commercial and protective service complexes",
+        "relationship": "semantically_similar",
+        "confidence": "C",
+        "score": 0.197,
+        "method": "tfidf_embedding"
+      }
+    ]
+  },
+  {
+    "source_id": "naics:237",
+    "source_name": "Heavy and Civil Engineering Construction",
+    "matches": [
+      {
+        "target_id": "uc:Co_80_50_35",
+        "target_name": "Heavy rail complexes",
+        "relationship": "semantically_similar",
+        "confidence": "B",
+        "score": 0.324,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Co_30_50_37",
+        "target_name": "Heavy manufacturing complexes",
+        "relationship": "semantically_similar",
+        "confidence": "B",
+        "score": 0.308,
+        "method": "tfidf_embedding"
+      }
+    ]
+  },
+  {
+    "source_id": "naics:23711",
+    "source_name": "Water and Sewer Line and Related Structures Construction",
+    "matches": [
+      {
+        "target_id": "uc:Co_55_15_96",
+        "target_name": "Water storage complexes",
+        "relationship": "semantically_similar",
+        "confidence": "C",
+        "score": 0.22,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Co_80_20_99",
+        "target_name": "Zip line way complexes",
+        "relationship": "semantically_similar",
+        "confidence": "C",
+        "score": 0.216,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Co_42_85_96",
+        "target_name": "Water parks",
+        "relationship": "semantically_similar",
+        "confidence": "C",
+        "score": 0.211,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Co_55_15_50",
+        "target_name": "Water treatment complexes",
+        "relationship": "semantically_similar",
+        "confidence": "C",
+        "score": 0.206,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Co_55_70_20",
+        "target_name": "Water distribution complexes",
+        "relationship": "semantically_similar",
+        "confidence": "C",
+        "score": 0.206,
+        "method": "tfidf_embedding"
+      }
+    ]
+  },
+  {
+    "source_id": "naics:237110",
+    "source_name": "Water and Sewer Line and Related Structures Construction",
+    "matches": [
+      {
+        "target_id": "uc:Co_55_15_96",
+        "target_name": "Water storage complexes",
+        "relationship": "semantically_similar",
+        "confidence": "C",
+        "score": 0.22,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Co_80_20_99",
+        "target_name": "Zip line way complexes",
+        "relationship": "semantically_similar",
+        "confidence": "C",
+        "score": 0.216,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Co_42_85_96",
+        "target_name": "Water parks",
+        "relationship": "semantically_similar",
+        "confidence": "C",
+        "score": 0.211,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Co_55_15_50",
+        "target_name": "Water treatment complexes",
+        "relationship": "semantically_similar",
+        "confidence": "C",
+        "score": 0.206,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Co_55_70_20",
+        "target_name": "Water distribution complexes",
+        "relationship": "semantically_similar",
+        "confidence": "C",
+        "score": 0.206,
+        "method": "tfidf_embedding"
+      }
+    ]
+  },
+  {
+    "source_id": "naics:23712",
+    "source_name": "Oil and Gas Pipeline and Related Structures Construction",
+    "matches": [
+      {
+        "target_id": "uc:Co_55_10_80",
+        "target_name": "Oil treatment complexes",
+        "relationship": "semantically_similar",
+        "confidence": "B",
+        "score": 0.279,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Co_30_30_50",
+        "target_name": "Oil processing complexes",
+        "relationship": "semantically_similar",
+        "confidence": "B",
+        "score": 0.277,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Co_55_10_40",
+        "target_name": "Oil extraction complexes",
+        "relationship": "semantically_similar",
+        "confidence": "B",
+        "score": 0.277,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Co_55_05_34",
+        "target_name": "Gas storage complexes",
+        "relationship": "semantically_similar",
+        "confidence": "B",
+        "score": 0.254,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Co_55_05_70",
+        "target_name": "Gas treatment complexes",
+        "relationship": "semantically_similar",
+        "confidence": "C",
+        "score": 0.24,
+        "method": "tfidf_embedding"
+      }
+    ]
+  },
+  {
+    "source_id": "naics:237120",
+    "source_name": "Oil and Gas Pipeline and Related Structures Construction",
+    "matches": [
+      {
+        "target_id": "uc:Co_55_10_80",
+        "target_name": "Oil treatment complexes",
+        "relationship": "semantically_similar",
+        "confidence": "B",
+        "score": 0.279,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Co_30_30_50",
+        "target_name": "Oil processing complexes",
+        "relationship": "semantically_similar",
+        "confidence": "B",
+        "score": 0.277,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Co_55_10_40",
+        "target_name": "Oil extraction complexes",
+        "relationship": "semantically_similar",
+        "confidence": "B",
+        "score": 0.277,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Co_55_05_34",
+        "target_name": "Gas storage complexes",
+        "relationship": "semantically_similar",
+        "confidence": "B",
+        "score": 0.254,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Co_55_05_70",
+        "target_name": "Gas treatment complexes",
+        "relationship": "semantically_similar",
+        "confidence": "C",
+        "score": 0.24,
+        "method": "tfidf_embedding"
+      }
+    ]
+  },
+  {
+    "source_id": "naics:23713",
+    "source_name": "Power and Communication Line and Related Structures Construction",
+    "matches": [
+      {
+        "target_id": "uc:Co_80_20_99",
+        "target_name": "Zip line way complexes",
+        "relationship": "semantically_similar",
+        "confidence": "C",
+        "score": 0.216,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Co_70_10_33",
+        "target_name": "Gas power generation complexes",
+        "relationship": "semantically_similar",
+        "confidence": "D",
+        "score": 0.169,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Co_70_10_57",
+        "target_name": "Nuclear power generation complexes",
+        "relationship": "semantically_similar",
+        "confidence": "D",
+        "score": 0.15,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Co_70_10_88",
+        "target_name": "Tidal power generation complexes",
+        "relationship": "semantically_similar",
+        "confidence": "D",
+        "score": 0.15,
+        "method": "tfidf_embedding"
+      }
+    ]
+  },
+  {
+    "source_id": "naics:237130",
+    "source_name": "Power and Communication Line and Related Structures Construction",
+    "matches": [
+      {
+        "target_id": "uc:Co_80_20_99",
+        "target_name": "Zip line way complexes",
+        "relationship": "semantically_similar",
+        "confidence": "C",
+        "score": 0.216,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Co_70_10_33",
+        "target_name": "Gas power generation complexes",
+        "relationship": "semantically_similar",
+        "confidence": "D",
+        "score": 0.169,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Co_70_10_57",
+        "target_name": "Nuclear power generation complexes",
+        "relationship": "semantically_similar",
+        "confidence": "D",
+        "score": 0.15,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Co_70_10_88",
+        "target_name": "Tidal power generation complexes",
+        "relationship": "semantically_similar",
+        "confidence": "D",
+        "score": 0.15,
+        "method": "tfidf_embedding"
+      }
+    ]
+  },
+  {
+    "source_id": "naics:2372",
+    "source_name": "Land Subdivision",
+    "matches": [
+      {
+        "target_id": "uc:Co_32",
+        "target_name": "Water and land management complexes",
+        "relationship": "semantically_similar",
+        "confidence": "A",
+        "score": 0.41,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Co_32_20",
+        "target_name": "Designated land areas",
+        "relationship": "semantically_similar",
+        "confidence": "B",
+        "score": 0.374,
+        "method": "tfidf_embedding"
+      }
+    ]
+  },
+  {
+    "source_id": "naics:23721",
+    "source_name": "Land Subdivision",
+    "matches": [
+      {
+        "target_id": "uc:Co_32",
+        "target_name": "Water and land management complexes",
+        "relationship": "semantically_similar",
+        "confidence": "A",
+        "score": 0.41,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Co_32_20",
+        "target_name": "Designated land areas",
+        "relationship": "semantically_similar",
+        "confidence": "B",
+        "score": 0.374,
+        "method": "tfidf_embedding"
+      }
+    ]
+  },
+  {
+    "source_id": "naics:237210",
+    "source_name": "Land Subdivision",
+    "matches": [
+      {
+        "target_id": "uc:Co_32",
+        "target_name": "Water and land management complexes",
+        "relationship": "semantically_similar",
+        "confidence": "A",
+        "score": 0.41,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Co_32_20",
+        "target_name": "Designated land areas",
+        "relationship": "semantically_similar",
+        "confidence": "B",
+        "score": 0.374,
+        "method": "tfidf_embedding"
+      }
+    ]
+  },
+  {
+    "source_id": "naics:2379",
+    "source_name": "Other Heavy and Civil Engineering Construction",
+    "matches": [
+      {
+        "target_id": "uc:Co_80_50_35",
+        "target_name": "Heavy rail complexes",
+        "relationship": "semantically_similar",
+        "confidence": "B",
+        "score": 0.324,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Co_30_50_37",
+        "target_name": "Heavy manufacturing complexes",
+        "relationship": "semantically_similar",
+        "confidence": "B",
+        "score": 0.308,
+        "method": "tfidf_embedding"
+      }
+    ]
+  },
+  {
+    "source_id": "naics:23799",
+    "source_name": "Other Heavy and Civil Engineering Construction",
+    "matches": [
+      {
+        "target_id": "uc:Co_80_50_35",
+        "target_name": "Heavy rail complexes",
+        "relationship": "semantically_similar",
+        "confidence": "B",
+        "score": 0.324,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Co_30_50_37",
+        "target_name": "Heavy manufacturing complexes",
+        "relationship": "semantically_similar",
+        "confidence": "B",
+        "score": 0.308,
+        "method": "tfidf_embedding"
+      }
+    ]
+  },
+  {
+    "source_id": "naics:237990",
+    "source_name": "Other Heavy and Civil Engineering Construction",
+    "matches": [
+      {
+        "target_id": "uc:Co_80_50_35",
+        "target_name": "Heavy rail complexes",
+        "relationship": "semantically_similar",
+        "confidence": "B",
+        "score": 0.324,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Co_30_50_37",
+        "target_name": "Heavy manufacturing complexes",
+        "relationship": "semantically_similar",
+        "confidence": "B",
+        "score": 0.308,
+        "method": "tfidf_embedding"
+      }
+    ]
+  },
+  {
+    "source_id": "naics:2381",
+    "source_name": "Foundation, Structure, and Building Exterior Contractors",
+    "matches": [
+      {
+        "target_id": "uc:Co_30_50_77",
+        "target_name": "Ship and boat building yards",
+        "relationship": "semantically_similar",
+        "confidence": "B",
+        "score": 0.265,
+        "method": "tfidf_embedding"
+      }
+    ]
+  },
+  {
+    "source_id": "naics:23819",
+    "source_name": "Other Foundation, Structure, and Building Exterior Contractors",
+    "matches": [
+      {
+        "target_id": "uc:Co_30_50_77",
+        "target_name": "Ship and boat building yards",
+        "relationship": "semantically_similar",
+        "confidence": "B",
+        "score": 0.265,
+        "method": "tfidf_embedding"
+      }
+    ]
+  },
+  {
+    "source_id": "naics:238190",
+    "source_name": "Other Foundation, Structure, and Building Exterior Contractors",
+    "matches": [
+      {
+        "target_id": "uc:Co_30_50_77",
+        "target_name": "Ship and boat building yards",
+        "relationship": "semantically_similar",
+        "confidence": "B",
+        "score": 0.265,
+        "method": "tfidf_embedding"
+      }
+    ]
+  },
+  {
+    "source_id": "naics:2382",
+    "source_name": "Building Equipment Contractors",
+    "matches": [
+      {
+        "target_id": "uc:Co_30_50_77",
+        "target_name": "Ship and boat building yards",
+        "relationship": "semantically_similar",
+        "confidence": "B",
+        "score": 0.348,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Co_90_90_50",
+        "target_name": "Multiple services plant and equipment complexes",
+        "relationship": "semantically_similar",
+        "confidence": "B",
+        "score": 0.28,
+        "method": "tfidf_embedding"
+      }
+    ]
+  },
+  {
+    "source_id": "naics:23821",
+    "source_name": "Electrical Contractors and Other Wiring Installation Contractors",
+    "matches": [
+      {
+        "target_id": "uc:Co_70_10",
+        "target_name": "Electrical power generation complexes",
+        "relationship": "semantically_similar",
+        "confidence": "A",
+        "score": 0.437,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Co_70",
+        "target_name": "Electrical power generation and distribution complexes",
+        "relationship": "semantically_similar",
+        "confidence": "B",
+        "score": 0.396,
+        "method": "tfidf_embedding"
+      }
+    ]
+  },
+  {
+    "source_id": "naics:238210",
+    "source_name": "Electrical Contractors and Other Wiring Installation Contractors",
+    "matches": [
+      {
+        "target_id": "uc:Co_70_10",
+        "target_name": "Electrical power generation complexes",
+        "relationship": "semantically_similar",
+        "confidence": "A",
+        "score": 0.437,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Co_70",
+        "target_name": "Electrical power generation and distribution complexes",
+        "relationship": "semantically_similar",
+        "confidence": "B",
+        "score": 0.396,
+        "method": "tfidf_embedding"
+      }
+    ]
+  },
+  {
+    "source_id": "naics:23822",
+    "source_name": "Plumbing, Heating, and Air-Conditioning Contractors",
+    "matches": [
+      {
+        "target_id": "uc:Co_65",
+        "target_name": "Ventilation and air conditioning complexes",
+        "relationship": "semantically_similar",
+        "confidence": "A",
+        "score": 0.439,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Co_60_10",
+        "target_name": "Heating complexes",
+        "relationship": "semantically_similar",
+        "confidence": "B",
+        "score": 0.394,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Co_60_10_10",
+        "target_name": "District heating complexes",
+        "relationship": "semantically_similar",
+        "confidence": "B",
+        "score": 0.267,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Co_35_10_02",
+        "target_name": "Air ambulance complexes",
+        "relationship": "semantically_similar",
+        "confidence": "C",
+        "score": 0.236,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Co_20_60_02",
+        "target_name": "Air force complexes",
+        "relationship": "semantically_similar",
+        "confidence": "C",
+        "score": 0.227,
+        "method": "tfidf_embedding"
+      }
+    ]
+  },
+  {
+    "source_id": "naics:238220",
+    "source_name": "Plumbing, Heating, and Air-Conditioning Contractors",
+    "matches": [
+      {
+        "target_id": "uc:Co_65",
+        "target_name": "Ventilation and air conditioning complexes",
+        "relationship": "semantically_similar",
+        "confidence": "A",
+        "score": 0.439,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Co_60_10",
+        "target_name": "Heating complexes",
+        "relationship": "semantically_similar",
+        "confidence": "B",
+        "score": 0.394,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Co_60_10_10",
+        "target_name": "District heating complexes",
+        "relationship": "semantically_similar",
+        "confidence": "B",
+        "score": 0.267,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Co_35_10_02",
+        "target_name": "Air ambulance complexes",
+        "relationship": "semantically_similar",
+        "confidence": "C",
+        "score": 0.236,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Co_20_60_02",
+        "target_name": "Air force complexes",
+        "relationship": "semantically_similar",
+        "confidence": "C",
+        "score": 0.227,
+        "method": "tfidf_embedding"
+      }
+    ]
+  },
+  {
+    "source_id": "naics:23829",
+    "source_name": "Other Building Equipment Contractors",
+    "matches": [
+      {
+        "target_id": "uc:Co_30_50_77",
+        "target_name": "Ship and boat building yards",
+        "relationship": "semantically_similar",
+        "confidence": "B",
+        "score": 0.348,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Co_90_90_50",
+        "target_name": "Multiple services plant and equipment complexes",
+        "relationship": "semantically_similar",
+        "confidence": "B",
+        "score": 0.28,
+        "method": "tfidf_embedding"
+      }
+    ]
+  },
+  {
+    "source_id": "naics:238290",
+    "source_name": "Other Building Equipment Contractors",
+    "matches": [
+      {
+        "target_id": "uc:Co_30_50_77",
+        "target_name": "Ship and boat building yards",
+        "relationship": "semantically_similar",
+        "confidence": "B",
+        "score": 0.348,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Co_90_90_50",
+        "target_name": "Multiple services plant and equipment complexes",
+        "relationship": "semantically_similar",
+        "confidence": "B",
+        "score": 0.28,
+        "method": "tfidf_embedding"
+      }
+    ]
+  },
+  {
+    "source_id": "naics:2383",
+    "source_name": "Building Finishing Contractors",
+    "matches": [
+      {
+        "target_id": "uc:Co_30_50_77",
+        "target_name": "Ship and boat building yards",
+        "relationship": "semantically_similar",
+        "confidence": "B",
+        "score": 0.343,
+        "method": "tfidf_embedding"
+      }
+    ]
+  },
+  {
+    "source_id": "naics:23839",
+    "source_name": "Other Building Finishing Contractors",
+    "matches": [
+      {
+        "target_id": "uc:Co_30_50_77",
+        "target_name": "Ship and boat building yards",
+        "relationship": "semantically_similar",
+        "confidence": "B",
+        "score": 0.343,
+        "method": "tfidf_embedding"
+      }
+    ]
+  },
+  {
+    "source_id": "naics:238390",
+    "source_name": "Other Building Finishing Contractors",
+    "matches": [
+      {
+        "target_id": "uc:Co_30_50_77",
+        "target_name": "Ship and boat building yards",
+        "relationship": "semantically_similar",
+        "confidence": "B",
+        "score": 0.343,
+        "method": "tfidf_embedding"
+      }
+    ]
+  }
+]

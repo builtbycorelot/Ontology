@@ -1,0 +1,2010 @@
+[
+  {
+    "source_id": "naics:23",
+    "source_name": "Construction",
+    "matches": [
+      {
+        "target_id": "uc:Ac_10_40",
+        "target_name": "Construction",
+        "relationship": "semantically_similar",
+        "confidence": "A",
+        "score": 1.0,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Ac_10",
+        "target_name": "Preparation, construction and repair",
+        "relationship": "semantically_similar",
+        "confidence": "A",
+        "score": 0.647,
+        "method": "tfidf_embedding"
+      }
+    ]
+  },
+  {
+    "source_id": "naics:236",
+    "source_name": "Construction of Buildings",
+    "matches": [
+      {
+        "target_id": "uc:Ac_10_40",
+        "target_name": "Construction",
+        "relationship": "semantically_similar",
+        "confidence": "A",
+        "score": 0.689,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Ac_10",
+        "target_name": "Preparation, construction and repair",
+        "relationship": "semantically_similar",
+        "confidence": "A",
+        "score": 0.446,
+        "method": "tfidf_embedding"
+      }
+    ]
+  },
+  {
+    "source_id": "naics:2361",
+    "source_name": "Residential Building Construction",
+    "matches": [
+      {
+        "target_id": "uc:Ac_10_40",
+        "target_name": "Construction",
+        "relationship": "semantically_similar",
+        "confidence": "A",
+        "score": 0.595,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Ac_15_50_10",
+        "target_name": "Building surveying",
+        "relationship": "semantically_similar",
+        "confidence": "A",
+        "score": 0.542,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Ac_45",
+        "target_name": "Residential activities",
+        "relationship": "semantically_similar",
+        "confidence": "A",
+        "score": 0.481,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Ac_15_45_35",
+        "target_name": "Historic building surveying",
+        "relationship": "semantically_similar",
+        "confidence": "A",
+        "score": 0.434,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Ac_15_20_25",
+        "target_name": "Ecological building surveying",
+        "relationship": "semantically_similar",
+        "confidence": "A",
+        "score": 0.415,
+        "method": "tfidf_embedding"
+      }
+    ]
+  },
+  {
+    "source_id": "naics:23611",
+    "source_name": "Residential Building Construction",
+    "matches": [
+      {
+        "target_id": "uc:Ac_10_40",
+        "target_name": "Construction",
+        "relationship": "semantically_similar",
+        "confidence": "A",
+        "score": 0.595,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Ac_15_50_10",
+        "target_name": "Building surveying",
+        "relationship": "semantically_similar",
+        "confidence": "A",
+        "score": 0.542,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Ac_45",
+        "target_name": "Residential activities",
+        "relationship": "semantically_similar",
+        "confidence": "A",
+        "score": 0.481,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Ac_15_45_35",
+        "target_name": "Historic building surveying",
+        "relationship": "semantically_similar",
+        "confidence": "A",
+        "score": 0.434,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Ac_15_20_25",
+        "target_name": "Ecological building surveying",
+        "relationship": "semantically_similar",
+        "confidence": "A",
+        "score": 0.415,
+        "method": "tfidf_embedding"
+      }
+    ]
+  },
+  {
+    "source_id": "naics:236115",
+    "source_name": "New Single-Family Housing Construction (except For-Sale Builders)",
+    "matches": [
+      {
+        "target_id": "uc:Ac_10_40",
+        "target_name": "Construction",
+        "relationship": "semantically_similar",
+        "confidence": "B",
+        "score": 0.358,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Ac_10",
+        "target_name": "Preparation, construction and repair",
+        "relationship": "semantically_similar",
+        "confidence": "C",
+        "score": 0.232,
+        "method": "tfidf_embedding"
+      }
+    ]
+  },
+  {
+    "source_id": "naics:236116",
+    "source_name": "New Multifamily Housing Construction (except For-Sale Builders)",
+    "matches": [
+      {
+        "target_id": "uc:Ac_10_40",
+        "target_name": "Construction",
+        "relationship": "semantically_similar",
+        "confidence": "B",
+        "score": 0.386,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Ac_10",
+        "target_name": "Preparation, construction and repair",
+        "relationship": "semantically_similar",
+        "confidence": "C",
+        "score": 0.25,
+        "method": "tfidf_embedding"
+      }
+    ]
+  },
+  {
+    "source_id": "naics:236118",
+    "source_name": "Residential Remodelers",
+    "matches": [
+      {
+        "target_id": "uc:Ac_45",
+        "target_name": "Residential activities",
+        "relationship": "semantically_similar",
+        "confidence": "A",
+        "score": 0.587,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Ac_45_70",
+        "target_name": "Residential support activities",
+        "relationship": "semantically_similar",
+        "confidence": "A",
+        "score": 0.422,
+        "method": "tfidf_embedding"
+      }
+    ]
+  },
+  {
+    "source_id": "naics:2362",
+    "source_name": "Nonresidential Building Construction",
+    "matches": [
+      {
+        "target_id": "uc:Ac_10_40",
+        "target_name": "Construction",
+        "relationship": "semantically_similar",
+        "confidence": "A",
+        "score": 0.565,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Ac_15_50_10",
+        "target_name": "Building surveying",
+        "relationship": "semantically_similar",
+        "confidence": "A",
+        "score": 0.514,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Ac_15_45_35",
+        "target_name": "Historic building surveying",
+        "relationship": "semantically_similar",
+        "confidence": "A",
+        "score": 0.412,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Ac_15_20_25",
+        "target_name": "Ecological building surveying",
+        "relationship": "semantically_similar",
+        "confidence": "B",
+        "score": 0.394,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Ac_15_50",
+        "target_name": "Building fabric surveying",
+        "relationship": "semantically_similar",
+        "confidence": "B",
+        "score": 0.377,
+        "method": "tfidf_embedding"
+      }
+    ]
+  },
+  {
+    "source_id": "naics:23621",
+    "source_name": "Industrial Building Construction",
+    "matches": [
+      {
+        "target_id": "uc:Ac_10_40",
+        "target_name": "Construction",
+        "relationship": "semantically_similar",
+        "confidence": "A",
+        "score": 0.595,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Ac_15_50_10",
+        "target_name": "Building surveying",
+        "relationship": "semantically_similar",
+        "confidence": "A",
+        "score": 0.542,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Ac_30",
+        "target_name": "Industrial activities",
+        "relationship": "semantically_similar",
+        "confidence": "A",
+        "score": 0.481,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Ac_15_45_35",
+        "target_name": "Historic building surveying",
+        "relationship": "semantically_similar",
+        "confidence": "A",
+        "score": 0.434,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Ac_15_20_25",
+        "target_name": "Ecological building surveying",
+        "relationship": "semantically_similar",
+        "confidence": "A",
+        "score": 0.415,
+        "method": "tfidf_embedding"
+      }
+    ]
+  },
+  {
+    "source_id": "naics:236210",
+    "source_name": "Industrial Building Construction",
+    "matches": [
+      {
+        "target_id": "uc:Ac_10_40",
+        "target_name": "Construction",
+        "relationship": "semantically_similar",
+        "confidence": "A",
+        "score": 0.595,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Ac_15_50_10",
+        "target_name": "Building surveying",
+        "relationship": "semantically_similar",
+        "confidence": "A",
+        "score": 0.542,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Ac_30",
+        "target_name": "Industrial activities",
+        "relationship": "semantically_similar",
+        "confidence": "A",
+        "score": 0.481,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Ac_15_45_35",
+        "target_name": "Historic building surveying",
+        "relationship": "semantically_similar",
+        "confidence": "A",
+        "score": 0.434,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Ac_15_20_25",
+        "target_name": "Ecological building surveying",
+        "relationship": "semantically_similar",
+        "confidence": "A",
+        "score": 0.415,
+        "method": "tfidf_embedding"
+      }
+    ]
+  },
+  {
+    "source_id": "naics:23622",
+    "source_name": "Commercial and Institutional Building Construction",
+    "matches": [
+      {
+        "target_id": "uc:Ac_10_40",
+        "target_name": "Construction",
+        "relationship": "semantically_similar",
+        "confidence": "A",
+        "score": 0.512,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Ac_15_50_10",
+        "target_name": "Building surveying",
+        "relationship": "semantically_similar",
+        "confidence": "A",
+        "score": 0.466,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Ac_20_50",
+        "target_name": "Commercial activities",
+        "relationship": "semantically_similar",
+        "confidence": "A",
+        "score": 0.414,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Ac_15_45_35",
+        "target_name": "Historic building surveying",
+        "relationship": "semantically_similar",
+        "confidence": "B",
+        "score": 0.373,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Ac_15_20_25",
+        "target_name": "Ecological building surveying",
+        "relationship": "semantically_similar",
+        "confidence": "B",
+        "score": 0.358,
+        "method": "tfidf_embedding"
+      }
+    ]
+  },
+  {
+    "source_id": "naics:236220",
+    "source_name": "Commercial and Institutional Building Construction",
+    "matches": [
+      {
+        "target_id": "uc:Ac_10_40",
+        "target_name": "Construction",
+        "relationship": "semantically_similar",
+        "confidence": "A",
+        "score": 0.512,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Ac_15_50_10",
+        "target_name": "Building surveying",
+        "relationship": "semantically_similar",
+        "confidence": "A",
+        "score": 0.466,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Ac_20_50",
+        "target_name": "Commercial activities",
+        "relationship": "semantically_similar",
+        "confidence": "A",
+        "score": 0.414,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Ac_15_45_35",
+        "target_name": "Historic building surveying",
+        "relationship": "semantically_similar",
+        "confidence": "B",
+        "score": 0.373,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Ac_15_20_25",
+        "target_name": "Ecological building surveying",
+        "relationship": "semantically_similar",
+        "confidence": "B",
+        "score": 0.358,
+        "method": "tfidf_embedding"
+      }
+    ]
+  },
+  {
+    "source_id": "naics:237",
+    "source_name": "Heavy and Civil Engineering Construction",
+    "matches": [
+      {
+        "target_id": "uc:Ac_10_40",
+        "target_name": "Construction",
+        "relationship": "semantically_similar",
+        "confidence": "A",
+        "score": 0.54,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Ac_25_30_27",
+        "target_name": "Engineering activities",
+        "relationship": "semantically_similar",
+        "confidence": "A",
+        "score": 0.437,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Ac_10",
+        "target_name": "Preparation, construction and repair",
+        "relationship": "semantically_similar",
+        "confidence": "B",
+        "score": 0.349,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Ac_30_50_30",
+        "target_name": "Heavy industrial activities",
+        "relationship": "semantically_similar",
+        "confidence": "B",
+        "score": 0.323,
+        "method": "tfidf_embedding"
+      }
+    ]
+  },
+  {
+    "source_id": "naics:2371",
+    "source_name": "Utility System Construction",
+    "matches": [
+      {
+        "target_id": "uc:Ac_10_40",
+        "target_name": "Construction",
+        "relationship": "semantically_similar",
+        "confidence": "A",
+        "score": 0.552,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Ac_45_70_93",
+        "target_name": "Utility activities",
+        "relationship": "semantically_similar",
+        "confidence": "A",
+        "score": 0.506,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Ac_15_15_34",
+        "target_name": "Generators system surveying",
+        "relationship": "semantically_similar",
+        "confidence": "A",
+        "score": 0.44,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Ac_10_40_27",
+        "target_name": "Electrical system installing",
+        "relationship": "semantically_similar",
+        "confidence": "B",
+        "score": 0.39,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Ac_10",
+        "target_name": "Preparation, construction and repair",
+        "relationship": "semantically_similar",
+        "confidence": "B",
+        "score": 0.357,
+        "method": "tfidf_embedding"
+      }
+    ]
+  },
+  {
+    "source_id": "naics:23711",
+    "source_name": "Water and Sewer Line and Related Structures Construction",
+    "matches": [
+      {
+        "target_id": "uc:Ac_10_40",
+        "target_name": "Construction",
+        "relationship": "semantically_similar",
+        "confidence": "A",
+        "score": 0.455,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Ac_10",
+        "target_name": "Preparation, construction and repair",
+        "relationship": "semantically_similar",
+        "confidence": "B",
+        "score": 0.294,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Ac_42_90",
+        "target_name": "Water activities",
+        "relationship": "semantically_similar",
+        "confidence": "B",
+        "score": 0.279,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Ac_90_50_96",
+        "target_name": "Water storing",
+        "relationship": "semantically_similar",
+        "confidence": "B",
+        "score": 0.251,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Ac_15_15_15",
+        "target_name": "Cold water and water treatment systems surveying",
+        "relationship": "semantically_similar",
+        "confidence": "C",
+        "score": 0.213,
+        "method": "tfidf_embedding"
+      }
+    ]
+  },
+  {
+    "source_id": "naics:237110",
+    "source_name": "Water and Sewer Line and Related Structures Construction",
+    "matches": [
+      {
+        "target_id": "uc:Ac_10_40",
+        "target_name": "Construction",
+        "relationship": "semantically_similar",
+        "confidence": "A",
+        "score": 0.455,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Ac_10",
+        "target_name": "Preparation, construction and repair",
+        "relationship": "semantically_similar",
+        "confidence": "B",
+        "score": 0.294,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Ac_42_90",
+        "target_name": "Water activities",
+        "relationship": "semantically_similar",
+        "confidence": "B",
+        "score": 0.279,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Ac_90_50_96",
+        "target_name": "Water storing",
+        "relationship": "semantically_similar",
+        "confidence": "B",
+        "score": 0.251,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Ac_15_15_15",
+        "target_name": "Cold water and water treatment systems surveying",
+        "relationship": "semantically_similar",
+        "confidence": "C",
+        "score": 0.213,
+        "method": "tfidf_embedding"
+      }
+    ]
+  },
+  {
+    "source_id": "naics:23712",
+    "source_name": "Oil and Gas Pipeline and Related Structures Construction",
+    "matches": [
+      {
+        "target_id": "uc:Ac_10_40",
+        "target_name": "Construction",
+        "relationship": "semantically_similar",
+        "confidence": "A",
+        "score": 0.449,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Ac_30_10_57",
+        "target_name": "Offshore oil and gas drilling",
+        "relationship": "semantically_similar",
+        "confidence": "B",
+        "score": 0.355,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Ac_30_10_59",
+        "target_name": "Onshore oil and gas drilling",
+        "relationship": "semantically_similar",
+        "confidence": "B",
+        "score": 0.355,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Ac_90_50_58",
+        "target_name": "Oil storing",
+        "relationship": "semantically_similar",
+        "confidence": "B",
+        "score": 0.326,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Ac_90_50_34",
+        "target_name": "Gas storing",
+        "relationship": "semantically_similar",
+        "confidence": "B",
+        "score": 0.316,
+        "method": "tfidf_embedding"
+      }
+    ]
+  },
+  {
+    "source_id": "naics:237120",
+    "source_name": "Oil and Gas Pipeline and Related Structures Construction",
+    "matches": [
+      {
+        "target_id": "uc:Ac_10_40",
+        "target_name": "Construction",
+        "relationship": "semantically_similar",
+        "confidence": "A",
+        "score": 0.449,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Ac_30_10_57",
+        "target_name": "Offshore oil and gas drilling",
+        "relationship": "semantically_similar",
+        "confidence": "B",
+        "score": 0.355,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Ac_30_10_59",
+        "target_name": "Onshore oil and gas drilling",
+        "relationship": "semantically_similar",
+        "confidence": "B",
+        "score": 0.355,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Ac_90_50_58",
+        "target_name": "Oil storing",
+        "relationship": "semantically_similar",
+        "confidence": "B",
+        "score": 0.326,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Ac_90_50_34",
+        "target_name": "Gas storing",
+        "relationship": "semantically_similar",
+        "confidence": "B",
+        "score": 0.316,
+        "method": "tfidf_embedding"
+      }
+    ]
+  },
+  {
+    "source_id": "naics:23713",
+    "source_name": "Power and Communication Line and Related Structures Construction",
+    "matches": [
+      {
+        "target_id": "uc:Ac_10_40",
+        "target_name": "Construction",
+        "relationship": "semantically_similar",
+        "confidence": "A",
+        "score": 0.439,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Ac_10",
+        "target_name": "Preparation, construction and repair",
+        "relationship": "semantically_similar",
+        "confidence": "B",
+        "score": 0.284,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Ac_30_80",
+        "target_name": "Kinetic power generation",
+        "relationship": "semantically_similar",
+        "confidence": "C",
+        "score": 0.212,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Ac_15_15_48",
+        "target_name": "Low-voltage general power electrical installations surveying",
+        "relationship": "semantically_similar",
+        "confidence": "D",
+        "score": 0.159,
+        "method": "tfidf_embedding"
+      }
+    ]
+  },
+  {
+    "source_id": "naics:237130",
+    "source_name": "Power and Communication Line and Related Structures Construction",
+    "matches": [
+      {
+        "target_id": "uc:Ac_10_40",
+        "target_name": "Construction",
+        "relationship": "semantically_similar",
+        "confidence": "A",
+        "score": 0.439,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Ac_10",
+        "target_name": "Preparation, construction and repair",
+        "relationship": "semantically_similar",
+        "confidence": "B",
+        "score": 0.284,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Ac_30_80",
+        "target_name": "Kinetic power generation",
+        "relationship": "semantically_similar",
+        "confidence": "C",
+        "score": 0.212,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Ac_15_15_48",
+        "target_name": "Low-voltage general power electrical installations surveying",
+        "relationship": "semantically_similar",
+        "confidence": "D",
+        "score": 0.159,
+        "method": "tfidf_embedding"
+      }
+    ]
+  },
+  {
+    "source_id": "naics:2372",
+    "source_name": "Land Subdivision",
+    "matches": [
+      {
+        "target_id": "uc:Ac_32",
+        "target_name": "Water and land management activities",
+        "relationship": "semantically_similar",
+        "confidence": "A",
+        "score": 0.423,
+        "method": "tfidf_embedding"
+      }
+    ]
+  },
+  {
+    "source_id": "naics:23721",
+    "source_name": "Land Subdivision",
+    "matches": [
+      {
+        "target_id": "uc:Ac_32",
+        "target_name": "Water and land management activities",
+        "relationship": "semantically_similar",
+        "confidence": "A",
+        "score": 0.423,
+        "method": "tfidf_embedding"
+      }
+    ]
+  },
+  {
+    "source_id": "naics:237210",
+    "source_name": "Land Subdivision",
+    "matches": [
+      {
+        "target_id": "uc:Ac_32",
+        "target_name": "Water and land management activities",
+        "relationship": "semantically_similar",
+        "confidence": "A",
+        "score": 0.423,
+        "method": "tfidf_embedding"
+      }
+    ]
+  },
+  {
+    "source_id": "naics:2373",
+    "source_name": "Highway, Street, and Bridge Construction",
+    "matches": [
+      {
+        "target_id": "uc:Ac_10_40",
+        "target_name": "Construction",
+        "relationship": "semantically_similar",
+        "confidence": "A",
+        "score": 0.543,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Ac_80_35",
+        "target_name": "Highway activities",
+        "relationship": "semantically_similar",
+        "confidence": "A",
+        "score": 0.439,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Ac_10",
+        "target_name": "Preparation, construction and repair",
+        "relationship": "semantically_similar",
+        "confidence": "B",
+        "score": 0.351,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Ac_80_94_41",
+        "target_name": "Bridge inspecting",
+        "relationship": "semantically_similar",
+        "confidence": "B",
+        "score": 0.308,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Ac_80_45",
+        "target_name": "Highway storage and maintenance activities",
+        "relationship": "semantically_similar",
+        "confidence": "B",
+        "score": 0.295,
+        "method": "tfidf_embedding"
+      }
+    ]
+  },
+  {
+    "source_id": "naics:23731",
+    "source_name": "Highway, Street, and Bridge Construction",
+    "matches": [
+      {
+        "target_id": "uc:Ac_10_40",
+        "target_name": "Construction",
+        "relationship": "semantically_similar",
+        "confidence": "A",
+        "score": 0.543,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Ac_80_35",
+        "target_name": "Highway activities",
+        "relationship": "semantically_similar",
+        "confidence": "A",
+        "score": 0.439,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Ac_10",
+        "target_name": "Preparation, construction and repair",
+        "relationship": "semantically_similar",
+        "confidence": "B",
+        "score": 0.351,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Ac_80_94_41",
+        "target_name": "Bridge inspecting",
+        "relationship": "semantically_similar",
+        "confidence": "B",
+        "score": 0.308,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Ac_80_45",
+        "target_name": "Highway storage and maintenance activities",
+        "relationship": "semantically_similar",
+        "confidence": "B",
+        "score": 0.295,
+        "method": "tfidf_embedding"
+      }
+    ]
+  },
+  {
+    "source_id": "naics:237310",
+    "source_name": "Highway, Street, and Bridge Construction",
+    "matches": [
+      {
+        "target_id": "uc:Ac_10_40",
+        "target_name": "Construction",
+        "relationship": "semantically_similar",
+        "confidence": "A",
+        "score": 0.543,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Ac_80_35",
+        "target_name": "Highway activities",
+        "relationship": "semantically_similar",
+        "confidence": "A",
+        "score": 0.439,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Ac_10",
+        "target_name": "Preparation, construction and repair",
+        "relationship": "semantically_similar",
+        "confidence": "B",
+        "score": 0.351,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Ac_80_94_41",
+        "target_name": "Bridge inspecting",
+        "relationship": "semantically_similar",
+        "confidence": "B",
+        "score": 0.308,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Ac_80_45",
+        "target_name": "Highway storage and maintenance activities",
+        "relationship": "semantically_similar",
+        "confidence": "B",
+        "score": 0.295,
+        "method": "tfidf_embedding"
+      }
+    ]
+  },
+  {
+    "source_id": "naics:2379",
+    "source_name": "Other Heavy and Civil Engineering Construction",
+    "matches": [
+      {
+        "target_id": "uc:Ac_10_40",
+        "target_name": "Construction",
+        "relationship": "semantically_similar",
+        "confidence": "A",
+        "score": 0.54,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Ac_25_30_27",
+        "target_name": "Engineering activities",
+        "relationship": "semantically_similar",
+        "confidence": "A",
+        "score": 0.437,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Ac_10",
+        "target_name": "Preparation, construction and repair",
+        "relationship": "semantically_similar",
+        "confidence": "B",
+        "score": 0.349,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Ac_30_50_30",
+        "target_name": "Heavy industrial activities",
+        "relationship": "semantically_similar",
+        "confidence": "B",
+        "score": 0.323,
+        "method": "tfidf_embedding"
+      }
+    ]
+  },
+  {
+    "source_id": "naics:23799",
+    "source_name": "Other Heavy and Civil Engineering Construction",
+    "matches": [
+      {
+        "target_id": "uc:Ac_10_40",
+        "target_name": "Construction",
+        "relationship": "semantically_similar",
+        "confidence": "A",
+        "score": 0.54,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Ac_25_30_27",
+        "target_name": "Engineering activities",
+        "relationship": "semantically_similar",
+        "confidence": "A",
+        "score": 0.437,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Ac_10",
+        "target_name": "Preparation, construction and repair",
+        "relationship": "semantically_similar",
+        "confidence": "B",
+        "score": 0.349,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Ac_30_50_30",
+        "target_name": "Heavy industrial activities",
+        "relationship": "semantically_similar",
+        "confidence": "B",
+        "score": 0.323,
+        "method": "tfidf_embedding"
+      }
+    ]
+  },
+  {
+    "source_id": "naics:237990",
+    "source_name": "Other Heavy and Civil Engineering Construction",
+    "matches": [
+      {
+        "target_id": "uc:Ac_10_40",
+        "target_name": "Construction",
+        "relationship": "semantically_similar",
+        "confidence": "A",
+        "score": 0.54,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Ac_25_30_27",
+        "target_name": "Engineering activities",
+        "relationship": "semantically_similar",
+        "confidence": "A",
+        "score": 0.437,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Ac_10",
+        "target_name": "Preparation, construction and repair",
+        "relationship": "semantically_similar",
+        "confidence": "B",
+        "score": 0.349,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Ac_30_50_30",
+        "target_name": "Heavy industrial activities",
+        "relationship": "semantically_similar",
+        "confidence": "B",
+        "score": 0.323,
+        "method": "tfidf_embedding"
+      }
+    ]
+  },
+  {
+    "source_id": "naics:2381",
+    "source_name": "Foundation, Structure, and Building Exterior Contractors",
+    "matches": [
+      {
+        "target_id": "uc:Ac_15_50_10",
+        "target_name": "Building surveying",
+        "relationship": "semantically_similar",
+        "confidence": "A",
+        "score": 0.464,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Ac_15_45_35",
+        "target_name": "Historic building surveying",
+        "relationship": "semantically_similar",
+        "confidence": "B",
+        "score": 0.372,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Ac_15_20_25",
+        "target_name": "Ecological building surveying",
+        "relationship": "semantically_similar",
+        "confidence": "B",
+        "score": 0.356,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Ac_15_50",
+        "target_name": "Building fabric surveying",
+        "relationship": "semantically_similar",
+        "confidence": "B",
+        "score": 0.341,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Ac_15_45",
+        "target_name": "Historic building and site surveying",
+        "relationship": "semantically_similar",
+        "confidence": "B",
+        "score": 0.323,
+        "method": "tfidf_embedding"
+      }
+    ]
+  },
+  {
+    "source_id": "naics:23811",
+    "source_name": "Poured Concrete Foundation and Structure Contractors",
+    "matches": [
+      {
+        "target_id": "uc:Ac_15_50_17",
+        "target_name": "Concrete cover surveying",
+        "relationship": "semantically_similar",
+        "confidence": "B",
+        "score": 0.397,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Ac_10_80",
+        "target_name": "Structure moving",
+        "relationship": "semantically_similar",
+        "confidence": "B",
+        "score": 0.285,
+        "method": "tfidf_embedding"
+      }
+    ]
+  },
+  {
+    "source_id": "naics:238110",
+    "source_name": "Poured Concrete Foundation and Structure Contractors",
+    "matches": [
+      {
+        "target_id": "uc:Ac_15_50_17",
+        "target_name": "Concrete cover surveying",
+        "relationship": "semantically_similar",
+        "confidence": "B",
+        "score": 0.397,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Ac_10_80",
+        "target_name": "Structure moving",
+        "relationship": "semantically_similar",
+        "confidence": "B",
+        "score": 0.285,
+        "method": "tfidf_embedding"
+      }
+    ]
+  },
+  {
+    "source_id": "naics:23812",
+    "source_name": "Structural Steel and Precast Concrete Contractors",
+    "matches": [
+      {
+        "target_id": "uc:Ac_15_50_85",
+        "target_name": "Structural surveying",
+        "relationship": "semantically_similar",
+        "confidence": "B",
+        "score": 0.366,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Ac_15_50_17",
+        "target_name": "Concrete cover surveying",
+        "relationship": "semantically_similar",
+        "confidence": "B",
+        "score": 0.356,
+        "method": "tfidf_embedding"
+      }
+    ]
+  },
+  {
+    "source_id": "naics:238120",
+    "source_name": "Structural Steel and Precast Concrete Contractors",
+    "matches": [
+      {
+        "target_id": "uc:Ac_15_50_85",
+        "target_name": "Structural surveying",
+        "relationship": "semantically_similar",
+        "confidence": "B",
+        "score": 0.366,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Ac_15_50_17",
+        "target_name": "Concrete cover surveying",
+        "relationship": "semantically_similar",
+        "confidence": "B",
+        "score": 0.356,
+        "method": "tfidf_embedding"
+      }
+    ]
+  },
+  {
+    "source_id": "naics:23814",
+    "source_name": "Masonry Contractors",
+    "matches": [
+      {
+        "target_id": "uc:Ac_15_50_50",
+        "target_name": "Masonry surveying",
+        "relationship": "semantically_similar",
+        "confidence": "A",
+        "score": 0.833,
+        "method": "tfidf_embedding"
+      }
+    ]
+  },
+  {
+    "source_id": "naics:238140",
+    "source_name": "Masonry Contractors",
+    "matches": [
+      {
+        "target_id": "uc:Ac_15_50_50",
+        "target_name": "Masonry surveying",
+        "relationship": "semantically_similar",
+        "confidence": "A",
+        "score": 0.833,
+        "method": "tfidf_embedding"
+      }
+    ]
+  },
+  {
+    "source_id": "naics:23815",
+    "source_name": "Glass and Glazing Contractors",
+    "matches": [
+      {
+        "target_id": "uc:Ac_15_50_25",
+        "target_name": "Doors, windows and glazing surveying",
+        "relationship": "semantically_similar",
+        "confidence": "B",
+        "score": 0.328,
+        "method": "tfidf_embedding"
+      }
+    ]
+  },
+  {
+    "source_id": "naics:238150",
+    "source_name": "Glass and Glazing Contractors",
+    "matches": [
+      {
+        "target_id": "uc:Ac_15_50_25",
+        "target_name": "Doors, windows and glazing surveying",
+        "relationship": "semantically_similar",
+        "confidence": "B",
+        "score": 0.328,
+        "method": "tfidf_embedding"
+      }
+    ]
+  },
+  {
+    "source_id": "naics:23819",
+    "source_name": "Other Foundation, Structure, and Building Exterior Contractors",
+    "matches": [
+      {
+        "target_id": "uc:Ac_15_50_10",
+        "target_name": "Building surveying",
+        "relationship": "semantically_similar",
+        "confidence": "A",
+        "score": 0.464,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Ac_15_45_35",
+        "target_name": "Historic building surveying",
+        "relationship": "semantically_similar",
+        "confidence": "B",
+        "score": 0.372,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Ac_15_20_25",
+        "target_name": "Ecological building surveying",
+        "relationship": "semantically_similar",
+        "confidence": "B",
+        "score": 0.356,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Ac_15_50",
+        "target_name": "Building fabric surveying",
+        "relationship": "semantically_similar",
+        "confidence": "B",
+        "score": 0.341,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Ac_15_45",
+        "target_name": "Historic building and site surveying",
+        "relationship": "semantically_similar",
+        "confidence": "B",
+        "score": 0.323,
+        "method": "tfidf_embedding"
+      }
+    ]
+  },
+  {
+    "source_id": "naics:238190",
+    "source_name": "Other Foundation, Structure, and Building Exterior Contractors",
+    "matches": [
+      {
+        "target_id": "uc:Ac_15_50_10",
+        "target_name": "Building surveying",
+        "relationship": "semantically_similar",
+        "confidence": "A",
+        "score": 0.464,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Ac_15_45_35",
+        "target_name": "Historic building surveying",
+        "relationship": "semantically_similar",
+        "confidence": "B",
+        "score": 0.372,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Ac_15_20_25",
+        "target_name": "Ecological building surveying",
+        "relationship": "semantically_similar",
+        "confidence": "B",
+        "score": 0.356,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Ac_15_50",
+        "target_name": "Building fabric surveying",
+        "relationship": "semantically_similar",
+        "confidence": "B",
+        "score": 0.341,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Ac_15_45",
+        "target_name": "Historic building and site surveying",
+        "relationship": "semantically_similar",
+        "confidence": "B",
+        "score": 0.323,
+        "method": "tfidf_embedding"
+      }
+    ]
+  },
+  {
+    "source_id": "naics:2382",
+    "source_name": "Building Equipment Contractors",
+    "matches": [
+      {
+        "target_id": "uc:Ac_15_50_10",
+        "target_name": "Building surveying",
+        "relationship": "semantically_similar",
+        "confidence": "A",
+        "score": 0.644,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Ac_15_45_35",
+        "target_name": "Historic building surveying",
+        "relationship": "semantically_similar",
+        "confidence": "A",
+        "score": 0.515,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Ac_15_20_25",
+        "target_name": "Ecological building surveying",
+        "relationship": "semantically_similar",
+        "confidence": "A",
+        "score": 0.494,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Ac_15_50",
+        "target_name": "Building fabric surveying",
+        "relationship": "semantically_similar",
+        "confidence": "A",
+        "score": 0.472,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Ac_15_45",
+        "target_name": "Historic building and site surveying",
+        "relationship": "semantically_similar",
+        "confidence": "A",
+        "score": 0.448,
+        "method": "tfidf_embedding"
+      }
+    ]
+  },
+  {
+    "source_id": "naics:23821",
+    "source_name": "Electrical Contractors and Other Wiring Installation Contractors",
+    "matches": [
+      {
+        "target_id": "uc:Ac_70",
+        "target_name": "Electrical activities",
+        "relationship": "semantically_similar",
+        "confidence": "A",
+        "score": 0.481,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Ac_70_60_49",
+        "target_name": "Low-voltage electrical installation testing and inspecting",
+        "relationship": "semantically_similar",
+        "confidence": "A",
+        "score": 0.453,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Ac_70_60_35",
+        "target_name": "Hazardous areas electrical wiring inspection and testing",
+        "relationship": "semantically_similar",
+        "confidence": "A",
+        "score": 0.424,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Ac_70_60",
+        "target_name": "Electrical installations testing",
+        "relationship": "semantically_similar",
+        "confidence": "B",
+        "score": 0.38,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Ac_70_65",
+        "target_name": "Electrical systems commissioning",
+        "relationship": "semantically_similar",
+        "confidence": "B",
+        "score": 0.373,
+        "method": "tfidf_embedding"
+      }
+    ]
+  },
+  {
+    "source_id": "naics:238210",
+    "source_name": "Electrical Contractors and Other Wiring Installation Contractors",
+    "matches": [
+      {
+        "target_id": "uc:Ac_70",
+        "target_name": "Electrical activities",
+        "relationship": "semantically_similar",
+        "confidence": "A",
+        "score": 0.481,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Ac_70_60_49",
+        "target_name": "Low-voltage electrical installation testing and inspecting",
+        "relationship": "semantically_similar",
+        "confidence": "A",
+        "score": 0.453,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Ac_70_60_35",
+        "target_name": "Hazardous areas electrical wiring inspection and testing",
+        "relationship": "semantically_similar",
+        "confidence": "A",
+        "score": 0.424,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Ac_70_60",
+        "target_name": "Electrical installations testing",
+        "relationship": "semantically_similar",
+        "confidence": "B",
+        "score": 0.38,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Ac_70_65",
+        "target_name": "Electrical systems commissioning",
+        "relationship": "semantically_similar",
+        "confidence": "B",
+        "score": 0.373,
+        "method": "tfidf_embedding"
+      }
+    ]
+  },
+  {
+    "source_id": "naics:23822",
+    "source_name": "Plumbing, Heating, and Air-Conditioning Contractors",
+    "matches": [
+      {
+        "target_id": "uc:Ac_10_40_67",
+        "target_name": "Plumbing",
+        "relationship": "semantically_similar",
+        "confidence": "A",
+        "score": 0.654,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Ac_65",
+        "target_name": "Ventilation and air conditioning activities",
+        "relationship": "semantically_similar",
+        "confidence": "A",
+        "score": 0.435,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Ac_15_15_95",
+        "target_name": "Ventilation and air conditioning systems surveying",
+        "relationship": "semantically_similar",
+        "confidence": "B",
+        "score": 0.383,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Ac_65_60_01",
+        "target_name": "Air conditioning plant and equipment testing",
+        "relationship": "semantically_similar",
+        "confidence": "B",
+        "score": 0.382,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Ac_65_65",
+        "target_name": "Ventilation and air conditioning systems commissioning",
+        "relationship": "semantically_similar",
+        "confidence": "B",
+        "score": 0.369,
+        "method": "tfidf_embedding"
+      }
+    ]
+  },
+  {
+    "source_id": "naics:238220",
+    "source_name": "Plumbing, Heating, and Air-Conditioning Contractors",
+    "matches": [
+      {
+        "target_id": "uc:Ac_10_40_67",
+        "target_name": "Plumbing",
+        "relationship": "semantically_similar",
+        "confidence": "A",
+        "score": 0.654,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Ac_65",
+        "target_name": "Ventilation and air conditioning activities",
+        "relationship": "semantically_similar",
+        "confidence": "A",
+        "score": 0.435,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Ac_15_15_95",
+        "target_name": "Ventilation and air conditioning systems surveying",
+        "relationship": "semantically_similar",
+        "confidence": "B",
+        "score": 0.383,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Ac_65_60_01",
+        "target_name": "Air conditioning plant and equipment testing",
+        "relationship": "semantically_similar",
+        "confidence": "B",
+        "score": 0.382,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Ac_65_65",
+        "target_name": "Ventilation and air conditioning systems commissioning",
+        "relationship": "semantically_similar",
+        "confidence": "B",
+        "score": 0.369,
+        "method": "tfidf_embedding"
+      }
+    ]
+  },
+  {
+    "source_id": "naics:23829",
+    "source_name": "Other Building Equipment Contractors",
+    "matches": [
+      {
+        "target_id": "uc:Ac_15_50_10",
+        "target_name": "Building surveying",
+        "relationship": "semantically_similar",
+        "confidence": "A",
+        "score": 0.644,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Ac_15_45_35",
+        "target_name": "Historic building surveying",
+        "relationship": "semantically_similar",
+        "confidence": "A",
+        "score": 0.515,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Ac_15_20_25",
+        "target_name": "Ecological building surveying",
+        "relationship": "semantically_similar",
+        "confidence": "A",
+        "score": 0.494,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Ac_15_50",
+        "target_name": "Building fabric surveying",
+        "relationship": "semantically_similar",
+        "confidence": "A",
+        "score": 0.472,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Ac_15_45",
+        "target_name": "Historic building and site surveying",
+        "relationship": "semantically_similar",
+        "confidence": "A",
+        "score": 0.448,
+        "method": "tfidf_embedding"
+      }
+    ]
+  },
+  {
+    "source_id": "naics:238290",
+    "source_name": "Other Building Equipment Contractors",
+    "matches": [
+      {
+        "target_id": "uc:Ac_15_50_10",
+        "target_name": "Building surveying",
+        "relationship": "semantically_similar",
+        "confidence": "A",
+        "score": 0.644,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Ac_15_45_35",
+        "target_name": "Historic building surveying",
+        "relationship": "semantically_similar",
+        "confidence": "A",
+        "score": 0.515,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Ac_15_20_25",
+        "target_name": "Ecological building surveying",
+        "relationship": "semantically_similar",
+        "confidence": "A",
+        "score": 0.494,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Ac_15_50",
+        "target_name": "Building fabric surveying",
+        "relationship": "semantically_similar",
+        "confidence": "A",
+        "score": 0.472,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Ac_15_45",
+        "target_name": "Historic building and site surveying",
+        "relationship": "semantically_similar",
+        "confidence": "A",
+        "score": 0.448,
+        "method": "tfidf_embedding"
+      }
+    ]
+  },
+  {
+    "source_id": "naics:2383",
+    "source_name": "Building Finishing Contractors",
+    "matches": [
+      {
+        "target_id": "uc:Ac_15_50_10",
+        "target_name": "Building surveying",
+        "relationship": "semantically_similar",
+        "confidence": "A",
+        "score": 0.601,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Ac_15_45_35",
+        "target_name": "Historic building surveying",
+        "relationship": "semantically_similar",
+        "confidence": "A",
+        "score": 0.481,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Ac_15_20_25",
+        "target_name": "Ecological building surveying",
+        "relationship": "semantically_similar",
+        "confidence": "A",
+        "score": 0.461,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Ac_15_50",
+        "target_name": "Building fabric surveying",
+        "relationship": "semantically_similar",
+        "confidence": "A",
+        "score": 0.441,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Ac_15_45",
+        "target_name": "Historic building and site surveying",
+        "relationship": "semantically_similar",
+        "confidence": "A",
+        "score": 0.418,
+        "method": "tfidf_embedding"
+      }
+    ]
+  },
+  {
+    "source_id": "naics:23832",
+    "source_name": "Painting and Wall Covering Contractors",
+    "matches": [
+      {
+        "target_id": "uc:Ac_25_20_60",
+        "target_name": "Painting",
+        "relationship": "semantically_similar",
+        "confidence": "A",
+        "score": 0.527,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Ac_10_40_60",
+        "target_name": "Painting and decorating",
+        "relationship": "semantically_similar",
+        "confidence": "B",
+        "score": 0.347,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Ac_42_40_14",
+        "target_name": "Climbing wall activities",
+        "relationship": "semantically_similar",
+        "confidence": "B",
+        "score": 0.333,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Ac_05_30_60",
+        "target_name": "Party wall notices agreeing",
+        "relationship": "semantically_similar",
+        "confidence": "C",
+        "score": 0.243,
+        "method": "tfidf_embedding"
+      }
+    ]
+  },
+  {
+    "source_id": "naics:238320",
+    "source_name": "Painting and Wall Covering Contractors",
+    "matches": [
+      {
+        "target_id": "uc:Ac_25_20_60",
+        "target_name": "Painting",
+        "relationship": "semantically_similar",
+        "confidence": "A",
+        "score": 0.527,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Ac_10_40_60",
+        "target_name": "Painting and decorating",
+        "relationship": "semantically_similar",
+        "confidence": "B",
+        "score": 0.347,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Ac_42_40_14",
+        "target_name": "Climbing wall activities",
+        "relationship": "semantically_similar",
+        "confidence": "B",
+        "score": 0.333,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Ac_05_30_60",
+        "target_name": "Party wall notices agreeing",
+        "relationship": "semantically_similar",
+        "confidence": "C",
+        "score": 0.243,
+        "method": "tfidf_embedding"
+      }
+    ]
+  },
+  {
+    "source_id": "naics:23835",
+    "source_name": "Finish Carpentry Contractors",
+    "matches": [
+      {
+        "target_id": "uc:Ac_10_40_11",
+        "target_name": "Carpentry and joinery",
+        "relationship": "semantically_similar",
+        "confidence": "A",
+        "score": 0.425,
+        "method": "tfidf_embedding"
+      }
+    ]
+  },
+  {
+    "source_id": "naics:238350",
+    "source_name": "Finish Carpentry Contractors",
+    "matches": [
+      {
+        "target_id": "uc:Ac_10_40_11",
+        "target_name": "Carpentry and joinery",
+        "relationship": "semantically_similar",
+        "confidence": "A",
+        "score": 0.425,
+        "method": "tfidf_embedding"
+      }
+    ]
+  },
+  {
+    "source_id": "naics:23839",
+    "source_name": "Other Building Finishing Contractors",
+    "matches": [
+      {
+        "target_id": "uc:Ac_15_50_10",
+        "target_name": "Building surveying",
+        "relationship": "semantically_similar",
+        "confidence": "A",
+        "score": 0.601,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Ac_15_45_35",
+        "target_name": "Historic building surveying",
+        "relationship": "semantically_similar",
+        "confidence": "A",
+        "score": 0.481,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Ac_15_20_25",
+        "target_name": "Ecological building surveying",
+        "relationship": "semantically_similar",
+        "confidence": "A",
+        "score": 0.461,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Ac_15_50",
+        "target_name": "Building fabric surveying",
+        "relationship": "semantically_similar",
+        "confidence": "A",
+        "score": 0.441,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Ac_15_45",
+        "target_name": "Historic building and site surveying",
+        "relationship": "semantically_similar",
+        "confidence": "A",
+        "score": 0.418,
+        "method": "tfidf_embedding"
+      }
+    ]
+  },
+  {
+    "source_id": "naics:238390",
+    "source_name": "Other Building Finishing Contractors",
+    "matches": [
+      {
+        "target_id": "uc:Ac_15_50_10",
+        "target_name": "Building surveying",
+        "relationship": "semantically_similar",
+        "confidence": "A",
+        "score": 0.601,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Ac_15_45_35",
+        "target_name": "Historic building surveying",
+        "relationship": "semantically_similar",
+        "confidence": "A",
+        "score": 0.481,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Ac_15_20_25",
+        "target_name": "Ecological building surveying",
+        "relationship": "semantically_similar",
+        "confidence": "A",
+        "score": 0.461,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Ac_15_50",
+        "target_name": "Building fabric surveying",
+        "relationship": "semantically_similar",
+        "confidence": "A",
+        "score": 0.441,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Ac_15_45",
+        "target_name": "Historic building and site surveying",
+        "relationship": "semantically_similar",
+        "confidence": "A",
+        "score": 0.418,
+        "method": "tfidf_embedding"
+      }
+    ]
+  },
+  {
+    "source_id": "naics:23891",
+    "source_name": "Site Preparation Contractors",
+    "matches": [
+      {
+        "target_id": "uc:Ac_15_80",
+        "target_name": "Site surveying",
+        "relationship": "semantically_similar",
+        "confidence": "A",
+        "score": 0.546,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Ac_15_45_37",
+        "target_name": "Historic site surveying",
+        "relationship": "semantically_similar",
+        "confidence": "A",
+        "score": 0.407,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Ac_10_30",
+        "target_name": "Site clearance",
+        "relationship": "semantically_similar",
+        "confidence": "A",
+        "score": 0.405,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Ac_15_80_65",
+        "target_name": "Preliminary site surveying",
+        "relationship": "semantically_similar",
+        "confidence": "B",
+        "score": 0.392,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Ac_05_50_75",
+        "target_name": "Starting on site",
+        "relationship": "semantically_similar",
+        "confidence": "B",
+        "score": 0.391,
+        "method": "tfidf_embedding"
+      }
+    ]
+  },
+  {
+    "source_id": "naics:238910",
+    "source_name": "Site Preparation Contractors",
+    "matches": [
+      {
+        "target_id": "uc:Ac_15_80",
+        "target_name": "Site surveying",
+        "relationship": "semantically_similar",
+        "confidence": "A",
+        "score": 0.546,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Ac_15_45_37",
+        "target_name": "Historic site surveying",
+        "relationship": "semantically_similar",
+        "confidence": "A",
+        "score": 0.407,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Ac_10_30",
+        "target_name": "Site clearance",
+        "relationship": "semantically_similar",
+        "confidence": "A",
+        "score": 0.405,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Ac_15_80_65",
+        "target_name": "Preliminary site surveying",
+        "relationship": "semantically_similar",
+        "confidence": "B",
+        "score": 0.392,
+        "method": "tfidf_embedding"
+      },
+      {
+        "target_id": "uc:Ac_05_50_75",
+        "target_name": "Starting on site",
+        "relationship": "semantically_similar",
+        "confidence": "B",
+        "score": 0.391,
+        "method": "tfidf_embedding"
+      }
+    ]
+  }
+]
