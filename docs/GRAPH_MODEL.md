@@ -32,6 +32,14 @@ Each standard contributes **node types** and **vocabulary**. We create a unified
 | Node Type | Prefix | Description |
 |-----------|--------|-------------|
 | `Organization` | `schema:` | Companies, contractors |
+| `LocalBusiness` | `schema:` | Local business (parent of construction) |
+| `HomeAndConstructionBusiness` | `schema:` | Construction business category |
+| `GeneralContractor` | `schema:` | General contractor business |
+| `Electrician` | `schema:` | Electrical contractor |
+| `Plumber` | `schema:` | Plumbing contractor |
+| `HVACBusiness` | `schema:` | HVAC contractor |
+| `RoofingContractor` | `schema:` | Roofing contractor |
+| `HousePainter` | `schema:` | Painting contractor |
 | `Person` | `schema:` | Individuals |
 | `Place` | `schema:` | Locations |
 | `Event` | `schema:` | Milestones, meetings |

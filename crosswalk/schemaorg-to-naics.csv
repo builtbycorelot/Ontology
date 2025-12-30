@@ -1,0 +1,35 @@
+schemaorg_type,schemaorg_uri,relationship,naics_code,naics_name,cardinality,confidence,notes
+# Schema.org Organization Types → NAICS Codes
+# Enables interoperability between web markup and industry classification
+# Sources: schema.org (CC-BY-SA 3.0), census.gov/naics (Public Domain)
+# Methodology: docs/CROSSWALK_METHODOLOGY.md
+#
+# Relationship types: classifiedAs (→), broaderThan (⊃), narrowerThan (⊂)
+# Confidence: A=Definitive, B=Strong, C=Moderate, D=Weak
+#
+# HomeAndConstructionBusiness hierarchy (schema.org LocalBusiness subtypes)
+#
+HomeAndConstructionBusiness,https://schema.org/HomeAndConstructionBusiness,broaderThan,238,Specialty Trade Contractors,1:N,A,Parent category
+GeneralContractor,https://schema.org/GeneralContractor,classifiedAs,236,Construction of Buildings,1:N,A,GC = Building construction
+GeneralContractor,https://schema.org/GeneralContractor,classifiedAs,236115,New Single-Family Housing Construction,1:N,B,Residential GC
+GeneralContractor,https://schema.org/GeneralContractor,classifiedAs,236220,Commercial and Institutional Building Construction,1:N,B,Commercial GC
+Electrician,https://schema.org/Electrician,classifiedAs,238210,Electrical Contractors and Other Wiring Installation,1:1,A,Direct mapping
+Plumber,https://schema.org/Plumber,classifiedAs,238220,Plumbing Heating and Air-Conditioning Contractors,1:N,A,Plumbing subset
+HVACBusiness,https://schema.org/HVACBusiness,classifiedAs,238220,Plumbing Heating and Air-Conditioning Contractors,1:N,A,HVAC subset
+RoofingContractor,https://schema.org/RoofingContractor,classifiedAs,238160,Roofing Contractors,1:1,A,Direct mapping
+HousePainter,https://schema.org/HousePainter,classifiedAs,238320,Painting and Wall Covering Contractors,1:1,A,Direct mapping
+Locksmith,https://schema.org/Locksmith,classifiedAs,238990,All Other Specialty Trade Contractors,1:N,C,Specialty trade
+MovingCompany,https://schema.org/MovingCompany,classifiedAs,484210,Used Household and Office Goods Moving,1:1,A,Not construction but related
+#
+# Generic business types applicable to construction companies
+#
+LocalBusiness,https://schema.org/LocalBusiness,broaderThan,23,Construction,1:N,B,All construction is local business
+Organization,https://schema.org/Organization,broaderThan,23,Construction,1:N,C,Generic organization
+Corporation,https://schema.org/Corporation,broaderThan,23,Construction,1:N,D,Corporate structure
+#
+# Property mappings (Schema.org properties → NAICS attributes)
+# These enable enrichment of NAICS trade instances with Schema.org properties
+#
+# schema:naics property directly links to NAICS codes
+# schema:hasOfferCatalog can link to products/services (Uniclass Pr/Ss)
+# schema:areaServed defines geographic scope
